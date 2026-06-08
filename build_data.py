@@ -31,6 +31,9 @@ INDEXES = [
     {"key": "prompt", "name": "The Prompt Index", "tag": "Prompts",
      "blurb": "Prompt-engineering resources — collections, system prompts, optimizers, guides.",
      "url": "https://prompt-index-gamma.vercel.app", "accent": "#ff3b2f"},
+    {"key": "rag", "name": "The RAG Index", "tag": "RAG",
+     "blurb": "Retrieval-augmented-generation — RAG frameworks, vector DBs, embeddings, reranking.",
+     "url": "https://rag-index.vercel.app", "accent": "#5b4bff"},
 ]
 
 
