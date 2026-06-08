@@ -1,15 +1,15 @@
 {
- "generated_at": "2026-06-08T05:28:15.712935+00:00",
- "total_indexed": 1304,
+ "generated_at": "2026-06-08T12:35:36.666410+00:00",
+ "total_indexed": 3913,
  "indexes": [
   {
    "key": "skill",
    "name": "The Skill Index",
    "tag": "Skills",
    "blurb": "Claude Code & AI-agent skills — skills, subagents, slash-commands, hooks.",
-   "url": "https://skill-index-three.vercel.app",
+   "url": "https://skill.kymatalabs.com",
    "accent": "#b3651f",
-   "count": 274,
+   "count": 273,
    "top": {
     "name": "affaan-m/ECC",
     "momentum": 87
@@ -20,14 +20,14 @@
     "Subagents",
     "MCP & Tools"
    ],
-   "generated_at": "2026-06-08T03:43:32.151230+00:00"
+   "generated_at": "2026-06-08T12:22:35.117875+00:00"
   },
   {
    "key": "eval",
    "name": "The Eval Index",
    "tag": "Evals",
    "blurb": "LLM & agent evaluation, benchmark, observability and red-teaming tools.",
-   "url": "https://eval-index.vercel.app",
+   "url": "https://eval.kymatalabs.com",
    "accent": "#7fae2c",
    "count": 267,
    "top": {
@@ -40,14 +40,14 @@
     "RAG Eval",
     "Benchmarks"
    ],
-   "generated_at": "2026-06-08T04:07:14.001777+00:00"
+   "generated_at": "2026-06-08T12:24:43.946317+00:00"
   },
   {
    "key": "local",
    "name": "The Local LLM Index",
    "tag": "Local",
    "blurb": "Run LLMs on your own hardware — inference engines, runners, quantization.",
-   "url": "https://local-llm-index.vercel.app",
+   "url": "https://localllm.kymatalabs.com",
    "accent": "#1f5bff",
    "count": 243,
    "top": {
@@ -60,14 +60,14 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-06-08T04:17:28.176374+00:00"
+   "generated_at": "2026-06-08T12:26:47.361284+00:00"
   },
   {
    "key": "prompt",
    "name": "The Prompt Index",
    "tag": "Prompts",
    "blurb": "Prompt-engineering resources — collections, system prompts, optimizers, guides.",
-   "url": "https://prompt-index-gamma.vercel.app",
+   "url": "https://prompt.kymatalabs.com",
    "accent": "#ff3b2f",
    "count": 132,
    "top": {
@@ -77,17 +77,17 @@
    "categories": [
     "Optimization & Tooling",
     "Prompt Packs",
-    "Collections",
-    "System Prompts"
+    "System Prompts",
+    "Collections"
    ],
-   "generated_at": "2026-06-08T04:30:07.352514+00:00"
+   "generated_at": "2026-06-08T12:28:38.057933+00:00"
   },
   {
    "key": "rag",
    "name": "The RAG Index",
    "tag": "RAG",
    "blurb": "Retrieval-augmented-generation — RAG frameworks, vector DBs, embeddings, reranking.",
-   "url": "https://rag-index.vercel.app",
+   "url": "https://rag.kymatalabs.com",
    "accent": "#5b4bff",
    "count": 214,
    "top": {
@@ -95,19 +95,19 @@
     "momentum": 86
    },
    "categories": [
-    "Retrieval & Search",
     "Vector Databases",
+    "Retrieval & Search",
     "RAG Frameworks",
     "Reranking"
    ],
-   "generated_at": "2026-06-08T05:17:11.640287+00:00"
+   "generated_at": "2026-06-08T12:29:51.012163+00:00"
   },
   {
    "key": "finetune",
    "name": "The Fine-Tuning Index",
    "tag": "Fine-Tuning",
    "blurb": "Make your own model — fine-tuning frameworks, PEFT/LoRA, RLHF/DPO, training data.",
-   "url": "https://finetune-index.vercel.app",
+   "url": "https://finetune.kymatalabs.com",
    "accent": "#ff6a00",
    "count": 174,
    "top": {
@@ -120,7 +120,90 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-06-08T05:21:49.020168+00:00"
+   "generated_at": "2026-06-08T12:31:32.657625+00:00"
+  },
+  {
+   "key": "stack",
+   "name": "StackTracker",
+   "tag": "Infra",
+   "blurb": "The live momentum index for AI-infrastructure repos.",
+   "url": "https://stacktracker.kymatalabs.com",
+   "accent": "#00d4a0",
+   "count": 274,
+   "top": {
+    "name": "affaan-m/ECC",
+    "momentum": 87
+   },
+   "categories": [
+    "Collections",
+    "Commands & Hooks",
+    "Subagents",
+    "MCP & Tools"
+   ],
+   "generated_at": "2026-06-08T03:48:05.329584+00:00"
+  },
+  {
+   "key": "model",
+   "name": "Model Radar",
+   "tag": "Models",
+   "blurb": "What's surging on Hugging Face right now — models ranked by momentum.",
+   "url": "https://modelradar.kymatalabs.com",
+   "accent": "#d946ef",
+   "count_key": "model_count",
+   "count": 150,
+   "top": {
+    "name": "gemma-4-12B-it-GGUF",
+    "momentum": null
+   },
+   "categories": [
+    "Audio",
+    "Embeddings",
+    "Image",
+    "Multimodal"
+   ],
+   "generated_at": "2026-06-07T16:26:55.536784+00:00"
+  },
+  {
+   "key": "mcp",
+   "name": "The MCP Index",
+   "tag": "MCP",
+   "blurb": "Every Model Context Protocol server, in one living index.",
+   "url": "https://mcp.kymatalabs.com",
+   "accent": "#06b6d4",
+   "count_key": "server_count",
+   "count": 2172,
+   "top": {
+    "name": "dev.drengr/server",
+    "momentum": null
+   },
+   "categories": [
+    "AI & Models",
+    "Cloud & DevOps",
+    "Data & DB",
+    "Dev Tools"
+   ],
+   "generated_at": "2026-06-07T16:36:04.303640+00:00"
+  },
+  {
+   "key": "agentvel",
+   "name": "Agent Velocity",
+   "tag": "Agents",
+   "blurb": "The open-source coding-agent race, ranked by velocity.",
+   "url": "https://agentvelocity.kymatalabs.com",
+   "accent": "#f59e0b",
+   "count_key": "repo_count",
+   "count": 14,
+   "top": {
+    "name": "opencode",
+    "momentum": 91
+   },
+   "categories": [
+    "CLI",
+    "IDE / Editor",
+    "Autonomous",
+    "Framework"
+   ],
+   "generated_at": "2026-06-07T16:50:59.321645+00:00"
   }
  ]
 }

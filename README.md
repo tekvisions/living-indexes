@@ -6,10 +6,10 @@ recomputed daily from live GitHub signals; this hub aggregates their live counts
 Live: https://the-living-indexes.vercel.app
 
 The fleet:
-- [The Skill Index](https://skill-index-three.vercel.app) — Claude Code & AI-agent skills
-- [The Eval Index](https://eval-index.vercel.app) — LLM & agent evaluation/benchmark tools
-- [The Local LLM Index](https://local-llm-index.vercel.app) — run LLMs locally / on-device
-- [The Prompt Index](https://prompt-index-gamma.vercel.app) — prompt-engineering resources
+- [The Skill Index](https://skill.kymatalabs.com) — Claude Code & AI-agent skills
+- [The Eval Index](https://eval.kymatalabs.com) — LLM & agent evaluation/benchmark tools
+- [The Local LLM Index](https://localllm.kymatalabs.com) — run LLMs locally / on-device
+- [The Prompt Index](https://prompt.kymatalabs.com) — prompt-engineering resources
 
 ## How it works
 

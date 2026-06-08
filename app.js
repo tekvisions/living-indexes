@@ -24,7 +24,7 @@
 
   function card(ix) {
     var cats = (ix.categories || []).map(function (c) { return '<span class="cat">' + esc(c) + "</span>"; }).join("");
-    var top = ix.top && ix.top.name ? '<div class="top">top: <b>' + esc(ix.top.name) + "</b> · " + ix.top.momentum + "</div>" : "";
+    var top = ix.top && ix.top.name ? '<div class="top">top: <b>' + esc(ix.top.name) + "</b>" + (ix.top.momentum ? " · " + ix.top.momentum : "") + "</div>" : "";
     return (
       '<a class="card" href="' + esc(ix.url) + '" target="_blank" rel="noopener" style="--accent:' + esc(ix.accent) + '">' +
         '<div class="tag">' + esc(ix.tag) + "</div>" +

@@ -14,47 +14,74 @@ import urllib.request
 from datetime import datetime, timezone
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-SITE_URL = "https://living-indexes.vercel.app"   # fixed to the real alias after first deploy
+SITE_URL = "https://indexes.kymatalabs.com"   # fixed to the real alias after first deploy
 SITE_NAME = "The Living Indexes"
 
 # The fleet. `data` is each index's published data.json (read at build time).
 INDEXES = [
     {"key": "skill", "name": "The Skill Index", "tag": "Skills",
      "blurb": "Claude Code & AI-agent skills — skills, subagents, slash-commands, hooks.",
-     "url": "https://skill-index-three.vercel.app", "accent": "#b3651f"},
+     "url": "https://skill.kymatalabs.com", "accent": "#b3651f"},
     {"key": "eval", "name": "The Eval Index", "tag": "Evals",
      "blurb": "LLM & agent evaluation, benchmark, observability and red-teaming tools.",
-     "url": "https://eval-index.vercel.app", "accent": "#7fae2c"},
+     "url": "https://eval.kymatalabs.com", "accent": "#7fae2c"},
     {"key": "local", "name": "The Local LLM Index", "tag": "Local",
      "blurb": "Run LLMs on your own hardware — inference engines, runners, quantization.",
-     "url": "https://local-llm-index.vercel.app", "accent": "#1f5bff"},
+     "url": "https://localllm.kymatalabs.com", "accent": "#1f5bff"},
     {"key": "prompt", "name": "The Prompt Index", "tag": "Prompts",
      "blurb": "Prompt-engineering resources — collections, system prompts, optimizers, guides.",
-     "url": "https://prompt-index-gamma.vercel.app", "accent": "#ff3b2f"},
+     "url": "https://prompt.kymatalabs.com", "accent": "#ff3b2f"},
     {"key": "rag", "name": "The RAG Index", "tag": "RAG",
      "blurb": "Retrieval-augmented-generation — RAG frameworks, vector DBs, embeddings, reranking.",
-     "url": "https://rag-index.vercel.app", "accent": "#5b4bff"},
+     "url": "https://rag.kymatalabs.com", "accent": "#5b4bff"},
     {"key": "finetune", "name": "The Fine-Tuning Index", "tag": "Fine-Tuning",
      "blurb": "Make your own model — fine-tuning frameworks, PEFT/LoRA, RLHF/DPO, training data.",
-     "url": "https://finetune-index.vercel.app", "accent": "#ff6a00"},
+     "url": "https://finetune.kymatalabs.com", "accent": "#ff6a00"},
+    # The original four trackers — same self-updating pattern, different data.json shapes
+    # (so each carries a `count_key`). They predate the `count`/`items` schema.
+    {"key": "stack", "name": "StackTracker", "tag": "Infra",
+     "blurb": "The live momentum index for AI-infrastructure repos.",
+     "url": "https://stacktracker.kymatalabs.com", "accent": "#00d4a0"},
+    {"key": "model", "name": "Model Radar", "tag": "Models",
+     "blurb": "What's surging on Hugging Face right now — models ranked by momentum.",
+     "url": "https://modelradar.kymatalabs.com", "accent": "#d946ef", "count_key": "model_count"},
+    {"key": "mcp", "name": "The MCP Index", "tag": "MCP",
+     "blurb": "Every Model Context Protocol server, in one living index.",
+     "url": "https://mcp.kymatalabs.com", "accent": "#06b6d4", "count_key": "server_count"},
+    {"key": "agentvel", "name": "Agent Velocity", "tag": "Agents",
+     "blurb": "The open-source coding-agent race, ranked by velocity.",
+     "url": "https://agentvelocity.kymatalabs.com", "accent": "#f59e0b", "count_key": "repo_count"},
 ]
 
 
 def fetch_summary(idx: dict) -> dict:
     """Pull the live count + top mover + top categories from an index's data.json. Fail-soft:
-    a sibling being momentarily down degrades to nulls, never sinks the hub build."""
+    a sibling being momentarily down degrades to nulls, never sinks the hub build. Handles BOTH
+    schemas — the new indexes ({count, items, categories:[{name}]}) and the original trackers
+    (which carry a `count_key` like repo_count/model_count/server_count and varied shapes)."""
     out = {**idx, "count": None, "top": None, "categories": [], "generated_at": None}
     try:
         req = urllib.request.Request(idx["url"] + "/data.json",
                                      headers={"User-Agent": "living-indexes"})
         with urllib.request.urlopen(req, timeout=20) as r:
             d = json.loads(r.read())
-        out["count"] = d.get("count")
+        out["count"] = d.get(idx.get("count_key", "count"))
         out["generated_at"] = d.get("generated_at")
-        out["categories"] = [c.get("name") for c in (d.get("categories") or [])[:4]]
-        items = d.get("items") or []
-        if items:
-            out["top"] = {"name": items[0].get("full_name"), "momentum": items[0].get("momentum")}
+        # categories may be [{name}], [str], or a {name:count} dict — normalize to up-to-4 names
+        cats = d.get("categories")
+        if isinstance(cats, dict):
+            names = list(cats.keys())
+        elif isinstance(cats, list):
+            names = [c.get("name") if isinstance(c, dict) else c for c in cats]
+        else:
+            names = []
+        out["categories"] = [n for n in names if n][:4]
+        # top mover: new schema uses `items`; trackers use `repos`/`trending`/`movers`
+        items = d.get("items") or d.get("repos") or d.get("trending") or d.get("movers") or []
+        if items and isinstance(items[0], dict):
+            it = items[0]
+            out["top"] = {"name": it.get("full_name") or it.get("name") or it.get("repo"),
+                          "momentum": it.get("momentum") or it.get("score")}
     except Exception as e:
         print(f"  {idx['key']} summary failed: {e}", file=sys.stderr)
     return out
