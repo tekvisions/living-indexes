@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-06-08T12:35:36.666410+00:00",
- "total_indexed": 3913,
+ "generated_at": "2026-06-08T13:18:24.499833+00:00",
+ "total_indexed": 3912,
  "indexes": [
   {
    "key": "skill",
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Benchmarks"
    ],
-   "generated_at": "2026-06-08T12:24:43.946317+00:00"
+   "generated_at": "2026-06-08T12:53:09.406896+00:00"
   },
   {
    "key": "local",
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-06-08T12:26:47.361284+00:00"
+   "generated_at": "2026-06-08T12:55:02.660139+00:00"
   },
   {
    "key": "prompt",
@@ -100,7 +100,7 @@
     "RAG Frameworks",
     "Reranking"
    ],
-   "generated_at": "2026-06-08T12:29:51.012163+00:00"
+   "generated_at": "2026-06-08T13:07:59.121287+00:00"
   },
   {
    "key": "finetune",
@@ -120,7 +120,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-06-08T12:31:32.657625+00:00"
+   "generated_at": "2026-06-08T13:16:48.148052+00:00"
   },
   {
    "key": "stack",
@@ -129,7 +129,7 @@
    "blurb": "The live momentum index for AI-infrastructure repos.",
    "url": "https://stacktracker.kymatalabs.com",
    "accent": "#00d4a0",
-   "count": 274,
+   "count": 273,
    "top": {
     "name": "affaan-m/ECC",
     "momentum": 87
@@ -140,7 +140,7 @@
     "Subagents",
     "MCP & Tools"
    ],
-   "generated_at": "2026-06-08T03:48:05.329584+00:00"
+   "generated_at": "2026-06-08T12:46:28.328895+00:00"
   },
   {
    "key": "model",
