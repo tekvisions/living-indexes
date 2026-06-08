@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Living Indexes — self-updating maps of the AI-builder ecosystem</title>
+<meta name="description" content="A hub for self-updating indexes of the AI-builder ecosystem — skills, eval tools, local-LLM tooling, and prompt resources — each recomputed daily from live GitHub signals.">
+<link rel="canonical" href="https://living-indexes.vercel.app/">
+<meta name="robots" content="index,follow">
+<meta name="keywords" content="AI developer tools directory, claude code skills, llm eval tools, local llm tools, prompt engineering, self-updating index, AI ecosystem map">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://living-indexes.vercel.app/">
+<meta property="og:title" content="The Living Indexes — self-updating maps of the AI-builder ecosystem">
+<meta property="og:description" content="Four self-updating indexes — skills, evals, local LLM, prompts — recomputed daily from live GitHub signals.">
+<meta property="og:image" content="https://living-indexes.vercel.app/og.png">
+<meta property="og:site_name" content="The Living Indexes">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="The Living Indexes">
+<meta name="twitter:description" content="Self-updating maps of the AI-builder ecosystem, recomputed daily.">
+<meta name="twitter:image" content="https://living-indexes.vercel.app/og.png">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/style.css">
+<script type="application/ld+json">
+{ "@context": "https://schema.org", "@type": "CollectionPage", "name": "The Living Indexes",
+  "url": "https://living-indexes.vercel.app/",
+  "description": "A hub for self-updating indexes of the AI-builder ecosystem, each recomputed daily from live GitHub signals." }
+</script>
+</head>
+<body>
+<header><div class="wrap head-row">
+  <div class="brand"><span class="dot"></span>The Living Indexes</div>
+  <div class="head-actions">
+    <a href="/llms.txt">llms.txt</a>
+    <a href="https://github.com/tekvisions" target="_blank" rel="noopener">GitHub</a>
+    <button class="theme-btn" id="theme" aria-label="Toggle theme">◐</button>
+  </div>
+</div></header>
+
+<main>
+  <section class="hero"><div class="wrap">
+    <div class="kicker">Recomputed daily from live GitHub signals</div>
+    <h1 class="serif">Living maps of what<br>builders <em>actually</em> use.</h1>
+    <p class="lede">Four self-updating indexes of the AI-builder ecosystem. No editors, no vendor decks — every entry ranked by momentum, refreshed every day.</p>
+    <div class="bignum"><div class="n serif" id="total">0</div><div class="l">entries indexed across the fleet</div></div>
+  </div></section>
+
+  <div class="wrap"><div class="grid" id="grid"></div></div>
+</main>
+
+<footer><div class="wrap">
+  <div class="blurb">Each index is its own self-updating site — a daily GitHub Action recomputes momentum (stars, push-recency, rising-newness) and republishes. Built by tekvisions.</div>
+  <div class="links">
+    <a href="https://skill-index-three.vercel.app" target="_blank" rel="noopener">Skill Index</a>
+    <a href="https://eval-index.vercel.app" target="_blank" rel="noopener">Eval Index</a>
+    <a href="https://local-llm-index.vercel.app" target="_blank" rel="noopener">Local LLM Index</a>
+    <a href="https://prompt-index-gamma.vercel.app" target="_blank" rel="noopener">Prompt Index</a>
+  </div>
+  <div class="updated" id="updated"></div>
+</div></footer>
+
+<script src="/app.js"></script>
+</body>
+</html>

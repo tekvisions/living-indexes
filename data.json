@@ -1,0 +1,86 @@
+{
+ "generated_at": "2026-06-08T04:55:17.118106+00:00",
+ "total_indexed": 916,
+ "indexes": [
+  {
+   "key": "skill",
+   "name": "The Skill Index",
+   "tag": "Skills",
+   "blurb": "Claude Code & AI-agent skills — skills, subagents, slash-commands, hooks.",
+   "url": "https://skill-index-three.vercel.app",
+   "accent": "#b3651f",
+   "count": 274,
+   "top": {
+    "name": "affaan-m/ECC",
+    "momentum": 87
+   },
+   "categories": [
+    "Collections",
+    "Commands & Hooks",
+    "Subagents",
+    "MCP & Tools"
+   ],
+   "generated_at": "2026-06-08T03:43:32.151230+00:00"
+  },
+  {
+   "key": "eval",
+   "name": "The Eval Index",
+   "tag": "Evals",
+   "blurb": "LLM & agent evaluation, benchmark, observability and red-teaming tools.",
+   "url": "https://eval-index.vercel.app",
+   "accent": "#7fae2c",
+   "count": 267,
+   "top": {
+    "name": "langfuse/langfuse",
+    "momentum": 87
+   },
+   "categories": [
+    "Observability",
+    "Red Teaming & Safety",
+    "RAG Eval",
+    "Benchmarks"
+   ],
+   "generated_at": "2026-06-08T04:07:14.001777+00:00"
+  },
+  {
+   "key": "local",
+   "name": "The Local LLM Index",
+   "tag": "Local",
+   "blurb": "Run LLMs on your own hardware — inference engines, runners, quantization.",
+   "url": "https://local-llm-index.vercel.app",
+   "accent": "#1f5bff",
+   "count": 243,
+   "top": {
+    "name": "Mintplex-Labs/anything-llm",
+    "momentum": 86
+   },
+   "categories": [
+    "On-Device & Mobile",
+    "Quantization & Formats",
+    "Inference Engines",
+    "Runners"
+   ],
+   "generated_at": "2026-06-08T04:17:28.176374+00:00"
+  },
+  {
+   "key": "prompt",
+   "name": "The Prompt Index",
+   "tag": "Prompts",
+   "blurb": "Prompt-engineering resources — collections, system prompts, optimizers, guides.",
+   "url": "https://prompt-index-gamma.vercel.app",
+   "accent": "#ff3b2f",
+   "count": 132,
+   "top": {
+    "name": "f/prompts.chat",
+    "momentum": 87
+   },
+   "categories": [
+    "Optimization & Tooling",
+    "Prompt Packs",
+    "Collections",
+    "System Prompts"
+   ],
+   "generated_at": "2026-06-08T04:30:07.352514+00:00"
+  }
+ ]
+}

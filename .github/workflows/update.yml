@@ -1,0 +1,45 @@
+name: Update The Living Indexes
+
+on:
+  schedule:
+    - cron: "20 9 * * *"   # 09:20 UTC daily — after the child indexes refresh (08:33–08:59)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    env:
+      VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+      VERCEL_PROJECT: living-indexes
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install Pillow (for og.png)
+        run: pip install --quiet Pillow
+      - name: Aggregate the fleet into data.json
+        run: python build_data.py
+      - name: Render OG card
+        run: python gen_og.py
+      - name: Commit if changed
+        run: |
+          git config user.name  "living-indexes-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data.json sitemap.xml robots.txt llms.txt og.png
+          if ! git diff --cached --quiet; then
+            git commit -m "data: daily fleet sync ($(date -u +%Y-%m-%d))"
+            git push
+          else
+            echo "No data change."
+          fi
+      - name: Deploy to Vercel
+        if: ${{ env.VERCEL_TOKEN != '' }}
+        run: python deploy.py
