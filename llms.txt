@@ -3,9 +3,11 @@
 > A hub for self-updating indexes of the AI-builder ecosystem. Each index is
 > recomputed daily from live GitHub signals.
 
-Updated: 2026-06-08T04:56:50.091243+00:00  ·  916 entries across 4 indexes
+Updated: 2026-06-08T05:28:15.712935+00:00  ·  1304 entries across 6 indexes
 
 - [The Skill Index](https://skill-index-three.vercel.app) — 274 entries — Claude Code & AI-agent skills — skills, subagents, slash-commands, hooks.
 - [The Eval Index](https://eval-index.vercel.app) — 267 entries — LLM & agent evaluation, benchmark, observability and red-teaming tools.
 - [The Local LLM Index](https://local-llm-index.vercel.app) — 243 entries — Run LLMs on your own hardware — inference engines, runners, quantization.
 - [The Prompt Index](https://prompt-index-gamma.vercel.app) — 132 entries — Prompt-engineering resources — collections, system prompts, optimizers, guides.
+- [The RAG Index](https://rag-index.vercel.app) — 214 entries — Retrieval-augmented-generation — RAG frameworks, vector DBs, embeddings, reranking.
+- [The Fine-Tuning Index](https://finetune-index.vercel.app) — 174 entries — Make your own model — fine-tuning frameworks, PEFT/LoRA, RLHF/DPO, training data.

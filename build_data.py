@@ -34,6 +34,9 @@ INDEXES = [
     {"key": "rag", "name": "The RAG Index", "tag": "RAG",
      "blurb": "Retrieval-augmented-generation — RAG frameworks, vector DBs, embeddings, reranking.",
      "url": "https://rag-index.vercel.app", "accent": "#5b4bff"},
+    {"key": "finetune", "name": "The Fine-Tuning Index", "tag": "Fine-Tuning",
+     "blurb": "Make your own model — fine-tuning frameworks, PEFT/LoRA, RLHF/DPO, training data.",
+     "url": "https://finetune-index.vercel.app", "accent": "#ff6a00"},
 ]
 
 

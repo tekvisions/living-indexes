@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-06-08T04:56:50.091243+00:00",
- "total_indexed": 916,
+ "generated_at": "2026-06-08T05:28:15.712935+00:00",
+ "total_indexed": 1304,
  "indexes": [
   {
    "key": "skill",
@@ -81,6 +81,46 @@
     "System Prompts"
    ],
    "generated_at": "2026-06-08T04:30:07.352514+00:00"
+  },
+  {
+   "key": "rag",
+   "name": "The RAG Index",
+   "tag": "RAG",
+   "blurb": "Retrieval-augmented-generation — RAG frameworks, vector DBs, embeddings, reranking.",
+   "url": "https://rag-index.vercel.app",
+   "accent": "#5b4bff",
+   "count": 214,
+   "top": {
+    "name": "Shubhamsaboo/awesome-llm-apps",
+    "momentum": 86
+   },
+   "categories": [
+    "Retrieval & Search",
+    "Vector Databases",
+    "RAG Frameworks",
+    "Reranking"
+   ],
+   "generated_at": "2026-06-08T05:17:11.640287+00:00"
+  },
+  {
+   "key": "finetune",
+   "name": "The Fine-Tuning Index",
+   "tag": "Fine-Tuning",
+   "blurb": "Make your own model — fine-tuning frameworks, PEFT/LoRA, RLHF/DPO, training data.",
+   "url": "https://finetune-index.vercel.app",
+   "accent": "#ff6a00",
+   "count": 174,
+   "top": {
+    "name": "unslothai/unsloth",
+    "momentum": 87
+   },
+   "categories": [
+    "PEFT & LoRA",
+    "RLHF & Preference",
+    "Fine-Tuning Tools",
+    "Training Frameworks"
+   ],
+   "generated_at": "2026-06-08T05:21:49.020168+00:00"
   }
  ]
 }
