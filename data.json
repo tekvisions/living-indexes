@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-06-09T04:44:56.295377+00:00",
- "total_indexed": 4206,
+ "generated_at": "2026-06-09T05:46:28.645777+00:00",
+ "total_indexed": 4455,
  "indexes": [
   {
    "key": "skill",
@@ -141,6 +141,26 @@
     "Voice Agents & Realtime"
    ],
    "generated_at": "2026-06-09T04:43:37.695889+00:00"
+  },
+  {
+   "key": "dataset",
+   "name": "The Dataset Index",
+   "tag": "Data",
+   "blurb": "Data-centric AI tooling — labeling & annotation, synthetic data, curation, augmentation, dataset frameworks.",
+   "url": "https://dataset.kymatalabs.com",
+   "accent": "#d23a1e",
+   "count": 249,
+   "top": {
+    "name": "HumanSignal/label-studio",
+    "momentum": 87
+   },
+   "categories": [
+    "Labeling & Annotation",
+    "Versioning & Frameworks",
+    "Synthetic Data",
+    "Augmentation"
+   ],
+   "generated_at": "2026-06-09T05:44:18.085190+00:00"
   },
   {
    "key": "finetune",
