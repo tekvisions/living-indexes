@@ -1,0 +1,21 @@
+# ai.txt — AI usage guidance for indexes.kymatalabs.com
+# The Living Indexes · a fleet of 13 self-updating AI-tooling indexes by Kymata Labs LLC
+# Each index ranks hundreds of open-source tools by GitHub momentum, recomputed daily.
+
+# For structured guidance, read:
+#   https://indexes.kymatalabs.com/llms.txt        (the fleet, for LLMs)
+#   https://indexes.kymatalabs.com/sitemap.xml
+
+User-agent: GPTBot
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+
+# Network: https://www.kymatalabs.com
+Contact: contact@kymatalabs.com
