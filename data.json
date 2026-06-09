@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-06-09T04:16:25.484566+00:00",
- "total_indexed": 3907,
+ "generated_at": "2026-06-09T04:44:56.295377+00:00",
+ "total_indexed": 4206,
  "indexes": [
   {
    "key": "skill",
@@ -121,6 +121,26 @@
     "Editing & Control"
    ],
    "generated_at": "2026-06-09T04:09:53.710115+00:00"
+  },
+  {
+   "key": "voice",
+   "name": "The Voice AI Index",
+   "tag": "Voice",
+   "blurb": "Voice & speech AI — text-to-speech, speech recognition, voice cloning, realtime voice agents.",
+   "url": "https://voice.kymatalabs.com",
+   "accent": "#b6ff2e",
+   "count": 299,
+   "top": {
+    "name": "ggml-org/whisper.cpp",
+    "momentum": 84
+   },
+   "categories": [
+    "Speech-to-Text",
+    "Voice Cloning & Conversion",
+    "Toolkits & Frameworks",
+    "Voice Agents & Realtime"
+   ],
+   "generated_at": "2026-06-09T04:43:37.695889+00:00"
   },
   {
    "key": "finetune",

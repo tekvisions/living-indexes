@@ -3,7 +3,7 @@
 > A hub for self-updating indexes of the AI-builder ecosystem. Each index is
 > recomputed daily from live GitHub signals.
 
-Updated: 2026-06-09T04:16:25.484566+00:00  ·  3907 entries across 11 indexes
+Updated: 2026-06-09T04:44:56.295377+00:00  ·  4206 entries across 12 indexes
 
 - [The Skill Index](https://skill.kymatalabs.com) — 273 entries — Claude Code & AI-agent skills — skills, subagents, slash-commands, hooks.
 - [The Eval Index](https://eval.kymatalabs.com) — 267 entries — LLM & agent evaluation, benchmark, observability and red-teaming tools.
@@ -11,6 +11,7 @@ Updated: 2026-06-09T04:16:25.484566+00:00  ·  3907 entries across 11 indexes
 - [The Prompt Index](https://prompt.kymatalabs.com) — 132 entries — Prompt-engineering resources — collections, system prompts, optimizers, guides.
 - [The RAG Index](https://rag.kymatalabs.com) — 214 entries — Retrieval-augmented-generation — RAG frameworks, vector DBs, embeddings, reranking.
 - [The Diffusion Index](https://diffusion.kymatalabs.com) — 268 entries — AI image & video generation — diffusion models, ComfyUI nodes, video gen, editing, training.
+- [The Voice AI Index](https://voice.kymatalabs.com) — 299 entries — Voice & speech AI — text-to-speech, speech recognition, voice cloning, realtime voice agents.
 - [The Fine-Tuning Index](https://finetune.kymatalabs.com) — 174 entries — Make your own model — fine-tuning frameworks, PEFT/LoRA, RLHF/DPO, training data.
 - [StackTracker](https://stacktracker.kymatalabs.com) — None entries — The live momentum index for AI-infrastructure repos.
 - [Model Radar](https://modelradar.kymatalabs.com) — 150 entries — What's surging on Hugging Face right now — models ranked by momentum.
