@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-06-09T05:46:28.645777+00:00",
+ "generated_at": "2026-06-09T12:18:32.869152+00:00",
  "total_indexed": 4455,
  "indexes": [
   {
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Benchmarks"
    ],
-   "generated_at": "2026-06-08T12:53:09.406896+00:00"
+   "generated_at": "2026-06-09T11:48:30.988573+00:00"
   },
   {
    "key": "local",
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-06-08T12:55:02.660139+00:00"
+   "generated_at": "2026-06-09T11:50:45.478638+00:00"
   },
   {
    "key": "prompt",
@@ -80,7 +80,7 @@
     "System Prompts",
     "Collections"
    ],
-   "generated_at": "2026-06-08T12:28:38.057933+00:00"
+   "generated_at": "2026-06-09T11:53:06.849454+00:00"
   },
   {
    "key": "rag",
@@ -100,7 +100,7 @@
     "RAG Frameworks",
     "Reranking"
    ],
-   "generated_at": "2026-06-08T13:07:59.121287+00:00"
+   "generated_at": "2026-06-09T12:05:43.105199+00:00"
   },
   {
    "key": "diffusion",
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-06-09T04:09:53.710115+00:00"
+   "generated_at": "2026-06-09T12:11:22.817710+00:00"
   },
   {
    "key": "voice",
@@ -171,7 +171,7 @@
    "accent": "#ff6a00",
    "count": 174,
    "top": {
-    "name": "unslothai/unsloth",
+    "name": "hiyouga/LlamaFactory",
     "momentum": 87
    },
    "categories": [
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-06-08T13:16:48.148052+00:00"
+   "generated_at": "2026-06-09T12:15:10.128174+00:00"
   },
   {
    "key": "stack",
