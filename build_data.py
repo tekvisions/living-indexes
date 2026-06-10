@@ -46,6 +46,12 @@ INDEXES = [
     {"key": "finetune", "name": "The Fine-Tuning Index", "tag": "Fine-Tuning",
      "blurb": "Make your own model — fine-tuning frameworks, PEFT/LoRA, RLHF/DPO, training data.",
      "url": "https://finetune.kymatalabs.com", "accent": "#ff6a00"},
+    {"key": "gateway", "name": "The Gateway Index", "tag": "Gateways",
+     "blurb": "LLM gateways, proxies & routers — the routing layer between apps and model providers.",
+     "url": "https://gateway.kymatalabs.com", "accent": "#2ee6c6"},
+    {"key": "agent", "name": "The Agent Index", "tag": "Agents",
+     "blurb": "AI agent frameworks — multi-agent, autonomous agents, orchestration, memory & agent SDKs.",
+     "url": "https://agents.kymatalabs.com", "accent": "#b07cff"},
     # The original four trackers — same self-updating pattern, different data.json shapes
     # (so each carries a `count_key`). They predate the `count`/`items` schema.
     {"key": "stack", "name": "StackTracker", "tag": "Infra",

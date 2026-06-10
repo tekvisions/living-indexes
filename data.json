@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-06-10T12:39:40.644111+00:00",
- "total_indexed": 4748,
+ "generated_at": "2026-06-10T14:01:53.202443+00:00",
+ "total_indexed": 4897,
  "indexes": [
   {
    "key": "skill",
@@ -132,7 +132,7 @@
    "count": 298,
    "top": {
     "name": "ggml-org/whisper.cpp",
-    "momentum": 84
+    "momentum": 83
    },
    "categories": [
     "Speech-to-Text",
@@ -140,7 +140,7 @@
     "Toolkits & Frameworks",
     "Voice Agents & Realtime"
    ],
-   "generated_at": "2026-06-09T13:07:51.169178+00:00"
+   "generated_at": "2026-06-10T12:40:43.206169+00:00"
   },
   {
    "key": "dataset",
@@ -183,24 +183,64 @@
    "generated_at": "2026-06-08T12:31:32.657625+00:00"
   },
   {
+   "key": "gateway",
+   "name": "The Gateway Index",
+   "tag": "Gateways",
+   "blurb": "LLM gateways, proxies & routers — the routing layer between apps and model providers.",
+   "url": "https://gateway.kymatalabs.com",
+   "accent": "#2ee6c6",
+   "count": 140,
+   "top": {
+    "name": "BerriAI/litellm",
+    "momentum": 87
+   },
+   "categories": [
+    "Gateways & Proxies",
+    "Routers",
+    "Multi-Provider SDKs",
+    "Observability Gateways"
+   ],
+   "generated_at": "2026-06-10T13:24:30.958288+00:00"
+  },
+  {
+   "key": "agent",
+   "name": "The Agent Index",
+   "tag": "Agents",
+   "blurb": "AI agent frameworks — multi-agent, autonomous agents, orchestration, memory & agent SDKs.",
+   "url": "https://agents.kymatalabs.com",
+   "accent": "#b07cff",
+   "count": 279,
+   "top": {
+    "name": "Significant-Gravitas/AutoGPT",
+    "momentum": 87
+   },
+   "categories": [
+    "Agent Frameworks",
+    "Multi-Agent",
+    "Orchestration",
+    "Memory & State"
+   ],
+   "generated_at": "2026-06-10T13:49:58.669506+00:00"
+  },
+  {
    "key": "stack",
    "name": "StackTracker",
    "tag": "Infra",
    "blurb": "The live momentum index for AI-infrastructure repos.",
    "url": "https://stacktracker.kymatalabs.com",
    "accent": "#00d4a0",
-   "count": 273,
+   "count": null,
    "top": {
-    "name": "affaan-m/ECC",
-    "momentum": 87
+    "name": "browser-use",
+    "momentum": 100
    },
    "categories": [
-    "Collections",
-    "Commands & Hooks",
-    "Subagents",
-    "MCP & Tools"
+    "Agents",
+    "Inference",
+    "Vector DB",
+    "LLMOps"
    ],
-   "generated_at": "2026-06-10T11:53:08.134908+00:00"
+   "generated_at": "2026-06-10T12:40:41.204359+00:00"
   },
   {
    "key": "model",
@@ -231,9 +271,9 @@
    "url": "https://mcp.kymatalabs.com",
    "accent": "#06b6d4",
    "count_key": "server_count",
-   "count": 2192,
+   "count": 2195,
    "top": {
-    "name": "dev.drengr/server",
+    "name": "com.epublys/epublys",
     "momentum": null
    },
    "categories": [
@@ -242,7 +282,7 @@
     "Data & DB",
     "Dev Tools"
    ],
-   "generated_at": "2026-06-07T11:21:06.298435+00:00"
+   "generated_at": "2026-06-10T12:45:24.947984+00:00"
   },
   {
    "key": "agentvel",
@@ -255,7 +295,7 @@
    "count": 14,
    "top": {
     "name": "opencode",
-    "momentum": 91
+    "momentum": 90
    },
    "categories": [
     "CLI",
@@ -263,7 +303,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-06-07T11:27:49.098170+00:00"
+   "generated_at": "2026-06-10T12:47:28.499370+00:00"
   }
  ]
 }
