@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-06-09T12:18:32.869152+00:00",
- "total_indexed": 4455,
+ "generated_at": "2026-06-10T12:39:40.644111+00:00",
+ "total_indexed": 4748,
  "indexes": [
   {
    "key": "skill",
@@ -20,7 +20,7 @@
     "Subagents",
     "MCP & Tools"
    ],
-   "generated_at": "2026-06-08T12:22:35.117875+00:00"
+   "generated_at": "2026-06-08T12:46:28.328895+00:00"
   },
   {
    "key": "eval",
@@ -29,7 +29,7 @@
    "blurb": "LLM & agent evaluation, benchmark, observability and red-teaming tools.",
    "url": "https://eval.kymatalabs.com",
    "accent": "#7fae2c",
-   "count": 267,
+   "count": 268,
    "top": {
     "name": "langfuse/langfuse",
     "momentum": 87
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Benchmarks"
    ],
-   "generated_at": "2026-06-09T11:48:30.988573+00:00"
+   "generated_at": "2026-06-10T12:04:13.024636+00:00"
   },
   {
    "key": "local",
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-06-09T11:50:45.478638+00:00"
+   "generated_at": "2026-06-10T12:11:37.979801+00:00"
   },
   {
    "key": "prompt",
@@ -77,10 +77,10 @@
    "categories": [
     "Optimization & Tooling",
     "Prompt Packs",
-    "System Prompts",
-    "Collections"
+    "Collections",
+    "Guides & Courses"
    ],
-   "generated_at": "2026-06-09T11:53:06.849454+00:00"
+   "generated_at": "2026-06-10T12:13:41.484878+00:00"
   },
   {
    "key": "rag",
@@ -100,7 +100,7 @@
     "RAG Frameworks",
     "Reranking"
    ],
-   "generated_at": "2026-06-09T12:05:43.105199+00:00"
+   "generated_at": "2026-06-10T12:22:04.409507+00:00"
   },
   {
    "key": "diffusion",
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-06-09T12:11:22.817710+00:00"
+   "generated_at": "2026-06-10T12:30:45.739298+00:00"
   },
   {
    "key": "voice",
@@ -129,7 +129,7 @@
    "blurb": "Voice & speech AI — text-to-speech, speech recognition, voice cloning, realtime voice agents.",
    "url": "https://voice.kymatalabs.com",
    "accent": "#b6ff2e",
-   "count": 299,
+   "count": 298,
    "top": {
     "name": "ggml-org/whisper.cpp",
     "momentum": 84
@@ -140,7 +140,7 @@
     "Toolkits & Frameworks",
     "Voice Agents & Realtime"
    ],
-   "generated_at": "2026-06-09T04:43:37.695889+00:00"
+   "generated_at": "2026-06-09T13:07:51.169178+00:00"
   },
   {
    "key": "dataset",
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-06-09T05:44:18.085190+00:00"
+   "generated_at": "2026-06-09T05:34:14.929288+00:00"
   },
   {
    "key": "finetune",
@@ -171,7 +171,7 @@
    "accent": "#ff6a00",
    "count": 174,
    "top": {
-    "name": "hiyouga/LlamaFactory",
+    "name": "unslothai/unsloth",
     "momentum": 87
    },
    "categories": [
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-06-09T12:15:10.128174+00:00"
+   "generated_at": "2026-06-08T12:31:32.657625+00:00"
   },
   {
    "key": "stack",
@@ -189,18 +189,18 @@
    "blurb": "The live momentum index for AI-infrastructure repos.",
    "url": "https://stacktracker.kymatalabs.com",
    "accent": "#00d4a0",
-   "count": null,
+   "count": 273,
    "top": {
-    "name": "browser-use",
-    "momentum": 100
+    "name": "affaan-m/ECC",
+    "momentum": 87
    },
    "categories": [
-    "Agents",
-    "Inference",
-    "Vector DB",
-    "LLMOps"
+    "Collections",
+    "Commands & Hooks",
+    "Subagents",
+    "MCP & Tools"
    ],
-   "generated_at": "2026-06-08T13:19:22.401692+00:00"
+   "generated_at": "2026-06-10T11:53:08.134908+00:00"
   },
   {
    "key": "model",
@@ -212,7 +212,7 @@
    "count_key": "model_count",
    "count": 150,
    "top": {
-    "name": "supergemma4-26b-uncensored-gguf-v2",
+    "name": "higgs-audio-v3-tts-4b",
     "momentum": null
    },
    "categories": [
@@ -221,7 +221,7 @@
     "Image",
     "Multimodal"
    ],
-   "generated_at": "2026-06-08T13:55:39.019054+00:00"
+   "generated_at": "2026-06-07T11:29:48.634837+00:00"
   },
   {
    "key": "mcp",
@@ -231,7 +231,7 @@
    "url": "https://mcp.kymatalabs.com",
    "accent": "#06b6d4",
    "count_key": "server_count",
-   "count": 2172,
+   "count": 2192,
    "top": {
     "name": "dev.drengr/server",
     "momentum": null
@@ -242,7 +242,7 @@
     "Data & DB",
     "Dev Tools"
    ],
-   "generated_at": "2026-06-07T16:36:04.303640+00:00"
+   "generated_at": "2026-06-07T11:21:06.298435+00:00"
   },
   {
    "key": "agentvel",
@@ -255,7 +255,7 @@
    "count": 14,
    "top": {
     "name": "opencode",
-    "momentum": 90
+    "momentum": 91
    },
    "categories": [
     "CLI",
@@ -263,7 +263,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-06-08T13:55:01.131722+00:00"
+   "generated_at": "2026-06-07T11:27:49.098170+00:00"
   }
  ]
 }
