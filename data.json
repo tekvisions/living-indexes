@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-06-11T03:25:43.843038+00:00",
- "total_indexed": 5227,
+ "generated_at": "2026-06-11T12:56:19.719766+00:00",
+ "total_indexed": 5502,
  "indexes": [
   {
    "key": "skill",
@@ -29,7 +29,7 @@
    "blurb": "LLM & agent evaluation, benchmark, observability and red-teaming tools.",
    "url": "https://eval.kymatalabs.com",
    "accent": "#7fae2c",
-   "count": 268,
+   "count": 269,
    "top": {
     "name": "langfuse/langfuse",
     "momentum": 87
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Benchmarks"
    ],
-   "generated_at": "2026-06-10T12:04:13.024636+00:00"
+   "generated_at": "2026-06-11T12:33:59.056572+00:00"
   },
   {
    "key": "local",
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-06-10T12:11:37.979801+00:00"
+   "generated_at": "2026-06-11T12:34:59.842066+00:00"
   },
   {
    "key": "prompt",
@@ -69,7 +69,7 @@
    "blurb": "Prompt-engineering resources — collections, system prompts, optimizers, guides.",
    "url": "https://prompt.kymatalabs.com",
    "accent": "#ff3b2f",
-   "count": 132,
+   "count": 133,
    "top": {
     "name": "f/prompts.chat",
     "momentum": 87
@@ -77,10 +77,10 @@
    "categories": [
     "Optimization & Tooling",
     "Prompt Packs",
-    "Collections",
+    "System Prompts",
     "Guides & Courses"
    ],
-   "generated_at": "2026-06-10T12:13:41.484878+00:00"
+   "generated_at": "2026-06-11T12:36:23.501636+00:00"
   },
   {
    "key": "rag",
@@ -100,7 +100,7 @@
     "RAG Frameworks",
     "Reranking"
    ],
-   "generated_at": "2026-06-10T12:22:04.409507+00:00"
+   "generated_at": "2026-06-11T12:47:21.853386+00:00"
   },
   {
    "key": "diffusion",
@@ -109,7 +109,7 @@
    "blurb": "AI image & video generation — diffusion models, ComfyUI nodes, video gen, editing, training.",
    "url": "https://diffusion.kymatalabs.com",
    "accent": "#c77dff",
-   "count": 268,
+   "count": 267,
    "top": {
     "name": "Comfy-Org/ComfyUI",
     "momentum": 85
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-06-10T12:30:45.739298+00:00"
+   "generated_at": "2026-06-11T12:51:26.443448+00:00"
   },
   {
    "key": "voice",
@@ -169,9 +169,9 @@
    "blurb": "Make your own model — fine-tuning frameworks, PEFT/LoRA, RLHF/DPO, training data.",
    "url": "https://finetune.kymatalabs.com",
    "accent": "#ff6a00",
-   "count": 174,
+   "count": 175,
    "top": {
-    "name": "unslothai/unsloth",
+    "name": "hiyouga/LlamaFactory",
     "momentum": 87
    },
    "categories": [
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-06-08T12:31:32.657625+00:00"
+   "generated_at": "2026-06-11T12:54:29.454065+00:00"
   },
   {
    "key": "gateway",
@@ -260,7 +260,7 @@
     "Tracing & Spans",
     "LLMOps Platforms"
    ],
-   "generated_at": "2026-06-11T03:07:44.668410+00:00"
+   "generated_at": "2026-06-11T03:38:26.345460+00:00"
   },
   {
    "key": "stack",
@@ -269,18 +269,18 @@
    "blurb": "The live momentum index for AI-infrastructure repos.",
    "url": "https://stacktracker.kymatalabs.com",
    "accent": "#00d4a0",
-   "count": null,
+   "count": 273,
    "top": {
-    "name": "browser-use",
-    "momentum": 100
+    "name": "affaan-m/ECC",
+    "momentum": 87
    },
    "categories": [
-    "Agents",
-    "Inference",
-    "Vector DB",
-    "LLMOps"
+    "Collections",
+    "Commands & Hooks",
+    "Subagents",
+    "MCP & Tools"
    ],
-   "generated_at": "2026-06-10T12:40:41.204359+00:00"
+   "generated_at": "2026-06-11T12:28:30.757866+00:00"
   },
   {
    "key": "model",
