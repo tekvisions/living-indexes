@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-06-11T00:32:52.997788+00:00",
- "total_indexed": 5094,
+ "generated_at": "2026-06-11T03:25:43.843038+00:00",
+ "total_indexed": 5227,
  "indexes": [
   {
    "key": "skill",
@@ -240,7 +240,27 @@
     "PDF Extraction",
     "Layout & Structure"
    ],
-   "generated_at": "2026-06-11T00:24:47.775785+00:00"
+   "generated_at": "2026-06-11T00:36:55.749062+00:00"
+  },
+  {
+   "key": "observability",
+   "name": "The Observability Index",
+   "tag": "Observability",
+   "blurb": "LLM & AI observability — tracing, monitoring & cost analytics, online eval, agent observability, ML-drift.",
+   "url": "https://observability.kymatalabs.com",
+   "accent": "#ffb02e",
+   "count": 133,
+   "top": {
+    "name": "langfuse/langfuse",
+    "momentum": 87
+   },
+   "categories": [
+    "Agent Observability",
+    "Monitoring & Analytics",
+    "Tracing & Spans",
+    "LLMOps Platforms"
+   ],
+   "generated_at": "2026-06-11T03:07:44.668410+00:00"
   },
   {
    "key": "stack",

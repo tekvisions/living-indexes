@@ -55,6 +55,9 @@ INDEXES = [
     {"key": "document", "name": "The Document Index", "tag": "Documents",
      "blurb": "Document-AI tooling — OCR, PDF extraction, document parsing, layout, tables & understanding.",
      "url": "https://document.kymatalabs.com", "accent": "#4f46e5"},
+    {"key": "observability", "name": "The Observability Index", "tag": "Observability",
+     "blurb": "LLM & AI observability — tracing, monitoring & cost analytics, online eval, agent observability, ML-drift.",
+     "url": "https://observability.kymatalabs.com", "accent": "#ffb02e"},
     # The original four trackers — same self-updating pattern, different data.json shapes
     # (so each carries a `count_key`). They predate the `count`/`items` schema.
     {"key": "stack", "name": "StackTracker", "tag": "Infra",
