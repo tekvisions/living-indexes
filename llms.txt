@@ -3,7 +3,7 @@
 > A hub for self-updating indexes of the AI-builder ecosystem. Each index is
 > recomputed daily from live GitHub signals.
 
-Updated: 2026-06-10T14:01:53.202443+00:00  ·  4897 entries across 15 indexes
+Updated: 2026-06-11T00:32:52.997788+00:00  ·  5094 entries across 16 indexes
 
 - [The Skill Index](https://skill.kymatalabs.com) — 273 entries — Claude Code & AI-agent skills — skills, subagents, slash-commands, hooks.
 - [The Eval Index](https://eval.kymatalabs.com) — 268 entries — LLM & agent evaluation, benchmark, observability and red-teaming tools.
@@ -16,6 +16,7 @@ Updated: 2026-06-10T14:01:53.202443+00:00  ·  4897 entries across 15 indexes
 - [The Fine-Tuning Index](https://finetune.kymatalabs.com) — 174 entries — Make your own model — fine-tuning frameworks, PEFT/LoRA, RLHF/DPO, training data.
 - [The Gateway Index](https://gateway.kymatalabs.com) — 140 entries — LLM gateways, proxies & routers — the routing layer between apps and model providers.
 - [The Agent Index](https://agents.kymatalabs.com) — 279 entries — AI agent frameworks — multi-agent, autonomous agents, orchestration, memory & agent SDKs.
+- [The Document Index](https://document.kymatalabs.com) — 197 entries — Document-AI tooling — OCR, PDF extraction, document parsing, layout, tables & understanding.
 - [StackTracker](https://stacktracker.kymatalabs.com) — None entries — The live momentum index for AI-infrastructure repos.
 - [Model Radar](https://modelradar.kymatalabs.com) — 150 entries — What's surging on Hugging Face right now — models ranked by momentum.
 - [The MCP Index](https://mcp.kymatalabs.com) — 2195 entries — Every Model Context Protocol server, in one living index.

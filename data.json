@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-06-10T14:01:53.202443+00:00",
- "total_indexed": 4897,
+ "generated_at": "2026-06-11T00:32:52.997788+00:00",
+ "total_indexed": 5094,
  "indexes": [
   {
    "key": "skill",
@@ -220,7 +220,27 @@
     "Orchestration",
     "Memory & State"
    ],
-   "generated_at": "2026-06-10T13:49:58.669506+00:00"
+   "generated_at": "2026-06-10T14:09:38.825238+00:00"
+  },
+  {
+   "key": "document",
+   "name": "The Document Index",
+   "tag": "Documents",
+   "blurb": "Document-AI tooling — OCR, PDF extraction, document parsing, layout, tables & understanding.",
+   "url": "https://document.kymatalabs.com",
+   "accent": "#4f46e5",
+   "count": 197,
+   "top": {
+    "name": "PaddlePaddle/PaddleOCR",
+    "momentum": 87
+   },
+   "categories": [
+    "Document Parsing",
+    "OCR Engines",
+    "PDF Extraction",
+    "Layout & Structure"
+   ],
+   "generated_at": "2026-06-11T00:24:47.775785+00:00"
   },
   {
    "key": "stack",
