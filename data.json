@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-06-11T12:56:19.719766+00:00",
- "total_indexed": 5502,
+ "generated_at": "2026-06-12T12:35:40.392723+00:00",
+ "total_indexed": 5501,
  "indexes": [
   {
    "key": "skill",
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Benchmarks"
    ],
-   "generated_at": "2026-06-11T12:33:59.056572+00:00"
+   "generated_at": "2026-06-12T12:04:14.194663+00:00"
   },
   {
    "key": "local",
@@ -49,7 +49,7 @@
    "blurb": "Run LLMs on your own hardware — inference engines, runners, quantization.",
    "url": "https://localllm.kymatalabs.com",
    "accent": "#1f5bff",
-   "count": 243,
+   "count": 242,
    "top": {
     "name": "Mintplex-Labs/anything-llm",
     "momentum": 86
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-06-11T12:34:59.842066+00:00"
+   "generated_at": "2026-06-12T12:09:55.694054+00:00"
   },
   {
    "key": "prompt",
@@ -76,11 +76,11 @@
    },
    "categories": [
     "Optimization & Tooling",
-    "Prompt Packs",
     "System Prompts",
-    "Guides & Courses"
+    "Prompt Packs",
+    "Collections"
    ],
-   "generated_at": "2026-06-11T12:36:23.501636+00:00"
+   "generated_at": "2026-06-12T12:11:04.137221+00:00"
   },
   {
    "key": "rag",
@@ -92,7 +92,7 @@
    "count": 214,
    "top": {
     "name": "Shubhamsaboo/awesome-llm-apps",
-    "momentum": 86
+    "momentum": 85
    },
    "categories": [
     "Vector Databases",
@@ -100,7 +100,7 @@
     "RAG Frameworks",
     "Reranking"
    ],
-   "generated_at": "2026-06-11T12:47:21.853386+00:00"
+   "generated_at": "2026-06-12T12:20:26.870202+00:00"
   },
   {
    "key": "diffusion",
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-06-11T12:51:26.443448+00:00"
+   "generated_at": "2026-06-12T12:25:33.096086+00:00"
   },
   {
    "key": "voice",
@@ -129,7 +129,7 @@
    "blurb": "Voice & speech AI — text-to-speech, speech recognition, voice cloning, realtime voice agents.",
    "url": "https://voice.kymatalabs.com",
    "accent": "#b6ff2e",
-   "count": 298,
+   "count": 297,
    "top": {
     "name": "ggml-org/whisper.cpp",
     "momentum": 83
@@ -140,7 +140,7 @@
     "Toolkits & Frameworks",
     "Voice Agents & Realtime"
    ],
-   "generated_at": "2026-06-10T12:40:43.206169+00:00"
+   "generated_at": "2026-06-11T12:57:54.553987+00:00"
   },
   {
    "key": "dataset",
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-06-09T05:34:14.929288+00:00"
+   "generated_at": "2026-06-11T13:06:30.387246+00:00"
   },
   {
    "key": "finetune",
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-06-11T12:54:29.454065+00:00"
+   "generated_at": "2026-06-12T12:29:23.841187+00:00"
   },
   {
    "key": "gateway",
@@ -189,7 +189,7 @@
    "blurb": "LLM gateways, proxies & routers — the routing layer between apps and model providers.",
    "url": "https://gateway.kymatalabs.com",
    "accent": "#2ee6c6",
-   "count": 140,
+   "count": 142,
    "top": {
     "name": "BerriAI/litellm",
     "momentum": 87
@@ -200,7 +200,7 @@
     "Multi-Provider SDKs",
     "Observability Gateways"
    ],
-   "generated_at": "2026-06-10T13:24:30.958288+00:00"
+   "generated_at": "2026-06-11T14:10:35.115028+00:00"
   },
   {
    "key": "agent",
@@ -220,7 +220,7 @@
     "Orchestration",
     "Memory & State"
    ],
-   "generated_at": "2026-06-10T14:09:38.825238+00:00"
+   "generated_at": "2026-06-11T14:13:59.878958+00:00"
   },
   {
    "key": "document",
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "Layout & Structure"
    ],
-   "generated_at": "2026-06-11T00:36:55.749062+00:00"
+   "generated_at": "2026-06-11T14:27:03.512000+00:00"
   },
   {
    "key": "observability",
@@ -249,7 +249,7 @@
    "blurb": "LLM & AI observability — tracing, monitoring & cost analytics, online eval, agent observability, ML-drift.",
    "url": "https://observability.kymatalabs.com",
    "accent": "#ffb02e",
-   "count": 133,
+   "count": 132,
    "top": {
     "name": "langfuse/langfuse",
     "momentum": 87
@@ -260,7 +260,7 @@
     "Tracing & Spans",
     "LLMOps Platforms"
    ],
-   "generated_at": "2026-06-11T03:38:26.345460+00:00"
+   "generated_at": "2026-06-11T15:00:36.298430+00:00"
   },
   {
    "key": "stack",
@@ -280,7 +280,7 @@
     "Subagents",
     "MCP & Tools"
    ],
-   "generated_at": "2026-06-11T12:28:30.757866+00:00"
+   "generated_at": "2026-06-12T11:59:46.545036+00:00"
   },
   {
    "key": "model",
@@ -292,7 +292,7 @@
    "count_key": "model_count",
    "count": 150,
    "top": {
-    "name": "higgs-audio-v3-tts-4b",
+    "name": "Z-Image-Engineer-V6",
     "momentum": null
    },
    "categories": [
@@ -301,7 +301,7 @@
     "Image",
     "Multimodal"
    ],
-   "generated_at": "2026-06-07T11:29:48.634837+00:00"
+   "generated_at": "2026-06-11T13:45:55.416764+00:00"
   },
   {
    "key": "mcp",
@@ -335,7 +335,7 @@
    "count": 14,
    "top": {
     "name": "opencode",
-    "momentum": 90
+    "momentum": 89
    },
    "categories": [
     "CLI",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-06-10T12:47:28.499370+00:00"
+   "generated_at": "2026-06-11T13:07:07.230258+00:00"
   }
  ]
 }
