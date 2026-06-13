@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-06-12T12:35:40.392723+00:00",
- "total_indexed": 5501,
+ "generated_at": "2026-06-13T11:25:54.608381+00:00",
+ "total_indexed": 5591,
  "indexes": [
   {
    "key": "skill",
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Benchmarks"
    ],
-   "generated_at": "2026-06-12T12:04:14.194663+00:00"
+   "generated_at": "2026-06-13T11:04:15.661957+00:00"
   },
   {
    "key": "local",
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-06-12T12:09:55.694054+00:00"
+   "generated_at": "2026-06-13T11:06:03.966765+00:00"
   },
   {
    "key": "prompt",
@@ -71,16 +71,16 @@
    "accent": "#ff3b2f",
    "count": 133,
    "top": {
-    "name": "f/prompts.chat",
-    "momentum": 87
+    "name": "JuliusBrussee/caveman",
+    "momentum": 88
    },
    "categories": [
     "Optimization & Tooling",
-    "System Prompts",
     "Prompt Packs",
+    "System Prompts",
     "Collections"
    ],
-   "generated_at": "2026-06-12T12:11:04.137221+00:00"
+   "generated_at": "2026-06-13T11:08:51.963645+00:00"
   },
   {
    "key": "rag",
@@ -92,7 +92,7 @@
    "count": 214,
    "top": {
     "name": "Shubhamsaboo/awesome-llm-apps",
-    "momentum": 85
+    "momentum": 87
    },
    "categories": [
     "Vector Databases",
@@ -100,7 +100,7 @@
     "RAG Frameworks",
     "Reranking"
    ],
-   "generated_at": "2026-06-12T12:20:26.870202+00:00"
+   "generated_at": "2026-06-13T11:14:48.099143+00:00"
   },
   {
    "key": "diffusion",
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-06-12T12:25:33.096086+00:00"
+   "generated_at": "2026-06-13T11:21:39.820628+00:00"
   },
   {
    "key": "voice",
@@ -140,7 +140,7 @@
     "Toolkits & Frameworks",
     "Voice Agents & Realtime"
    ],
-   "generated_at": "2026-06-11T12:57:54.553987+00:00"
+   "generated_at": "2026-06-12T12:39:38.333689+00:00"
   },
   {
    "key": "dataset",
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-06-11T13:06:30.387246+00:00"
+   "generated_at": "2026-06-12T12:44:34.746068+00:00"
   },
   {
    "key": "finetune",
@@ -171,7 +171,7 @@
    "accent": "#ff6a00",
    "count": 175,
    "top": {
-    "name": "hiyouga/LlamaFactory",
+    "name": "unslothai/unsloth",
     "momentum": 87
    },
    "categories": [
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-06-12T12:29:23.841187+00:00"
+   "generated_at": "2026-06-13T11:24:13.381918+00:00"
   },
   {
    "key": "gateway",
@@ -189,7 +189,7 @@
    "blurb": "LLM gateways, proxies & routers — the routing layer between apps and model providers.",
    "url": "https://gateway.kymatalabs.com",
    "accent": "#2ee6c6",
-   "count": 142,
+   "count": 143,
    "top": {
     "name": "BerriAI/litellm",
     "momentum": 87
@@ -200,7 +200,7 @@
     "Multi-Provider SDKs",
     "Observability Gateways"
    ],
-   "generated_at": "2026-06-11T14:10:35.115028+00:00"
+   "generated_at": "2026-06-12T13:38:54.787137+00:00"
   },
   {
    "key": "agent",
@@ -209,7 +209,7 @@
    "blurb": "AI agent frameworks — multi-agent, autonomous agents, orchestration, memory & agent SDKs.",
    "url": "https://agents.kymatalabs.com",
    "accent": "#b07cff",
-   "count": 279,
+   "count": 281,
    "top": {
     "name": "Significant-Gravitas/AutoGPT",
     "momentum": 87
@@ -220,7 +220,7 @@
     "Orchestration",
     "Memory & State"
    ],
-   "generated_at": "2026-06-11T14:13:59.878958+00:00"
+   "generated_at": "2026-06-12T13:45:17.093556+00:00"
   },
   {
    "key": "document",
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "Layout & Structure"
    ],
-   "generated_at": "2026-06-11T14:27:03.512000+00:00"
+   "generated_at": "2026-06-12T13:51:34.505156+00:00"
   },
   {
    "key": "observability",
@@ -260,7 +260,7 @@
     "Tracing & Spans",
     "LLMOps Platforms"
    ],
-   "generated_at": "2026-06-11T15:00:36.298430+00:00"
+   "generated_at": "2026-06-12T14:18:31.211855+00:00"
   },
   {
    "key": "stack",
@@ -269,7 +269,7 @@
    "blurb": "The live momentum index for AI-infrastructure repos.",
    "url": "https://stacktracker.kymatalabs.com",
    "accent": "#00d4a0",
-   "count": 273,
+   "count": 274,
    "top": {
     "name": "affaan-m/ECC",
     "momentum": 87
@@ -280,7 +280,7 @@
     "Subagents",
     "MCP & Tools"
    ],
-   "generated_at": "2026-06-12T11:59:46.545036+00:00"
+   "generated_at": "2026-06-13T10:57:59.652589+00:00"
   },
   {
    "key": "model",
@@ -292,7 +292,7 @@
    "count_key": "model_count",
    "count": 150,
    "top": {
-    "name": "Z-Image-Engineer-V6",
+    "name": "diffusiongemma-26B-A4B-it-NVFP4",
     "momentum": null
    },
    "categories": [
@@ -301,7 +301,7 @@
     "Image",
     "Multimodal"
    ],
-   "generated_at": "2026-06-11T13:45:55.416764+00:00"
+   "generated_at": "2026-06-12T12:45:10.858868+00:00"
   },
   {
    "key": "mcp",
@@ -311,9 +311,9 @@
    "url": "https://mcp.kymatalabs.com",
    "accent": "#06b6d4",
    "count_key": "server_count",
-   "count": 2195,
+   "count": 2281,
    "top": {
-    "name": "com.epublys/epublys",
+    "name": "com.hemmabo/hemmabo-mcp-server",
     "momentum": null
    },
    "categories": [
@@ -322,7 +322,7 @@
     "Data & DB",
     "Dev Tools"
    ],
-   "generated_at": "2026-06-10T12:45:24.947984+00:00"
+   "generated_at": "2026-06-12T12:42:46.574049+00:00"
   },
   {
    "key": "agentvel",
@@ -334,7 +334,7 @@
    "count_key": "repo_count",
    "count": 14,
    "top": {
-    "name": "opencode",
+    "name": "qwen-code",
     "momentum": 89
    },
    "categories": [
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-06-11T13:07:07.230258+00:00"
+   "generated_at": "2026-06-12T12:45:06.519665+00:00"
   }
  ]
 }
