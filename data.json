@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-06-13T11:25:54.608381+00:00",
- "total_indexed": 5591,
+ "generated_at": "2026-06-14T11:37:58.443955+00:00",
+ "total_indexed": 5629,
  "indexes": [
   {
    "key": "skill",
@@ -49,7 +49,7 @@
    "blurb": "Run LLMs on your own hardware — inference engines, runners, quantization.",
    "url": "https://localllm.kymatalabs.com",
    "accent": "#1f5bff",
-   "count": 242,
+   "count": 241,
    "top": {
     "name": "Mintplex-Labs/anything-llm",
     "momentum": 86
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-06-13T11:06:03.966765+00:00"
+   "generated_at": "2026-06-14T11:21:25.639494+00:00"
   },
   {
    "key": "prompt",
@@ -80,7 +80,7 @@
     "System Prompts",
     "Collections"
    ],
-   "generated_at": "2026-06-13T11:08:51.963645+00:00"
+   "generated_at": "2026-06-14T11:23:02.981876+00:00"
   },
   {
    "key": "rag",
@@ -100,7 +100,7 @@
     "RAG Frameworks",
     "Reranking"
    ],
-   "generated_at": "2026-06-13T11:14:48.099143+00:00"
+   "generated_at": "2026-06-14T11:30:53.708427+00:00"
   },
   {
    "key": "diffusion",
@@ -109,7 +109,7 @@
    "blurb": "AI image & video generation — diffusion models, ComfyUI nodes, video gen, editing, training.",
    "url": "https://diffusion.kymatalabs.com",
    "accent": "#c77dff",
-   "count": 267,
+   "count": 266,
    "top": {
     "name": "Comfy-Org/ComfyUI",
     "momentum": 85
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-06-13T11:21:39.820628+00:00"
+   "generated_at": "2026-06-14T11:34:27.263920+00:00"
   },
   {
    "key": "voice",
@@ -140,7 +140,7 @@
     "Toolkits & Frameworks",
     "Voice Agents & Realtime"
    ],
-   "generated_at": "2026-06-12T12:39:38.333689+00:00"
+   "generated_at": "2026-06-13T11:26:37.602843+00:00"
   },
   {
    "key": "dataset",
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-06-12T12:44:34.746068+00:00"
+   "generated_at": "2026-06-13T11:32:07.713997+00:00"
   },
   {
    "key": "finetune",
@@ -169,9 +169,9 @@
    "blurb": "Make your own model — fine-tuning frameworks, PEFT/LoRA, RLHF/DPO, training data.",
    "url": "https://finetune.kymatalabs.com",
    "accent": "#ff6a00",
-   "count": 175,
+   "count": 176,
    "top": {
-    "name": "unslothai/unsloth",
+    "name": "hiyouga/LlamaFactory",
     "momentum": 87
    },
    "categories": [
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-06-13T11:24:13.381918+00:00"
+   "generated_at": "2026-06-14T11:36:39.266665+00:00"
   },
   {
    "key": "gateway",
@@ -189,7 +189,7 @@
    "blurb": "LLM gateways, proxies & routers — the routing layer between apps and model providers.",
    "url": "https://gateway.kymatalabs.com",
    "accent": "#2ee6c6",
-   "count": 143,
+   "count": 145,
    "top": {
     "name": "BerriAI/litellm",
     "momentum": 87
@@ -200,7 +200,7 @@
     "Multi-Provider SDKs",
     "Observability Gateways"
    ],
-   "generated_at": "2026-06-12T13:38:54.787137+00:00"
+   "generated_at": "2026-06-13T12:01:42.710757+00:00"
   },
   {
    "key": "agent",
@@ -209,7 +209,7 @@
    "blurb": "AI agent frameworks — multi-agent, autonomous agents, orchestration, memory & agent SDKs.",
    "url": "https://agents.kymatalabs.com",
    "accent": "#b07cff",
-   "count": 281,
+   "count": 278,
    "top": {
     "name": "Significant-Gravitas/AutoGPT",
     "momentum": 87
@@ -217,10 +217,10 @@
    "categories": [
     "Agent Frameworks",
     "Multi-Agent",
-    "Orchestration",
-    "Memory & State"
+    "Memory & State",
+    "Orchestration"
    ],
-   "generated_at": "2026-06-12T13:45:17.093556+00:00"
+   "generated_at": "2026-06-13T12:05:13.652410+00:00"
   },
   {
    "key": "document",
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "Layout & Structure"
    ],
-   "generated_at": "2026-06-12T13:51:34.505156+00:00"
+   "generated_at": "2026-06-13T12:15:54.876940+00:00"
   },
   {
    "key": "observability",
@@ -249,7 +249,7 @@
    "blurb": "LLM & AI observability — tracing, monitoring & cost analytics, online eval, agent observability, ML-drift.",
    "url": "https://observability.kymatalabs.com",
    "accent": "#ffb02e",
-   "count": 132,
+   "count": 133,
    "top": {
     "name": "langfuse/langfuse",
     "momentum": 87
@@ -260,7 +260,7 @@
     "Tracing & Spans",
     "LLMOps Platforms"
    ],
-   "generated_at": "2026-06-12T14:18:31.211855+00:00"
+   "generated_at": "2026-06-13T13:00:20.507823+00:00"
   },
   {
    "key": "stack",
@@ -280,7 +280,7 @@
     "Subagents",
     "MCP & Tools"
    ],
-   "generated_at": "2026-06-13T10:57:59.652589+00:00"
+   "generated_at": "2026-06-14T11:13:58.977099+00:00"
   },
   {
    "key": "model",
@@ -292,7 +292,7 @@
    "count_key": "model_count",
    "count": 150,
    "top": {
-    "name": "diffusiongemma-26B-A4B-it-NVFP4",
+    "name": "gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
     "momentum": null
    },
    "categories": [
@@ -301,7 +301,7 @@
     "Image",
     "Multimodal"
    ],
-   "generated_at": "2026-06-12T12:45:10.858868+00:00"
+   "generated_at": "2026-06-13T11:43:51.472780+00:00"
   },
   {
    "key": "mcp",
@@ -311,9 +311,9 @@
    "url": "https://mcp.kymatalabs.com",
    "accent": "#06b6d4",
    "count_key": "server_count",
-   "count": 2281,
+   "count": 2320,
    "top": {
-    "name": "com.hemmabo/hemmabo-mcp-server",
+    "name": "com.gethumandesign.www/mcp",
     "momentum": null
    },
    "categories": [
@@ -322,7 +322,7 @@
     "Data & DB",
     "Dev Tools"
    ],
-   "generated_at": "2026-06-12T12:42:46.574049+00:00"
+   "generated_at": "2026-06-13T11:29:19.395481+00:00"
   },
   {
    "key": "agentvel",
@@ -335,7 +335,7 @@
    "count": 14,
    "top": {
     "name": "qwen-code",
-    "momentum": 89
+    "momentum": 90
    },
    "categories": [
     "CLI",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-06-12T12:45:06.519665+00:00"
+   "generated_at": "2026-06-13T11:32:58.099338+00:00"
   }
  ]
 }
