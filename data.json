@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-06-15T15:26:02.147795+00:00",
- "total_indexed": 5646,
+ "generated_at": "2026-06-16T14:28:17.290221+00:00",
+ "total_indexed": 5645,
  "indexes": [
   {
    "key": "skill",
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-06-15T14:51:59.863184+00:00"
+   "generated_at": "2026-06-16T13:20:20.049883+00:00"
   },
   {
    "key": "prompt",
@@ -71,8 +71,8 @@
    "accent": "#ff3b2f",
    "count": 133,
    "top": {
-    "name": "JuliusBrussee/caveman",
-    "momentum": 88
+    "name": "DietrichGebert/ponytail",
+    "momentum": 90
    },
    "categories": [
     "Optimization & Tooling",
@@ -80,7 +80,7 @@
     "System Prompts",
     "Guides & Courses"
    ],
-   "generated_at": "2026-06-15T14:55:15.086204+00:00"
+   "generated_at": "2026-06-16T13:23:28.340066+00:00"
   },
   {
    "key": "rag",
@@ -100,7 +100,7 @@
     "RAG Frameworks",
     "Reranking"
    ],
-   "generated_at": "2026-06-15T15:15:50.181721+00:00"
+   "generated_at": "2026-06-16T13:28:30.736288+00:00"
   },
   {
    "key": "diffusion",
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-06-15T15:22:14.288036+00:00"
+   "generated_at": "2026-06-16T14:23:27.536765+00:00"
   },
   {
    "key": "voice",
@@ -132,7 +132,7 @@
    "count": 297,
    "top": {
     "name": "ggml-org/whisper.cpp",
-    "momentum": 83
+    "momentum": 84
    },
    "categories": [
     "Speech-to-Text",
@@ -140,7 +140,7 @@
     "Toolkits & Frameworks",
     "Voice Agents & Realtime"
    ],
-   "generated_at": "2026-06-14T11:38:41.671058+00:00"
+   "generated_at": "2026-06-15T15:26:45.778617+00:00"
   },
   {
    "key": "dataset",
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-06-14T11:47:17.132848+00:00"
+   "generated_at": "2026-06-15T15:32:42.667100+00:00"
   },
   {
    "key": "finetune",
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-06-15T15:24:50.024032+00:00"
+   "generated_at": "2026-06-16T14:26:18.325045+00:00"
   },
   {
    "key": "gateway",
@@ -200,7 +200,7 @@
     "Multi-Provider SDKs",
     "Observability Gateways"
    ],
-   "generated_at": "2026-06-14T12:10:11.768250+00:00"
+   "generated_at": "2026-06-15T15:55:53.165472+00:00"
   },
   {
    "key": "agent",
@@ -209,7 +209,7 @@
    "blurb": "AI agent frameworks — multi-agent, autonomous agents, orchestration, memory & agent SDKs.",
    "url": "https://agents.kymatalabs.com",
    "accent": "#b07cff",
-   "count": 278,
+   "count": 279,
    "top": {
     "name": "Significant-Gravitas/AutoGPT",
     "momentum": 87
@@ -220,7 +220,7 @@
     "Orchestration",
     "Memory & State"
    ],
-   "generated_at": "2026-06-14T12:18:27.507265+00:00"
+   "generated_at": "2026-06-15T16:07:14.210628+00:00"
   },
   {
    "key": "document",
@@ -229,10 +229,10 @@
    "blurb": "Document-AI tooling — OCR, PDF extraction, document parsing, layout, tables & understanding.",
    "url": "https://document.kymatalabs.com",
    "accent": "#4f46e5",
-   "count": 197,
+   "count": 196,
    "top": {
     "name": "PaddlePaddle/PaddleOCR",
-    "momentum": 87
+    "momentum": 86
    },
    "categories": [
     "Document Parsing",
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "Layout & Structure"
    ],
-   "generated_at": "2026-06-14T12:29:41.776589+00:00"
+   "generated_at": "2026-06-15T16:10:09.280404+00:00"
   },
   {
    "key": "observability",
@@ -269,10 +269,10 @@
    "blurb": "The live momentum index for AI-infrastructure repos.",
    "url": "https://stacktracker.kymatalabs.com",
    "accent": "#00d4a0",
-   "count": 274,
+   "count": 273,
    "top": {
-    "name": "affaan-m/ECC",
-    "momentum": 87
+    "name": "DietrichGebert/ponytail",
+    "momentum": 89
    },
    "categories": [
     "Collections",
@@ -280,7 +280,7 @@
     "Subagents",
     "MCP & Tools"
    ],
-   "generated_at": "2026-06-15T14:44:01.525578+00:00"
+   "generated_at": "2026-06-16T13:12:16.208605+00:00"
   },
   {
    "key": "model",
@@ -292,7 +292,7 @@
    "count_key": "model_count",
    "count": 150,
    "top": {
-    "name": "Rio-3.5-Open-397B",
+    "name": "Gemma-4-31B-StyleTune",
     "momentum": null
    },
    "categories": [
@@ -301,7 +301,7 @@
     "Image",
     "Multimodal"
    ],
-   "generated_at": "2026-06-14T11:47:37.786589+00:00"
+   "generated_at": "2026-06-15T15:33:09.718989+00:00"
   },
   {
    "key": "mcp",
@@ -335,7 +335,7 @@
    "count": 14,
    "top": {
     "name": "qwen-code",
-    "momentum": 90
+    "momentum": 92
    },
    "categories": [
     "CLI",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-06-14T11:47:39.173661+00:00"
+   "generated_at": "2026-06-15T15:33:04.889924+00:00"
   }
  ]
 }
