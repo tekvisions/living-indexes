@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-06-16T14:28:17.290221+00:00",
- "total_indexed": 5645,
+ "generated_at": "2026-06-17T12:58:46.770726+00:00",
+ "total_indexed": 5649,
  "indexes": [
   {
    "key": "skill",
@@ -29,7 +29,7 @@
    "blurb": "LLM & agent evaluation, benchmark, observability and red-teaming tools.",
    "url": "https://eval.kymatalabs.com",
    "accent": "#7fae2c",
-   "count": 269,
+   "count": 270,
    "top": {
     "name": "langfuse/langfuse",
     "momentum": 87
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Benchmarks"
    ],
-   "generated_at": "2026-06-15T14:50:22.646751+00:00"
+   "generated_at": "2026-06-17T12:42:11.644863+00:00"
   },
   {
    "key": "local",
@@ -49,7 +49,7 @@
    "blurb": "Run LLMs on your own hardware — inference engines, runners, quantization.",
    "url": "https://localllm.kymatalabs.com",
    "accent": "#1f5bff",
-   "count": 243,
+   "count": 244,
    "top": {
     "name": "Mintplex-Labs/anything-llm",
     "momentum": 86
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-06-16T13:20:20.049883+00:00"
+   "generated_at": "2026-06-17T12:43:22.482500+00:00"
   },
   {
    "key": "prompt",
@@ -69,10 +69,10 @@
    "blurb": "Prompt-engineering resources — collections, system prompts, optimizers, guides.",
    "url": "https://prompt.kymatalabs.com",
    "accent": "#ff3b2f",
-   "count": 133,
+   "count": 134,
    "top": {
     "name": "DietrichGebert/ponytail",
-    "momentum": 90
+    "momentum": 91
    },
    "categories": [
     "Optimization & Tooling",
@@ -80,7 +80,7 @@
     "System Prompts",
     "Guides & Courses"
    ],
-   "generated_at": "2026-06-16T13:23:28.340066+00:00"
+   "generated_at": "2026-06-17T12:44:54.465226+00:00"
   },
   {
    "key": "rag",
@@ -100,7 +100,7 @@
     "RAG Frameworks",
     "Reranking"
    ],
-   "generated_at": "2026-06-16T13:28:30.736288+00:00"
+   "generated_at": "2026-06-17T12:52:01.091595+00:00"
   },
   {
    "key": "diffusion",
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-06-16T14:26:18.325045+00:00"
+   "generated_at": "2026-06-17T12:57:40.215243+00:00"
   },
   {
    "key": "gateway",
@@ -189,7 +189,7 @@
    "blurb": "LLM gateways, proxies & routers — the routing layer between apps and model providers.",
    "url": "https://gateway.kymatalabs.com",
    "accent": "#2ee6c6",
-   "count": 146,
+   "count": 148,
    "top": {
     "name": "BerriAI/litellm",
     "momentum": 87
@@ -200,7 +200,7 @@
     "Multi-Provider SDKs",
     "Observability Gateways"
    ],
-   "generated_at": "2026-06-15T15:55:53.165472+00:00"
+   "generated_at": "2026-06-16T15:21:18.379335+00:00"
   },
   {
    "key": "agent",
@@ -232,7 +232,7 @@
    "count": 196,
    "top": {
     "name": "PaddlePaddle/PaddleOCR",
-    "momentum": 86
+    "momentum": 87
    },
    "categories": [
     "Document Parsing",
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "Layout & Structure"
    ],
-   "generated_at": "2026-06-15T16:10:09.280404+00:00"
+   "generated_at": "2026-06-16T15:35:11.764068+00:00"
   },
   {
    "key": "observability",
@@ -260,7 +260,7 @@
     "Tracing & Spans",
     "LLMOps Platforms"
    ],
-   "generated_at": "2026-06-14T13:09:49.773291+00:00"
+   "generated_at": "2026-06-16T16:05:54.792163+00:00"
   },
   {
    "key": "stack",
@@ -269,10 +269,10 @@
    "blurb": "The live momentum index for AI-infrastructure repos.",
    "url": "https://stacktracker.kymatalabs.com",
    "accent": "#00d4a0",
-   "count": 273,
+   "count": 272,
    "top": {
     "name": "DietrichGebert/ponytail",
-    "momentum": 89
+    "momentum": 90
    },
    "categories": [
     "Collections",
@@ -280,7 +280,7 @@
     "Subagents",
     "MCP & Tools"
    ],
-   "generated_at": "2026-06-16T13:12:16.208605+00:00"
+   "generated_at": "2026-06-17T12:36:38.387782+00:00"
   },
   {
    "key": "model",
@@ -292,7 +292,7 @@
    "count_key": "model_count",
    "count": 150,
    "top": {
-    "name": "Gemma-4-31B-StyleTune",
+    "name": "Qwen3.6-35B-A3B-NVFP4",
     "momentum": null
    },
    "categories": [
@@ -301,7 +301,7 @@
     "Image",
     "Multimodal"
    ],
-   "generated_at": "2026-06-15T15:33:09.718989+00:00"
+   "generated_at": "2026-06-16T14:49:12.310029+00:00"
   },
   {
    "key": "mcp",
@@ -335,7 +335,7 @@
    "count": 14,
    "top": {
     "name": "qwen-code",
-    "momentum": 92
+    "momentum": 90
    },
    "categories": [
     "CLI",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-06-15T15:33:04.889924+00:00"
+   "generated_at": "2026-06-16T14:34:21.515676+00:00"
   }
  ]
 }
