@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-06-22T15:02:22.403648+00:00",
- "total_indexed": 5551,
+ "generated_at": "2026-06-23T12:17:19.953442+00:00",
+ "total_indexed": 5554,
  "indexes": [
   {
    "key": "skill",
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Agent Eval"
    ],
-   "generated_at": "2026-06-21T11:36:04.084230+00:00"
+   "generated_at": "2026-06-23T11:47:21.832936+00:00"
   },
   {
    "key": "local",
@@ -52,7 +52,7 @@
    "count": 247,
    "top": {
     "name": "Mintplex-Labs/anything-llm",
-    "momentum": 85
+    "momentum": 86
    },
    "categories": [
     "On-Device & Mobile",
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-06-22T14:21:21.155731+00:00"
+   "generated_at": "2026-06-23T11:49:37.792564+00:00"
   },
   {
    "key": "prompt",
@@ -80,7 +80,7 @@
     "System Prompts",
     "Collections"
    ],
-   "generated_at": "2026-06-22T14:25:42.485150+00:00"
+   "generated_at": "2026-06-23T11:52:17.217854+00:00"
   },
   {
    "key": "rag",
@@ -92,15 +92,15 @@
    "count": 213,
    "top": {
     "name": "Shubhamsaboo/awesome-llm-apps",
-    "momentum": 86
+    "momentum": 85
    },
    "categories": [
     "Vector Databases",
     "Retrieval & Search",
     "RAG Frameworks",
-    "Reranking"
+    "Embeddings"
    ],
-   "generated_at": "2026-06-22T14:41:21.869596+00:00"
+   "generated_at": "2026-06-23T12:08:30.762381+00:00"
   },
   {
    "key": "diffusion",
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-06-22T14:48:18.360674+00:00"
+   "generated_at": "2026-06-23T12:12:03.033489+00:00"
   },
   {
    "key": "voice",
@@ -140,7 +140,7 @@
     "Voice Agents & Realtime",
     "Toolkits & Frameworks"
    ],
-   "generated_at": "2026-06-21T11:58:44.121681+00:00"
+   "generated_at": "2026-06-22T15:03:20.121728+00:00"
   },
   {
    "key": "dataset",
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-06-21T12:02:08.144091+00:00"
+   "generated_at": "2026-06-22T15:09:54.701019+00:00"
   },
   {
    "key": "finetune",
@@ -171,7 +171,7 @@
    "accent": "#ff6a00",
    "count": 176,
    "top": {
-    "name": "unslothai/unsloth",
+    "name": "hiyouga/LlamaFactory",
     "momentum": 87
    },
    "categories": [
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-06-21T11:52:44.922437+00:00"
+   "generated_at": "2026-06-23T12:14:44.614027+00:00"
   },
   {
    "key": "gateway",
@@ -189,7 +189,7 @@
    "blurb": "LLM gateways, proxies & routers — the routing layer between apps and model providers.",
    "url": "https://gateway.kymatalabs.com",
    "accent": "#2ee6c6",
-   "count": 156,
+   "count": 159,
    "top": {
     "name": "BerriAI/litellm",
     "momentum": 87
@@ -200,7 +200,7 @@
     "Multi-Provider SDKs",
     "Observability Gateways"
    ],
-   "generated_at": "2026-06-21T12:18:35.185783+00:00"
+   "generated_at": "2026-06-22T15:31:30.717822+00:00"
   },
   {
    "key": "agent",
@@ -209,10 +209,10 @@
    "blurb": "AI agent frameworks — multi-agent, autonomous agents, orchestration, memory & agent SDKs.",
    "url": "https://agents.kymatalabs.com",
    "accent": "#b07cff",
-   "count": 280,
+   "count": 279,
    "top": {
     "name": "DietrichGebert/ponytail",
-    "momentum": 92
+    "momentum": 93
    },
    "categories": [
     "Agent Frameworks",
@@ -220,7 +220,7 @@
     "Orchestration",
     "Memory & State"
    ],
-   "generated_at": "2026-06-21T12:22:50.530212+00:00"
+   "generated_at": "2026-06-22T15:34:15.750540+00:00"
   },
   {
    "key": "document",
@@ -229,10 +229,10 @@
    "blurb": "Document-AI tooling — OCR, PDF extraction, document parsing, layout, tables & understanding.",
    "url": "https://document.kymatalabs.com",
    "accent": "#4f46e5",
-   "count": 197,
+   "count": 198,
    "top": {
     "name": "PaddlePaddle/PaddleOCR",
-    "momentum": 86
+    "momentum": 87
    },
    "categories": [
     "Document Parsing",
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "Layout & Structure"
    ],
-   "generated_at": "2026-06-21T12:30:41.677379+00:00"
+   "generated_at": "2026-06-22T15:48:50.255043+00:00"
   },
   {
    "key": "observability",
@@ -257,10 +257,10 @@
    "categories": [
     "Agent Observability",
     "Monitoring & Analytics",
-    "LLMOps Platforms",
-    "Tracing & Spans"
+    "Tracing & Spans",
+    "LLMOps Platforms"
    ],
-   "generated_at": "2026-06-21T13:20:03.589121+00:00"
+   "generated_at": "2026-06-22T16:05:14.295135+00:00"
   },
   {
    "key": "stack",
@@ -280,7 +280,7 @@
     "Subagents",
     "MCP & Tools"
    ],
-   "generated_at": "2026-06-22T14:13:44.720370+00:00"
+   "generated_at": "2026-06-23T11:39:08.142941+00:00"
   },
   {
    "key": "model",
@@ -292,7 +292,7 @@
    "count_key": "model_count",
    "count": 150,
    "top": {
-    "name": "Mythos-nano",
+    "name": "Qwythos-9B-Claude-Mythos-5-1M",
     "momentum": null
    },
    "categories": [
@@ -301,7 +301,7 @@
     "Image",
     "Multimodal"
    ],
-   "generated_at": "2026-06-21T12:02:46.457555+00:00"
+   "generated_at": "2026-06-22T15:10:19.205930+00:00"
   },
   {
    "key": "mcp",
@@ -313,7 +313,7 @@
    "count_key": "server_count",
    "count": 2223,
    "top": {
-    "name": "ai.trendsmcp/trends",
+    "name": "com.linklyhq/linkly",
     "momentum": null
    },
    "categories": [
@@ -322,7 +322,7 @@
     "Data & DB",
     "Dev Tools"
    ],
-   "generated_at": "2026-06-21T12:00:13.768421+00:00"
+   "generated_at": "2026-06-22T15:07:36.850313+00:00"
   },
   {
    "key": "agentvel",
@@ -335,7 +335,7 @@
    "count": 14,
    "top": {
     "name": "qwen-code",
-    "momentum": 94
+    "momentum": 96
    },
    "categories": [
     "CLI",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-06-21T12:02:31.511150+00:00"
+   "generated_at": "2026-06-22T15:10:36.555466+00:00"
   }
  ]
 }

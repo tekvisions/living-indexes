@@ -3,7 +3,7 @@
 > A hub for self-updating indexes of the AI-builder ecosystem. Each index is
 > recomputed daily from live GitHub signals.
 
-Updated: 2026-06-22T15:02:22.403648+00:00  ·  5551 entries across 17 indexes
+Updated: 2026-06-23T12:17:19.953442+00:00  ·  5554 entries across 17 indexes
 
 - [The Skill Index](https://skill.kymatalabs.com) — 273 entries — Claude Code & AI-agent skills — skills, subagents, slash-commands, hooks.
 - [The Eval Index](https://eval.kymatalabs.com) — 271 entries — LLM & agent evaluation, benchmark, observability and red-teaming tools.
@@ -14,9 +14,9 @@ Updated: 2026-06-22T15:02:22.403648+00:00  ·  5551 entries across 17 indexes
 - [The Voice AI Index](https://voice.kymatalabs.com) — 295 entries — Voice & speech AI — text-to-speech, speech recognition, voice cloning, realtime voice agents.
 - [The Dataset Index](https://dataset.kymatalabs.com) — 250 entries — Data-centric AI tooling — labeling & annotation, synthetic data, curation, augmentation, dataset frameworks.
 - [The Fine-Tuning Index](https://finetune.kymatalabs.com) — 176 entries — Make your own model — fine-tuning frameworks, PEFT/LoRA, RLHF/DPO, training data.
-- [The Gateway Index](https://gateway.kymatalabs.com) — 156 entries — LLM gateways, proxies & routers — the routing layer between apps and model providers.
-- [The Agent Index](https://agents.kymatalabs.com) — 280 entries — AI agent frameworks — multi-agent, autonomous agents, orchestration, memory & agent SDKs.
-- [The Document Index](https://document.kymatalabs.com) — 197 entries — Document-AI tooling — OCR, PDF extraction, document parsing, layout, tables & understanding.
+- [The Gateway Index](https://gateway.kymatalabs.com) — 159 entries — LLM gateways, proxies & routers — the routing layer between apps and model providers.
+- [The Agent Index](https://agents.kymatalabs.com) — 279 entries — AI agent frameworks — multi-agent, autonomous agents, orchestration, memory & agent SDKs.
+- [The Document Index](https://document.kymatalabs.com) — 198 entries — Document-AI tooling — OCR, PDF extraction, document parsing, layout, tables & understanding.
 - [The Observability Index](https://observability.kymatalabs.com) — 138 entries — LLM & AI observability — tracing, monitoring & cost analytics, online eval, agent observability, ML-drift.
 - [StackTracker](https://stacktracker.kymatalabs.com) — 273 entries — The live momentum index for AI-infrastructure repos.
 - [Model Radar](https://modelradar.kymatalabs.com) — 150 entries — What's surging on Hugging Face right now — models ranked by momentum.
