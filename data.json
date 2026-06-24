@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-06-23T12:17:19.953442+00:00",
- "total_indexed": 5554,
+ "generated_at": "2026-06-24T12:02:54.699478+00:00",
+ "total_indexed": 5569,
  "indexes": [
   {
    "key": "skill",
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Agent Eval"
    ],
-   "generated_at": "2026-06-23T11:47:21.832936+00:00"
+   "generated_at": "2026-06-24T11:33:19.310653+00:00"
   },
   {
    "key": "local",
@@ -49,7 +49,7 @@
    "blurb": "Run LLMs on your own hardware — inference engines, runners, quantization.",
    "url": "https://localllm.kymatalabs.com",
    "accent": "#1f5bff",
-   "count": 247,
+   "count": 246,
    "top": {
     "name": "Mintplex-Labs/anything-llm",
     "momentum": 86
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-06-23T11:49:37.792564+00:00"
+   "generated_at": "2026-06-24T11:35:39.157258+00:00"
   },
   {
    "key": "prompt",
@@ -80,7 +80,7 @@
     "System Prompts",
     "Collections"
    ],
-   "generated_at": "2026-06-23T11:52:17.217854+00:00"
+   "generated_at": "2026-06-24T11:37:45.443719+00:00"
   },
   {
    "key": "rag",
@@ -100,7 +100,7 @@
     "RAG Frameworks",
     "Embeddings"
    ],
-   "generated_at": "2026-06-23T12:08:30.762381+00:00"
+   "generated_at": "2026-06-24T11:45:10.794172+00:00"
   },
   {
    "key": "diffusion",
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-06-23T12:12:03.033489+00:00"
+   "generated_at": "2026-06-24T11:50:55.214932+00:00"
   },
   {
    "key": "voice",
@@ -140,7 +140,7 @@
     "Voice Agents & Realtime",
     "Toolkits & Frameworks"
    ],
-   "generated_at": "2026-06-22T15:03:20.121728+00:00"
+   "generated_at": "2026-06-23T12:18:10.947085+00:00"
   },
   {
    "key": "dataset",
@@ -149,7 +149,7 @@
    "blurb": "Data-centric AI tooling — labeling & annotation, synthetic data, curation, augmentation, dataset frameworks.",
    "url": "https://dataset.kymatalabs.com",
    "accent": "#d23a1e",
-   "count": 250,
+   "count": 249,
    "top": {
     "name": "HumanSignal/label-studio",
     "momentum": 87
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-06-22T15:09:54.701019+00:00"
+   "generated_at": "2026-06-23T12:25:21.446217+00:00"
   },
   {
    "key": "finetune",
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-06-23T12:14:44.614027+00:00"
+   "generated_at": "2026-06-24T11:55:57.389513+00:00"
   },
   {
    "key": "gateway",
@@ -189,7 +189,7 @@
    "blurb": "LLM gateways, proxies & routers — the routing layer between apps and model providers.",
    "url": "https://gateway.kymatalabs.com",
    "accent": "#2ee6c6",
-   "count": 159,
+   "count": 160,
    "top": {
     "name": "BerriAI/litellm",
     "momentum": 87
@@ -200,7 +200,7 @@
     "Multi-Provider SDKs",
     "Observability Gateways"
    ],
-   "generated_at": "2026-06-22T15:31:30.717822+00:00"
+   "generated_at": "2026-06-23T12:44:42.172433+00:00"
   },
   {
    "key": "agent",
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "Layout & Structure"
    ],
-   "generated_at": "2026-06-22T15:48:50.255043+00:00"
+   "generated_at": "2026-06-23T13:31:35.761260+00:00"
   },
   {
    "key": "observability",
@@ -260,7 +260,7 @@
     "Tracing & Spans",
     "LLMOps Platforms"
    ],
-   "generated_at": "2026-06-22T16:05:14.295135+00:00"
+   "generated_at": "2026-06-23T13:57:21.394584+00:00"
   },
   {
    "key": "stack",
@@ -280,7 +280,7 @@
     "Subagents",
     "MCP & Tools"
    ],
-   "generated_at": "2026-06-23T11:39:08.142941+00:00"
+   "generated_at": "2026-06-24T11:23:24.675390+00:00"
   },
   {
    "key": "model",
@@ -311,9 +311,9 @@
    "url": "https://mcp.kymatalabs.com",
    "accent": "#06b6d4",
    "count_key": "server_count",
-   "count": 2223,
+   "count": 2239,
    "top": {
-    "name": "com.linklyhq/linkly",
+    "name": "com.redpanda/docs-mcp",
     "momentum": null
    },
    "categories": [
@@ -322,7 +322,7 @@
     "Data & DB",
     "Dev Tools"
    ],
-   "generated_at": "2026-06-22T15:07:36.850313+00:00"
+   "generated_at": "2026-06-23T12:22:36.820154+00:00"
   },
   {
    "key": "agentvel",
@@ -335,7 +335,7 @@
    "count": 14,
    "top": {
     "name": "qwen-code",
-    "momentum": 96
+    "momentum": 97
    },
    "categories": [
     "CLI",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-06-22T15:10:36.555466+00:00"
+   "generated_at": "2026-06-23T12:26:05.983816+00:00"
   }
  ]
 }
