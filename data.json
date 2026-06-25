@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-06-24T12:02:54.699478+00:00",
- "total_indexed": 5569,
+ "generated_at": "2026-06-25T11:58:44.642897+00:00",
+ "total_indexed": 5581,
  "indexes": [
   {
    "key": "skill",
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Agent Eval"
    ],
-   "generated_at": "2026-06-24T11:33:19.310653+00:00"
+   "generated_at": "2026-06-25T11:28:28.420262+00:00"
   },
   {
    "key": "local",
@@ -49,7 +49,7 @@
    "blurb": "Run LLMs on your own hardware — inference engines, runners, quantization.",
    "url": "https://localllm.kymatalabs.com",
    "accent": "#1f5bff",
-   "count": 246,
+   "count": 247,
    "top": {
     "name": "Mintplex-Labs/anything-llm",
     "momentum": 86
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-06-24T11:35:39.157258+00:00"
+   "generated_at": "2026-06-25T11:30:07.719209+00:00"
   },
   {
    "key": "prompt",
@@ -72,7 +72,7 @@
    "count": 134,
    "top": {
     "name": "DietrichGebert/ponytail",
-    "momentum": 93
+    "momentum": 94
    },
    "categories": [
     "Optimization & Tooling",
@@ -80,7 +80,7 @@
     "System Prompts",
     "Collections"
    ],
-   "generated_at": "2026-06-24T11:37:45.443719+00:00"
+   "generated_at": "2026-06-25T11:32:05.670774+00:00"
   },
   {
    "key": "rag",
@@ -100,7 +100,7 @@
     "RAG Frameworks",
     "Embeddings"
    ],
-   "generated_at": "2026-06-24T11:45:10.794172+00:00"
+   "generated_at": "2026-06-25T11:40:41.134940+00:00"
   },
   {
    "key": "diffusion",
@@ -109,7 +109,7 @@
    "blurb": "AI image & video generation — diffusion models, ComfyUI nodes, video gen, editing, training.",
    "url": "https://diffusion.kymatalabs.com",
    "accent": "#c77dff",
-   "count": 261,
+   "count": 263,
    "top": {
     "name": "Comfy-Org/ComfyUI",
     "momentum": 85
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-06-24T11:50:55.214932+00:00"
+   "generated_at": "2026-06-25T11:45:33.944548+00:00"
   },
   {
    "key": "voice",
@@ -140,7 +140,7 @@
     "Voice Agents & Realtime",
     "Toolkits & Frameworks"
    ],
-   "generated_at": "2026-06-23T12:18:10.947085+00:00"
+   "generated_at": "2026-06-24T12:03:42.763827+00:00"
   },
   {
    "key": "dataset",
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-06-24T11:55:57.389513+00:00"
+   "generated_at": "2026-06-25T11:49:29.770082+00:00"
   },
   {
    "key": "gateway",
@@ -189,7 +189,7 @@
    "blurb": "LLM gateways, proxies & routers — the routing layer between apps and model providers.",
    "url": "https://gateway.kymatalabs.com",
    "accent": "#2ee6c6",
-   "count": 160,
+   "count": 162,
    "top": {
     "name": "BerriAI/litellm",
     "momentum": 87
@@ -200,7 +200,7 @@
     "Multi-Provider SDKs",
     "Observability Gateways"
    ],
-   "generated_at": "2026-06-23T12:44:42.172433+00:00"
+   "generated_at": "2026-06-24T12:27:33.399200+00:00"
   },
   {
    "key": "agent",
@@ -209,7 +209,7 @@
    "blurb": "AI agent frameworks — multi-agent, autonomous agents, orchestration, memory & agent SDKs.",
    "url": "https://agents.kymatalabs.com",
    "accent": "#b07cff",
-   "count": 279,
+   "count": 278,
    "top": {
     "name": "DietrichGebert/ponytail",
     "momentum": 93
@@ -220,7 +220,7 @@
     "Orchestration",
     "Memory & State"
    ],
-   "generated_at": "2026-06-22T15:34:15.750540+00:00"
+   "generated_at": "2026-06-24T12:31:31.383205+00:00"
   },
   {
    "key": "document",
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "Layout & Structure"
    ],
-   "generated_at": "2026-06-23T13:31:35.761260+00:00"
+   "generated_at": "2026-06-24T13:07:22.731675+00:00"
   },
   {
    "key": "observability",
@@ -260,7 +260,7 @@
     "Tracing & Spans",
     "LLMOps Platforms"
    ],
-   "generated_at": "2026-06-23T13:57:21.394584+00:00"
+   "generated_at": "2026-06-24T13:32:22.974438+00:00"
   },
   {
    "key": "stack",
@@ -269,7 +269,7 @@
    "blurb": "The live momentum index for AI-infrastructure repos.",
    "url": "https://stacktracker.kymatalabs.com",
    "accent": "#00d4a0",
-   "count": 273,
+   "count": 274,
    "top": {
     "name": "DietrichGebert/ponytail",
     "momentum": 92
@@ -280,7 +280,7 @@
     "Subagents",
     "MCP & Tools"
    ],
-   "generated_at": "2026-06-24T11:23:24.675390+00:00"
+   "generated_at": "2026-06-25T11:15:54.588497+00:00"
   },
   {
    "key": "model",
@@ -292,7 +292,7 @@
    "count_key": "model_count",
    "count": 150,
    "top": {
-    "name": "Qwythos-9B-Claude-Mythos-5-1M",
+    "name": "Krea2_FP8",
     "momentum": null
    },
    "categories": [
@@ -301,7 +301,7 @@
     "Image",
     "Multimodal"
    ],
-   "generated_at": "2026-06-22T15:10:19.205930+00:00"
+   "generated_at": "2026-06-24T12:11:09.011673+00:00"
   },
   {
    "key": "mcp",
@@ -311,9 +311,9 @@
    "url": "https://mcp.kymatalabs.com",
    "accent": "#06b6d4",
    "count_key": "server_count",
-   "count": 2239,
+   "count": 2246,
    "top": {
-    "name": "com.redpanda/docs-mcp",
+    "name": "com.devexpress/docs",
     "momentum": null
    },
    "categories": [
@@ -322,7 +322,7 @@
     "Data & DB",
     "Dev Tools"
    ],
-   "generated_at": "2026-06-23T12:22:36.820154+00:00"
+   "generated_at": "2026-06-24T12:07:03.345674+00:00"
   },
   {
    "key": "agentvel",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-06-23T12:26:05.983816+00:00"
+   "generated_at": "2026-06-24T12:11:10.390563+00:00"
   }
  ]
 }
