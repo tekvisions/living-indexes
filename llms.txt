@@ -3,22 +3,22 @@
 > A hub for self-updating indexes of the AI-builder ecosystem. Each index is
 > recomputed daily from live GitHub signals.
 
-Updated: 2026-06-25T11:58:44.642897+00:00  ·  5581 entries across 17 indexes
+Updated: 2026-06-26T11:56:42.486948+00:00  ·  5310 entries across 17 indexes
 
 - [The Skill Index](https://skill.kymatalabs.com) — 273 entries — Claude Code & AI-agent skills — skills, subagents, slash-commands, hooks.
 - [The Eval Index](https://eval.kymatalabs.com) — 271 entries — LLM & agent evaluation, benchmark, observability and red-teaming tools.
-- [The Local LLM Index](https://localllm.kymatalabs.com) — 247 entries — Run LLMs on your own hardware — inference engines, runners, quantization.
+- [The Local LLM Index](https://localllm.kymatalabs.com) — 245 entries — Run LLMs on your own hardware — inference engines, runners, quantization.
 - [The Prompt Index](https://prompt.kymatalabs.com) — 134 entries — Prompt-engineering resources — collections, system prompts, optimizers, guides.
-- [The RAG Index](https://rag.kymatalabs.com) — 213 entries — Retrieval-augmented-generation — RAG frameworks, vector DBs, embeddings, reranking.
+- [The RAG Index](https://rag.kymatalabs.com) — 214 entries — Retrieval-augmented-generation — RAG frameworks, vector DBs, embeddings, reranking.
 - [The Diffusion Index](https://diffusion.kymatalabs.com) — 263 entries — AI image & video generation — diffusion models, ComfyUI nodes, video gen, editing, training.
 - [The Voice AI Index](https://voice.kymatalabs.com) — 295 entries — Voice & speech AI — text-to-speech, speech recognition, voice cloning, realtime voice agents.
-- [The Dataset Index](https://dataset.kymatalabs.com) — 249 entries — Data-centric AI tooling — labeling & annotation, synthetic data, curation, augmentation, dataset frameworks.
+- [The Dataset Index](https://dataset.kymatalabs.com) — 248 entries — Data-centric AI tooling — labeling & annotation, synthetic data, curation, augmentation, dataset frameworks.
 - [The Fine-Tuning Index](https://finetune.kymatalabs.com) — 176 entries — Make your own model — fine-tuning frameworks, PEFT/LoRA, RLHF/DPO, training data.
-- [The Gateway Index](https://gateway.kymatalabs.com) — 162 entries — LLM gateways, proxies & routers — the routing layer between apps and model providers.
-- [The Agent Index](https://agents.kymatalabs.com) — 278 entries — AI agent frameworks — multi-agent, autonomous agents, orchestration, memory & agent SDKs.
-- [The Document Index](https://document.kymatalabs.com) — 198 entries — Document-AI tooling — OCR, PDF extraction, document parsing, layout, tables & understanding.
-- [The Observability Index](https://observability.kymatalabs.com) — 138 entries — LLM & AI observability — tracing, monitoring & cost analytics, online eval, agent observability, ML-drift.
-- [StackTracker](https://stacktracker.kymatalabs.com) — 274 entries — The live momentum index for AI-infrastructure repos.
+- [The Gateway Index](https://gateway.kymatalabs.com) — 164 entries — LLM gateways, proxies & routers — the routing layer between apps and model providers.
+- [The Agent Index](https://agents.kymatalabs.com) — 279 entries — AI agent frameworks — multi-agent, autonomous agents, orchestration, memory & agent SDKs.
+- [The Document Index](https://document.kymatalabs.com) — 199 entries — Document-AI tooling — OCR, PDF extraction, document parsing, layout, tables & understanding.
+- [The Observability Index](https://observability.kymatalabs.com) — 139 entries — LLM & AI observability — tracing, monitoring & cost analytics, online eval, agent observability, ML-drift.
+- [StackTracker](https://stacktracker.kymatalabs.com) — None entries — The live momentum index for AI-infrastructure repos.
 - [Model Radar](https://modelradar.kymatalabs.com) — 150 entries — What's surging on Hugging Face right now — models ranked by momentum.
 - [The MCP Index](https://mcp.kymatalabs.com) — 2246 entries — Every Model Context Protocol server, in one living index.
 - [Agent Velocity](https://agentvelocity.kymatalabs.com) — 14 entries — The open-source coding-agent race, ranked by velocity.
