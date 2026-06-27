@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-06-26T11:56:42.486948+00:00",
- "total_indexed": 5310,
+ "generated_at": "2026-06-27T11:06:03.281211+00:00",
+ "total_indexed": 5587,
  "indexes": [
   {
    "key": "skill",
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Agent Eval"
    ],
-   "generated_at": "2026-06-26T11:34:38.914367+00:00"
+   "generated_at": "2026-06-27T10:48:39.578136+00:00"
   },
   {
    "key": "local",
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-06-26T11:36:05.007965+00:00"
+   "generated_at": "2026-06-27T10:50:23.933243+00:00"
   },
   {
    "key": "prompt",
@@ -69,7 +69,7 @@
    "blurb": "Prompt-engineering resources — collections, system prompts, optimizers, guides.",
    "url": "https://prompt.kymatalabs.com",
    "accent": "#ff3b2f",
-   "count": 134,
+   "count": 133,
    "top": {
     "name": "DietrichGebert/ponytail",
     "momentum": 94
@@ -80,7 +80,7 @@
     "System Prompts",
     "Collections"
    ],
-   "generated_at": "2026-06-26T11:38:39.032174+00:00"
+   "generated_at": "2026-06-27T10:52:41.873668+00:00"
   },
   {
    "key": "rag",
@@ -95,12 +95,12 @@
     "momentum": 85
    },
    "categories": [
-    "Retrieval & Search",
     "Vector Databases",
+    "Retrieval & Search",
     "RAG Frameworks",
     "Embeddings"
    ],
-   "generated_at": "2026-06-26T11:45:01.282762+00:00"
+   "generated_at": "2026-06-27T10:57:44.595167+00:00"
   },
   {
    "key": "diffusion",
@@ -112,7 +112,7 @@
    "count": 263,
    "top": {
     "name": "Comfy-Org/ComfyUI",
-    "momentum": 85
+    "momentum": 86
    },
    "categories": [
     "Image Models",
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-06-26T11:48:26.183973+00:00"
+   "generated_at": "2026-06-27T11:01:27.407894+00:00"
   },
   {
    "key": "voice",
@@ -131,8 +131,8 @@
    "accent": "#b6ff2e",
    "count": 295,
    "top": {
-    "name": "RVC-Boss/GPT-SoVITS",
-    "momentum": 83
+    "name": "ggml-org/whisper.cpp",
+    "momentum": 84
    },
    "categories": [
     "Speech-to-Text",
@@ -140,7 +140,7 @@
     "Voice Agents & Realtime",
     "Toolkits & Frameworks"
    ],
-   "generated_at": "2026-06-25T11:59:27.767981+00:00"
+   "generated_at": "2026-06-26T11:57:37.902364+00:00"
   },
   {
    "key": "dataset",
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-06-25T12:06:28.644028+00:00"
+   "generated_at": "2026-06-26T12:02:09.569847+00:00"
   },
   {
    "key": "finetune",
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-06-26T11:49:33.400654+00:00"
+   "generated_at": "2026-06-27T11:03:10.894372+00:00"
   },
   {
    "key": "gateway",
@@ -189,7 +189,7 @@
    "blurb": "LLM gateways, proxies & routers — the routing layer between apps and model providers.",
    "url": "https://gateway.kymatalabs.com",
    "accent": "#2ee6c6",
-   "count": 164,
+   "count": 165,
    "top": {
     "name": "BerriAI/litellm",
     "momentum": 87
@@ -200,7 +200,7 @@
     "Multi-Provider SDKs",
     "Observability Gateways"
    ],
-   "generated_at": "2026-06-25T12:31:43.722323+00:00"
+   "generated_at": "2026-06-26T12:23:37.452725+00:00"
   },
   {
    "key": "agent",
@@ -220,7 +220,7 @@
     "Orchestration",
     "Memory & State"
    ],
-   "generated_at": "2026-06-25T12:34:39.070181+00:00"
+   "generated_at": "2026-06-26T12:28:40.492168+00:00"
   },
   {
    "key": "document",
@@ -231,8 +231,8 @@
    "accent": "#4f46e5",
    "count": 199,
    "top": {
-    "name": "PaddlePaddle/PaddleOCR",
-    "momentum": 87
+    "name": "baidu/Unlimited-OCR",
+    "momentum": 88
    },
    "categories": [
     "Document Parsing",
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "Layout & Structure"
    ],
-   "generated_at": "2026-06-25T13:06:44.392612+00:00"
+   "generated_at": "2026-06-26T12:34:24.377216+00:00"
   },
   {
    "key": "observability",
@@ -249,7 +249,7 @@
    "blurb": "LLM & AI observability — tracing, monitoring & cost analytics, online eval, agent observability, ML-drift.",
    "url": "https://observability.kymatalabs.com",
    "accent": "#ffb02e",
-   "count": 139,
+   "count": 141,
    "top": {
     "name": "langfuse/langfuse",
     "momentum": 87
@@ -260,7 +260,7 @@
     "Tracing & Spans",
     "LLMOps Platforms"
    ],
-   "generated_at": "2026-06-25T13:31:13.754585+00:00"
+   "generated_at": "2026-06-26T13:25:55.929859+00:00"
   },
   {
    "key": "stack",
@@ -269,18 +269,18 @@
    "blurb": "The live momentum index for AI-infrastructure repos.",
    "url": "https://stacktracker.kymatalabs.com",
    "accent": "#00d4a0",
-   "count": null,
+   "count": 275,
    "top": {
-    "name": "browser-use",
-    "momentum": 100
+    "name": "DietrichGebert/ponytail",
+    "momentum": 92
    },
    "categories": [
-    "Agents",
-    "Inference",
-    "Vector DB",
-    "LLMOps"
+    "Collections",
+    "Commands & Hooks",
+    "Subagents",
+    "MCP & Tools"
    ],
-   "generated_at": "2026-06-25T12:00:17.618002+00:00"
+   "generated_at": "2026-06-27T10:33:08.772636+00:00"
   },
   {
    "key": "model",
@@ -292,7 +292,7 @@
    "count_key": "model_count",
    "count": 150,
    "top": {
-    "name": "DeepSeek-v4-Fable",
+    "name": "Qwen-AgentWorld-35B-A3B-GGUF",
     "momentum": null
    },
    "categories": [
@@ -301,7 +301,7 @@
     "Image",
     "Multimodal"
    ],
-   "generated_at": "2026-06-25T12:08:44.716900+00:00"
+   "generated_at": "2026-06-26T12:04:17.571674+00:00"
   },
   {
    "key": "mcp",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-06-25T12:06:44.801715+00:00"
+   "generated_at": "2026-06-26T12:02:59.027503+00:00"
   }
  ]
 }
