@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-06-27T11:06:03.281211+00:00",
+ "generated_at": "2026-06-28T11:17:40.720627+00:00",
  "total_indexed": 5587,
  "indexes": [
   {
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Agent Eval"
    ],
-   "generated_at": "2026-06-27T10:48:39.578136+00:00"
+   "generated_at": "2026-06-28T10:55:08.484919+00:00"
   },
   {
    "key": "local",
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-06-27T10:50:23.933243+00:00"
+   "generated_at": "2026-06-28T10:56:43.503177+00:00"
   },
   {
    "key": "prompt",
@@ -72,7 +72,7 @@
    "count": 133,
    "top": {
     "name": "DietrichGebert/ponytail",
-    "momentum": 94
+    "momentum": 93
    },
    "categories": [
     "Optimization & Tooling",
@@ -80,7 +80,7 @@
     "System Prompts",
     "Collections"
    ],
-   "generated_at": "2026-06-27T10:52:41.873668+00:00"
+   "generated_at": "2026-06-28T10:58:37.680604+00:00"
   },
   {
    "key": "rag",
@@ -100,7 +100,7 @@
     "RAG Frameworks",
     "Embeddings"
    ],
-   "generated_at": "2026-06-27T10:57:44.595167+00:00"
+   "generated_at": "2026-06-28T11:07:34.251226+00:00"
   },
   {
    "key": "diffusion",
@@ -131,8 +131,8 @@
    "accent": "#b6ff2e",
    "count": 295,
    "top": {
-    "name": "ggml-org/whisper.cpp",
-    "momentum": 84
+    "name": "RVC-Boss/GPT-SoVITS",
+    "momentum": 83
    },
    "categories": [
     "Speech-to-Text",
@@ -140,7 +140,7 @@
     "Voice Agents & Realtime",
     "Toolkits & Frameworks"
    ],
-   "generated_at": "2026-06-26T11:57:37.902364+00:00"
+   "generated_at": "2026-06-27T11:07:56.531326+00:00"
   },
   {
    "key": "dataset",
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-06-26T12:02:09.569847+00:00"
+   "generated_at": "2026-06-27T11:15:40.198717+00:00"
   },
   {
    "key": "finetune",
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-06-27T11:03:10.894372+00:00"
+   "generated_at": "2026-06-28T11:15:53.673392+00:00"
   },
   {
    "key": "gateway",
@@ -189,7 +189,7 @@
    "blurb": "LLM gateways, proxies & routers — the routing layer between apps and model providers.",
    "url": "https://gateway.kymatalabs.com",
    "accent": "#2ee6c6",
-   "count": 165,
+   "count": 164,
    "top": {
     "name": "BerriAI/litellm",
     "momentum": 87
@@ -200,7 +200,7 @@
     "Multi-Provider SDKs",
     "Observability Gateways"
    ],
-   "generated_at": "2026-06-26T12:23:37.452725+00:00"
+   "generated_at": "2026-06-27T11:44:28.149324+00:00"
   },
   {
    "key": "agent",
@@ -220,7 +220,7 @@
     "Orchestration",
     "Memory & State"
    ],
-   "generated_at": "2026-06-26T12:28:40.492168+00:00"
+   "generated_at": "2026-06-27T11:48:22.530546+00:00"
   },
   {
    "key": "document",
@@ -232,7 +232,7 @@
    "count": 199,
    "top": {
     "name": "baidu/Unlimited-OCR",
-    "momentum": 88
+    "momentum": 89
    },
    "categories": [
     "Document Parsing",
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "Layout & Structure"
    ],
-   "generated_at": "2026-06-26T12:34:24.377216+00:00"
+   "generated_at": "2026-06-27T12:02:40.139259+00:00"
   },
   {
    "key": "observability",
@@ -249,7 +249,7 @@
    "blurb": "LLM & AI observability — tracing, monitoring & cost analytics, online eval, agent observability, ML-drift.",
    "url": "https://observability.kymatalabs.com",
    "accent": "#ffb02e",
-   "count": 141,
+   "count": 142,
    "top": {
     "name": "langfuse/langfuse",
     "momentum": 87
@@ -260,7 +260,7 @@
     "Tracing & Spans",
     "LLMOps Platforms"
    ],
-   "generated_at": "2026-06-26T13:25:55.929859+00:00"
+   "generated_at": "2026-06-27T12:47:30.628121+00:00"
   },
   {
    "key": "stack",
@@ -280,7 +280,7 @@
     "Subagents",
     "MCP & Tools"
    ],
-   "generated_at": "2026-06-27T10:33:08.772636+00:00"
+   "generated_at": "2026-06-28T10:40:34.766895+00:00"
   },
   {
    "key": "model",
@@ -292,16 +292,16 @@
    "count_key": "model_count",
    "count": 150,
    "top": {
-    "name": "Qwen-AgentWorld-35B-A3B-GGUF",
+    "name": "Gemma4-26B-A4B-QAT-Uncensored-HauhauCS-Balanced-MTP",
     "momentum": null
    },
    "categories": [
+    "3D",
     "Audio",
     "Embeddings",
-    "Image",
-    "Multimodal"
+    "Image"
    ],
-   "generated_at": "2026-06-26T12:04:17.571674+00:00"
+   "generated_at": "2026-06-27T11:15:54.417863+00:00"
   },
   {
    "key": "mcp",
@@ -335,7 +335,7 @@
    "count": 14,
    "top": {
     "name": "qwen-code",
-    "momentum": 98
+    "momentum": 100
    },
    "categories": [
     "CLI",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-06-26T12:02:59.027503+00:00"
+   "generated_at": "2026-06-27T11:16:48.425577+00:00"
   }
  ]
 }
