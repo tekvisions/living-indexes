@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-03T11:42:45.818406+00:00",
- "total_indexed": 5609,
+ "generated_at": "2026-07-04T11:02:07.190212+00:00",
+ "total_indexed": 5610,
  "indexes": [
   {
    "key": "skill",
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Agent Eval"
    ],
-   "generated_at": "2026-07-03T11:18:37.440264+00:00"
+   "generated_at": "2026-07-04T10:44:47.235088+00:00"
   },
   {
    "key": "local",
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-07-03T11:22:17.656174+00:00"
+   "generated_at": "2026-07-04T10:46:37.949095+00:00"
   },
   {
    "key": "prompt",
@@ -69,10 +69,10 @@
    "blurb": "Prompt-engineering resources — collections, system prompts, optimizers, guides.",
    "url": "https://prompt.kymatalabs.com",
    "accent": "#ff3b2f",
-   "count": 134,
+   "count": 135,
    "top": {
     "name": "DietrichGebert/ponytail",
-    "momentum": 94
+    "momentum": 93
    },
    "categories": [
     "Optimization & Tooling",
@@ -80,7 +80,7 @@
     "System Prompts",
     "Collections"
    ],
-   "generated_at": "2026-07-03T11:24:55.979299+00:00"
+   "generated_at": "2026-07-04T10:48:41.822848+00:00"
   },
   {
    "key": "rag",
@@ -100,7 +100,7 @@
     "RAG Frameworks",
     "Embeddings"
    ],
-   "generated_at": "2026-07-03T11:32:27.203642+00:00"
+   "generated_at": "2026-07-04T10:54:06.807693+00:00"
   },
   {
    "key": "diffusion",
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-07-03T11:38:00.812208+00:00"
+   "generated_at": "2026-07-04T10:57:28.078476+00:00"
   },
   {
    "key": "voice",
@@ -140,7 +140,7 @@
     "Voice Agents & Realtime",
     "Toolkits & Frameworks"
    ],
-   "generated_at": "2026-07-02T11:45:07.361808+00:00"
+   "generated_at": "2026-07-03T11:43:31.543627+00:00"
   },
   {
    "key": "dataset",
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-07-02T11:56:34.676115+00:00"
+   "generated_at": "2026-07-03T11:55:46.900028+00:00"
   },
   {
    "key": "finetune",
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-07-03T11:40:59.745578+00:00"
+   "generated_at": "2026-07-04T10:59:38.928282+00:00"
   },
   {
    "key": "gateway",
@@ -189,7 +189,7 @@
    "blurb": "LLM gateways, proxies & routers — the routing layer between apps and model providers.",
    "url": "https://gateway.kymatalabs.com",
    "accent": "#2ee6c6",
-   "count": 169,
+   "count": 168,
    "top": {
     "name": "BerriAI/litellm",
     "momentum": 87
@@ -200,7 +200,7 @@
     "Multi-Provider SDKs",
     "Observability Gateways"
    ],
-   "generated_at": "2026-07-02T12:19:29.114532+00:00"
+   "generated_at": "2026-07-03T12:18:30.999990+00:00"
   },
   {
    "key": "agent",
@@ -209,7 +209,7 @@
    "blurb": "AI agent frameworks — multi-agent, autonomous agents, orchestration, memory & agent SDKs.",
    "url": "https://agents.kymatalabs.com",
    "accent": "#b07cff",
-   "count": 276,
+   "count": 277,
    "top": {
     "name": "DietrichGebert/ponytail",
     "momentum": 93
@@ -220,7 +220,7 @@
     "Orchestration",
     "Memory & State"
    ],
-   "generated_at": "2026-07-02T12:23:20.083010+00:00"
+   "generated_at": "2026-07-03T12:21:39.244159+00:00"
   },
   {
    "key": "document",
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "Layout & Structure"
    ],
-   "generated_at": "2026-07-02T12:32:47.901413+00:00"
+   "generated_at": "2026-07-03T12:30:09.510713+00:00"
   },
   {
    "key": "observability",
@@ -260,7 +260,7 @@
     "Tracing & Spans",
     "LLMOps Platforms"
    ],
-   "generated_at": "2026-07-02T13:12:50.117949+00:00"
+   "generated_at": "2026-07-03T13:17:02.981363+00:00"
   },
   {
    "key": "stack",
@@ -280,7 +280,7 @@
     "Subagents",
     "MCP & Tools"
    ],
-   "generated_at": "2026-07-03T11:10:10.081998+00:00"
+   "generated_at": "2026-07-04T10:32:59.621364+00:00"
   },
   {
    "key": "model",
@@ -292,7 +292,7 @@
    "count_key": "model_count",
    "count": 150,
    "top": {
-    "name": "GELab-Zero-4B-preview-Sico-Evolution",
+    "name": "Ornith-1.0-35B-MTP-APEX-GGUF",
     "momentum": null
    },
    "categories": [
@@ -301,7 +301,7 @@
     "Embeddings",
     "Image"
    ],
-   "generated_at": "2026-07-02T11:58:16.819305+00:00"
+   "generated_at": "2026-07-03T11:56:45.137543+00:00"
   },
   {
    "key": "mcp",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-07-02T11:57:13.316459+00:00"
+   "generated_at": "2026-07-03T11:56:23.454717+00:00"
   }
  ]
 }
