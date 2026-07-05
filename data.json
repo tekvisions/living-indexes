@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-04T11:02:07.190212+00:00",
- "total_indexed": 5610,
+ "generated_at": "2026-07-05T11:14:26.745050+00:00",
+ "total_indexed": 5595,
  "indexes": [
   {
    "key": "skill",
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Agent Eval"
    ],
-   "generated_at": "2026-07-04T10:44:47.235088+00:00"
+   "generated_at": "2026-07-05T10:54:04.837410+00:00"
   },
   {
    "key": "local",
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-07-04T10:46:37.949095+00:00"
+   "generated_at": "2026-07-05T10:55:10.668857+00:00"
   },
   {
    "key": "prompt",
@@ -80,7 +80,7 @@
     "System Prompts",
     "Collections"
    ],
-   "generated_at": "2026-07-04T10:48:41.822848+00:00"
+   "generated_at": "2026-07-05T10:58:19.540034+00:00"
   },
   {
    "key": "rag",
@@ -97,10 +97,10 @@
    "categories": [
     "Vector Databases",
     "Retrieval & Search",
-    "RAG Frameworks",
-    "Embeddings"
+    "Embeddings",
+    "RAG Frameworks"
    ],
-   "generated_at": "2026-07-04T10:54:06.807693+00:00"
+   "generated_at": "2026-07-05T11:04:07.338525+00:00"
   },
   {
    "key": "diffusion",
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-07-04T10:57:28.078476+00:00"
+   "generated_at": "2026-07-05T11:08:13.770685+00:00"
   },
   {
    "key": "voice",
@@ -140,7 +140,7 @@
     "Voice Agents & Realtime",
     "Toolkits & Frameworks"
    ],
-   "generated_at": "2026-07-03T11:43:31.543627+00:00"
+   "generated_at": "2026-07-04T11:02:55.985818+00:00"
   },
   {
    "key": "dataset",
@@ -149,7 +149,7 @@
    "blurb": "Data-centric AI tooling — labeling & annotation, synthetic data, curation, augmentation, dataset frameworks.",
    "url": "https://dataset.kymatalabs.com",
    "accent": "#d23a1e",
-   "count": 249,
+   "count": 250,
    "top": {
     "name": "HumanSignal/label-studio",
     "momentum": 87
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-07-03T11:55:46.900028+00:00"
+   "generated_at": "2026-07-04T11:11:25.960092+00:00"
   },
   {
    "key": "finetune",
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-07-04T10:59:38.928282+00:00"
+   "generated_at": "2026-07-05T11:13:09.700804+00:00"
   },
   {
    "key": "gateway",
@@ -189,7 +189,7 @@
    "blurb": "LLM gateways, proxies & routers — the routing layer between apps and model providers.",
    "url": "https://gateway.kymatalabs.com",
    "accent": "#2ee6c6",
-   "count": 168,
+   "count": 169,
    "top": {
     "name": "BerriAI/litellm",
     "momentum": 87
@@ -200,7 +200,7 @@
     "Multi-Provider SDKs",
     "Observability Gateways"
    ],
-   "generated_at": "2026-07-03T12:18:30.999990+00:00"
+   "generated_at": "2026-07-04T11:43:12.913408+00:00"
   },
   {
    "key": "agent",
@@ -220,7 +220,7 @@
     "Orchestration",
     "Memory & State"
    ],
-   "generated_at": "2026-07-03T12:21:39.244159+00:00"
+   "generated_at": "2026-07-04T11:48:15.584963+00:00"
   },
   {
    "key": "document",
@@ -229,7 +229,7 @@
    "blurb": "Document-AI tooling — OCR, PDF extraction, document parsing, layout, tables & understanding.",
    "url": "https://document.kymatalabs.com",
    "accent": "#4f46e5",
-   "count": 202,
+   "count": 201,
    "top": {
     "name": "baidu/Unlimited-OCR",
     "momentum": 89
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "Layout & Structure"
    ],
-   "generated_at": "2026-07-03T12:30:09.510713+00:00"
+   "generated_at": "2026-07-04T11:57:31.566167+00:00"
   },
   {
    "key": "observability",
@@ -260,7 +260,7 @@
     "Tracing & Spans",
     "LLMOps Platforms"
    ],
-   "generated_at": "2026-07-03T13:17:02.981363+00:00"
+   "generated_at": "2026-07-04T12:38:34.719930+00:00"
   },
   {
    "key": "stack",
@@ -280,7 +280,7 @@
     "Subagents",
     "MCP & Tools"
    ],
-   "generated_at": "2026-07-04T10:32:59.621364+00:00"
+   "generated_at": "2026-07-05T10:37:51.816789+00:00"
   },
   {
    "key": "model",
@@ -292,7 +292,7 @@
    "count_key": "model_count",
    "count": 150,
    "top": {
-    "name": "Ornith-1.0-35B-MTP-APEX-GGUF",
+    "name": "Grug-12B",
     "momentum": null
    },
    "categories": [
@@ -301,7 +301,7 @@
     "Embeddings",
     "Image"
    ],
-   "generated_at": "2026-07-03T11:56:45.137543+00:00"
+   "generated_at": "2026-07-04T11:13:43.360273+00:00"
   },
   {
    "key": "mcp",
@@ -311,9 +311,9 @@
    "url": "https://mcp.kymatalabs.com",
    "accent": "#06b6d4",
    "count_key": "server_count",
-   "count": 2256,
+   "count": 2240,
    "top": {
-    "name": "com.iunera/druid-mcp-server",
+    "name": "ai.tensorfeed/mcp-server",
     "momentum": null
    },
    "categories": [
@@ -322,7 +322,7 @@
     "Data & DB",
     "Dev Tools"
    ],
-   "generated_at": "2026-06-30T11:59:22.403935+00:00"
+   "generated_at": "2026-07-04T11:07:14.076628+00:00"
   },
   {
    "key": "agentvel",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-07-03T11:56:23.454717+00:00"
+   "generated_at": "2026-07-04T11:12:56.935575+00:00"
   }
  ]
 }
