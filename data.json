@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-07T12:11:48.990260+00:00",
- "total_indexed": 5564,
+ "generated_at": "2026-07-08T11:19:31.091301+00:00",
+ "total_indexed": 5581,
  "indexes": [
   {
    "key": "skill",
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Agent Eval"
    ],
-   "generated_at": "2026-07-07T11:33:08.179050+00:00"
+   "generated_at": "2026-07-08T10:51:22.464305+00:00"
   },
   {
    "key": "local",
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-07-07T11:35:23.277030+00:00"
+   "generated_at": "2026-07-08T10:52:35.703952+00:00"
   },
   {
    "key": "prompt",
@@ -72,7 +72,7 @@
    "count": 133,
    "top": {
     "name": "DietrichGebert/ponytail",
-    "momentum": 94
+    "momentum": 93
    },
    "categories": [
     "Optimization & Tooling",
@@ -80,7 +80,7 @@
     "System Prompts",
     "Collections"
    ],
-   "generated_at": "2026-07-07T11:36:51.565852+00:00"
+   "generated_at": "2026-07-08T10:53:31.053985+00:00"
   },
   {
    "key": "rag",
@@ -89,18 +89,18 @@
    "blurb": "Retrieval-augmented-generation — RAG frameworks, vector DBs, embeddings, reranking.",
    "url": "https://rag.kymatalabs.com",
    "accent": "#5b4bff",
-   "count": 213,
+   "count": 214,
    "top": {
-    "name": "infiniflow/ragflow",
-    "momentum": 85
+    "name": "Shubhamsaboo/awesome-llm-apps",
+    "momentum": 87
    },
    "categories": [
     "Vector Databases",
     "Retrieval & Search",
     "RAG Frameworks",
-    "Embeddings"
+    "Reranking"
    ],
-   "generated_at": "2026-07-07T11:51:15.105050+00:00"
+   "generated_at": "2026-07-08T11:04:42.649495+00:00"
   },
   {
    "key": "diffusion",
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-07-07T11:59:17.393417+00:00"
+   "generated_at": "2026-07-08T11:10:06.111334+00:00"
   },
   {
    "key": "voice",
@@ -129,7 +129,7 @@
    "blurb": "Voice & speech AI — text-to-speech, speech recognition, voice cloning, realtime voice agents.",
    "url": "https://voice.kymatalabs.com",
    "accent": "#b6ff2e",
-   "count": 296,
+   "count": 295,
    "top": {
     "name": "ggml-org/whisper.cpp",
     "momentum": 83
@@ -137,10 +137,10 @@
    "categories": [
     "Speech-to-Text",
     "Voice Cloning & Conversion",
-    "Voice Agents & Realtime",
-    "Toolkits & Frameworks"
+    "Toolkits & Frameworks",
+    "Voice Agents & Realtime"
    ],
-   "generated_at": "2026-07-05T11:15:58.341981+00:00"
+   "generated_at": "2026-07-07T12:12:48.991775+00:00"
   },
   {
    "key": "dataset",
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-07-06T13:29:58.621417+00:00"
+   "generated_at": "2026-07-07T12:17:38.761267+00:00"
   },
   {
    "key": "finetune",
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-07-07T12:08:54.066460+00:00"
+   "generated_at": "2026-07-08T11:15:32.600502+00:00"
   },
   {
    "key": "gateway",
@@ -212,7 +212,7 @@
    "count": 274,
    "top": {
     "name": "DietrichGebert/ponytail",
-    "momentum": 92
+    "momentum": 93
    },
    "categories": [
     "Agent Frameworks",
@@ -220,7 +220,7 @@
     "Orchestration",
     "Memory & State"
    ],
-   "generated_at": "2026-07-06T14:04:16.087868+00:00"
+   "generated_at": "2026-07-07T12:40:27.304004+00:00"
   },
   {
    "key": "document",
@@ -229,10 +229,10 @@
    "blurb": "Document-AI tooling — OCR, PDF extraction, document parsing, layout, tables & understanding.",
    "url": "https://document.kymatalabs.com",
    "accent": "#4f46e5",
-   "count": 201,
+   "count": 202,
    "top": {
     "name": "baidu/Unlimited-OCR",
-    "momentum": 89
+    "momentum": 88
    },
    "categories": [
     "Document Parsing",
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "Layout & Structure"
    ],
-   "generated_at": "2026-07-06T14:17:10.100658+00:00"
+   "generated_at": "2026-07-07T13:06:02.679548+00:00"
   },
   {
    "key": "observability",
@@ -249,7 +249,7 @@
    "blurb": "LLM & AI observability — tracing, monitoring & cost analytics, online eval, agent observability, ML-drift.",
    "url": "https://observability.kymatalabs.com",
    "accent": "#ffb02e",
-   "count": 144,
+   "count": 143,
    "top": {
     "name": "langfuse/langfuse",
     "momentum": 87
@@ -260,7 +260,7 @@
     "Tracing & Spans",
     "LLMOps Platforms"
    ],
-   "generated_at": "2026-07-06T14:39:17.138708+00:00"
+   "generated_at": "2026-07-07T13:30:02.194705+00:00"
   },
   {
    "key": "stack",
@@ -280,7 +280,7 @@
     "Subagents",
     "MCP & Tools"
    ],
-   "generated_at": "2026-07-07T11:24:46.606835+00:00"
+   "generated_at": "2026-07-08T10:35:59.033090+00:00"
   },
   {
    "key": "model",
@@ -292,16 +292,16 @@
    "count_key": "model_count",
    "count": 150,
    "top": {
-    "name": "Grug-12B",
+    "name": "Hy3-FP8",
     "momentum": null
    },
    "categories": [
-    "3D",
     "Audio",
     "Embeddings",
-    "Image"
+    "Image",
+    "Multimodal"
    ],
-   "generated_at": "2026-07-04T11:13:43.360273+00:00"
+   "generated_at": "2026-07-07T12:18:07.480750+00:00"
   },
   {
    "key": "mcp",
@@ -311,9 +311,9 @@
    "url": "https://mcp.kymatalabs.com",
    "accent": "#06b6d4",
    "count_key": "server_count",
-   "count": 2212,
+   "count": 2229,
    "top": {
-    "name": "com.blackwalltier/blackwall",
+    "name": "co.tempguru/event-staffing",
     "momentum": null
    },
    "categories": [
@@ -322,7 +322,7 @@
     "Data & DB",
     "Dev Tools"
    ],
-   "generated_at": "2026-07-05T11:18:14.503985+00:00"
+   "generated_at": "2026-07-07T12:16:16.432482+00:00"
   },
   {
    "key": "agentvel",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-07-06T13:30:25.477479+00:00"
+   "generated_at": "2026-07-07T12:18:21.658813+00:00"
   }
  ]
 }
