@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-09T12:17:31.028648+00:00",
- "total_indexed": 5585,
+ "generated_at": "2026-07-10T12:10:09.991530+00:00",
+ "total_indexed": 5681,
  "indexes": [
   {
    "key": "skill",
@@ -29,7 +29,7 @@
    "blurb": "LLM & agent evaluation, benchmark, observability and red-teaming tools.",
    "url": "https://eval.kymatalabs.com",
    "accent": "#7fae2c",
-   "count": 271,
+   "count": 270,
    "top": {
     "name": "langfuse/langfuse",
     "momentum": 87
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Agent Eval"
    ],
-   "generated_at": "2026-07-09T11:38:09.672087+00:00"
+   "generated_at": "2026-07-10T11:36:23.792842+00:00"
   },
   {
    "key": "local",
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-07-09T11:41:51.808066+00:00"
+   "generated_at": "2026-07-10T11:38:42.869237+00:00"
   },
   {
    "key": "prompt",
@@ -80,7 +80,7 @@
     "System Prompts",
     "Collections"
    ],
-   "generated_at": "2026-07-09T11:44:51.552531+00:00"
+   "generated_at": "2026-07-10T11:42:05.591889+00:00"
   },
   {
    "key": "rag",
@@ -89,18 +89,18 @@
    "blurb": "Retrieval-augmented-generation — RAG frameworks, vector DBs, embeddings, reranking.",
    "url": "https://rag.kymatalabs.com",
    "accent": "#5b4bff",
-   "count": 213,
+   "count": 214,
    "top": {
     "name": "Shubhamsaboo/awesome-llm-apps",
     "momentum": 87
    },
    "categories": [
-    "Vector Databases",
     "Retrieval & Search",
-    "RAG Frameworks",
+    "Vector Databases",
+    "Reranking",
     "Embeddings"
    ],
-   "generated_at": "2026-07-09T12:03:23.858608+00:00"
+   "generated_at": "2026-07-10T11:52:05.274087+00:00"
   },
   {
    "key": "diffusion",
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-07-09T12:11:54.401217+00:00"
+   "generated_at": "2026-07-10T12:01:41.002051+00:00"
   },
   {
    "key": "voice",
@@ -129,7 +129,7 @@
    "blurb": "Voice & speech AI — text-to-speech, speech recognition, voice cloning, realtime voice agents.",
    "url": "https://voice.kymatalabs.com",
    "accent": "#b6ff2e",
-   "count": 295,
+   "count": 294,
    "top": {
     "name": "ggml-org/whisper.cpp",
     "momentum": 82
@@ -138,9 +138,9 @@
     "Speech-to-Text",
     "Voice Cloning & Conversion",
     "Toolkits & Frameworks",
-    "Voice Agents & Realtime"
+    "Text-to-Speech"
    ],
-   "generated_at": "2026-07-08T11:20:37.128707+00:00"
+   "generated_at": "2026-07-09T12:17:58.746501+00:00"
   },
   {
    "key": "dataset",
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-07-08T11:30:55.182436+00:00"
+   "generated_at": "2026-07-09T12:21:51.242748+00:00"
   },
   {
    "key": "finetune",
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-07-09T12:15:00.795099+00:00"
+   "generated_at": "2026-07-10T12:07:55.801211+00:00"
   },
   {
    "key": "gateway",
@@ -260,7 +260,7 @@
     "Tracing & Spans",
     "LLMOps Platforms"
    ],
-   "generated_at": "2026-07-08T12:56:03.224082+00:00"
+   "generated_at": "2026-07-09T14:01:11.744567+00:00"
   },
   {
    "key": "stack",
@@ -280,7 +280,7 @@
     "Subagents",
     "MCP & Tools"
    ],
-   "generated_at": "2026-07-09T11:26:17.431911+00:00"
+   "generated_at": "2026-07-10T11:25:58.437813+00:00"
   },
   {
    "key": "model",
@@ -311,9 +311,9 @@
    "url": "https://mcp.kymatalabs.com",
    "accent": "#06b6d4",
    "count_key": "server_count",
-   "count": 2235,
+   "count": 2332,
    "top": {
-    "name": "church.ai.mcp/mcp-hub",
+    "name": "com.microsoft/microsoft-fabric",
     "momentum": null
    },
    "categories": [
@@ -322,7 +322,7 @@
     "Data & DB",
     "Dev Tools"
    ],
-   "generated_at": "2026-07-08T11:24:58.859011+00:00"
+   "generated_at": "2026-07-09T12:20:34.398384+00:00"
   },
   {
    "key": "agentvel",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-07-08T11:32:03.189328+00:00"
+   "generated_at": "2026-07-09T12:22:48.503971+00:00"
   }
  ]
 }
