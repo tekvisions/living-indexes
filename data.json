@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-13T12:18:05.040666+00:00",
- "total_indexed": 5751,
+ "generated_at": "2026-07-14T10:57:59.373173+00:00",
+ "total_indexed": 5745,
  "indexes": [
   {
    "key": "skill",
@@ -29,7 +29,7 @@
    "blurb": "LLM & agent evaluation, benchmark, observability and red-teaming tools.",
    "url": "https://eval.kymatalabs.com",
    "accent": "#7fae2c",
-   "count": 269,
+   "count": 270,
    "top": {
     "name": "langfuse/langfuse",
     "momentum": 87
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Agent Eval"
    ],
-   "generated_at": "2026-07-13T11:45:00.703073+00:00"
+   "generated_at": "2026-07-14T10:26:48.899506+00:00"
   },
   {
    "key": "local",
@@ -49,7 +49,7 @@
    "blurb": "Run LLMs on your own hardware — inference engines, runners, quantization.",
    "url": "https://localllm.kymatalabs.com",
    "accent": "#1f5bff",
-   "count": 243,
+   "count": 242,
    "top": {
     "name": "Mintplex-Labs/anything-llm",
     "momentum": 86
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-07-13T11:46:33.205921+00:00"
+   "generated_at": "2026-07-14T10:27:40.221619+00:00"
   },
   {
    "key": "prompt",
@@ -69,18 +69,18 @@
    "blurb": "Prompt-engineering resources — collections, system prompts, optimizers, guides.",
    "url": "https://prompt.kymatalabs.com",
    "accent": "#ff3b2f",
-   "count": 132,
+   "count": 131,
    "top": {
     "name": "DietrichGebert/ponytail",
     "momentum": 93
    },
    "categories": [
     "Optimization & Tooling",
-    "System Prompts",
     "Prompt Packs",
-    "Guides & Courses"
+    "System Prompts",
+    "Collections"
    ],
-   "generated_at": "2026-07-13T11:50:18.002068+00:00"
+   "generated_at": "2026-07-14T10:28:48.501151+00:00"
   },
   {
    "key": "rag",
@@ -97,10 +97,10 @@
    "categories": [
     "Retrieval & Search",
     "Vector Databases",
-    "Reranking",
-    "Embeddings"
+    "RAG Frameworks",
+    "Reranking"
    ],
-   "generated_at": "2026-07-13T12:06:07.019548+00:00"
+   "generated_at": "2026-07-14T10:46:36.523870+00:00"
   },
   {
    "key": "diffusion",
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-07-13T12:13:02.161528+00:00"
+   "generated_at": "2026-07-14T10:52:49.133646+00:00"
   },
   {
    "key": "voice",
@@ -138,9 +138,9 @@
     "Speech-to-Text",
     "Voice Cloning & Conversion",
     "Toolkits & Frameworks",
-    "Voice Agents & Realtime"
+    "Text-to-Speech"
    ],
-   "generated_at": "2026-07-12T10:48:11.671065+00:00"
+   "generated_at": "2026-07-13T12:18:28.328657+00:00"
   },
   {
    "key": "dataset",
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-07-12T11:00:26.805966+00:00"
+   "generated_at": "2026-07-13T12:22:27.632560+00:00"
   },
   {
    "key": "finetune",
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-07-12T10:41:17.850893+00:00"
+   "generated_at": "2026-07-14T10:55:40.408635+00:00"
   },
   {
    "key": "gateway",
@@ -200,7 +200,7 @@
     "Multi-Provider SDKs",
     "Observability Gateways"
    ],
-   "generated_at": "2026-07-12T11:21:32.303857+00:00"
+   "generated_at": "2026-07-13T12:39:32.901934+00:00"
   },
   {
    "key": "agent",
@@ -212,7 +212,7 @@
    "count": 275,
    "top": {
     "name": "DietrichGebert/ponytail",
-    "momentum": 93
+    "momentum": 92
    },
    "categories": [
     "Agent Frameworks",
@@ -220,7 +220,7 @@
     "Orchestration",
     "Memory & State"
    ],
-   "generated_at": "2026-07-11T11:27:48.575366+00:00"
+   "generated_at": "2026-07-13T12:43:29.322823+00:00"
   },
   {
    "key": "document",
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "Layout & Structure"
    ],
-   "generated_at": "2026-07-12T11:44:33.903504+00:00"
+   "generated_at": "2026-07-13T13:05:14.627320+00:00"
   },
   {
    "key": "observability",
@@ -249,7 +249,7 @@
    "blurb": "LLM & AI observability — tracing, monitoring & cost analytics, online eval, agent observability, ML-drift.",
    "url": "https://observability.kymatalabs.com",
    "accent": "#ffb02e",
-   "count": 143,
+   "count": 145,
    "top": {
     "name": "langfuse/langfuse",
     "momentum": 87
@@ -260,7 +260,7 @@
     "Tracing & Spans",
     "LLMOps Platforms"
    ],
-   "generated_at": "2026-07-12T12:10:29.935939+00:00"
+   "generated_at": "2026-07-13T13:33:18.106640+00:00"
   },
   {
    "key": "stack",
@@ -280,7 +280,7 @@
     "Subagents",
     "MCP & Tools"
    ],
-   "generated_at": "2026-07-13T11:38:47.668007+00:00"
+   "generated_at": "2026-07-14T10:17:11.628168+00:00"
   },
   {
    "key": "model",
@@ -311,9 +311,9 @@
    "url": "https://mcp.kymatalabs.com",
    "accent": "#06b6d4",
    "count_key": "server_count",
-   "count": 2396,
+   "count": 2389,
    "top": {
-    "name": "ai.verlon/mcp",
+    "name": "com.mydriverparis/booking",
     "momentum": null
    },
    "categories": [
@@ -322,7 +322,7 @@
     "Data & DB",
     "Dev Tools"
    ],
-   "generated_at": "2026-07-12T10:56:41.140179+00:00"
+   "generated_at": "2026-07-13T12:21:22.680362+00:00"
   },
   {
    "key": "agentvel",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-07-12T11:00:40.709813+00:00"
+   "generated_at": "2026-07-13T12:23:37.267177+00:00"
   }
  ]
 }
