@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-16T11:14:00.046192+00:00",
- "total_indexed": 5757,
+ "generated_at": "2026-07-17T10:59:05.866195+00:00",
+ "total_indexed": 5748,
  "indexes": [
   {
    "key": "skill",
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-07-16T10:47:12.739653+00:00"
+   "generated_at": "2026-07-17T10:27:50.325752+00:00"
   },
   {
    "key": "prompt",
@@ -80,7 +80,7 @@
     "System Prompts",
     "Collections"
    ],
-   "generated_at": "2026-07-16T10:48:47.283063+00:00"
+   "generated_at": "2026-07-17T10:29:16.200973+00:00"
   },
   {
    "key": "rag",
@@ -97,10 +97,10 @@
    "categories": [
     "Retrieval & Search",
     "Vector Databases",
-    "RAG Frameworks",
-    "Reranking"
+    "Reranking",
+    "Embeddings"
    ],
-   "generated_at": "2026-07-16T11:00:25.865556+00:00"
+   "generated_at": "2026-07-17T10:46:50.690191+00:00"
   },
   {
    "key": "diffusion",
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-07-16T11:05:29.981363+00:00"
+   "generated_at": "2026-07-17T10:53:15.958595+00:00"
   },
   {
    "key": "voice",
@@ -138,9 +138,9 @@
     "Speech-to-Text",
     "Voice Cloning & Conversion",
     "Toolkits & Frameworks",
-    "Text-to-Speech"
+    "Voice Agents & Realtime"
    ],
-   "generated_at": "2026-07-15T11:04:44.384116+00:00"
+   "generated_at": "2026-07-16T11:14:27.513821+00:00"
   },
   {
    "key": "dataset",
@@ -149,7 +149,7 @@
    "blurb": "Data-centric AI tooling — labeling & annotation, synthetic data, curation, augmentation, dataset frameworks.",
    "url": "https://dataset.kymatalabs.com",
    "accent": "#d23a1e",
-   "count": 250,
+   "count": 251,
    "top": {
     "name": "HumanSignal/label-studio",
     "momentum": 87
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-07-15T11:15:09.871156+00:00"
+   "generated_at": "2026-07-16T11:21:33.790693+00:00"
   },
   {
    "key": "finetune",
@@ -169,7 +169,7 @@
    "blurb": "Make your own model — fine-tuning frameworks, PEFT/LoRA, RLHF/DPO, training data.",
    "url": "https://finetune.kymatalabs.com",
    "accent": "#ff6a00",
-   "count": 179,
+   "count": 180,
    "top": {
     "name": "hiyouga/LlamaFactory",
     "momentum": 87
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-07-16T11:10:37.627943+00:00"
+   "generated_at": "2026-07-17T10:57:33.392154+00:00"
   },
   {
    "key": "gateway",
@@ -189,7 +189,7 @@
    "blurb": "LLM gateways, proxies & routers — the routing layer between apps and model providers.",
    "url": "https://gateway.kymatalabs.com",
    "accent": "#2ee6c6",
-   "count": 181,
+   "count": 183,
    "top": {
     "name": "BerriAI/litellm",
     "momentum": 87
@@ -200,7 +200,7 @@
     "Multi-Provider SDKs",
     "Observability Gateways"
    ],
-   "generated_at": "2026-07-15T11:44:53.067282+00:00"
+   "generated_at": "2026-07-16T11:50:44.606047+00:00"
   },
   {
    "key": "agent",
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "Layout & Structure"
    ],
-   "generated_at": "2026-07-15T12:06:17.282847+00:00"
+   "generated_at": "2026-07-16T12:09:56.868318+00:00"
   },
   {
    "key": "observability",
@@ -249,7 +249,7 @@
    "blurb": "LLM & AI observability — tracing, monitoring & cost analytics, online eval, agent observability, ML-drift.",
    "url": "https://observability.kymatalabs.com",
    "accent": "#ffb02e",
-   "count": 146,
+   "count": 148,
    "top": {
     "name": "langfuse/langfuse",
     "momentum": 87
@@ -257,10 +257,10 @@
    "categories": [
     "Agent Observability",
     "Monitoring & Analytics",
-    "LLMOps Platforms",
-    "Tracing & Spans"
+    "Tracing & Spans",
+    "LLMOps Platforms"
    ],
-   "generated_at": "2026-07-15T12:46:59.183105+00:00"
+   "generated_at": "2026-07-16T12:55:23.283473+00:00"
   },
   {
    "key": "stack",
@@ -272,7 +272,7 @@
    "count": 275,
    "top": {
     "name": "DietrichGebert/ponytail",
-    "momentum": 92
+    "momentum": 91
    },
    "categories": [
     "Collections",
@@ -280,7 +280,7 @@
     "Subagents",
     "MCP & Tools"
    ],
-   "generated_at": "2026-07-16T10:27:17.486586+00:00"
+   "generated_at": "2026-07-17T10:18:05.881125+00:00"
   },
   {
    "key": "model",
@@ -292,7 +292,7 @@
    "count_key": "model_count",
    "count": 150,
    "top": {
-    "name": "INT4-Convrot-Comfy-Models",
+    "name": "Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V2-GGUF",
     "momentum": null
    },
    "categories": [
@@ -301,7 +301,7 @@
     "Image",
     "Multimodal"
    ],
-   "generated_at": "2026-07-15T11:16:50.892920+00:00"
+   "generated_at": "2026-07-16T11:22:45.474622+00:00"
   },
   {
    "key": "mcp",
@@ -311,9 +311,9 @@
    "url": "https://mcp.kymatalabs.com",
    "accent": "#06b6d4",
    "count_key": "server_count",
-   "count": 2392,
+   "count": 2377,
    "top": {
-    "name": "ai.meetsquad/squad",
+    "name": "ai.borealhost/mcp",
     "momentum": null
    },
    "categories": [
@@ -322,7 +322,7 @@
     "Data & DB",
     "Dev Tools"
    ],
-   "generated_at": "2026-07-15T11:17:42.422503+00:00"
+   "generated_at": "2026-07-16T11:27:27.582641+00:00"
   },
   {
    "key": "agentvel",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-07-15T11:16:25.343593+00:00"
+   "generated_at": "2026-07-16T11:22:20.336004+00:00"
   }
  ]
 }
