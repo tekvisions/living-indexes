@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-17T10:59:05.866195+00:00",
- "total_indexed": 5748,
+ "generated_at": "2026-07-18T10:43:09.541645+00:00",
+ "total_indexed": 5734,
  "indexes": [
   {
    "key": "skill",
@@ -37,10 +37,10 @@
    "categories": [
     "Observability",
     "Red Teaming & Safety",
-    "Agent Eval",
-    "RAG Eval"
+    "RAG Eval",
+    "Agent Eval"
    ],
-   "generated_at": "2026-07-16T10:46:23.956939+00:00"
+   "generated_at": "2026-07-18T10:04:37.996783+00:00"
   },
   {
    "key": "local",
@@ -49,7 +49,7 @@
    "blurb": "Run LLMs on your own hardware — inference engines, runners, quantization.",
    "url": "https://localllm.kymatalabs.com",
    "accent": "#1f5bff",
-   "count": 242,
+   "count": 241,
    "top": {
     "name": "Mintplex-Labs/anything-llm",
     "momentum": 86
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-07-17T10:27:50.325752+00:00"
+   "generated_at": "2026-07-18T10:05:46.724463+00:00"
   },
   {
    "key": "prompt",
@@ -80,7 +80,7 @@
     "System Prompts",
     "Collections"
    ],
-   "generated_at": "2026-07-17T10:29:16.200973+00:00"
+   "generated_at": "2026-07-18T10:08:32.169223+00:00"
   },
   {
    "key": "rag",
@@ -89,7 +89,7 @@
    "blurb": "Retrieval-augmented-generation — RAG frameworks, vector DBs, embeddings, reranking.",
    "url": "https://rag.kymatalabs.com",
    "accent": "#5b4bff",
-   "count": 215,
+   "count": 216,
    "top": {
     "name": "Shubhamsaboo/awesome-llm-apps",
     "momentum": 87
@@ -98,9 +98,9 @@
     "Retrieval & Search",
     "Vector Databases",
     "Reranking",
-    "Embeddings"
+    "RAG Frameworks"
    ],
-   "generated_at": "2026-07-17T10:46:50.690191+00:00"
+   "generated_at": "2026-07-18T10:18:24.674132+00:00"
   },
   {
    "key": "diffusion",
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-07-17T10:53:15.958595+00:00"
+   "generated_at": "2026-07-18T10:23:29.183585+00:00"
   },
   {
    "key": "voice",
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-07-17T10:57:33.392154+00:00"
+   "generated_at": "2026-07-18T10:39:01.314956+00:00"
   },
   {
    "key": "gateway",
@@ -189,7 +189,7 @@
    "blurb": "LLM gateways, proxies & routers — the routing layer between apps and model providers.",
    "url": "https://gateway.kymatalabs.com",
    "accent": "#2ee6c6",
-   "count": 183,
+   "count": 182,
    "top": {
     "name": "BerriAI/litellm",
     "momentum": 87
@@ -200,7 +200,7 @@
     "Multi-Provider SDKs",
     "Observability Gateways"
    ],
-   "generated_at": "2026-07-16T11:50:44.606047+00:00"
+   "generated_at": "2026-07-17T11:37:21.981651+00:00"
   },
   {
    "key": "agent",
@@ -220,7 +220,7 @@
     "Orchestration",
     "Memory & State"
    ],
-   "generated_at": "2026-07-15T11:53:03.585393+00:00"
+   "generated_at": "2026-07-17T11:44:10.913522+00:00"
   },
   {
    "key": "document",
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "Layout & Structure"
    ],
-   "generated_at": "2026-07-16T12:09:56.868318+00:00"
+   "generated_at": "2026-07-17T11:58:42.870023+00:00"
   },
   {
    "key": "observability",
@@ -260,7 +260,7 @@
     "Tracing & Spans",
     "LLMOps Platforms"
    ],
-   "generated_at": "2026-07-16T12:55:23.283473+00:00"
+   "generated_at": "2026-07-17T12:39:05.557939+00:00"
   },
   {
    "key": "stack",
@@ -280,7 +280,7 @@
     "Subagents",
     "MCP & Tools"
    ],
-   "generated_at": "2026-07-17T10:18:05.881125+00:00"
+   "generated_at": "2026-07-18T09:56:59.199502+00:00"
   },
   {
    "key": "model",
@@ -292,7 +292,7 @@
    "count_key": "model_count",
    "count": 150,
    "top": {
-    "name": "Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V2-GGUF",
+    "name": "nemotron-3.5-asr-streaming-0.6b",
     "momentum": null
    },
    "categories": [
@@ -301,7 +301,7 @@
     "Image",
     "Multimodal"
    ],
-   "generated_at": "2026-07-16T11:22:45.474622+00:00"
+   "generated_at": "2026-07-17T11:10:26.727385+00:00"
   },
   {
    "key": "mcp",
@@ -311,9 +311,9 @@
    "url": "https://mcp.kymatalabs.com",
    "accent": "#06b6d4",
    "count_key": "server_count",
-   "count": 2377,
+   "count": 2364,
    "top": {
-    "name": "ai.borealhost/mcp",
+    "name": "app.scfcontrolsplatform/mcp-server-scf",
     "momentum": null
    },
    "categories": [
@@ -322,7 +322,7 @@
     "Data & DB",
     "Dev Tools"
    ],
-   "generated_at": "2026-07-16T11:27:27.582641+00:00"
+   "generated_at": "2026-07-17T11:22:59.257168+00:00"
   },
   {
    "key": "agentvel",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-07-16T11:22:20.336004+00:00"
+   "generated_at": "2026-07-17T11:10:13.394672+00:00"
   }
  ]
 }
