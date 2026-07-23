@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-22T11:22:02.725016+00:00",
- "total_indexed": 5754,
+ "generated_at": "2026-07-23T11:21:31.088576+00:00",
+ "total_indexed": 5756,
  "indexes": [
   {
    "key": "skill",
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Agent Eval"
    ],
-   "generated_at": "2026-07-22T10:53:46.279596+00:00"
+   "generated_at": "2026-07-23T10:53:49.716955+00:00"
   },
   {
    "key": "local",
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-07-22T10:55:32.073941+00:00"
+   "generated_at": "2026-07-23T10:55:35.864589+00:00"
   },
   {
    "key": "prompt",
@@ -72,15 +72,15 @@
    "count": 135,
    "top": {
     "name": "DietrichGebert/ponytail",
-    "momentum": 92
+    "momentum": 91
    },
    "categories": [
     "Optimization & Tooling",
-    "System Prompts",
     "Prompt Packs",
+    "System Prompts",
     "Guides & Courses"
    ],
-   "generated_at": "2026-07-22T10:57:02.861149+00:00"
+   "generated_at": "2026-07-23T10:59:00.929392+00:00"
   },
   {
    "key": "rag",
@@ -100,7 +100,7 @@
     "Reranking",
     "RAG Frameworks"
    ],
-   "generated_at": "2026-07-22T11:09:54.042391+00:00"
+   "generated_at": "2026-07-23T11:09:45.120128+00:00"
   },
   {
    "key": "diffusion",
@@ -109,7 +109,7 @@
    "blurb": "AI image & video generation — diffusion models, ComfyUI nodes, video gen, editing, training.",
    "url": "https://diffusion.kymatalabs.com",
    "accent": "#c77dff",
-   "count": 266,
+   "count": 264,
    "top": {
     "name": "Comfy-Org/ComfyUI",
     "momentum": 86
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-07-22T11:13:42.533325+00:00"
+   "generated_at": "2026-07-23T11:15:53.145565+00:00"
   },
   {
    "key": "voice",
@@ -129,10 +129,10 @@
    "blurb": "Voice & speech AI — text-to-speech, speech recognition, voice cloning, realtime voice agents.",
    "url": "https://voice.kymatalabs.com",
    "accent": "#b6ff2e",
-   "count": 293,
+   "count": 294,
    "top": {
     "name": "harry0703/MoneyPrinterTurbo",
-    "momentum": 87
+    "momentum": 86
    },
    "categories": [
     "Speech-to-Text",
@@ -140,7 +140,7 @@
     "Toolkits & Frameworks",
     "Voice Agents & Realtime"
    ],
-   "generated_at": "2026-07-21T11:21:23.861546+00:00"
+   "generated_at": "2026-07-22T11:22:58.189669+00:00"
   },
   {
    "key": "dataset",
@@ -149,7 +149,7 @@
    "blurb": "Data-centric AI tooling — labeling & annotation, synthetic data, curation, augmentation, dataset frameworks.",
    "url": "https://dataset.kymatalabs.com",
    "accent": "#d23a1e",
-   "count": 251,
+   "count": 252,
    "top": {
     "name": "HumanSignal/label-studio",
     "momentum": 87
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-07-21T11:29:35.045721+00:00"
+   "generated_at": "2026-07-22T11:29:51.294882+00:00"
   },
   {
    "key": "finetune",
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-07-22T11:18:10.859343+00:00"
+   "generated_at": "2026-07-23T11:18:51.453928+00:00"
   },
   {
    "key": "gateway",
@@ -189,7 +189,7 @@
    "blurb": "LLM gateways, proxies & routers — the routing layer between apps and model providers.",
    "url": "https://gateway.kymatalabs.com",
    "accent": "#2ee6c6",
-   "count": 184,
+   "count": 185,
    "top": {
     "name": "BerriAI/litellm",
     "momentum": 87
@@ -200,7 +200,7 @@
     "Multi-Provider SDKs",
     "Observability Gateways"
    ],
-   "generated_at": "2026-07-21T11:57:07.892501+00:00"
+   "generated_at": "2026-07-22T11:59:41.033487+00:00"
   },
   {
    "key": "agent",
@@ -220,7 +220,7 @@
     "Orchestration",
     "Memory & State"
    ],
-   "generated_at": "2026-07-21T12:02:54.721042+00:00"
+   "generated_at": "2026-07-22T12:08:02.332659+00:00"
   },
   {
    "key": "document",
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "Layout & Structure"
    ],
-   "generated_at": "2026-07-21T12:12:03.575550+00:00"
+   "generated_at": "2026-07-22T12:15:18.174447+00:00"
   },
   {
    "key": "observability",
@@ -269,7 +269,7 @@
    "blurb": "The live momentum index for AI-infrastructure repos.",
    "url": "https://stacktracker.kymatalabs.com",
    "accent": "#00d4a0",
-   "count": 273,
+   "count": 274,
    "top": {
     "name": "DietrichGebert/ponytail",
     "momentum": 90
@@ -280,7 +280,7 @@
     "Subagents",
     "MCP & Tools"
    ],
-   "generated_at": "2026-07-22T10:38:36.930179+00:00"
+   "generated_at": "2026-07-23T10:39:52.672717+00:00"
   },
   {
    "key": "model",
@@ -292,7 +292,7 @@
    "count_key": "model_count",
    "count": 150,
    "top": {
-    "name": "MiniCPM-RobotTrack",
+    "name": "penclaw-Kimi-K3.0-abliterated-GGUF",
     "momentum": null
    },
    "categories": [
@@ -301,7 +301,7 @@
     "Image",
     "Multimodal"
    ],
-   "generated_at": "2026-07-21T11:38:51.291667+00:00"
+   "generated_at": "2026-07-22T11:39:21.286580+00:00"
   },
   {
    "key": "mcp",
@@ -334,8 +334,8 @@
    "count_key": "repo_count",
    "count": 14,
    "top": {
-    "name": "qwen-code",
-    "momentum": 99
+    "name": "cline",
+    "momentum": 100
    },
    "categories": [
     "CLI",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-07-21T11:30:48.096865+00:00"
+   "generated_at": "2026-07-22T11:31:04.916326+00:00"
   }
  ]
 }
