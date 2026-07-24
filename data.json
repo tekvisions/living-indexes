@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-23T11:21:31.088576+00:00",
- "total_indexed": 5756,
+ "generated_at": "2026-07-24T11:14:13.751711+00:00",
+ "total_indexed": 5737,
  "indexes": [
   {
    "key": "skill",
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Agent Eval"
    ],
-   "generated_at": "2026-07-23T10:53:49.716955+00:00"
+   "generated_at": "2026-07-24T10:49:43.059348+00:00"
   },
   {
    "key": "local",
@@ -49,7 +49,7 @@
    "blurb": "Run LLMs on your own hardware — inference engines, runners, quantization.",
    "url": "https://localllm.kymatalabs.com",
    "accent": "#1f5bff",
-   "count": 241,
+   "count": 242,
    "top": {
     "name": "Mintplex-Labs/anything-llm",
     "momentum": 86
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-07-23T10:55:35.864589+00:00"
+   "generated_at": "2026-07-24T10:51:56.222469+00:00"
   },
   {
    "key": "prompt",
@@ -69,18 +69,18 @@
    "blurb": "Prompt-engineering resources — collections, system prompts, optimizers, guides.",
    "url": "https://prompt.kymatalabs.com",
    "accent": "#ff3b2f",
-   "count": 135,
+   "count": 136,
    "top": {
     "name": "DietrichGebert/ponytail",
     "momentum": 91
    },
    "categories": [
     "Optimization & Tooling",
-    "Prompt Packs",
     "System Prompts",
-    "Guides & Courses"
+    "Prompt Packs",
+    "Collections"
    ],
-   "generated_at": "2026-07-23T10:59:00.929392+00:00"
+   "generated_at": "2026-07-24T10:53:09.672853+00:00"
   },
   {
    "key": "rag",
@@ -89,7 +89,7 @@
    "blurb": "Retrieval-augmented-generation — RAG frameworks, vector DBs, embeddings, reranking.",
    "url": "https://rag.kymatalabs.com",
    "accent": "#5b4bff",
-   "count": 220,
+   "count": 222,
    "top": {
     "name": "Shubhamsaboo/awesome-llm-apps",
     "momentum": 87
@@ -100,7 +100,7 @@
     "Reranking",
     "RAG Frameworks"
    ],
-   "generated_at": "2026-07-23T11:09:45.120128+00:00"
+   "generated_at": "2026-07-24T11:03:21.940218+00:00"
   },
   {
    "key": "diffusion",
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-07-23T11:15:53.145565+00:00"
+   "generated_at": "2026-07-24T11:06:38.142469+00:00"
   },
   {
    "key": "voice",
@@ -149,7 +149,7 @@
    "blurb": "Data-centric AI tooling — labeling & annotation, synthetic data, curation, augmentation, dataset frameworks.",
    "url": "https://dataset.kymatalabs.com",
    "accent": "#d23a1e",
-   "count": 252,
+   "count": 253,
    "top": {
     "name": "HumanSignal/label-studio",
     "momentum": 87
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-07-22T11:29:51.294882+00:00"
+   "generated_at": "2026-07-23T11:32:43.528950+00:00"
   },
   {
    "key": "finetune",
@@ -169,9 +169,9 @@
    "blurb": "Make your own model — fine-tuning frameworks, PEFT/LoRA, RLHF/DPO, training data.",
    "url": "https://finetune.kymatalabs.com",
    "accent": "#ff6a00",
-   "count": 179,
+   "count": 180,
    "top": {
-    "name": "unslothai/unsloth",
+    "name": "hiyouga/LlamaFactory",
     "momentum": 87
    },
    "categories": [
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-07-23T11:18:51.453928+00:00"
+   "generated_at": "2026-07-24T11:09:49.689572+00:00"
   },
   {
    "key": "gateway",
@@ -200,7 +200,7 @@
     "Multi-Provider SDKs",
     "Observability Gateways"
    ],
-   "generated_at": "2026-07-22T11:59:41.033487+00:00"
+   "generated_at": "2026-07-23T11:59:50.310333+00:00"
   },
   {
    "key": "agent",
@@ -220,7 +220,7 @@
     "Orchestration",
     "Memory & State"
    ],
-   "generated_at": "2026-07-22T12:08:02.332659+00:00"
+   "generated_at": "2026-07-23T12:05:24.576988+00:00"
   },
   {
    "key": "document",
@@ -229,10 +229,10 @@
    "blurb": "Document-AI tooling — OCR, PDF extraction, document parsing, layout, tables & understanding.",
    "url": "https://document.kymatalabs.com",
    "accent": "#4f46e5",
-   "count": 204,
+   "count": 205,
    "top": {
     "name": "baidu/Unlimited-OCR",
-    "momentum": 88
+    "momentum": 89
    },
    "categories": [
     "Document Parsing",
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "Layout & Structure"
    ],
-   "generated_at": "2026-07-22T12:15:18.174447+00:00"
+   "generated_at": "2026-07-23T12:13:27.475867+00:00"
   },
   {
    "key": "observability",
@@ -249,7 +249,7 @@
    "blurb": "LLM & AI observability — tracing, monitoring & cost analytics, online eval, agent observability, ML-drift.",
    "url": "https://observability.kymatalabs.com",
    "accent": "#ffb02e",
-   "count": 149,
+   "count": 150,
    "top": {
     "name": "langfuse/langfuse",
     "momentum": 87
@@ -257,10 +257,10 @@
    "categories": [
     "Agent Observability",
     "Monitoring & Analytics",
-    "Tracing & Spans",
-    "LLMOps Platforms"
+    "LLMOps Platforms",
+    "Tracing & Spans"
    ],
-   "generated_at": "2026-07-21T12:47:59.031856+00:00"
+   "generated_at": "2026-07-23T12:52:41.987683+00:00"
   },
   {
    "key": "stack",
@@ -280,7 +280,7 @@
     "Subagents",
     "MCP & Tools"
    ],
-   "generated_at": "2026-07-23T10:39:52.672717+00:00"
+   "generated_at": "2026-07-24T10:33:53.550961+00:00"
   },
   {
    "key": "model",
@@ -292,7 +292,7 @@
    "count_key": "model_count",
    "count": 150,
    "top": {
-    "name": "penclaw-Kimi-K3.0-abliterated-GGUF",
+    "name": "Laguna-XS-2.1",
     "momentum": null
    },
    "categories": [
@@ -301,7 +301,7 @@
     "Image",
     "Multimodal"
    ],
-   "generated_at": "2026-07-22T11:39:21.286580+00:00"
+   "generated_at": "2026-07-23T11:42:23.482630+00:00"
   },
   {
    "key": "mcp",
@@ -311,9 +311,9 @@
    "url": "https://mcp.kymatalabs.com",
    "accent": "#06b6d4",
    "count_key": "server_count",
-   "count": 2370,
+   "count": 2343,
    "top": {
-    "name": "ac.inference.sh/mcp",
+    "name": "com.adrianczuczka/mason",
     "momentum": null
    },
    "categories": [
@@ -322,7 +322,7 @@
     "Data & DB",
     "Dev Tools"
    ],
-   "generated_at": "2026-07-21T11:37:10.741955+00:00"
+   "generated_at": "2026-07-23T11:38:42.666123+00:00"
   },
   {
    "key": "agentvel",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-07-22T11:31:04.916326+00:00"
+   "generated_at": "2026-07-23T11:34:06.616750+00:00"
   }
  ]
 }
