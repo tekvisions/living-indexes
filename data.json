@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-24T11:14:13.751711+00:00",
- "total_indexed": 5737,
+ "generated_at": "2026-07-25T10:47:10.797438+00:00",
+ "total_indexed": 5738,
  "indexes": [
   {
    "key": "skill",
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Agent Eval"
    ],
-   "generated_at": "2026-07-24T10:49:43.059348+00:00"
+   "generated_at": "2026-07-25T10:17:28.764997+00:00"
   },
   {
    "key": "local",
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-07-24T10:51:56.222469+00:00"
+   "generated_at": "2026-07-25T10:18:35.818297+00:00"
   },
   {
    "key": "prompt",
@@ -80,7 +80,7 @@
     "Prompt Packs",
     "Collections"
    ],
-   "generated_at": "2026-07-24T10:53:09.672853+00:00"
+   "generated_at": "2026-07-25T10:20:03.098475+00:00"
   },
   {
    "key": "rag",
@@ -100,7 +100,7 @@
     "Reranking",
     "RAG Frameworks"
    ],
-   "generated_at": "2026-07-24T11:03:21.940218+00:00"
+   "generated_at": "2026-07-25T10:26:43.989983+00:00"
   },
   {
    "key": "diffusion",
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-07-24T11:06:38.142469+00:00"
+   "generated_at": "2026-07-25T10:39:18.045528+00:00"
   },
   {
    "key": "voice",
@@ -129,10 +129,10 @@
    "blurb": "Voice & speech AI — text-to-speech, speech recognition, voice cloning, realtime voice agents.",
    "url": "https://voice.kymatalabs.com",
    "accent": "#b6ff2e",
-   "count": 294,
+   "count": 293,
    "top": {
     "name": "harry0703/MoneyPrinterTurbo",
-    "momentum": 86
+    "momentum": 87
    },
    "categories": [
     "Speech-to-Text",
@@ -140,7 +140,7 @@
     "Toolkits & Frameworks",
     "Voice Agents & Realtime"
    ],
-   "generated_at": "2026-07-22T11:22:58.189669+00:00"
+   "generated_at": "2026-07-24T11:15:21.006216+00:00"
   },
   {
    "key": "dataset",
@@ -200,7 +200,7 @@
     "Multi-Provider SDKs",
     "Observability Gateways"
    ],
-   "generated_at": "2026-07-23T11:59:50.310333+00:00"
+   "generated_at": "2026-07-24T11:52:13.699774+00:00"
   },
   {
    "key": "agent",
@@ -209,7 +209,7 @@
    "blurb": "AI agent frameworks — multi-agent, autonomous agents, orchestration, memory & agent SDKs.",
    "url": "https://agents.kymatalabs.com",
    "accent": "#b07cff",
-   "count": 278,
+   "count": 280,
    "top": {
     "name": "DietrichGebert/ponytail",
     "momentum": 91
@@ -220,7 +220,7 @@
     "Orchestration",
     "Memory & State"
    ],
-   "generated_at": "2026-07-23T12:05:24.576988+00:00"
+   "generated_at": "2026-07-24T11:57:52.768126+00:00"
   },
   {
    "key": "document",
@@ -229,10 +229,10 @@
    "blurb": "Document-AI tooling — OCR, PDF extraction, document parsing, layout, tables & understanding.",
    "url": "https://document.kymatalabs.com",
    "accent": "#4f46e5",
-   "count": 205,
+   "count": 206,
    "top": {
     "name": "baidu/Unlimited-OCR",
-    "momentum": 89
+    "momentum": 88
    },
    "categories": [
     "Document Parsing",
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "Layout & Structure"
    ],
-   "generated_at": "2026-07-23T12:13:27.475867+00:00"
+   "generated_at": "2026-07-24T12:06:45.123606+00:00"
   },
   {
    "key": "observability",
@@ -249,7 +249,7 @@
    "blurb": "LLM & AI observability — tracing, monitoring & cost analytics, online eval, agent observability, ML-drift.",
    "url": "https://observability.kymatalabs.com",
    "accent": "#ffb02e",
-   "count": 150,
+   "count": 149,
    "top": {
     "name": "langfuse/langfuse",
     "momentum": 87
@@ -260,7 +260,7 @@
     "LLMOps Platforms",
     "Tracing & Spans"
    ],
-   "generated_at": "2026-07-23T12:52:41.987683+00:00"
+   "generated_at": "2026-07-24T12:50:00.977245+00:00"
   },
   {
    "key": "stack",
@@ -272,7 +272,7 @@
    "count": 274,
    "top": {
     "name": "DietrichGebert/ponytail",
-    "momentum": 90
+    "momentum": 89
    },
    "categories": [
     "Collections",
@@ -280,7 +280,7 @@
     "Subagents",
     "MCP & Tools"
    ],
-   "generated_at": "2026-07-24T10:33:53.550961+00:00"
+   "generated_at": "2026-07-25T10:07:58.294108+00:00"
   },
   {
    "key": "model",
@@ -292,7 +292,7 @@
    "count_key": "model_count",
    "count": 150,
    "top": {
-    "name": "Laguna-XS-2.1",
+    "name": "Mage-Flow-Turbo",
     "momentum": null
    },
    "categories": [
@@ -301,7 +301,7 @@
     "Image",
     "Multimodal"
    ],
-   "generated_at": "2026-07-23T11:42:23.482630+00:00"
+   "generated_at": "2026-07-24T11:26:55.491468+00:00"
   },
   {
    "key": "mcp",
@@ -334,8 +334,8 @@
    "count_key": "repo_count",
    "count": 14,
    "top": {
-    "name": "cline",
-    "momentum": 100
+    "name": "qwen-code",
+    "momentum": 97
    },
    "categories": [
     "CLI",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-07-23T11:34:06.616750+00:00"
+   "generated_at": "2026-07-24T11:26:30.627292+00:00"
   }
  ]
 }
