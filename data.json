@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-07-31T11:36:05.276351+00:00",
- "total_indexed": 5827,
+ "generated_at": "2026-08-01T10:52:01.511500+00:00",
+ "total_indexed": 5878,
  "indexes": [
   {
    "key": "skill",
@@ -29,7 +29,7 @@
    "blurb": "LLM & agent evaluation, benchmark, observability and red-teaming tools.",
    "url": "https://eval.kymatalabs.com",
    "accent": "#7fae2c",
-   "count": 274,
+   "count": 275,
    "top": {
     "name": "langfuse/langfuse",
     "momentum": 87
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Agent Eval"
    ],
-   "generated_at": "2026-07-31T11:12:45.169558+00:00"
+   "generated_at": "2026-08-01T10:23:17.580715+00:00"
   },
   {
    "key": "local",
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-07-31T11:14:15.416102+00:00"
+   "generated_at": "2026-08-01T10:23:56.446681+00:00"
   },
   {
    "key": "prompt",
@@ -69,18 +69,18 @@
    "blurb": "Prompt-engineering resources — collections, system prompts, optimizers, guides.",
    "url": "https://prompt.kymatalabs.com",
    "accent": "#ff3b2f",
-   "count": 135,
+   "count": 136,
    "top": {
     "name": "DietrichGebert/ponytail",
     "momentum": 89
    },
    "categories": [
     "Optimization & Tooling",
-    "System Prompts",
     "Prompt Packs",
-    "Guides & Courses"
+    "System Prompts",
+    "Collections"
    ],
-   "generated_at": "2026-07-31T11:18:16.034551+00:00"
+   "generated_at": "2026-08-01T10:27:35.616376+00:00"
   },
   {
    "key": "rag",
@@ -95,12 +95,12 @@
     "momentum": 87
    },
    "categories": [
-    "Retrieval & Search",
     "Vector Databases",
+    "Retrieval & Search",
     "Reranking",
     "RAG Frameworks"
    ],
-   "generated_at": "2026-07-31T11:28:55.022571+00:00"
+   "generated_at": "2026-08-01T10:39:48.479153+00:00"
   },
   {
    "key": "diffusion",
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-07-31T11:32:42.851058+00:00"
+   "generated_at": "2026-08-01T10:44:41.165502+00:00"
   },
   {
    "key": "voice",
@@ -129,7 +129,7 @@
    "blurb": "Voice & speech AI — text-to-speech, speech recognition, voice cloning, realtime voice agents.",
    "url": "https://voice.kymatalabs.com",
    "accent": "#b6ff2e",
-   "count": 293,
+   "count": 294,
    "top": {
     "name": "openai/whisper",
     "momentum": 87
@@ -140,7 +140,7 @@
     "Voice Agents & Realtime",
     "Toolkits & Frameworks"
    ],
-   "generated_at": "2026-07-30T11:25:04.304352+00:00"
+   "generated_at": "2026-07-31T11:36:48.386482+00:00"
   },
   {
    "key": "dataset",
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-07-30T11:33:09.724087+00:00"
+   "generated_at": "2026-07-31T11:48:21.420840+00:00"
   },
   {
    "key": "finetune",
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-07-31T11:34:37.391303+00:00"
+   "generated_at": "2026-08-01T10:46:52.111531+00:00"
   },
   {
    "key": "gateway",
@@ -189,7 +189,7 @@
    "blurb": "LLM gateways, proxies & routers — the routing layer between apps and model providers.",
    "url": "https://gateway.kymatalabs.com",
    "accent": "#2ee6c6",
-   "count": 189,
+   "count": 190,
    "top": {
     "name": "BerriAI/litellm",
     "momentum": 87
@@ -200,7 +200,7 @@
     "Multi-Provider SDKs",
     "Observability Gateways"
    ],
-   "generated_at": "2026-07-30T12:00:46.717248+00:00"
+   "generated_at": "2026-07-31T12:09:20.812703+00:00"
   },
   {
    "key": "agent",
@@ -209,7 +209,7 @@
    "blurb": "AI agent frameworks — multi-agent, autonomous agents, orchestration, memory & agent SDKs.",
    "url": "https://agents.kymatalabs.com",
    "accent": "#b07cff",
-   "count": 271,
+   "count": 272,
    "top": {
     "name": "DietrichGebert/ponytail",
     "momentum": 89
@@ -220,7 +220,7 @@
     "Orchestration",
     "Memory & State"
    ],
-   "generated_at": "2026-07-30T12:07:56.819070+00:00"
+   "generated_at": "2026-07-31T12:21:22.080034+00:00"
   },
   {
    "key": "document",
@@ -229,7 +229,7 @@
    "blurb": "Document-AI tooling — OCR, PDF extraction, document parsing, layout, tables & understanding.",
    "url": "https://document.kymatalabs.com",
    "accent": "#4f46e5",
-   "count": 209,
+   "count": 210,
    "top": {
     "name": "baidu/Unlimited-OCR",
     "momentum": 88
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "Layout & Structure"
    ],
-   "generated_at": "2026-07-30T12:15:46.662168+00:00"
+   "generated_at": "2026-07-31T12:31:43.166415+00:00"
   },
   {
    "key": "observability",
@@ -260,7 +260,7 @@
     "Tracing & Spans",
     "LLMOps Platforms"
    ],
-   "generated_at": "2026-07-30T12:56:43.454602+00:00"
+   "generated_at": "2026-07-31T13:10:08.848359+00:00"
   },
   {
    "key": "stack",
@@ -271,8 +271,8 @@
    "accent": "#00d4a0",
    "count": 278,
    "top": {
-    "name": "DietrichGebert/ponytail",
-    "momentum": 88
+    "name": "affaan-m/ECC",
+    "momentum": 87
    },
    "categories": [
     "Collections",
@@ -280,7 +280,7 @@
     "Subagents",
     "MCP & Tools"
    ],
-   "generated_at": "2026-07-31T11:06:01.022728+00:00"
+   "generated_at": "2026-08-01T10:16:26.904200+00:00"
   },
   {
    "key": "model",
@@ -292,7 +292,7 @@
    "count_key": "model_count",
    "count": 150,
    "top": {
-    "name": "Audio8-TTS-Preview-0.6b",
+    "name": "SeedVR2-1.4B",
     "momentum": null
    },
    "categories": [
@@ -301,7 +301,7 @@
     "Embeddings",
     "Image"
    ],
-   "generated_at": "2026-07-30T11:42:32.668901+00:00"
+   "generated_at": "2026-07-31T11:49:56.086692+00:00"
   },
   {
    "key": "mcp",
@@ -311,9 +311,9 @@
    "url": "https://mcp.kymatalabs.com",
    "accent": "#06b6d4",
    "count_key": "server_count",
-   "count": 2434,
+   "count": 2479,
    "top": {
-    "name": "app.cardog/mcp",
+    "name": "ch.opencaselaw/swiss-caselaw",
     "momentum": null
    },
    "categories": [
@@ -322,7 +322,7 @@
     "Data & DB",
     "Dev Tools"
    ],
-   "generated_at": "2026-07-30T11:30:44.235611+00:00"
+   "generated_at": "2026-07-31T11:39:42.435555+00:00"
   },
   {
    "key": "agentvel",
@@ -335,7 +335,7 @@
    "count": 14,
    "top": {
     "name": "qwen-code",
-    "momentum": 97
+    "momentum": 96
    },
    "categories": [
     "CLI",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-07-30T11:34:19.071477+00:00"
+   "generated_at": "2026-07-31T11:49:49.278760+00:00"
   }
  ]
 }
