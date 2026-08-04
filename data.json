@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-03T12:37:53.929608+00:00",
- "total_indexed": 5862,
+ "generated_at": "2026-08-04T11:35:26.724734+00:00",
+ "total_indexed": 5843,
  "indexes": [
   {
    "key": "skill",
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Agent Eval"
    ],
-   "generated_at": "2026-08-03T12:02:31.443858+00:00"
+   "generated_at": "2026-08-04T11:11:08.606402+00:00"
   },
   {
    "key": "local",
@@ -49,7 +49,7 @@
    "blurb": "Run LLMs on your own hardware — inference engines, runners, quantization.",
    "url": "https://localllm.kymatalabs.com",
    "accent": "#1f5bff",
-   "count": 239,
+   "count": 240,
    "top": {
     "name": "Mintplex-Labs/anything-llm",
     "momentum": 86
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-08-03T12:08:13.534252+00:00"
+   "generated_at": "2026-08-04T11:12:39.650391+00:00"
   },
   {
    "key": "prompt",
@@ -75,12 +75,12 @@
     "momentum": 88
    },
    "categories": [
-    "System Prompts",
     "Optimization & Tooling",
+    "System Prompts",
     "Prompt Packs",
     "Collections"
    ],
-   "generated_at": "2026-08-03T12:11:27.431833+00:00"
+   "generated_at": "2026-08-04T11:14:37.341536+00:00"
   },
   {
    "key": "rag",
@@ -95,12 +95,12 @@
     "momentum": 87
    },
    "categories": [
-    "Retrieval & Search",
     "Vector Databases",
+    "Retrieval & Search",
     "Reranking",
     "RAG Frameworks"
    ],
-   "generated_at": "2026-08-03T12:22:54.501915+00:00"
+   "generated_at": "2026-08-04T11:22:49.732366+00:00"
   },
   {
    "key": "diffusion",
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-08-03T12:31:28.282344+00:00"
+   "generated_at": "2026-08-04T11:30:02.215976+00:00"
   },
   {
    "key": "voice",
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-08-02T11:06:54.290581+00:00"
+   "generated_at": "2026-08-03T12:45:01.555858+00:00"
   },
   {
    "key": "finetune",
@@ -189,7 +189,7 @@
    "blurb": "LLM gateways, proxies & routers — the routing layer between apps and model providers.",
    "url": "https://gateway.kymatalabs.com",
    "accent": "#2ee6c6",
-   "count": 193,
+   "count": 196,
    "top": {
     "name": "BerriAI/litellm",
     "momentum": 87
@@ -200,7 +200,7 @@
     "Multi-Provider SDKs",
     "Self-Hosted Platforms"
    ],
-   "generated_at": "2026-08-02T11:25:02.780876+00:00"
+   "generated_at": "2026-08-03T13:17:22.949261+00:00"
   },
   {
    "key": "agent",
@@ -229,10 +229,10 @@
    "blurb": "Document-AI tooling — OCR, PDF extraction, document parsing, layout, tables & understanding.",
    "url": "https://document.kymatalabs.com",
    "accent": "#4f46e5",
-   "count": 210,
+   "count": 211,
    "top": {
     "name": "baidu/Unlimited-OCR",
-    "momentum": 88
+    "momentum": 87
    },
    "categories": [
     "Document Parsing",
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "Layout & Structure"
    ],
-   "generated_at": "2026-08-02T11:46:06.983865+00:00"
+   "generated_at": "2026-08-03T13:30:52.676255+00:00"
   },
   {
    "key": "observability",
@@ -258,9 +258,9 @@
     "Agent Observability",
     "Monitoring & Analytics",
     "Tracing & Spans",
-    "Online Evaluation"
+    "LLMOps Platforms"
    ],
-   "generated_at": "2026-08-02T12:32:03.572659+00:00"
+   "generated_at": "2026-08-03T13:56:17.331800+00:00"
   },
   {
    "key": "stack",
@@ -280,7 +280,7 @@
     "Subagents",
     "MCP & Tools"
    ],
-   "generated_at": "2026-08-03T11:56:52.041664+00:00"
+   "generated_at": "2026-08-04T11:03:53.609926+00:00"
   },
   {
    "key": "model",
@@ -292,7 +292,7 @@
    "count_key": "model_count",
    "count": 150,
    "top": {
-    "name": "Kimi-K3-Abliterated-V1",
+    "name": "keys-DeepSeekV4-Flash-GA-0731-Dspark-Abliterated-32-32",
     "momentum": null
    },
    "categories": [
@@ -301,7 +301,7 @@
     "Embeddings",
     "Image"
    ],
-   "generated_at": "2026-08-02T11:07:34.644137+00:00"
+   "generated_at": "2026-08-03T12:46:03.914580+00:00"
   },
   {
    "key": "mcp",
@@ -311,9 +311,9 @@
    "url": "https://mcp.kymatalabs.com",
    "accent": "#06b6d4",
    "count_key": "server_count",
-   "count": 2463,
+   "count": 2439,
    "top": {
-    "name": "app.novumos/novumos",
+    "name": "cloud.metrifyr/mcp",
     "momentum": null
    },
    "categories": [
@@ -322,7 +322,7 @@
     "Data & DB",
     "Dev Tools"
    ],
-   "generated_at": "2026-08-02T11:03:11.291882+00:00"
+   "generated_at": "2026-08-03T12:43:24.854023+00:00"
   },
   {
    "key": "agentvel",
@@ -335,7 +335,7 @@
    "count": 14,
    "top": {
     "name": "qwen-code",
-    "momentum": 96
+    "momentum": 95
    },
    "categories": [
     "CLI",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-08-02T11:08:04.860686+00:00"
+   "generated_at": "2026-08-03T12:45:56.523637+00:00"
   }
  ]
 }
