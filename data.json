@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-04T11:35:26.724734+00:00",
- "total_indexed": 5843,
+ "generated_at": "2026-08-05T11:32:19.776938+00:00",
+ "total_indexed": 5815,
  "indexes": [
   {
    "key": "skill",
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Agent Eval"
    ],
-   "generated_at": "2026-08-04T11:11:08.606402+00:00"
+   "generated_at": "2026-08-05T11:07:43.223077+00:00"
   },
   {
    "key": "local",
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-08-04T11:12:39.650391+00:00"
+   "generated_at": "2026-08-05T11:09:34.947147+00:00"
   },
   {
    "key": "prompt",
@@ -95,12 +95,12 @@
     "momentum": 87
    },
    "categories": [
-    "Vector Databases",
     "Retrieval & Search",
+    "Vector Databases",
     "Reranking",
     "RAG Frameworks"
    ],
-   "generated_at": "2026-08-04T11:22:49.732366+00:00"
+   "generated_at": "2026-08-05T11:20:50.177369+00:00"
   },
   {
    "key": "diffusion",
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-08-04T11:30:02.215976+00:00"
+   "generated_at": "2026-08-05T11:25:42.072704+00:00"
   },
   {
    "key": "voice",
@@ -129,7 +129,7 @@
    "blurb": "Voice & speech AI — text-to-speech, speech recognition, voice cloning, realtime voice agents.",
    "url": "https://voice.kymatalabs.com",
    "accent": "#b6ff2e",
-   "count": 293,
+   "count": 296,
    "top": {
     "name": "openai/whisper",
     "momentum": 86
@@ -140,7 +140,7 @@
     "Voice Agents & Realtime",
     "Toolkits & Frameworks"
    ],
-   "generated_at": "2026-08-01T10:53:07.239846+00:00"
+   "generated_at": "2026-08-04T11:36:29.223440+00:00"
   },
   {
    "key": "dataset",
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-08-03T12:45:01.555858+00:00"
+   "generated_at": "2026-08-04T11:49:02.228716+00:00"
   },
   {
    "key": "finetune",
@@ -169,7 +169,7 @@
    "blurb": "Make your own model — fine-tuning frameworks, PEFT/LoRA, RLHF/DPO, training data.",
    "url": "https://finetune.kymatalabs.com",
    "accent": "#ff6a00",
-   "count": 181,
+   "count": 182,
    "top": {
     "name": "hiyouga/LlamaFactory",
     "momentum": 87
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-08-03T12:35:14.011341+00:00"
+   "generated_at": "2026-08-05T11:27:32.241584+00:00"
   },
   {
    "key": "gateway",
@@ -189,7 +189,7 @@
    "blurb": "LLM gateways, proxies & routers — the routing layer between apps and model providers.",
    "url": "https://gateway.kymatalabs.com",
    "accent": "#2ee6c6",
-   "count": 196,
+   "count": 197,
    "top": {
     "name": "BerriAI/litellm",
     "momentum": 87
@@ -200,7 +200,7 @@
     "Multi-Provider SDKs",
     "Self-Hosted Platforms"
    ],
-   "generated_at": "2026-08-03T13:17:22.949261+00:00"
+   "generated_at": "2026-08-04T12:11:20.787263+00:00"
   },
   {
    "key": "agent",
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "Layout & Structure"
    ],
-   "generated_at": "2026-08-03T13:30:52.676255+00:00"
+   "generated_at": "2026-08-04T12:29:43.127471+00:00"
   },
   {
    "key": "observability",
@@ -260,7 +260,7 @@
     "Tracing & Spans",
     "LLMOps Platforms"
    ],
-   "generated_at": "2026-08-03T13:56:17.331800+00:00"
+   "generated_at": "2026-08-04T13:13:15.426116+00:00"
   },
   {
    "key": "stack",
@@ -269,7 +269,7 @@
    "blurb": "The live momentum index for AI-infrastructure repos.",
    "url": "https://stacktracker.kymatalabs.com",
    "accent": "#00d4a0",
-   "count": 278,
+   "count": 277,
    "top": {
     "name": "affaan-m/ECC",
     "momentum": 87
@@ -280,7 +280,7 @@
     "Subagents",
     "MCP & Tools"
    ],
-   "generated_at": "2026-08-04T11:03:53.609926+00:00"
+   "generated_at": "2026-08-05T11:00:35.594108+00:00"
   },
   {
    "key": "model",
@@ -292,7 +292,7 @@
    "count_key": "model_count",
    "count": 150,
    "top": {
-    "name": "keys-DeepSeekV4-Flash-GA-0731-Dspark-Abliterated-32-32",
+    "name": "MiniMax-H3_GGUFs",
     "momentum": null
    },
    "categories": [
@@ -301,7 +301,7 @@
     "Embeddings",
     "Image"
    ],
-   "generated_at": "2026-08-03T12:46:03.914580+00:00"
+   "generated_at": "2026-08-04T11:51:24.855584+00:00"
   },
   {
    "key": "mcp",
@@ -311,9 +311,9 @@
    "url": "https://mcp.kymatalabs.com",
    "accent": "#06b6d4",
    "count_key": "server_count",
-   "count": 2439,
+   "count": 2407,
    "top": {
-    "name": "cloud.metrifyr/mcp",
+    "name": "app.linear/linear",
     "momentum": null
    },
    "categories": [
@@ -322,7 +322,7 @@
     "Data & DB",
     "Dev Tools"
    ],
-   "generated_at": "2026-08-03T12:43:24.854023+00:00"
+   "generated_at": "2026-08-04T11:44:40.357193+00:00"
   },
   {
    "key": "agentvel",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-08-03T12:45:56.523637+00:00"
+   "generated_at": "2026-08-04T11:49:37.404005+00:00"
   }
  ]
 }
