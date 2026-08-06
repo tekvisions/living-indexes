@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-05T11:32:19.776938+00:00",
- "total_indexed": 5815,
+ "generated_at": "2026-08-06T11:35:48.827662+00:00",
+ "total_indexed": 5777,
  "indexes": [
   {
    "key": "skill",
@@ -29,7 +29,7 @@
    "blurb": "LLM & agent evaluation, benchmark, observability and red-teaming tools.",
    "url": "https://eval.kymatalabs.com",
    "accent": "#7fae2c",
-   "count": 274,
+   "count": 275,
    "top": {
     "name": "langfuse/langfuse",
     "momentum": 87
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Agent Eval"
    ],
-   "generated_at": "2026-08-05T11:07:43.223077+00:00"
+   "generated_at": "2026-08-06T11:08:34.313705+00:00"
   },
   {
    "key": "local",
@@ -78,9 +78,9 @@
     "Optimization & Tooling",
     "System Prompts",
     "Prompt Packs",
-    "Collections"
+    "Guides & Courses"
    ],
-   "generated_at": "2026-08-04T11:14:37.341536+00:00"
+   "generated_at": "2026-08-06T11:11:31.959305+00:00"
   },
   {
    "key": "rag",
@@ -92,7 +92,7 @@
    "count": 221,
    "top": {
     "name": "Shubhamsaboo/awesome-llm-apps",
-    "momentum": 87
+    "momentum": 86
    },
    "categories": [
     "Retrieval & Search",
@@ -100,7 +100,7 @@
     "Reranking",
     "RAG Frameworks"
    ],
-   "generated_at": "2026-08-05T11:20:50.177369+00:00"
+   "generated_at": "2026-08-06T11:22:48.354180+00:00"
   },
   {
    "key": "diffusion",
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-08-05T11:25:42.072704+00:00"
+   "generated_at": "2026-08-06T11:28:41.054934+00:00"
   },
   {
    "key": "voice",
@@ -131,8 +131,8 @@
    "accent": "#b6ff2e",
    "count": 296,
    "top": {
-    "name": "openai/whisper",
-    "momentum": 86
+    "name": "harry0703/MoneyPrinterTurbo",
+    "momentum": 87
    },
    "categories": [
     "Speech-to-Text",
@@ -140,7 +140,7 @@
     "Voice Agents & Realtime",
     "Toolkits & Frameworks"
    ],
-   "generated_at": "2026-08-04T11:36:29.223440+00:00"
+   "generated_at": "2026-08-05T11:33:44.762914+00:00"
   },
   {
    "key": "dataset",
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-08-04T11:49:02.228716+00:00"
+   "generated_at": "2026-08-05T11:45:17.132816+00:00"
   },
   {
    "key": "finetune",
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-08-05T11:27:32.241584+00:00"
+   "generated_at": "2026-08-06T11:31:10.589770+00:00"
   },
   {
    "key": "gateway",
@@ -200,7 +200,7 @@
     "Multi-Provider SDKs",
     "Self-Hosted Platforms"
    ],
-   "generated_at": "2026-08-04T12:11:20.787263+00:00"
+   "generated_at": "2026-08-05T12:09:05.354279+00:00"
   },
   {
    "key": "agent",
@@ -249,7 +249,7 @@
    "blurb": "LLM & AI observability — tracing, monitoring & cost analytics, online eval, agent observability, ML-drift.",
    "url": "https://observability.kymatalabs.com",
    "accent": "#ffb02e",
-   "count": 150,
+   "count": 149,
    "top": {
     "name": "langfuse/langfuse",
     "momentum": 87
@@ -260,7 +260,7 @@
     "Tracing & Spans",
     "LLMOps Platforms"
    ],
-   "generated_at": "2026-08-04T13:13:15.426116+00:00"
+   "generated_at": "2026-08-05T13:06:13.423470+00:00"
   },
   {
    "key": "stack",
@@ -280,7 +280,7 @@
     "Subagents",
     "MCP & Tools"
    ],
-   "generated_at": "2026-08-05T11:00:35.594108+00:00"
+   "generated_at": "2026-08-06T11:01:27.297543+00:00"
   },
   {
    "key": "model",
@@ -292,7 +292,7 @@
    "count_key": "model_count",
    "count": 150,
    "top": {
-    "name": "MiniMax-H3_GGUFs",
+    "name": "bge-m3",
     "momentum": null
    },
    "categories": [
@@ -301,7 +301,7 @@
     "Embeddings",
     "Image"
    ],
-   "generated_at": "2026-08-04T11:51:24.855584+00:00"
+   "generated_at": "2026-08-05T11:47:57.815972+00:00"
   },
   {
    "key": "mcp",
@@ -311,9 +311,9 @@
    "url": "https://mcp.kymatalabs.com",
    "accent": "#06b6d4",
    "count_key": "server_count",
-   "count": 2407,
+   "count": 2369,
    "top": {
-    "name": "app.linear/linear",
+    "name": "ai.kubit/mcp-server",
     "momentum": null
    },
    "categories": [
@@ -322,7 +322,7 @@
     "Data & DB",
     "Dev Tools"
    ],
-   "generated_at": "2026-08-04T11:44:40.357193+00:00"
+   "generated_at": "2026-08-05T11:49:10.704327+00:00"
   },
   {
    "key": "agentvel",
@@ -334,8 +334,8 @@
    "count_key": "repo_count",
    "count": 14,
    "top": {
-    "name": "qwen-code",
-    "momentum": 95
+    "name": "codex",
+    "momentum": 94
    },
    "categories": [
     "CLI",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-08-04T11:49:37.404005+00:00"
+   "generated_at": "2026-08-05T11:46:30.913518+00:00"
   }
  ]
 }
