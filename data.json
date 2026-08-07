@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-06T11:35:48.827662+00:00",
- "total_indexed": 5777,
+ "generated_at": "2026-08-07T10:14:35.922771+00:00",
+ "total_indexed": 5774,
  "indexes": [
   {
    "key": "skill",
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Agent Eval"
    ],
-   "generated_at": "2026-08-06T11:08:34.313705+00:00"
+   "generated_at": "2026-08-07T09:44:17.123531+00:00"
   },
   {
    "key": "local",
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-08-05T11:09:34.947147+00:00"
+   "generated_at": "2026-08-07T09:45:54.508831+00:00"
   },
   {
    "key": "prompt",
@@ -71,16 +71,16 @@
    "accent": "#ff3b2f",
    "count": 136,
    "top": {
-    "name": "DietrichGebert/ponytail",
-    "momentum": 88
+    "name": "f/prompts.chat",
+    "momentum": 87
    },
    "categories": [
     "Optimization & Tooling",
     "System Prompts",
     "Prompt Packs",
-    "Guides & Courses"
+    "Collections"
    ],
-   "generated_at": "2026-08-06T11:11:31.959305+00:00"
+   "generated_at": "2026-08-07T09:49:59.220537+00:00"
   },
   {
    "key": "rag",
@@ -100,7 +100,7 @@
     "Reranking",
     "RAG Frameworks"
    ],
-   "generated_at": "2026-08-06T11:22:48.354180+00:00"
+   "generated_at": "2026-08-07T10:01:19.300215+00:00"
   },
   {
    "key": "diffusion",
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-08-06T11:28:41.054934+00:00"
+   "generated_at": "2026-08-07T10:05:36.717603+00:00"
   },
   {
    "key": "voice",
@@ -140,7 +140,7 @@
     "Voice Agents & Realtime",
     "Toolkits & Frameworks"
    ],
-   "generated_at": "2026-08-05T11:33:44.762914+00:00"
+   "generated_at": "2026-08-06T11:37:20.667233+00:00"
   },
   {
    "key": "dataset",
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-08-06T11:31:10.589770+00:00"
+   "generated_at": "2026-08-07T10:08:51.866310+00:00"
   },
   {
    "key": "gateway",
@@ -189,7 +189,7 @@
    "blurb": "LLM gateways, proxies & routers — the routing layer between apps and model providers.",
    "url": "https://gateway.kymatalabs.com",
    "accent": "#2ee6c6",
-   "count": 197,
+   "count": 198,
    "top": {
     "name": "BerriAI/litellm",
     "momentum": 87
@@ -200,7 +200,7 @@
     "Multi-Provider SDKs",
     "Self-Hosted Platforms"
    ],
-   "generated_at": "2026-08-05T12:09:05.354279+00:00"
+   "generated_at": "2026-08-06T12:12:05.979185+00:00"
   },
   {
    "key": "agent",
@@ -209,18 +209,18 @@
    "blurb": "AI agent frameworks — multi-agent, autonomous agents, orchestration, memory & agent SDKs.",
    "url": "https://agents.kymatalabs.com",
    "accent": "#b07cff",
-   "count": 272,
+   "count": 273,
    "top": {
-    "name": "DietrichGebert/ponytail",
-    "momentum": 88
+    "name": "Significant-Gravitas/AutoGPT",
+    "momentum": 87
    },
    "categories": [
     "Agent Frameworks",
-    "Orchestration",
     "Multi-Agent",
+    "Orchestration",
     "Memory & State"
    ],
-   "generated_at": "2026-08-02T11:37:40.279218+00:00"
+   "generated_at": "2026-08-06T12:22:41.214105+00:00"
   },
   {
    "key": "document",
@@ -229,7 +229,7 @@
    "blurb": "Document-AI tooling — OCR, PDF extraction, document parsing, layout, tables & understanding.",
    "url": "https://document.kymatalabs.com",
    "accent": "#4f46e5",
-   "count": 211,
+   "count": 212,
    "top": {
     "name": "baidu/Unlimited-OCR",
     "momentum": 87
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "Layout & Structure"
    ],
-   "generated_at": "2026-08-04T12:29:43.127471+00:00"
+   "generated_at": "2026-08-06T12:30:32.991596+00:00"
   },
   {
    "key": "observability",
@@ -260,7 +260,7 @@
     "Tracing & Spans",
     "LLMOps Platforms"
    ],
-   "generated_at": "2026-08-05T13:06:13.423470+00:00"
+   "generated_at": "2026-08-06T13:06:00.914992+00:00"
   },
   {
    "key": "stack",
@@ -280,7 +280,7 @@
     "Subagents",
     "MCP & Tools"
    ],
-   "generated_at": "2026-08-06T11:01:27.297543+00:00"
+   "generated_at": "2026-08-07T09:32:07.076169+00:00"
   },
   {
    "key": "model",
@@ -292,7 +292,7 @@
    "count_key": "model_count",
    "count": 150,
    "top": {
-    "name": "bge-m3",
+    "name": "MiniMax-H3-TAE",
     "momentum": null
    },
    "categories": [
@@ -301,7 +301,7 @@
     "Embeddings",
     "Image"
    ],
-   "generated_at": "2026-08-05T11:47:57.815972+00:00"
+   "generated_at": "2026-08-06T11:52:50.492196+00:00"
   },
   {
    "key": "mcp",
@@ -311,9 +311,9 @@
    "url": "https://mcp.kymatalabs.com",
    "accent": "#06b6d4",
    "count_key": "server_count",
-   "count": 2369,
+   "count": 2363,
    "top": {
-    "name": "ai.kubit/mcp-server",
+    "name": "com.advisorfinder/mcp",
     "momentum": null
    },
    "categories": [
@@ -322,7 +322,7 @@
     "Data & DB",
     "Dev Tools"
    ],
-   "generated_at": "2026-08-05T11:49:10.704327+00:00"
+   "generated_at": "2026-08-06T11:56:14.600074+00:00"
   },
   {
    "key": "agentvel",
@@ -335,7 +335,7 @@
    "count": 14,
    "top": {
     "name": "codex",
-    "momentum": 94
+    "momentum": 93
    },
    "categories": [
     "CLI",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-08-05T11:46:30.913518+00:00"
+   "generated_at": "2026-08-06T11:52:09.580108+00:00"
   }
  ]
 }
