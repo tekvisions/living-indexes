@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-07T10:14:35.922771+00:00",
- "total_indexed": 5774,
+ "generated_at": "2026-08-08T09:56:56.726154+00:00",
+ "total_indexed": 5756,
  "indexes": [
   {
    "key": "skill",
@@ -29,7 +29,7 @@
    "blurb": "LLM & agent evaluation, benchmark, observability and red-teaming tools.",
    "url": "https://eval.kymatalabs.com",
    "accent": "#7fae2c",
-   "count": 275,
+   "count": 274,
    "top": {
     "name": "langfuse/langfuse",
     "momentum": 87
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Agent Eval"
    ],
-   "generated_at": "2026-08-07T09:44:17.123531+00:00"
+   "generated_at": "2026-08-08T09:22:56.659123+00:00"
   },
   {
    "key": "local",
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-08-07T09:45:54.508831+00:00"
+   "generated_at": "2026-08-08T09:24:26.826744+00:00"
   },
   {
    "key": "prompt",
@@ -71,8 +71,8 @@
    "accent": "#ff3b2f",
    "count": 136,
    "top": {
-    "name": "f/prompts.chat",
-    "momentum": 87
+    "name": "DietrichGebert/ponytail",
+    "momentum": 91
    },
    "categories": [
     "Optimization & Tooling",
@@ -80,7 +80,7 @@
     "Prompt Packs",
     "Collections"
    ],
-   "generated_at": "2026-08-07T09:49:59.220537+00:00"
+   "generated_at": "2026-08-08T09:26:53.203343+00:00"
   },
   {
    "key": "rag",
@@ -100,7 +100,7 @@
     "Reranking",
     "RAG Frameworks"
    ],
-   "generated_at": "2026-08-07T10:01:19.300215+00:00"
+   "generated_at": "2026-08-08T09:37:14.320952+00:00"
   },
   {
    "key": "diffusion",
@@ -129,7 +129,7 @@
    "blurb": "Voice & speech AI — text-to-speech, speech recognition, voice cloning, realtime voice agents.",
    "url": "https://voice.kymatalabs.com",
    "accent": "#b6ff2e",
-   "count": 296,
+   "count": 295,
    "top": {
     "name": "harry0703/MoneyPrinterTurbo",
     "momentum": 87
@@ -140,7 +140,7 @@
     "Voice Agents & Realtime",
     "Toolkits & Frameworks"
    ],
-   "generated_at": "2026-08-06T11:37:20.667233+00:00"
+   "generated_at": "2026-08-07T10:15:54.541062+00:00"
   },
   {
    "key": "dataset",
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-08-05T11:45:17.132816+00:00"
+   "generated_at": "2026-08-07T10:33:34.292477+00:00"
   },
   {
    "key": "finetune",
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-08-07T10:08:51.866310+00:00"
+   "generated_at": "2026-08-08T09:52:11.725983+00:00"
   },
   {
    "key": "gateway",
@@ -200,7 +200,7 @@
     "Multi-Provider SDKs",
     "Self-Hosted Platforms"
    ],
-   "generated_at": "2026-08-06T12:12:05.979185+00:00"
+   "generated_at": "2026-08-07T11:03:39.543362+00:00"
   },
   {
    "key": "agent",
@@ -220,7 +220,7 @@
     "Orchestration",
     "Memory & State"
    ],
-   "generated_at": "2026-08-06T12:22:41.214105+00:00"
+   "generated_at": "2026-08-07T11:10:53.703766+00:00"
   },
   {
    "key": "document",
@@ -260,7 +260,7 @@
     "Tracing & Spans",
     "LLMOps Platforms"
    ],
-   "generated_at": "2026-08-06T13:06:00.914992+00:00"
+   "generated_at": "2026-08-07T12:02:36.955249+00:00"
   },
   {
    "key": "stack",
@@ -271,8 +271,8 @@
    "accent": "#00d4a0",
    "count": 277,
    "top": {
-    "name": "affaan-m/ECC",
-    "momentum": 87
+    "name": "DietrichGebert/ponytail",
+    "momentum": 90
    },
    "categories": [
     "Collections",
@@ -280,7 +280,7 @@
     "Subagents",
     "MCP & Tools"
    ],
-   "generated_at": "2026-08-07T09:32:07.076169+00:00"
+   "generated_at": "2026-08-08T09:10:50.958319+00:00"
   },
   {
    "key": "model",
@@ -292,7 +292,7 @@
    "count_key": "model_count",
    "count": 150,
    "top": {
-    "name": "MiniMax-H3-TAE",
+    "name": "fuse-1-Lite",
     "momentum": null
    },
    "categories": [
@@ -301,7 +301,7 @@
     "Embeddings",
     "Image"
    ],
-   "generated_at": "2026-08-06T11:52:50.492196+00:00"
+   "generated_at": "2026-08-07T10:38:27.702816+00:00"
   },
   {
    "key": "mcp",
@@ -311,9 +311,9 @@
    "url": "https://mcp.kymatalabs.com",
    "accent": "#06b6d4",
    "count_key": "server_count",
-   "count": 2363,
+   "count": 2347,
    "top": {
-    "name": "com.advisorfinder/mcp",
+    "name": "be.vibedeploy/vibedeploy",
     "momentum": null
    },
    "categories": [
@@ -322,7 +322,7 @@
     "Data & DB",
     "Dev Tools"
    ],
-   "generated_at": "2026-08-06T11:56:14.600074+00:00"
+   "generated_at": "2026-08-07T10:28:24.125776+00:00"
   },
   {
    "key": "agentvel",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-08-06T11:52:09.580108+00:00"
+   "generated_at": "2026-08-07T10:34:53.706119+00:00"
   }
  ]
 }
