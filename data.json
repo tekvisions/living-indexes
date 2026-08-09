@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-08T09:56:56.726154+00:00",
- "total_indexed": 5756,
+ "generated_at": "2026-08-09T09:59:48.003434+00:00",
+ "total_indexed": 5760,
  "indexes": [
   {
    "key": "skill",
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Agent Eval"
    ],
-   "generated_at": "2026-08-08T09:22:56.659123+00:00"
+   "generated_at": "2026-08-09T09:24:08.683699+00:00"
   },
   {
    "key": "local",
@@ -49,7 +49,7 @@
    "blurb": "Run LLMs on your own hardware — inference engines, runners, quantization.",
    "url": "https://localllm.kymatalabs.com",
    "accent": "#1f5bff",
-   "count": 240,
+   "count": 241,
    "top": {
     "name": "Mintplex-Labs/anything-llm",
     "momentum": 86
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-08-08T09:24:26.826744+00:00"
+   "generated_at": "2026-08-09T09:25:36.912070+00:00"
   },
   {
    "key": "prompt",
@@ -78,9 +78,9 @@
     "Optimization & Tooling",
     "System Prompts",
     "Prompt Packs",
-    "Collections"
+    "Guides & Courses"
    ],
-   "generated_at": "2026-08-08T09:26:53.203343+00:00"
+   "generated_at": "2026-08-09T09:28:02.447227+00:00"
   },
   {
    "key": "rag",
@@ -92,15 +92,15 @@
    "count": 221,
    "top": {
     "name": "Shubhamsaboo/awesome-llm-apps",
-    "momentum": 86
+    "momentum": 87
    },
    "categories": [
-    "Retrieval & Search",
     "Vector Databases",
+    "Retrieval & Search",
     "Reranking",
     "RAG Frameworks"
    ],
-   "generated_at": "2026-08-08T09:37:14.320952+00:00"
+   "generated_at": "2026-08-09T09:38:52.246396+00:00"
   },
   {
    "key": "diffusion",
@@ -109,7 +109,7 @@
    "blurb": "AI image & video generation — diffusion models, ComfyUI nodes, video gen, editing, training.",
    "url": "https://diffusion.kymatalabs.com",
    "accent": "#c77dff",
-   "count": 262,
+   "count": 260,
    "top": {
     "name": "Comfy-Org/ComfyUI",
     "momentum": 86
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-08-07T10:05:36.717603+00:00"
+   "generated_at": "2026-08-09T09:47:23.432120+00:00"
   },
   {
    "key": "voice",
@@ -140,7 +140,7 @@
     "Voice Agents & Realtime",
     "Toolkits & Frameworks"
    ],
-   "generated_at": "2026-08-07T10:15:54.541062+00:00"
+   "generated_at": "2026-08-08T09:58:58.990966+00:00"
   },
   {
    "key": "dataset",
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-08-07T10:33:34.292477+00:00"
+   "generated_at": "2026-08-08T10:13:27.883546+00:00"
   },
   {
    "key": "finetune",
@@ -169,7 +169,7 @@
    "blurb": "Make your own model — fine-tuning frameworks, PEFT/LoRA, RLHF/DPO, training data.",
    "url": "https://finetune.kymatalabs.com",
    "accent": "#ff6a00",
-   "count": 182,
+   "count": 183,
    "top": {
     "name": "hiyouga/LlamaFactory",
     "momentum": 87
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-08-08T09:52:11.725983+00:00"
+   "generated_at": "2026-08-09T09:53:34.063349+00:00"
   },
   {
    "key": "gateway",
@@ -189,7 +189,7 @@
    "blurb": "LLM gateways, proxies & routers — the routing layer between apps and model providers.",
    "url": "https://gateway.kymatalabs.com",
    "accent": "#2ee6c6",
-   "count": 198,
+   "count": 197,
    "top": {
     "name": "BerriAI/litellm",
     "momentum": 87
@@ -200,7 +200,7 @@
     "Multi-Provider SDKs",
     "Self-Hosted Platforms"
    ],
-   "generated_at": "2026-08-07T11:03:39.543362+00:00"
+   "generated_at": "2026-08-08T10:45:59.421758+00:00"
   },
   {
    "key": "agent",
@@ -209,10 +209,10 @@
    "blurb": "AI agent frameworks — multi-agent, autonomous agents, orchestration, memory & agent SDKs.",
    "url": "https://agents.kymatalabs.com",
    "accent": "#b07cff",
-   "count": 273,
+   "count": 274,
    "top": {
-    "name": "Significant-Gravitas/AutoGPT",
-    "momentum": 87
+    "name": "DietrichGebert/ponytail",
+    "momentum": 91
    },
    "categories": [
     "Agent Frameworks",
@@ -220,7 +220,7 @@
     "Orchestration",
     "Memory & State"
    ],
-   "generated_at": "2026-08-07T11:10:53.703766+00:00"
+   "generated_at": "2026-08-08T10:54:39.036217+00:00"
   },
   {
    "key": "document",
@@ -231,8 +231,8 @@
    "accent": "#4f46e5",
    "count": 212,
    "top": {
-    "name": "baidu/Unlimited-OCR",
-    "momentum": 87
+    "name": "opendatalab/MinerU",
+    "momentum": 86
    },
    "categories": [
     "Document Parsing",
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "Layout & Structure"
    ],
-   "generated_at": "2026-08-06T12:30:32.991596+00:00"
+   "generated_at": "2026-08-08T11:06:25.980088+00:00"
   },
   {
    "key": "observability",
@@ -260,7 +260,7 @@
     "Tracing & Spans",
     "LLMOps Platforms"
    ],
-   "generated_at": "2026-08-07T12:02:36.955249+00:00"
+   "generated_at": "2026-08-08T11:49:37.886795+00:00"
   },
   {
    "key": "stack",
@@ -280,7 +280,7 @@
     "Subagents",
     "MCP & Tools"
    ],
-   "generated_at": "2026-08-08T09:10:50.958319+00:00"
+   "generated_at": "2026-08-09T09:11:46.558702+00:00"
   },
   {
    "key": "model",
@@ -292,7 +292,7 @@
    "count_key": "model_count",
    "count": 150,
    "top": {
-    "name": "fuse-1-Lite",
+    "name": "MiniMax-H3-Prompt-Rewriter-LoRA",
     "momentum": null
    },
    "categories": [
@@ -301,7 +301,7 @@
     "Embeddings",
     "Image"
    ],
-   "generated_at": "2026-08-07T10:38:27.702816+00:00"
+   "generated_at": "2026-08-08T10:16:31.810618+00:00"
   },
   {
    "key": "mcp",
@@ -311,9 +311,9 @@
    "url": "https://mcp.kymatalabs.com",
    "accent": "#06b6d4",
    "count_key": "server_count",
-   "count": 2347,
+   "count": 2351,
    "top": {
-    "name": "be.vibedeploy/vibedeploy",
+    "name": "ai.usestring/web-access",
     "momentum": null
    },
    "categories": [
@@ -322,7 +322,7 @@
     "Data & DB",
     "Dev Tools"
    ],
-   "generated_at": "2026-08-07T10:28:24.125776+00:00"
+   "generated_at": "2026-08-08T10:04:43.608472+00:00"
   },
   {
    "key": "agentvel",
@@ -335,7 +335,7 @@
    "count": 14,
    "top": {
     "name": "codex",
-    "momentum": 93
+    "momentum": 92
    },
    "categories": [
     "CLI",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-08-07T10:34:53.706119+00:00"
+   "generated_at": "2026-08-08T10:14:45.312264+00:00"
   }
  ]
 }
