@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-09T09:59:48.003434+00:00",
- "total_indexed": 5760,
+ "generated_at": "2026-08-10T10:38:39.586629+00:00",
+ "total_indexed": 5768,
  "indexes": [
   {
    "key": "skill",
@@ -29,7 +29,7 @@
    "blurb": "LLM & agent evaluation, benchmark, observability and red-teaming tools.",
    "url": "https://eval.kymatalabs.com",
    "accent": "#7fae2c",
-   "count": 274,
+   "count": 275,
    "top": {
     "name": "langfuse/langfuse",
     "momentum": 87
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Agent Eval"
    ],
-   "generated_at": "2026-08-09T09:24:08.683699+00:00"
+   "generated_at": "2026-08-10T10:03:31.046759+00:00"
   },
   {
    "key": "local",
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-08-09T09:25:36.912070+00:00"
+   "generated_at": "2026-08-10T10:05:51.026321+00:00"
   },
   {
    "key": "prompt",
@@ -78,9 +78,9 @@
     "Optimization & Tooling",
     "System Prompts",
     "Prompt Packs",
-    "Guides & Courses"
+    "Collections"
    ],
-   "generated_at": "2026-08-09T09:28:02.447227+00:00"
+   "generated_at": "2026-08-10T10:07:44.828244+00:00"
   },
   {
    "key": "rag",
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-08-09T09:47:23.432120+00:00"
+   "generated_at": "2026-08-10T10:23:22.616585+00:00"
   },
   {
    "key": "voice",
@@ -129,10 +129,10 @@
    "blurb": "Voice & speech AI — text-to-speech, speech recognition, voice cloning, realtime voice agents.",
    "url": "https://voice.kymatalabs.com",
    "accent": "#b6ff2e",
-   "count": 295,
+   "count": 296,
    "top": {
     "name": "harry0703/MoneyPrinterTurbo",
-    "momentum": 87
+    "momentum": 86
    },
    "categories": [
     "Speech-to-Text",
@@ -140,7 +140,7 @@
     "Voice Agents & Realtime",
     "Toolkits & Frameworks"
    ],
-   "generated_at": "2026-08-08T09:58:58.990966+00:00"
+   "generated_at": "2026-08-09T10:00:46.776684+00:00"
   },
   {
    "key": "dataset",
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-08-08T10:13:27.883546+00:00"
+   "generated_at": "2026-08-09T10:15:50.762195+00:00"
   },
   {
    "key": "finetune",
@@ -169,7 +169,7 @@
    "blurb": "Make your own model — fine-tuning frameworks, PEFT/LoRA, RLHF/DPO, training data.",
    "url": "https://finetune.kymatalabs.com",
    "accent": "#ff6a00",
-   "count": 183,
+   "count": 182,
    "top": {
     "name": "hiyouga/LlamaFactory",
     "momentum": 87
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-08-09T09:53:34.063349+00:00"
+   "generated_at": "2026-08-10T10:34:42.317233+00:00"
   },
   {
    "key": "gateway",
@@ -200,7 +200,7 @@
     "Multi-Provider SDKs",
     "Self-Hosted Platforms"
    ],
-   "generated_at": "2026-08-08T10:45:59.421758+00:00"
+   "generated_at": "2026-08-09T10:47:52.211088+00:00"
   },
   {
    "key": "agent",
@@ -216,11 +216,11 @@
    },
    "categories": [
     "Agent Frameworks",
-    "Multi-Agent",
     "Orchestration",
+    "Multi-Agent",
     "Memory & State"
    ],
-   "generated_at": "2026-08-08T10:54:39.036217+00:00"
+   "generated_at": "2026-08-09T10:56:00.983185+00:00"
   },
   {
    "key": "document",
@@ -229,7 +229,7 @@
    "blurb": "Document-AI tooling — OCR, PDF extraction, document parsing, layout, tables & understanding.",
    "url": "https://document.kymatalabs.com",
    "accent": "#4f46e5",
-   "count": 212,
+   "count": 213,
    "top": {
     "name": "opendatalab/MinerU",
     "momentum": 86
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "Layout & Structure"
    ],
-   "generated_at": "2026-08-08T11:06:25.980088+00:00"
+   "generated_at": "2026-08-09T11:12:50.077901+00:00"
   },
   {
    "key": "observability",
@@ -260,7 +260,7 @@
     "Tracing & Spans",
     "LLMOps Platforms"
    ],
-   "generated_at": "2026-08-08T11:49:37.886795+00:00"
+   "generated_at": "2026-08-09T11:50:36.173048+00:00"
   },
   {
    "key": "stack",
@@ -272,7 +272,7 @@
    "count": 277,
    "top": {
     "name": "DietrichGebert/ponytail",
-    "momentum": 90
+    "momentum": 89
    },
    "categories": [
     "Collections",
@@ -280,7 +280,7 @@
     "Subagents",
     "MCP & Tools"
    ],
-   "generated_at": "2026-08-09T09:11:46.558702+00:00"
+   "generated_at": "2026-08-10T09:57:57.560412+00:00"
   },
   {
    "key": "model",
@@ -292,16 +292,16 @@
    "count_key": "model_count",
    "count": 150,
    "top": {
-    "name": "MiniMax-H3-Prompt-Rewriter-LoRA",
+    "name": "Wan2.2-Animate-2-14B",
     "momentum": null
    },
    "categories": [
-    "3D",
     "Audio",
     "Embeddings",
-    "Image"
+    "Image",
+    "Multimodal"
    ],
-   "generated_at": "2026-08-08T10:16:31.810618+00:00"
+   "generated_at": "2026-08-09T10:18:08.100783+00:00"
   },
   {
    "key": "mcp",
@@ -311,9 +311,9 @@
    "url": "https://mcp.kymatalabs.com",
    "accent": "#06b6d4",
    "count_key": "server_count",
-   "count": 2351,
+   "count": 2357,
    "top": {
-    "name": "ai.usestring/web-access",
+    "name": "com.appfigures/mcp",
     "momentum": null
    },
    "categories": [
@@ -322,7 +322,7 @@
     "Data & DB",
     "Dev Tools"
    ],
-   "generated_at": "2026-08-08T10:04:43.608472+00:00"
+   "generated_at": "2026-08-09T10:06:28.094018+00:00"
   },
   {
    "key": "agentvel",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-08-08T10:14:45.312264+00:00"
+   "generated_at": "2026-08-09T10:16:06.995136+00:00"
   }
  ]
 }
