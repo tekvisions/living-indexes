@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-12T10:29:38.198381+00:00",
- "total_indexed": 5781,
+ "generated_at": "2026-08-13T10:30:51.090445+00:00",
+ "total_indexed": 5786,
  "indexes": [
   {
    "key": "skill",
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Agent Eval"
    ],
-   "generated_at": "2026-08-12T09:48:11.434877+00:00"
+   "generated_at": "2026-08-13T09:49:04.894957+00:00"
   },
   {
    "key": "local",
@@ -49,7 +49,7 @@
    "blurb": "Run LLMs on your own hardware — inference engines, runners, quantization.",
    "url": "https://localllm.kymatalabs.com",
    "accent": "#1f5bff",
-   "count": 240,
+   "count": 239,
    "top": {
     "name": "Mintplex-Labs/anything-llm",
     "momentum": 86
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-08-12T09:51:10.835369+00:00"
+   "generated_at": "2026-08-13T09:51:24.356606+00:00"
   },
   {
    "key": "prompt",
@@ -78,9 +78,9 @@
     "Optimization & Tooling",
     "System Prompts",
     "Prompt Packs",
-    "Collections"
+    "Guides & Courses"
    ],
-   "generated_at": "2026-08-12T09:52:47.257722+00:00"
+   "generated_at": "2026-08-13T09:52:37.314825+00:00"
   },
   {
    "key": "rag",
@@ -89,18 +89,18 @@
    "blurb": "Retrieval-augmented-generation — RAG frameworks, vector DBs, embeddings, reranking.",
    "url": "https://rag.kymatalabs.com",
    "accent": "#5b4bff",
-   "count": 223,
+   "count": 224,
    "top": {
     "name": "Shubhamsaboo/awesome-llm-apps",
-    "momentum": 87
+    "momentum": 86
    },
    "categories": [
-    "Vector Databases",
     "Retrieval & Search",
+    "Vector Databases",
     "Reranking",
     "RAG Frameworks"
    ],
-   "generated_at": "2026-08-12T10:04:28.690076+00:00"
+   "generated_at": "2026-08-13T10:05:39.926981+00:00"
   },
   {
    "key": "diffusion",
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-08-12T10:13:24.424560+00:00"
+   "generated_at": "2026-08-13T10:15:00.660726+00:00"
   },
   {
    "key": "voice",
@@ -140,7 +140,7 @@
     "Voice Agents & Realtime",
     "Toolkits & Frameworks"
    ],
-   "generated_at": "2026-08-11T10:15:35.727323+00:00"
+   "generated_at": "2026-08-12T10:31:23.535308+00:00"
   },
   {
    "key": "dataset",
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-08-10T10:47:20.313342+00:00"
+   "generated_at": "2026-08-12T10:42:33.535906+00:00"
   },
   {
    "key": "finetune",
@@ -171,7 +171,7 @@
    "accent": "#ff6a00",
    "count": 182,
    "top": {
-    "name": "hiyouga/LlamaFactory",
+    "name": "unslothai/unsloth",
     "momentum": 87
    },
    "categories": [
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-08-12T10:18:26.975693+00:00"
+   "generated_at": "2026-08-13T10:19:53.382824+00:00"
   },
   {
    "key": "gateway",
@@ -200,7 +200,7 @@
     "Multi-Provider SDKs",
     "Self-Hosted Platforms"
    ],
-   "generated_at": "2026-08-11T11:00:42.754690+00:00"
+   "generated_at": "2026-08-12T11:08:25.557810+00:00"
   },
   {
    "key": "agent",
@@ -209,7 +209,7 @@
    "blurb": "AI agent frameworks — multi-agent, autonomous agents, orchestration, memory & agent SDKs.",
    "url": "https://agents.kymatalabs.com",
    "accent": "#b07cff",
-   "count": 276,
+   "count": 278,
    "top": {
     "name": "DietrichGebert/ponytail",
     "momentum": 90
@@ -220,7 +220,7 @@
     "Orchestration",
     "Memory & State"
    ],
-   "generated_at": "2026-08-11T11:08:32.574846+00:00"
+   "generated_at": "2026-08-12T11:12:19.520990+00:00"
   },
   {
    "key": "document",
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "Layout & Structure"
    ],
-   "generated_at": "2026-08-11T11:31:20.710523+00:00"
+   "generated_at": "2026-08-12T11:30:40.852058+00:00"
   },
   {
    "key": "observability",
@@ -249,7 +249,7 @@
    "blurb": "LLM & AI observability — tracing, monitoring & cost analytics, online eval, agent observability, ML-drift.",
    "url": "https://observability.kymatalabs.com",
    "accent": "#ffb02e",
-   "count": 151,
+   "count": 152,
    "top": {
     "name": "langfuse/langfuse",
     "momentum": 87
@@ -260,7 +260,7 @@
     "Tracing & Spans",
     "LLMOps Platforms"
    ],
-   "generated_at": "2026-08-11T12:02:09.871394+00:00"
+   "generated_at": "2026-08-12T12:04:08.266716+00:00"
   },
   {
    "key": "stack",
@@ -269,10 +269,10 @@
    "blurb": "The live momentum index for AI-infrastructure repos.",
    "url": "https://stacktracker.kymatalabs.com",
    "accent": "#00d4a0",
-   "count": 279,
+   "count": 278,
    "top": {
     "name": "DietrichGebert/ponytail",
-    "momentum": 89
+    "momentum": 88
    },
    "categories": [
     "Commands & Hooks",
@@ -280,7 +280,7 @@
     "Subagents",
     "MCP & Tools"
    ],
-   "generated_at": "2026-08-12T09:41:43.864478+00:00"
+   "generated_at": "2026-08-13T09:41:08.140898+00:00"
   },
   {
    "key": "model",
@@ -292,16 +292,16 @@
    "count_key": "model_count",
    "count": 150,
    "top": {
-    "name": "Muse-Glimmer-30B-GGUF",
+    "name": "Huihui-CyberStrike-OffSec-35B-abliterated",
     "momentum": null
    },
    "categories": [
     "Audio",
     "Embeddings",
     "Image",
-    "Multimodal"
+    "Other"
    ],
-   "generated_at": "2026-08-11T10:37:50.572714+00:00"
+   "generated_at": "2026-08-12T10:45:23.082350+00:00"
   },
   {
    "key": "mcp",
@@ -311,9 +311,9 @@
    "url": "https://mcp.kymatalabs.com",
    "accent": "#06b6d4",
    "count_key": "server_count",
-   "count": 2362,
+   "count": 2365,
    "top": {
-    "name": "ai.modelrunner/mcp",
+    "name": "com.dealsurface/dealsurface",
     "momentum": null
    },
    "categories": [
@@ -322,7 +322,7 @@
     "Data & DB",
     "Dev Tools"
    ],
-   "generated_at": "2026-08-11T10:27:17.550608+00:00"
+   "generated_at": "2026-08-12T10:37:53.967025+00:00"
   },
   {
    "key": "agentvel",
@@ -335,7 +335,7 @@
    "count": 14,
    "top": {
     "name": "codex",
-    "momentum": 93
+    "momentum": 95
    },
    "categories": [
     "CLI",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-08-11T10:35:32.605348+00:00"
+   "generated_at": "2026-08-12T10:43:00.905102+00:00"
   }
  ]
 }
