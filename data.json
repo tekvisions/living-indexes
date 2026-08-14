@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-13T10:30:51.090445+00:00",
- "total_indexed": 5786,
+ "generated_at": "2026-08-14T10:27:22.733350+00:00",
+ "total_indexed": 5767,
  "indexes": [
   {
    "key": "skill",
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Agent Eval"
    ],
-   "generated_at": "2026-08-13T09:49:04.894957+00:00"
+   "generated_at": "2026-08-14T09:45:29.017204+00:00"
   },
   {
    "key": "local",
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-08-13T09:51:24.356606+00:00"
+   "generated_at": "2026-08-14T09:47:47.719170+00:00"
   },
   {
    "key": "prompt",
@@ -69,7 +69,7 @@
    "blurb": "Prompt-engineering resources — collections, system prompts, optimizers, guides.",
    "url": "https://prompt.kymatalabs.com",
    "accent": "#ff3b2f",
-   "count": 136,
+   "count": 135,
    "top": {
     "name": "DietrichGebert/ponytail",
     "momentum": 90
@@ -78,9 +78,9 @@
     "Optimization & Tooling",
     "System Prompts",
     "Prompt Packs",
-    "Guides & Courses"
+    "Collections"
    ],
-   "generated_at": "2026-08-13T09:52:37.314825+00:00"
+   "generated_at": "2026-08-14T09:50:51.926903+00:00"
   },
   {
    "key": "rag",
@@ -92,15 +92,15 @@
    "count": 224,
    "top": {
     "name": "Shubhamsaboo/awesome-llm-apps",
-    "momentum": 86
+    "momentum": 87
    },
    "categories": [
-    "Retrieval & Search",
     "Vector Databases",
+    "Retrieval & Search",
     "Reranking",
     "RAG Frameworks"
    ],
-   "generated_at": "2026-08-13T10:05:39.926981+00:00"
+   "generated_at": "2026-08-14T10:01:11.312448+00:00"
   },
   {
    "key": "diffusion",
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-08-13T10:15:00.660726+00:00"
+   "generated_at": "2026-08-14T10:10:52.581151+00:00"
   },
   {
    "key": "voice",
@@ -140,7 +140,7 @@
     "Voice Agents & Realtime",
     "Toolkits & Frameworks"
    ],
-   "generated_at": "2026-08-12T10:31:23.535308+00:00"
+   "generated_at": "2026-08-13T10:32:16.899358+00:00"
   },
   {
    "key": "dataset",
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-08-12T10:42:33.535906+00:00"
+   "generated_at": "2026-08-13T10:44:27.636971+00:00"
   },
   {
    "key": "finetune",
@@ -171,7 +171,7 @@
    "accent": "#ff6a00",
    "count": 182,
    "top": {
-    "name": "unslothai/unsloth",
+    "name": "hiyouga/LlamaFactory",
     "momentum": 87
    },
    "categories": [
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-08-13T10:19:53.382824+00:00"
+   "generated_at": "2026-08-14T10:14:53.772190+00:00"
   },
   {
    "key": "gateway",
@@ -200,7 +200,7 @@
     "Multi-Provider SDKs",
     "Self-Hosted Platforms"
    ],
-   "generated_at": "2026-08-12T11:08:25.557810+00:00"
+   "generated_at": "2026-08-13T11:08:11.214847+00:00"
   },
   {
    "key": "agent",
@@ -209,7 +209,7 @@
    "blurb": "AI agent frameworks — multi-agent, autonomous agents, orchestration, memory & agent SDKs.",
    "url": "https://agents.kymatalabs.com",
    "accent": "#b07cff",
-   "count": 278,
+   "count": 277,
    "top": {
     "name": "DietrichGebert/ponytail",
     "momentum": 90
@@ -220,7 +220,7 @@
     "Orchestration",
     "Memory & State"
    ],
-   "generated_at": "2026-08-12T11:12:19.520990+00:00"
+   "generated_at": "2026-08-13T11:13:40.549223+00:00"
   },
   {
    "key": "document",
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "Layout & Structure"
    ],
-   "generated_at": "2026-08-12T11:30:40.852058+00:00"
+   "generated_at": "2026-08-13T11:28:53.373291+00:00"
   },
   {
    "key": "observability",
@@ -249,7 +249,7 @@
    "blurb": "LLM & AI observability — tracing, monitoring & cost analytics, online eval, agent observability, ML-drift.",
    "url": "https://observability.kymatalabs.com",
    "accent": "#ffb02e",
-   "count": 152,
+   "count": 153,
    "top": {
     "name": "langfuse/langfuse",
     "momentum": 87
@@ -260,7 +260,7 @@
     "Tracing & Spans",
     "LLMOps Platforms"
    ],
-   "generated_at": "2026-08-12T12:04:08.266716+00:00"
+   "generated_at": "2026-08-13T12:04:10.007880+00:00"
   },
   {
    "key": "stack",
@@ -269,7 +269,7 @@
    "blurb": "The live momentum index for AI-infrastructure repos.",
    "url": "https://stacktracker.kymatalabs.com",
    "accent": "#00d4a0",
-   "count": 278,
+   "count": 279,
    "top": {
     "name": "DietrichGebert/ponytail",
     "momentum": 88
@@ -280,7 +280,7 @@
     "Subagents",
     "MCP & Tools"
    ],
-   "generated_at": "2026-08-13T09:41:08.140898+00:00"
+   "generated_at": "2026-08-14T09:35:50.326082+00:00"
   },
   {
    "key": "model",
@@ -292,16 +292,16 @@
    "count_key": "model_count",
    "count": 150,
    "top": {
-    "name": "Huihui-CyberStrike-OffSec-35B-abliterated",
+    "name": "Nail-Qwen3.6-35B-A3B-GGUF",
     "momentum": null
    },
    "categories": [
     "Audio",
-    "Embeddings",
     "Image",
+    "Multimodal",
     "Other"
    ],
-   "generated_at": "2026-08-12T10:45:23.082350+00:00"
+   "generated_at": "2026-08-13T10:47:12.655050+00:00"
   },
   {
    "key": "mcp",
@@ -311,9 +311,9 @@
    "url": "https://mcp.kymatalabs.com",
    "accent": "#06b6d4",
    "count_key": "server_count",
-   "count": 2365,
+   "count": 2346,
    "top": {
-    "name": "com.dealsurface/dealsurface",
+    "name": "app.recordo.api/calories-club",
     "momentum": null
    },
    "categories": [
@@ -322,7 +322,7 @@
     "Data & DB",
     "Dev Tools"
    ],
-   "generated_at": "2026-08-12T10:37:53.967025+00:00"
+   "generated_at": "2026-08-13T10:39:02.565696+00:00"
   },
   {
    "key": "agentvel",
@@ -335,7 +335,7 @@
    "count": 14,
    "top": {
     "name": "codex",
-    "momentum": 95
+    "momentum": 94
    },
    "categories": [
     "CLI",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-08-12T10:43:00.905102+00:00"
+   "generated_at": "2026-08-13T10:45:24.722234+00:00"
   }
  ]
 }
