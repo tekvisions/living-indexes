@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-14T10:27:22.733350+00:00",
- "total_indexed": 5767,
+ "generated_at": "2026-08-15T09:44:03.190468+00:00",
+ "total_indexed": 5760,
  "indexes": [
   {
    "key": "skill",
@@ -37,10 +37,10 @@
    "categories": [
     "Observability",
     "Red Teaming & Safety",
-    "RAG Eval",
-    "Agent Eval"
+    "Agent Eval",
+    "RAG Eval"
    ],
-   "generated_at": "2026-08-14T09:45:29.017204+00:00"
+   "generated_at": "2026-08-15T09:10:47.941758+00:00"
   },
   {
    "key": "local",
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-08-14T09:47:47.719170+00:00"
+   "generated_at": "2026-08-15T09:13:37.905183+00:00"
   },
   {
    "key": "prompt",
@@ -69,18 +69,18 @@
    "blurb": "Prompt-engineering resources — collections, system prompts, optimizers, guides.",
    "url": "https://prompt.kymatalabs.com",
    "accent": "#ff3b2f",
-   "count": 135,
+   "count": 134,
    "top": {
     "name": "DietrichGebert/ponytail",
-    "momentum": 90
+    "momentum": 89
    },
    "categories": [
     "Optimization & Tooling",
-    "System Prompts",
     "Prompt Packs",
+    "System Prompts",
     "Collections"
    ],
-   "generated_at": "2026-08-14T09:50:51.926903+00:00"
+   "generated_at": "2026-08-15T09:15:41.028537+00:00"
   },
   {
    "key": "rag",
@@ -98,9 +98,9 @@
     "Vector Databases",
     "Retrieval & Search",
     "Reranking",
-    "RAG Frameworks"
+    "Embeddings"
    ],
-   "generated_at": "2026-08-14T10:01:11.312448+00:00"
+   "generated_at": "2026-08-15T09:25:43.094354+00:00"
   },
   {
    "key": "diffusion",
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-08-14T10:10:52.581151+00:00"
+   "generated_at": "2026-08-15T09:31:55.592136+00:00"
   },
   {
    "key": "voice",
@@ -140,7 +140,7 @@
     "Voice Agents & Realtime",
     "Toolkits & Frameworks"
    ],
-   "generated_at": "2026-08-13T10:32:16.899358+00:00"
+   "generated_at": "2026-08-14T10:29:06.016296+00:00"
   },
   {
    "key": "dataset",
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-08-13T10:44:27.636971+00:00"
+   "generated_at": "2026-08-14T10:39:37.218031+00:00"
   },
   {
    "key": "finetune",
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-08-14T10:14:53.772190+00:00"
+   "generated_at": "2026-08-15T09:37:08.374663+00:00"
   },
   {
    "key": "gateway",
@@ -200,7 +200,7 @@
     "Multi-Provider SDKs",
     "Self-Hosted Platforms"
    ],
-   "generated_at": "2026-08-13T11:08:11.214847+00:00"
+   "generated_at": "2026-08-14T11:06:10.740720+00:00"
   },
   {
    "key": "agent",
@@ -209,10 +209,10 @@
    "blurb": "AI agent frameworks — multi-agent, autonomous agents, orchestration, memory & agent SDKs.",
    "url": "https://agents.kymatalabs.com",
    "accent": "#b07cff",
-   "count": 277,
+   "count": 274,
    "top": {
     "name": "DietrichGebert/ponytail",
-    "momentum": 90
+    "momentum": 89
    },
    "categories": [
     "Agent Frameworks",
@@ -220,7 +220,7 @@
     "Orchestration",
     "Memory & State"
    ],
-   "generated_at": "2026-08-13T11:13:40.549223+00:00"
+   "generated_at": "2026-08-14T11:11:28.104211+00:00"
   },
   {
    "key": "document",
@@ -229,7 +229,7 @@
    "blurb": "Document-AI tooling — OCR, PDF extraction, document parsing, layout, tables & understanding.",
    "url": "https://document.kymatalabs.com",
    "accent": "#4f46e5",
-   "count": 213,
+   "count": 212,
    "top": {
     "name": "opendatalab/MinerU",
     "momentum": 86
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "Layout & Structure"
    ],
-   "generated_at": "2026-08-13T11:28:53.373291+00:00"
+   "generated_at": "2026-08-14T11:28:25.626835+00:00"
   },
   {
    "key": "observability",
@@ -260,7 +260,7 @@
     "Tracing & Spans",
     "LLMOps Platforms"
    ],
-   "generated_at": "2026-08-13T12:04:10.007880+00:00"
+   "generated_at": "2026-08-14T12:01:52.374671+00:00"
   },
   {
    "key": "stack",
@@ -275,12 +275,12 @@
     "momentum": 88
    },
    "categories": [
-    "Commands & Hooks",
     "Collections",
+    "Commands & Hooks",
     "Subagents",
     "MCP & Tools"
    ],
-   "generated_at": "2026-08-14T09:35:50.326082+00:00"
+   "generated_at": "2026-08-15T08:55:46.763293+00:00"
   },
   {
    "key": "model",
@@ -292,7 +292,7 @@
    "count_key": "model_count",
    "count": 150,
    "top": {
-    "name": "Nail-Qwen3.6-35B-A3B-GGUF",
+    "name": "Qwen-Fixed-Chat-Templates",
     "momentum": null
    },
    "categories": [
@@ -301,7 +301,7 @@
     "Multimodal",
     "Other"
    ],
-   "generated_at": "2026-08-13T10:47:12.655050+00:00"
+   "generated_at": "2026-08-14T10:43:32.178640+00:00"
   },
   {
    "key": "mcp",
@@ -311,9 +311,9 @@
    "url": "https://mcp.kymatalabs.com",
    "accent": "#06b6d4",
    "count_key": "server_count",
-   "count": 2346,
+   "count": 2344,
    "top": {
-    "name": "app.recordo.api/calories-club",
+    "name": "ai.justpublish/just-publish",
     "momentum": null
    },
    "categories": [
@@ -322,7 +322,7 @@
     "Data & DB",
     "Dev Tools"
    ],
-   "generated_at": "2026-08-13T10:39:02.565696+00:00"
+   "generated_at": "2026-08-14T10:34:22.846931+00:00"
   },
   {
    "key": "agentvel",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-08-13T10:45:24.722234+00:00"
+   "generated_at": "2026-08-14T10:40:49.492210+00:00"
   }
  ]
 }
