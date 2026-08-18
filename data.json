@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-17T10:00:31.734803+00:00",
- "total_indexed": 5758,
+ "generated_at": "2026-08-18T09:52:30.987963+00:00",
+ "total_indexed": 5746,
  "indexes": [
   {
    "key": "skill",
@@ -40,7 +40,7 @@
     "Agent Eval",
     "RAG Eval"
    ],
-   "generated_at": "2026-08-17T09:25:16.255335+00:00"
+   "generated_at": "2026-08-18T09:16:37.677914+00:00"
   },
   {
    "key": "local",
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-08-17T09:26:29.179090+00:00"
+   "generated_at": "2026-08-18T09:18:47.813965+00:00"
   },
   {
    "key": "prompt",
@@ -80,7 +80,7 @@
     "System Prompts",
     "Collections"
    ],
-   "generated_at": "2026-08-17T09:29:04.789461+00:00"
+   "generated_at": "2026-08-18T09:21:24.620550+00:00"
   },
   {
    "key": "rag",
@@ -89,7 +89,7 @@
    "blurb": "Retrieval-augmented-generation — RAG frameworks, vector DBs, embeddings, reranking.",
    "url": "https://rag.kymatalabs.com",
    "accent": "#5b4bff",
-   "count": 225,
+   "count": 226,
    "top": {
     "name": "Shubhamsaboo/awesome-llm-apps",
     "momentum": 87
@@ -98,9 +98,9 @@
     "Retrieval & Search",
     "Vector Databases",
     "Reranking",
-    "Embeddings"
+    "RAG Frameworks"
    ],
-   "generated_at": "2026-08-17T09:40:37.621375+00:00"
+   "generated_at": "2026-08-18T09:32:52.605876+00:00"
   },
   {
    "key": "diffusion",
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-08-17T09:50:31.971594+00:00"
+   "generated_at": "2026-08-18T09:39:31.604488+00:00"
   },
   {
    "key": "voice",
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-08-16T09:59:40.761121+00:00"
+   "generated_at": "2026-08-17T10:15:41.252013+00:00"
   },
   {
    "key": "finetune",
@@ -169,7 +169,7 @@
    "blurb": "Make your own model — fine-tuning frameworks, PEFT/LoRA, RLHF/DPO, training data.",
    "url": "https://finetune.kymatalabs.com",
    "accent": "#ff6a00",
-   "count": 182,
+   "count": 181,
    "top": {
     "name": "unslothai/unsloth",
     "momentum": 87
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-08-17T09:54:57.950007+00:00"
+   "generated_at": "2026-08-18T09:46:51.620892+00:00"
   },
   {
    "key": "gateway",
@@ -189,7 +189,7 @@
    "blurb": "LLM gateways, proxies & routers — the routing layer between apps and model providers.",
    "url": "https://gateway.kymatalabs.com",
    "accent": "#2ee6c6",
-   "count": 200,
+   "count": 199,
    "top": {
     "name": "BerriAI/litellm",
     "momentum": 87
@@ -200,7 +200,7 @@
     "Multi-Provider SDKs",
     "Self-Hosted Platforms"
    ],
-   "generated_at": "2026-08-16T10:34:43.809047+00:00"
+   "generated_at": "2026-08-17T10:44:14.212820+00:00"
   },
   {
    "key": "agent",
@@ -212,7 +212,7 @@
    "count": 275,
    "top": {
     "name": "deepseek-ai/deepseek-harness",
-    "momentum": 97
+    "momentum": 98
    },
    "categories": [
     "Agent Frameworks",
@@ -220,7 +220,7 @@
     "Orchestration",
     "Memory & State"
    ],
-   "generated_at": "2026-08-16T10:43:46.114880+00:00"
+   "generated_at": "2026-08-17T10:51:23.986241+00:00"
   },
   {
    "key": "document",
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "Layout & Structure"
    ],
-   "generated_at": "2026-08-16T10:59:31.326706+00:00"
+   "generated_at": "2026-08-17T11:02:49.562506+00:00"
   },
   {
    "key": "observability",
@@ -249,7 +249,7 @@
    "blurb": "LLM & AI observability — tracing, monitoring & cost analytics, online eval, agent observability, ML-drift.",
    "url": "https://observability.kymatalabs.com",
    "accent": "#ffb02e",
-   "count": 149,
+   "count": 150,
    "top": {
     "name": "langfuse/langfuse",
     "momentum": 87
@@ -257,10 +257,10 @@
    "categories": [
     "Agent Observability",
     "Monitoring & Analytics",
-    "Tracing & Spans",
-    "LLMOps Platforms"
+    "LLMOps Platforms",
+    "Tracing & Spans"
    ],
-   "generated_at": "2026-08-16T11:40:05.045121+00:00"
+   "generated_at": "2026-08-17T11:45:29.173097+00:00"
   },
   {
    "key": "stack",
@@ -280,7 +280,7 @@
     "Subagents",
     "MCP & Tools"
    ],
-   "generated_at": "2026-08-17T09:09:18.701851+00:00"
+   "generated_at": "2026-08-18T09:03:04.458516+00:00"
   },
   {
    "key": "model",
@@ -292,7 +292,7 @@
    "count_key": "model_count",
    "count": 150,
    "top": {
-    "name": "Qwen3.8-27B-ABLITERATED-GGUF",
+    "name": "Qwen3.8-27B-NVFP4-RTX5090",
     "momentum": null
    },
    "categories": [
@@ -301,7 +301,7 @@
     "Multimodal",
     "Other"
    ],
-   "generated_at": "2026-08-16T10:08:13.046057+00:00"
+   "generated_at": "2026-08-17T10:17:04.901451+00:00"
   },
   {
    "key": "mcp",
@@ -311,9 +311,9 @@
    "url": "https://mcp.kymatalabs.com",
    "accent": "#06b6d4",
    "count_key": "server_count",
-   "count": 2343,
+   "count": 2331,
    "top": {
-    "name": "ai.tooldirectory/catalog",
+    "name": "cat.2022/catalunya-2022",
     "momentum": null
    },
    "categories": [
@@ -322,7 +322,7 @@
     "Data & DB",
     "Dev Tools"
    ],
-   "generated_at": "2026-08-16T09:53:18.572550+00:00"
+   "generated_at": "2026-08-17T10:07:08.088931+00:00"
   },
   {
    "key": "agentvel",
@@ -335,7 +335,7 @@
    "count": 14,
    "top": {
     "name": "codex",
-    "momentum": 95
+    "momentum": 94
    },
    "categories": [
     "CLI",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-08-16T10:00:39.552428+00:00"
+   "generated_at": "2026-08-17T10:16:03.468103+00:00"
   }
  ]
 }
