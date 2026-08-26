@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-25T09:54:39.845731+00:00",
- "total_indexed": 5646,
+ "generated_at": "2026-08-26T10:00:34.326523+00:00",
+ "total_indexed": 5627,
  "indexes": [
   {
    "key": "skill",
@@ -29,7 +29,7 @@
    "blurb": "LLM & agent evaluation, benchmark, observability and red-teaming tools.",
    "url": "https://eval.kymatalabs.com",
    "accent": "#7fae2c",
-   "count": 274,
+   "count": 275,
    "top": {
     "name": "langfuse/langfuse",
     "momentum": 87
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Agent Eval"
    ],
-   "generated_at": "2026-08-25T09:20:40.256610+00:00"
+   "generated_at": "2026-08-26T09:25:57.618411+00:00"
   },
   {
    "key": "local",
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-08-25T09:22:11.014000+00:00"
+   "generated_at": "2026-08-26T09:27:34.248965+00:00"
   },
   {
    "key": "prompt",
@@ -75,12 +75,12 @@
     "momentum": 87
    },
    "categories": [
-    "Optimization & Tooling",
     "System Prompts",
+    "Optimization & Tooling",
     "Prompt Packs",
     "Collections"
    ],
-   "generated_at": "2026-08-25T09:23:58.850577+00:00"
+   "generated_at": "2026-08-26T09:29:49.690982+00:00"
   },
   {
    "key": "rag",
@@ -89,7 +89,7 @@
    "blurb": "Retrieval-augmented-generation — RAG frameworks, vector DBs, embeddings, reranking.",
    "url": "https://rag.kymatalabs.com",
    "accent": "#5b4bff",
-   "count": 227,
+   "count": 226,
    "top": {
     "name": "Shubhamsaboo/awesome-llm-apps",
     "momentum": 86
@@ -98,9 +98,9 @@
     "Retrieval & Search",
     "Vector Databases",
     "Reranking",
-    "Embeddings"
+    "RAG Frameworks"
    ],
-   "generated_at": "2026-08-25T09:34:33.060040+00:00"
+   "generated_at": "2026-08-26T09:40:35.439831+00:00"
   },
   {
    "key": "diffusion",
@@ -109,7 +109,7 @@
    "blurb": "AI image & video generation — diffusion models, ComfyUI nodes, video gen, editing, training.",
    "url": "https://diffusion.kymatalabs.com",
    "accent": "#c77dff",
-   "count": 260,
+   "count": 261,
    "top": {
     "name": "Comfy-Org/ComfyUI",
     "momentum": 86
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-08-24T09:54:58.808190+00:00"
+   "generated_at": "2026-08-26T09:49:52.694552+00:00"
   },
   {
    "key": "voice",
@@ -140,7 +140,7 @@
     "Voice Agents & Realtime",
     "Toolkits & Frameworks"
    ],
-   "generated_at": "2026-08-24T10:08:00.227801+00:00"
+   "generated_at": "2026-08-25T09:56:10.840542+00:00"
   },
   {
    "key": "dataset",
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-08-24T10:21:52.005540+00:00"
+   "generated_at": "2026-08-25T10:07:06.745234+00:00"
   },
   {
    "key": "finetune",
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-08-25T09:49:23.333149+00:00"
+   "generated_at": "2026-08-26T09:54:58.743556+00:00"
   },
   {
    "key": "gateway",
@@ -200,7 +200,7 @@
     "Multi-Provider SDKs",
     "Observability Gateways"
    ],
-   "generated_at": "2026-08-24T10:49:04.418803+00:00"
+   "generated_at": "2026-08-25T10:44:45.156107+00:00"
   },
   {
    "key": "agent",
@@ -220,7 +220,7 @@
     "Orchestration",
     "Memory & State"
    ],
-   "generated_at": "2026-08-24T10:56:56.178656+00:00"
+   "generated_at": "2026-08-25T10:53:55.601330+00:00"
   },
   {
    "key": "document",
@@ -229,7 +229,7 @@
    "blurb": "Document-AI tooling — OCR, PDF extraction, document parsing, layout, tables & understanding.",
    "url": "https://document.kymatalabs.com",
    "accent": "#4f46e5",
-   "count": 213,
+   "count": 214,
    "top": {
     "name": "opendatalab/MinerU",
     "momentum": 86
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "Layout & Structure"
    ],
-   "generated_at": "2026-08-24T11:09:32.537736+00:00"
+   "generated_at": "2026-08-25T11:05:06.299761+00:00"
   },
   {
    "key": "observability",
@@ -257,10 +257,10 @@
    "categories": [
     "Agent Observability",
     "Monitoring & Analytics",
-    "LLMOps Platforms",
-    "Tracing & Spans"
+    "Tracing & Spans",
+    "LLMOps Platforms"
    ],
-   "generated_at": "2026-08-24T11:48:15.610121+00:00"
+   "generated_at": "2026-08-25T11:49:36.707877+00:00"
   },
   {
    "key": "stack",
@@ -280,7 +280,7 @@
     "Subagents",
     "MCP & Tools"
    ],
-   "generated_at": "2026-08-25T09:08:42.764723+00:00"
+   "generated_at": "2026-08-26T09:12:09.594091+00:00"
   },
   {
    "key": "model",
@@ -292,7 +292,7 @@
    "count_key": "model_count",
    "count": 150,
    "top": {
-    "name": "Anima-3.8B",
+    "name": "Dirk-Qwen3.8-27B-GGUF",
     "momentum": null
    },
    "categories": [
@@ -301,7 +301,7 @@
     "Image",
     "Multimodal"
    ],
-   "generated_at": "2026-08-24T10:23:35.162510+00:00"
+   "generated_at": "2026-08-25T10:16:15.643383+00:00"
   },
   {
    "key": "mcp",
@@ -311,9 +311,9 @@
    "url": "https://mcp.kymatalabs.com",
    "accent": "#06b6d4",
    "count_key": "server_count",
-   "count": 2233,
+   "count": 2212,
    "top": {
-    "name": "co.promptguard/security",
+    "name": "ai.probitylabs/wallet-reputation",
     "momentum": null
    },
    "categories": [
@@ -322,7 +322,7 @@
     "Data & DB",
     "Dev Tools"
    ],
-   "generated_at": "2026-08-24T10:19:21.335607+00:00"
+   "generated_at": "2026-08-25T10:03:09.309623+00:00"
   },
   {
    "key": "agentvel",
@@ -334,8 +334,8 @@
    "count_key": "repo_count",
    "count": 14,
    "top": {
-    "name": "codex",
-    "momentum": 95
+    "name": "cline",
+    "momentum": 97
    },
    "categories": [
     "CLI",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-08-24T10:22:44.702838+00:00"
+   "generated_at": "2026-08-25T10:13:18.027793+00:00"
   }
  ]
 }
