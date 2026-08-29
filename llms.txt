@@ -3,15 +3,15 @@
 > A hub for self-updating indexes of the AI-builder ecosystem. Each index is
 > recomputed daily from live GitHub signals.
 
-Updated: 2026-08-28T20:56:29.240216+00:00  ·  5620 entries across 17 indexes
+Updated: 2026-08-29T14:33:16.274997+00:00  ·  5615 entries across 17 indexes
 
 - [The Skill Index](https://skill.kymatalabs.com) — 273 entries — Claude Code & AI-agent skills — skills, subagents, slash-commands, hooks.
-- [The Eval Index](https://eval.kymatalabs.com) — 274 entries — LLM & agent evaluation, benchmark, observability and red-teaming tools.
+- [The Eval Index](https://eval.kymatalabs.com) — 273 entries — LLM & agent evaluation, benchmark, observability and red-teaming tools.
 - [The Local LLM Index](https://localllm.kymatalabs.com) — 240 entries — Run LLMs on your own hardware — inference engines, runners, quantization.
 - [The Prompt Index](https://prompt.kymatalabs.com) — 135 entries — Prompt-engineering resources — collections, system prompts, optimizers, guides.
 - [The RAG Index](https://rag.kymatalabs.com) — 227 entries — Retrieval-augmented-generation — RAG frameworks, vector DBs, embeddings, reranking.
 - [The Diffusion Index](https://diffusion.kymatalabs.com) — 262 entries — AI image & video generation — diffusion models, ComfyUI nodes, video gen, editing, training.
-- [The Voice AI Index](https://voice.kymatalabs.com) — 291 entries — Voice & speech AI — text-to-speech, speech recognition, voice cloning, realtime voice agents.
+- [The Voice AI Index](https://voice.kymatalabs.com) — 287 entries — Voice & speech AI — text-to-speech, speech recognition, voice cloning, realtime voice agents.
 - [The Dataset Index](https://dataset.kymatalabs.com) — 254 entries — Data-centric AI tooling — labeling & annotation, synthetic data, curation, augmentation, dataset frameworks.
 - [The Fine-Tuning Index](https://finetune.kymatalabs.com) — 183 entries — Make your own model — fine-tuning frameworks, PEFT/LoRA, RLHF/DPO, training data.
 - [The Gateway Index](https://gateway.kymatalabs.com) — 200 entries — LLM gateways, proxies & routers — the routing layer between apps and model providers.

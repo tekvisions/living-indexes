@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-28T20:56:29.240216+00:00",
- "total_indexed": 5620,
+ "generated_at": "2026-08-29T14:33:16.274997+00:00",
+ "total_indexed": 5615,
  "indexes": [
   {
    "key": "skill",
@@ -29,7 +29,7 @@
    "blurb": "LLM & agent evaluation, benchmark, observability and red-teaming tools.",
    "url": "https://eval.kymatalabs.com",
    "accent": "#7fae2c",
-   "count": 274,
+   "count": 273,
    "top": {
     "name": "langfuse/langfuse",
     "momentum": 87
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Agent Eval"
    ],
-   "generated_at": "2026-08-28T20:26:03.310114+00:00"
+   "generated_at": "2026-08-29T14:01:45.505858+00:00"
   },
   {
    "key": "local",
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-08-28T20:26:36.469181+00:00"
+   "generated_at": "2026-08-29T14:02:21.323070+00:00"
   },
   {
    "key": "prompt",
@@ -100,7 +100,7 @@
     "Reranking",
     "RAG Frameworks"
    ],
-   "generated_at": "2026-08-28T20:43:21.570188+00:00"
+   "generated_at": "2026-08-29T14:11:03.809181+00:00"
   },
   {
    "key": "diffusion",
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-08-28T20:48:07.249030+00:00"
+   "generated_at": "2026-08-29T14:20:49.086184+00:00"
   },
   {
    "key": "voice",
@@ -129,7 +129,7 @@
    "blurb": "Voice & speech AI — text-to-speech, speech recognition, voice cloning, realtime voice agents.",
    "url": "https://voice.kymatalabs.com",
    "accent": "#b6ff2e",
-   "count": 291,
+   "count": 287,
    "top": {
     "name": "harry0703/MoneyPrinterTurbo",
     "momentum": 87
@@ -140,7 +140,7 @@
     "Voice Agents & Realtime",
     "Toolkits & Frameworks"
    ],
-   "generated_at": "2026-08-27T19:53:44.207428+00:00"
+   "generated_at": "2026-08-28T20:57:08.055978+00:00"
   },
   {
    "key": "dataset",
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-08-27T20:00:16.023547+00:00"
+   "generated_at": "2026-08-28T20:59:32.598496+00:00"
   },
   {
    "key": "finetune",
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-08-28T20:49:34.303238+00:00"
+   "generated_at": "2026-08-29T14:27:01.024512+00:00"
   },
   {
    "key": "gateway",
@@ -200,7 +200,7 @@
     "Multi-Provider SDKs",
     "Observability Gateways"
    ],
-   "generated_at": "2026-08-27T20:20:57.009692+00:00"
+   "generated_at": "2026-08-28T21:10:14.461061+00:00"
   },
   {
    "key": "agent",
@@ -220,7 +220,7 @@
     "Orchestration",
     "Memory & State"
    ],
-   "generated_at": "2026-08-27T20:35:30.248395+00:00"
+   "generated_at": "2026-08-28T21:12:02.854595+00:00"
   },
   {
    "key": "document",
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "Layout & Structure"
    ],
-   "generated_at": "2026-08-27T20:47:00.200698+00:00"
+   "generated_at": "2026-08-28T21:15:09.268016+00:00"
   },
   {
    "key": "observability",
@@ -260,7 +260,7 @@
     "Tracing & Spans",
     "LLMOps Platforms"
    ],
-   "generated_at": "2026-08-27T21:04:09.694913+00:00"
+   "generated_at": "2026-08-28T21:27:34.700759+00:00"
   },
   {
    "key": "stack",
@@ -280,7 +280,7 @@
     "Subagents",
     "MCP & Tools"
    ],
-   "generated_at": "2026-08-28T20:18:54.471512+00:00"
+   "generated_at": "2026-08-29T13:57:04.803154+00:00"
   },
   {
    "key": "model",
@@ -292,7 +292,7 @@
    "count_key": "model_count",
    "count": 150,
    "top": {
-    "name": "SuperQwen3.8-27b-abliterated",
+    "name": "Qwen3.8-Flash-Next-GGUF",
     "momentum": null
    },
    "categories": [
@@ -301,7 +301,7 @@
     "Image",
     "Multimodal"
    ],
-   "generated_at": "2026-08-26T10:20:22.198293+00:00"
+   "generated_at": "2026-08-28T21:00:01.745461+00:00"
   },
   {
    "key": "mcp",
@@ -335,7 +335,7 @@
    "count": 14,
    "top": {
     "name": "codex",
-    "momentum": 97
+    "momentum": 96
    },
    "categories": [
     "CLI",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-08-27T20:00:58.069990+00:00"
+   "generated_at": "2026-08-28T21:00:28.142125+00:00"
   }
  ]
 }
