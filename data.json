@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-30T14:26:37.537284+00:00",
+ "generated_at": "2026-08-31T17:06:46.497944+00:00",
  "total_indexed": 5613,
  "indexes": [
   {
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-08-30T14:01:17.823201+00:00"
+   "generated_at": "2026-08-31T16:25:38.761278+00:00"
   },
   {
    "key": "prompt",
@@ -69,18 +69,18 @@
    "blurb": "Prompt-engineering resources — collections, system prompts, optimizers, guides.",
    "url": "https://prompt.kymatalabs.com",
    "accent": "#ff3b2f",
-   "count": 135,
+   "count": 134,
    "top": {
     "name": "f/prompts.chat",
     "momentum": 87
    },
    "categories": [
     "Optimization & Tooling",
-    "System Prompts",
     "Prompt Packs",
+    "System Prompts",
     "Collections"
    ],
-   "generated_at": "2026-08-30T14:03:53.964246+00:00"
+   "generated_at": "2026-08-31T16:29:48.980859+00:00"
   },
   {
    "key": "rag",
@@ -100,7 +100,7 @@
     "Reranking",
     "RAG Frameworks"
    ],
-   "generated_at": "2026-08-30T14:17:40.618032+00:00"
+   "generated_at": "2026-08-31T16:44:44.367677+00:00"
   },
   {
    "key": "diffusion",
@@ -109,7 +109,7 @@
    "blurb": "AI image & video generation — diffusion models, ComfyUI nodes, video gen, editing, training.",
    "url": "https://diffusion.kymatalabs.com",
    "accent": "#c77dff",
-   "count": 262,
+   "count": 261,
    "top": {
     "name": "Comfy-Org/ComfyUI",
     "momentum": 86
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-08-30T14:22:06.097009+00:00"
+   "generated_at": "2026-08-31T16:59:16.473266+00:00"
   },
   {
    "key": "voice",
@@ -140,7 +140,7 @@
     "Voice Agents & Realtime",
     "Toolkits & Frameworks"
    ],
-   "generated_at": "2026-08-29T14:34:38.021886+00:00"
+   "generated_at": "2026-08-30T14:27:35.952246+00:00"
   },
   {
    "key": "dataset",
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-08-29T14:42:01.371192+00:00"
+   "generated_at": "2026-08-30T14:31:32.617674+00:00"
   },
   {
    "key": "finetune",
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-08-30T14:24:25.704706+00:00"
+   "generated_at": "2026-08-31T17:02:34.752857+00:00"
   },
   {
    "key": "gateway",
@@ -200,7 +200,7 @@
     "Multi-Provider SDKs",
     "Observability Gateways"
    ],
-   "generated_at": "2026-08-29T15:01:28.383961+00:00"
+   "generated_at": "2026-08-30T14:49:43.527610+00:00"
   },
   {
    "key": "agent",
@@ -220,7 +220,7 @@
     "Orchestration",
     "Memory & State"
    ],
-   "generated_at": "2026-08-29T15:06:58.940984+00:00"
+   "generated_at": "2026-08-30T14:54:10.013722+00:00"
   },
   {
    "key": "document",
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "Layout & Structure"
    ],
-   "generated_at": "2026-08-29T15:20:18.328687+00:00"
+   "generated_at": "2026-08-30T15:01:36.017276+00:00"
   },
   {
    "key": "observability",
@@ -249,7 +249,7 @@
    "blurb": "LLM & AI observability — tracing, monitoring & cost analytics, online eval, agent observability, ML-drift.",
    "url": "https://observability.kymatalabs.com",
    "accent": "#ffb02e",
-   "count": 153,
+   "count": 154,
    "top": {
     "name": "langfuse/langfuse",
     "momentum": 87
@@ -257,10 +257,10 @@
    "categories": [
     "Agent Observability",
     "Monitoring & Analytics",
-    "LLMOps Platforms",
-    "Tracing & Spans"
+    "Tracing & Spans",
+    "LLMOps Platforms"
    ],
-   "generated_at": "2026-08-29T15:40:29.591465+00:00"
+   "generated_at": "2026-08-30T15:23:22.212821+00:00"
   },
   {
    "key": "stack",
@@ -269,7 +269,7 @@
    "blurb": "The live momentum index for AI-infrastructure repos.",
    "url": "https://stacktracker.kymatalabs.com",
    "accent": "#00d4a0",
-   "count": 279,
+   "count": 280,
    "top": {
     "name": "affaan-m/ECC",
     "momentum": 87
@@ -280,7 +280,7 @@
     "Subagents",
     "MCP & Tools"
    ],
-   "generated_at": "2026-08-30T13:54:45.009360+00:00"
+   "generated_at": "2026-08-31T16:17:34.015909+00:00"
   },
   {
    "key": "model",
@@ -292,7 +292,7 @@
    "count_key": "model_count",
    "count": 150,
    "top": {
-    "name": "FastVideo-FastH3-4-step-Preview-v1-VSA-DataFree",
+    "name": "pocket-tts",
     "momentum": null
    },
    "categories": [
@@ -301,7 +301,7 @@
     "Image",
     "Multimodal"
    ],
-   "generated_at": "2026-08-29T14:42:41.782644+00:00"
+   "generated_at": "2026-08-30T14:31:41.604621+00:00"
   },
   {
    "key": "mcp",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-08-29T14:42:34.796761+00:00"
+   "generated_at": "2026-08-30T14:32:14.499744+00:00"
   }
  ]
 }
