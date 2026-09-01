@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-31T17:06:46.497944+00:00",
- "total_indexed": 5613,
+ "generated_at": "2026-09-01T14:11:34.965240+00:00",
+ "total_indexed": 5618,
  "indexes": [
   {
    "key": "skill",
@@ -29,7 +29,7 @@
    "blurb": "LLM & agent evaluation, benchmark, observability and red-teaming tools.",
    "url": "https://eval.kymatalabs.com",
    "accent": "#7fae2c",
-   "count": 273,
+   "count": 274,
    "top": {
     "name": "langfuse/langfuse",
     "momentum": 87
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Agent Eval"
    ],
-   "generated_at": "2026-08-30T14:00:31.159837+00:00"
+   "generated_at": "2026-09-01T13:43:10.360340+00:00"
   },
   {
    "key": "local",
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-08-31T16:25:38.761278+00:00"
+   "generated_at": "2026-09-01T13:43:46.753876+00:00"
   },
   {
    "key": "prompt",
@@ -76,11 +76,11 @@
    },
    "categories": [
     "Optimization & Tooling",
-    "Prompt Packs",
     "System Prompts",
+    "Prompt Packs",
     "Collections"
    ],
-   "generated_at": "2026-08-31T16:29:48.980859+00:00"
+   "generated_at": "2026-09-01T13:46:50.410392+00:00"
   },
   {
    "key": "rag",
@@ -100,7 +100,7 @@
     "Reranking",
     "RAG Frameworks"
    ],
-   "generated_at": "2026-08-31T16:44:44.367677+00:00"
+   "generated_at": "2026-09-01T13:57:04.564319+00:00"
   },
   {
    "key": "diffusion",
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-08-31T16:59:16.473266+00:00"
+   "generated_at": "2026-09-01T14:04:29.795875+00:00"
   },
   {
    "key": "voice",
@@ -140,7 +140,7 @@
     "Voice Agents & Realtime",
     "Toolkits & Frameworks"
    ],
-   "generated_at": "2026-08-30T14:27:35.952246+00:00"
+   "generated_at": "2026-08-31T17:07:33.219074+00:00"
   },
   {
    "key": "dataset",
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-08-30T14:31:32.617674+00:00"
+   "generated_at": "2026-08-31T17:14:13.646404+00:00"
   },
   {
    "key": "finetune",
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-08-31T17:02:34.752857+00:00"
+   "generated_at": "2026-09-01T14:07:45.947527+00:00"
   },
   {
    "key": "gateway",
@@ -189,7 +189,7 @@
    "blurb": "LLM gateways, proxies & routers — the routing layer between apps and model providers.",
    "url": "https://gateway.kymatalabs.com",
    "accent": "#2ee6c6",
-   "count": 201,
+   "count": 202,
    "top": {
     "name": "diegosouzapw/OmniRoute",
     "momentum": 87
@@ -200,7 +200,7 @@
     "Multi-Provider SDKs",
     "Observability Gateways"
    ],
-   "generated_at": "2026-08-30T14:49:43.527610+00:00"
+   "generated_at": "2026-08-31T17:34:35.374599+00:00"
   },
   {
    "key": "agent",
@@ -209,7 +209,7 @@
    "blurb": "AI agent frameworks — multi-agent, autonomous agents, orchestration, memory & agent SDKs.",
    "url": "https://agents.kymatalabs.com",
    "accent": "#b07cff",
-   "count": 269,
+   "count": 270,
    "top": {
     "name": "deepseek-ai/deepseek-harness",
     "momentum": 98
@@ -220,7 +220,7 @@
     "Orchestration",
     "Memory & State"
    ],
-   "generated_at": "2026-08-30T14:54:10.013722+00:00"
+   "generated_at": "2026-08-31T17:38:59.673643+00:00"
   },
   {
    "key": "document",
@@ -229,7 +229,7 @@
    "blurb": "Document-AI tooling — OCR, PDF extraction, document parsing, layout, tables & understanding.",
    "url": "https://document.kymatalabs.com",
    "accent": "#4f46e5",
-   "count": 215,
+   "count": 216,
    "top": {
     "name": "opendatalab/MinerU",
     "momentum": 86
@@ -238,9 +238,9 @@
     "Document Parsing",
     "OCR Engines",
     "PDF Extraction",
-    "Layout & Structure"
+    "VLM & Understanding"
    ],
-   "generated_at": "2026-08-30T15:01:36.017276+00:00"
+   "generated_at": "2026-08-31T17:43:04.696240+00:00"
   },
   {
    "key": "observability",
@@ -249,7 +249,7 @@
    "blurb": "LLM & AI observability — tracing, monitoring & cost analytics, online eval, agent observability, ML-drift.",
    "url": "https://observability.kymatalabs.com",
    "accent": "#ffb02e",
-   "count": 154,
+   "count": 155,
    "top": {
     "name": "langfuse/langfuse",
     "momentum": 87
@@ -260,7 +260,7 @@
     "Tracing & Spans",
     "LLMOps Platforms"
    ],
-   "generated_at": "2026-08-30T15:23:22.212821+00:00"
+   "generated_at": "2026-08-31T18:02:39.670555+00:00"
   },
   {
    "key": "stack",
@@ -280,7 +280,7 @@
     "Subagents",
     "MCP & Tools"
    ],
-   "generated_at": "2026-08-31T16:17:34.015909+00:00"
+   "generated_at": "2026-09-01T13:37:32.227880+00:00"
   },
   {
    "key": "model",
@@ -335,7 +335,7 @@
    "count": 14,
    "top": {
     "name": "codex",
-    "momentum": 95
+    "momentum": 94
    },
    "categories": [
     "CLI",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-08-30T14:32:14.499744+00:00"
+   "generated_at": "2026-08-31T17:14:56.420890+00:00"
   }
  ]
 }
