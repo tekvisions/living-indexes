@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-02T13:43:17.050335+00:00",
- "total_indexed": 5339,
+ "generated_at": "2026-09-03T13:39:06.484037+00:00",
+ "total_indexed": 5617,
  "indexes": [
   {
    "key": "skill",
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Agent Eval"
    ],
-   "generated_at": "2026-09-02T12:59:33.611322+00:00"
+   "generated_at": "2026-09-03T13:01:33.619572+00:00"
   },
   {
    "key": "local",
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-09-02T13:00:30.877395+00:00"
+   "generated_at": "2026-09-03T13:02:34.950631+00:00"
   },
   {
    "key": "prompt",
@@ -78,9 +78,9 @@
     "Optimization & Tooling",
     "Prompt Packs",
     "System Prompts",
-    "Collections"
+    "Guides & Courses"
    ],
-   "generated_at": "2026-09-02T13:03:23.952634+00:00"
+   "generated_at": "2026-09-03T13:05:34.787165+00:00"
   },
   {
    "key": "rag",
@@ -100,7 +100,7 @@
     "Reranking",
     "RAG Frameworks"
    ],
-   "generated_at": "2026-09-02T13:17:04.190808+00:00"
+   "generated_at": "2026-09-03T13:16:38.171053+00:00"
   },
   {
    "key": "diffusion",
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-09-02T13:30:24.005767+00:00"
+   "generated_at": "2026-09-03T13:28:48.473992+00:00"
   },
   {
    "key": "voice",
@@ -140,7 +140,7 @@
     "Voice Agents & Realtime",
     "Toolkits & Frameworks"
    ],
-   "generated_at": "2026-09-01T14:12:20.305711+00:00"
+   "generated_at": "2026-09-02T13:44:33.207693+00:00"
   },
   {
    "key": "dataset",
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-09-01T14:18:42.406073+00:00"
+   "generated_at": "2026-09-02T13:52:49.469063+00:00"
   },
   {
    "key": "finetune",
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-09-02T13:36:42.649009+00:00"
+   "generated_at": "2026-09-03T13:33:16.396105+00:00"
   },
   {
    "key": "gateway",
@@ -200,7 +200,7 @@
     "Multi-Provider SDKs",
     "Observability Gateways"
    ],
-   "generated_at": "2026-09-01T14:47:33.648318+00:00"
+   "generated_at": "2026-09-02T14:23:26.962230+00:00"
   },
   {
    "key": "agent",
@@ -209,7 +209,7 @@
    "blurb": "AI agent frameworks — multi-agent, autonomous agents, orchestration, memory & agent SDKs.",
    "url": "https://agents.kymatalabs.com",
    "accent": "#b07cff",
-   "count": 270,
+   "count": 269,
    "top": {
     "name": "deepseek-ai/deepseek-harness",
     "momentum": 98
@@ -220,7 +220,7 @@
     "Orchestration",
     "Memory & State"
    ],
-   "generated_at": "2026-09-01T14:58:00.308462+00:00"
+   "generated_at": "2026-09-02T14:33:06.970219+00:00"
   },
   {
    "key": "document",
@@ -229,7 +229,7 @@
    "blurb": "Document-AI tooling — OCR, PDF extraction, document parsing, layout, tables & understanding.",
    "url": "https://document.kymatalabs.com",
    "accent": "#4f46e5",
-   "count": 216,
+   "count": 217,
    "top": {
     "name": "opendatalab/MinerU",
     "momentum": 86
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "VLM & Understanding"
    ],
-   "generated_at": "2026-09-01T15:12:21.958313+00:00"
+   "generated_at": "2026-09-02T14:43:04.865357+00:00"
   },
   {
    "key": "observability",
@@ -249,7 +249,7 @@
    "blurb": "LLM & AI observability — tracing, monitoring & cost analytics, online eval, agent observability, ML-drift.",
    "url": "https://observability.kymatalabs.com",
    "accent": "#ffb02e",
-   "count": 157,
+   "count": 156,
    "top": {
     "name": "langfuse/langfuse",
     "momentum": 87
@@ -257,10 +257,10 @@
    "categories": [
     "Agent Observability",
     "Monitoring & Analytics",
-    "Tracing & Spans",
-    "LLMOps Platforms"
+    "LLMOps Platforms",
+    "Tracing & Spans"
    ],
-   "generated_at": "2026-09-01T15:29:42.823023+00:00"
+   "generated_at": "2026-09-02T15:09:14.785895+00:00"
   },
   {
    "key": "stack",
@@ -269,18 +269,18 @@
    "blurb": "The live momentum index for AI-infrastructure repos.",
    "url": "https://stacktracker.kymatalabs.com",
    "accent": "#00d4a0",
-   "count": null,
+   "count": 279,
    "top": {
-    "name": "qdrant",
-    "momentum": 100
+    "name": "affaan-m/ECC",
+    "momentum": 87
    },
    "categories": [
-    "Agents",
-    "Inference",
-    "Vector DB",
-    "LLMOps"
+    "Collections",
+    "Commands & Hooks",
+    "Subagents",
+    "MCP & Tools"
    ],
-   "generated_at": "2026-09-01T14:12:56.571976+00:00"
+   "generated_at": "2026-09-03T12:56:56.497957+00:00"
   },
   {
    "key": "model",
@@ -292,7 +292,7 @@
    "count_key": "model_count",
    "count": 150,
    "top": {
-    "name": "Qwen3.8-27B-QUASAR-NVFP4",
+    "name": "minimax-h3-fused-turbo-int8-convrot",
     "momentum": null
    },
    "categories": [
@@ -301,7 +301,7 @@
     "Image",
     "Multimodal"
    ],
-   "generated_at": "2026-09-01T14:19:59.661155+00:00"
+   "generated_at": "2026-09-02T13:53:44.060245+00:00"
   },
   {
    "key": "mcp",
@@ -335,7 +335,7 @@
    "count": 14,
    "top": {
     "name": "codex",
-    "momentum": 94
+    "momentum": 95
    },
    "categories": [
     "CLI",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-09-01T14:19:53.941940+00:00"
+   "generated_at": "2026-09-02T13:53:16.583082+00:00"
   }
  ]
 }
