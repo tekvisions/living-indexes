@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-07T15:06:04.189948+00:00",
- "total_indexed": 5646,
+ "generated_at": "2026-09-08T13:41:18.857268+00:00",
+ "total_indexed": 5619,
  "indexes": [
   {
    "key": "skill",
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-09-07T14:29:58.290037+00:00"
+   "generated_at": "2026-09-08T13:06:30.259654+00:00"
   },
   {
    "key": "prompt",
@@ -76,11 +76,11 @@
    },
    "categories": [
     "Optimization & Tooling",
-    "Prompt Packs",
     "System Prompts",
-    "Guides & Courses"
+    "Prompt Packs",
+    "Collections"
    ],
-   "generated_at": "2026-09-07T14:33:58.780347+00:00"
+   "generated_at": "2026-09-08T13:09:11.488630+00:00"
   },
   {
    "key": "rag",
@@ -92,7 +92,7 @@
    "count": 224,
    "top": {
     "name": "Shubhamsaboo/awesome-llm-apps",
-    "momentum": 86
+    "momentum": 87
    },
    "categories": [
     "Retrieval & Search",
@@ -100,7 +100,7 @@
     "Reranking",
     "RAG Frameworks"
    ],
-   "generated_at": "2026-09-06T12:39:18.444473+00:00"
+   "generated_at": "2026-09-08T13:21:13.496730+00:00"
   },
   {
    "key": "diffusion",
@@ -140,7 +140,7 @@
     "Toolkits & Frameworks",
     "Voice Agents & Realtime"
    ],
-   "generated_at": "2026-09-06T12:56:44.594914+00:00"
+   "generated_at": "2026-09-07T15:07:09.730282+00:00"
   },
   {
    "key": "dataset",
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-09-06T13:09:14.577015+00:00"
+   "generated_at": "2026-09-07T15:16:36.299168+00:00"
   },
   {
    "key": "finetune",
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-09-07T15:01:59.857253+00:00"
+   "generated_at": "2026-09-08T13:34:50.390423+00:00"
   },
   {
    "key": "gateway",
@@ -200,7 +200,7 @@
     "Multi-Provider SDKs",
     "Observability Gateways"
    ],
-   "generated_at": "2026-09-06T13:37:29.105568+00:00"
+   "generated_at": "2026-09-07T15:46:50.713278+00:00"
   },
   {
    "key": "agent",
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "VLM & Understanding"
    ],
-   "generated_at": "2026-09-06T13:48:49.717538+00:00"
+   "generated_at": "2026-09-07T16:05:08.486412+00:00"
   },
   {
    "key": "observability",
@@ -260,7 +260,7 @@
     "LLMOps Platforms",
     "Tracing & Spans"
    ],
-   "generated_at": "2026-09-06T14:14:56.993600+00:00"
+   "generated_at": "2026-09-07T16:32:44.036263+00:00"
   },
   {
    "key": "stack",
@@ -280,7 +280,7 @@
     "Subagents",
     "MCP & Tools"
    ],
-   "generated_at": "2026-09-07T14:22:47.410817+00:00"
+   "generated_at": "2026-09-08T12:59:44.598754+00:00"
   },
   {
    "key": "model",
@@ -292,7 +292,7 @@
    "count_key": "model_count",
    "count": 150,
    "top": {
-    "name": "GLM-5.3-CYBERSECURITY-FP8",
+    "name": "Minimax-h3_Singularity",
     "momentum": null
    },
    "categories": [
@@ -301,7 +301,7 @@
     "Image",
     "Other"
    ],
-   "generated_at": "2026-09-06T13:12:23.300466+00:00"
+   "generated_at": "2026-09-07T15:19:30.970310+00:00"
   },
   {
    "key": "mcp",
@@ -311,9 +311,9 @@
    "url": "https://mcp.kymatalabs.com",
    "accent": "#06b6d4",
    "count_key": "server_count",
-   "count": 2227,
+   "count": 2200,
    "top": {
-    "name": "bot.ttrpg/grimoire",
+    "name": "ai.multinex/memq",
     "momentum": null
    },
    "categories": [
@@ -322,7 +322,7 @@
     "Data & DB",
     "Dev Tools"
    ],
-   "generated_at": "2026-09-06T13:04:59.437637+00:00"
+   "generated_at": "2026-09-07T15:11:40.930411+00:00"
   },
   {
    "key": "agentvel",
@@ -335,7 +335,7 @@
    "count": 14,
    "top": {
     "name": "codex",
-    "momentum": 93
+    "momentum": 94
    },
    "categories": [
     "CLI",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-09-06T13:10:04.648176+00:00"
+   "generated_at": "2026-09-07T15:17:37.588537+00:00"
   }
  ]
 }
