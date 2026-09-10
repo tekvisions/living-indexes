@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-09T13:46:05.936910+00:00",
- "total_indexed": 5624,
+ "generated_at": "2026-09-10T13:40:10.625241+00:00",
+ "total_indexed": 5641,
  "indexes": [
   {
    "key": "skill",
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Agent Eval"
    ],
-   "generated_at": "2026-09-09T13:10:51.741292+00:00"
+   "generated_at": "2026-09-10T13:08:34.041580+00:00"
   },
   {
    "key": "local",
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-09-09T13:11:35.953993+00:00"
+   "generated_at": "2026-09-10T13:09:29.055707+00:00"
   },
   {
    "key": "prompt",
@@ -80,7 +80,7 @@
     "Prompt Packs",
     "Guides & Courses"
    ],
-   "generated_at": "2026-09-09T13:14:17.709390+00:00"
+   "generated_at": "2026-09-10T13:11:52.098320+00:00"
   },
   {
    "key": "rag",
@@ -100,7 +100,7 @@
     "Reranking",
     "RAG Frameworks"
    ],
-   "generated_at": "2026-09-09T13:27:36.501951+00:00"
+   "generated_at": "2026-09-10T13:20:25.872600+00:00"
   },
   {
    "key": "diffusion",
@@ -109,7 +109,7 @@
    "blurb": "AI image & video generation — diffusion models, ComfyUI nodes, video gen, editing, training.",
    "url": "https://diffusion.kymatalabs.com",
    "accent": "#c77dff",
-   "count": 262,
+   "count": 261,
    "top": {
     "name": "Comfy-Org/ComfyUI",
     "momentum": 86
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-09-07T14:58:25.657713+00:00"
+   "generated_at": "2026-09-10T13:29:38.812192+00:00"
   },
   {
    "key": "voice",
@@ -140,7 +140,7 @@
     "Toolkits & Frameworks",
     "Voice Agents & Realtime"
    ],
-   "generated_at": "2026-09-08T13:42:35.286183+00:00"
+   "generated_at": "2026-09-09T13:47:15.456467+00:00"
   },
   {
    "key": "dataset",
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-09-08T13:53:46.963382+00:00"
+   "generated_at": "2026-09-09T13:56:12.120022+00:00"
   },
   {
    "key": "finetune",
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-09-09T13:41:22.016762+00:00"
+   "generated_at": "2026-09-10T13:34:17.676548+00:00"
   },
   {
    "key": "gateway",
@@ -200,7 +200,7 @@
     "Multi-Provider SDKs",
     "Observability Gateways"
    ],
-   "generated_at": "2026-09-08T14:27:20.615548+00:00"
+   "generated_at": "2026-09-09T14:28:59.760482+00:00"
   },
   {
    "key": "agent",
@@ -209,7 +209,7 @@
    "blurb": "AI agent frameworks — multi-agent, autonomous agents, orchestration, memory & agent SDKs.",
    "url": "https://agents.kymatalabs.com",
    "accent": "#b07cff",
-   "count": 269,
+   "count": 271,
    "top": {
     "name": "deepseek-ai/deepseek-harness",
     "momentum": 97
@@ -217,10 +217,10 @@
    "categories": [
     "Agent Frameworks",
     "Multi-Agent",
-    "Orchestration",
-    "Memory & State"
+    "Memory & State",
+    "Orchestration"
    ],
-   "generated_at": "2026-09-08T14:38:00.471334+00:00"
+   "generated_at": "2026-09-09T14:39:45.382373+00:00"
   },
   {
    "key": "document",
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "VLM & Understanding"
    ],
-   "generated_at": "2026-09-08T14:47:13.000273+00:00"
+   "generated_at": "2026-09-09T14:48:53.067541+00:00"
   },
   {
    "key": "observability",
@@ -249,7 +249,7 @@
    "blurb": "LLM & AI observability — tracing, monitoring & cost analytics, online eval, agent observability, ML-drift.",
    "url": "https://observability.kymatalabs.com",
    "accent": "#ffb02e",
-   "count": 157,
+   "count": 158,
    "top": {
     "name": "langfuse/langfuse",
     "momentum": 87
@@ -260,7 +260,7 @@
     "LLMOps Platforms",
     "Tracing & Spans"
    ],
-   "generated_at": "2026-09-08T15:11:33.790136+00:00"
+   "generated_at": "2026-09-09T15:11:00.939153+00:00"
   },
   {
    "key": "stack",
@@ -280,7 +280,7 @@
     "Subagents",
     "MCP & Tools"
    ],
-   "generated_at": "2026-09-09T13:05:15.605037+00:00"
+   "generated_at": "2026-09-10T13:02:19.423302+00:00"
   },
   {
    "key": "model",
@@ -292,7 +292,7 @@
    "count_key": "model_count",
    "count": 150,
    "top": {
-    "name": "Krea2-Turbo-Distill-4step-LoRA",
+    "name": "amx-reasoning-v1-instruct",
     "momentum": null
    },
    "categories": [
@@ -301,7 +301,7 @@
     "Image",
     "Other"
    ],
-   "generated_at": "2026-09-08T13:55:15.578596+00:00"
+   "generated_at": "2026-09-09T13:58:06.090585+00:00"
   },
   {
    "key": "mcp",
@@ -311,9 +311,9 @@
    "url": "https://mcp.kymatalabs.com",
    "accent": "#06b6d4",
    "count_key": "server_count",
-   "count": 2200,
+   "count": 2215,
    "top": {
-    "name": "ai.multinex/memq",
+    "name": "ai.limitguard.api/trust-intelligence",
     "momentum": null
    },
    "categories": [
@@ -322,7 +322,7 @@
     "Data & DB",
     "Dev Tools"
    ],
-   "generated_at": "2026-09-07T15:11:40.930411+00:00"
+   "generated_at": "2026-09-09T13:51:51.960477+00:00"
   },
   {
    "key": "agentvel",
@@ -335,7 +335,7 @@
    "count": 14,
    "top": {
     "name": "codex",
-    "momentum": 94
+    "momentum": 95
    },
    "categories": [
     "CLI",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-09-08T13:53:58.919572+00:00"
+   "generated_at": "2026-09-09T13:56:42.138681+00:00"
   }
  ]
 }
