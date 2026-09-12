@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-11T13:38:24.132903+00:00",
- "total_indexed": 5651,
+ "generated_at": "2026-09-12T12:55:15.062368+00:00",
+ "total_indexed": 5649,
  "indexes": [
   {
    "key": "skill",
@@ -29,7 +29,7 @@
    "blurb": "LLM & agent evaluation, benchmark, observability and red-teaming tools.",
    "url": "https://eval.kymatalabs.com",
    "accent": "#7fae2c",
-   "count": 276,
+   "count": 275,
    "top": {
     "name": "langfuse/langfuse",
     "momentum": 87
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Agent Eval"
    ],
-   "generated_at": "2026-09-11T13:02:09.510021+00:00"
+   "generated_at": "2026-09-12T12:24:01.820053+00:00"
   },
   {
    "key": "local",
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-09-11T13:03:16.737573+00:00"
+   "generated_at": "2026-09-12T12:26:16.937195+00:00"
   },
   {
    "key": "prompt",
@@ -76,11 +76,11 @@
    },
    "categories": [
     "Optimization & Tooling",
-    "System Prompts",
     "Prompt Packs",
+    "System Prompts",
     "Guides & Courses"
    ],
-   "generated_at": "2026-09-11T13:05:48.355141+00:00"
+   "generated_at": "2026-09-12T12:29:27.570018+00:00"
   },
   {
    "key": "rag",
@@ -95,12 +95,12 @@
     "momentum": 87
    },
    "categories": [
-    "Retrieval & Search",
     "Vector Databases",
+    "Retrieval & Search",
     "Reranking",
     "RAG Frameworks"
    ],
-   "generated_at": "2026-09-11T13:17:52.188921+00:00"
+   "generated_at": "2026-09-12T12:38:38.544168+00:00"
   },
   {
    "key": "diffusion",
@@ -129,7 +129,7 @@
    "blurb": "Voice & speech AI — text-to-speech, speech recognition, voice cloning, realtime voice agents.",
    "url": "https://voice.kymatalabs.com",
    "accent": "#b6ff2e",
-   "count": 283,
+   "count": 282,
    "top": {
     "name": "harry0703/MoneyPrinterTurbo",
     "momentum": 87
@@ -140,7 +140,7 @@
     "Toolkits & Frameworks",
     "Voice Agents & Realtime"
    ],
-   "generated_at": "2026-09-10T13:41:41.305798+00:00"
+   "generated_at": "2026-09-11T13:39:50.423410+00:00"
   },
   {
    "key": "dataset",
@@ -149,7 +149,7 @@
    "blurb": "Data-centric AI tooling — labeling & annotation, synthetic data, curation, augmentation, dataset frameworks.",
    "url": "https://dataset.kymatalabs.com",
    "accent": "#d23a1e",
-   "count": 254,
+   "count": 253,
    "top": {
     "name": "HumanSignal/label-studio",
     "momentum": 87
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-09-10T13:50:07.671499+00:00"
+   "generated_at": "2026-09-11T13:49:53.202288+00:00"
   },
   {
    "key": "finetune",
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-09-11T13:31:52.800994+00:00"
+   "generated_at": "2026-09-12T12:49:54.684879+00:00"
   },
   {
    "key": "gateway",
@@ -189,7 +189,7 @@
    "blurb": "LLM gateways, proxies & routers — the routing layer between apps and model providers.",
    "url": "https://gateway.kymatalabs.com",
    "accent": "#2ee6c6",
-   "count": 207,
+   "count": 208,
    "top": {
     "name": "diegosouzapw/OmniRoute",
     "momentum": 87
@@ -200,7 +200,7 @@
     "Multi-Provider SDKs",
     "Observability Gateways"
    ],
-   "generated_at": "2026-09-10T14:21:38.763147+00:00"
+   "generated_at": "2026-09-11T14:21:00.795999+00:00"
   },
   {
    "key": "agent",
@@ -209,7 +209,7 @@
    "blurb": "AI agent frameworks — multi-agent, autonomous agents, orchestration, memory & agent SDKs.",
    "url": "https://agents.kymatalabs.com",
    "accent": "#b07cff",
-   "count": 270,
+   "count": 269,
    "top": {
     "name": "deepseek-ai/deepseek-harness",
     "momentum": 97
@@ -217,10 +217,10 @@
    "categories": [
     "Agent Frameworks",
     "Multi-Agent",
-    "Memory & State",
-    "Orchestration"
+    "Orchestration",
+    "Memory & State"
    ],
-   "generated_at": "2026-09-10T14:30:17.995612+00:00"
+   "generated_at": "2026-09-11T14:29:16.469001+00:00"
   },
   {
    "key": "document",
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "VLM & Understanding"
    ],
-   "generated_at": "2026-09-10T14:39:30.569010+00:00"
+   "generated_at": "2026-09-11T14:38:15.982017+00:00"
   },
   {
    "key": "observability",
@@ -260,7 +260,7 @@
     "LLMOps Platforms",
     "Tracing & Spans"
    ],
-   "generated_at": "2026-09-10T15:02:51.632919+00:00"
+   "generated_at": "2026-09-11T15:05:44.581602+00:00"
   },
   {
    "key": "stack",
@@ -269,7 +269,7 @@
    "blurb": "The live momentum index for AI-infrastructure repos.",
    "url": "https://stacktracker.kymatalabs.com",
    "accent": "#00d4a0",
-   "count": 278,
+   "count": 279,
    "top": {
     "name": "affaan-m/ECC",
     "momentum": 87
@@ -280,7 +280,7 @@
     "Subagents",
     "MCP & Tools"
    ],
-   "generated_at": "2026-09-11T12:56:38.523407+00:00"
+   "generated_at": "2026-09-12T12:18:16.606754+00:00"
   },
   {
    "key": "model",
@@ -292,7 +292,7 @@
    "count_key": "model_count",
    "count": 150,
    "top": {
-    "name": "Qwen3.8-27B-NVFP4",
+    "name": "bert-base-uncased",
     "momentum": null
    },
    "categories": [
@@ -301,7 +301,7 @@
     "Image",
     "Other"
    ],
-   "generated_at": "2026-09-10T13:53:05.253339+00:00"
+   "generated_at": "2026-09-11T13:53:19.836914+00:00"
   },
   {
    "key": "mcp",
@@ -335,7 +335,7 @@
    "count": 14,
    "top": {
     "name": "codex",
-    "momentum": 95
+    "momentum": 94
    },
    "categories": [
     "CLI",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-09-10T13:51:31.875787+00:00"
+   "generated_at": "2026-09-11T13:50:52.124958+00:00"
   }
  ]
 }
