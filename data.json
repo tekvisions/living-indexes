@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-12T12:55:15.062368+00:00",
- "total_indexed": 5649,
+ "generated_at": "2026-09-13T13:49:50.428580+00:00",
+ "total_indexed": 5581,
  "indexes": [
   {
    "key": "skill",
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-09-12T12:26:16.937195+00:00"
+   "generated_at": "2026-09-13T13:29:21.059100+00:00"
   },
   {
    "key": "prompt",
@@ -76,11 +76,11 @@
    },
    "categories": [
     "Optimization & Tooling",
-    "Prompt Packs",
     "System Prompts",
+    "Prompt Packs",
     "Guides & Courses"
    ],
-   "generated_at": "2026-09-12T12:29:27.570018+00:00"
+   "generated_at": "2026-09-13T13:31:10.258674+00:00"
   },
   {
    "key": "rag",
@@ -140,7 +140,7 @@
     "Toolkits & Frameworks",
     "Voice Agents & Realtime"
    ],
-   "generated_at": "2026-09-11T13:39:50.423410+00:00"
+   "generated_at": "2026-09-12T12:56:19.280336+00:00"
   },
   {
    "key": "dataset",
@@ -149,7 +149,7 @@
    "blurb": "Data-centric AI tooling — labeling & annotation, synthetic data, curation, augmentation, dataset frameworks.",
    "url": "https://dataset.kymatalabs.com",
    "accent": "#d23a1e",
-   "count": 253,
+   "count": 254,
    "top": {
     "name": "HumanSignal/label-studio",
     "momentum": 87
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-09-11T13:49:53.202288+00:00"
+   "generated_at": "2026-09-12T13:09:42.013238+00:00"
   },
   {
    "key": "finetune",
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-09-12T12:49:54.684879+00:00"
+   "generated_at": "2026-09-13T13:47:13.481273+00:00"
   },
   {
    "key": "gateway",
@@ -198,9 +198,9 @@
     "Gateways & Proxies",
     "Routers",
     "Multi-Provider SDKs",
-    "Observability Gateways"
+    "Caching & Cost"
    ],
-   "generated_at": "2026-09-11T14:21:00.795999+00:00"
+   "generated_at": "2026-09-12T13:33:48.048583+00:00"
   },
   {
    "key": "agent",
@@ -212,15 +212,15 @@
    "count": 269,
    "top": {
     "name": "deepseek-ai/deepseek-harness",
-    "momentum": 97
+    "momentum": 96
    },
    "categories": [
     "Agent Frameworks",
     "Multi-Agent",
-    "Orchestration",
-    "Memory & State"
+    "Memory & State",
+    "Orchestration"
    ],
-   "generated_at": "2026-09-11T14:29:16.469001+00:00"
+   "generated_at": "2026-09-12T13:38:21.602434+00:00"
   },
   {
    "key": "document",
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "VLM & Understanding"
    ],
-   "generated_at": "2026-09-11T14:38:15.982017+00:00"
+   "generated_at": "2026-09-12T13:45:07.003011+00:00"
   },
   {
    "key": "observability",
@@ -260,7 +260,7 @@
     "LLMOps Platforms",
     "Tracing & Spans"
    ],
-   "generated_at": "2026-09-11T15:05:44.581602+00:00"
+   "generated_at": "2026-09-12T14:13:52.851524+00:00"
   },
   {
    "key": "stack",
@@ -280,7 +280,7 @@
     "Subagents",
     "MCP & Tools"
    ],
-   "generated_at": "2026-09-12T12:18:16.606754+00:00"
+   "generated_at": "2026-09-13T13:24:31.443232+00:00"
   },
   {
    "key": "model",
@@ -292,7 +292,7 @@
    "count_key": "model_count",
    "count": 150,
    "top": {
-    "name": "bert-base-uncased",
+    "name": "halogen-qwen3.8-flash-next",
     "momentum": null
    },
    "categories": [
@@ -301,7 +301,7 @@
     "Image",
     "Other"
    ],
-   "generated_at": "2026-09-11T13:53:19.836914+00:00"
+   "generated_at": "2026-09-12T13:10:42.158234+00:00"
   },
   {
    "key": "mcp",
@@ -311,9 +311,9 @@
    "url": "https://mcp.kymatalabs.com",
    "accent": "#06b6d4",
    "count_key": "server_count",
-   "count": 2226,
+   "count": 2157,
    "top": {
-    "name": "ai.productnow/productnow",
+    "name": "ai.sugra/api-mcp",
     "momentum": null
    },
    "categories": [
@@ -322,7 +322,7 @@
     "Data & DB",
     "Dev Tools"
    ],
-   "generated_at": "2026-09-10T13:45:52.645321+00:00"
+   "generated_at": "2026-09-12T13:03:50.531792+00:00"
   },
   {
    "key": "agentvel",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-09-11T13:50:52.124958+00:00"
+   "generated_at": "2026-09-12T13:10:11.912886+00:00"
   }
  ]
 }
