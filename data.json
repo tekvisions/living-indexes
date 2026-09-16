@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-15T14:21:48.930355+00:00",
- "total_indexed": 5567,
+ "generated_at": "2026-09-16T14:14:17.406279+00:00",
+ "total_indexed": 5535,
  "indexes": [
   {
    "key": "skill",
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-09-15T13:54:27.250779+00:00"
+   "generated_at": "2026-09-16T13:47:46.911438+00:00"
   },
   {
    "key": "prompt",
@@ -72,15 +72,15 @@
    "count": 134,
    "top": {
     "name": "DietrichGebert/ponytail",
-    "momentum": 89
+    "momentum": 88
    },
    "categories": [
     "Optimization & Tooling",
-    "System Prompts",
     "Prompt Packs",
+    "System Prompts",
     "Guides & Courses"
    ],
-   "generated_at": "2026-09-15T13:57:04.504611+00:00"
+   "generated_at": "2026-09-16T13:50:00.093948+00:00"
   },
   {
    "key": "rag",
@@ -89,18 +89,18 @@
    "blurb": "Retrieval-augmented-generation — RAG frameworks, vector DBs, embeddings, reranking.",
    "url": "https://rag.kymatalabs.com",
    "accent": "#5b4bff",
-   "count": 225,
+   "count": 224,
    "top": {
     "name": "Shubhamsaboo/awesome-llm-apps",
     "momentum": 87
    },
    "categories": [
-    "Retrieval & Search",
     "Vector Databases",
+    "Retrieval & Search",
     "Reranking",
     "RAG Frameworks"
    ],
-   "generated_at": "2026-09-15T14:11:04.022704+00:00"
+   "generated_at": "2026-09-16T14:03:21.040283+00:00"
   },
   {
    "key": "diffusion",
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-09-15T14:16:22.628847+00:00"
+   "generated_at": "2026-09-16T14:08:26.727879+00:00"
   },
   {
    "key": "voice",
@@ -140,7 +140,7 @@
     "Toolkits & Frameworks",
     "Voice Agents & Realtime"
    ],
-   "generated_at": "2026-09-14T15:56:27.618101+00:00"
+   "generated_at": "2026-09-15T14:22:23.992787+00:00"
   },
   {
    "key": "dataset",
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-09-14T15:59:56.784428+00:00"
+   "generated_at": "2026-09-15T14:29:12.046922+00:00"
   },
   {
    "key": "finetune",
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-09-15T14:18:40.290963+00:00"
+   "generated_at": "2026-09-16T14:10:49.290263+00:00"
   },
   {
    "key": "gateway",
@@ -200,7 +200,7 @@
     "Multi-Provider SDKs",
     "Self-Hosted Platforms"
    ],
-   "generated_at": "2026-09-14T16:20:07.238988+00:00"
+   "generated_at": "2026-09-15T14:55:13.346576+00:00"
   },
   {
    "key": "agent",
@@ -209,7 +209,7 @@
    "blurb": "AI agent frameworks — multi-agent, autonomous agents, orchestration, memory & agent SDKs.",
    "url": "https://agents.kymatalabs.com",
    "accent": "#b07cff",
-   "count": 270,
+   "count": 268,
    "top": {
     "name": "deepseek-ai/deepseek-harness",
     "momentum": 96
@@ -220,7 +220,7 @@
     "Memory & State",
     "Orchestration"
    ],
-   "generated_at": "2026-09-14T16:24:16.734010+00:00"
+   "generated_at": "2026-09-15T15:04:48.377034+00:00"
   },
   {
    "key": "document",
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "VLM & Understanding"
    ],
-   "generated_at": "2026-09-14T16:34:52.190131+00:00"
+   "generated_at": "2026-09-15T15:16:50.935832+00:00"
   },
   {
    "key": "observability",
@@ -260,7 +260,7 @@
     "LLMOps Platforms",
     "Tracing & Spans"
    ],
-   "generated_at": "2026-09-14T16:59:19.077222+00:00"
+   "generated_at": "2026-09-15T15:37:00.985782+00:00"
   },
   {
    "key": "stack",
@@ -269,7 +269,7 @@
    "blurb": "The live momentum index for AI-infrastructure repos.",
    "url": "https://stacktracker.kymatalabs.com",
    "accent": "#00d4a0",
-   "count": 280,
+   "count": 279,
    "top": {
     "name": "affaan-m/ECC",
     "momentum": 87
@@ -280,7 +280,7 @@
     "Subagents",
     "MCP & Tools"
    ],
-   "generated_at": "2026-09-15T13:47:02.787668+00:00"
+   "generated_at": "2026-09-16T13:39:45.637698+00:00"
   },
   {
    "key": "model",
@@ -292,7 +292,7 @@
    "count_key": "model_count",
    "count": 150,
    "top": {
-    "name": "Llama-3.1-8B-Instruct",
+    "name": "Atria-Dawn-Preview",
     "momentum": null
    },
    "categories": [
@@ -301,7 +301,7 @@
     "Image",
     "Other"
    ],
-   "generated_at": "2026-09-14T16:00:22.876611+00:00"
+   "generated_at": "2026-09-15T14:29:48.979841+00:00"
   },
   {
    "key": "mcp",
@@ -311,9 +311,9 @@
    "url": "https://mcp.kymatalabs.com",
    "accent": "#06b6d4",
    "count_key": "server_count",
-   "count": 2138,
+   "count": 2110,
    "top": {
-    "name": "ai.drillr/drillr",
+    "name": "app.somvia/health",
     "momentum": null
    },
    "categories": [
@@ -322,7 +322,7 @@
     "Data & DB",
     "Dev Tools"
    ],
-   "generated_at": "2026-09-14T15:58:57.617412+00:00"
+   "generated_at": "2026-09-15T14:26:44.252043+00:00"
   },
   {
    "key": "agentvel",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-09-14T16:00:51.741829+00:00"
+   "generated_at": "2026-09-15T14:29:57.165315+00:00"
   }
  ]
 }
