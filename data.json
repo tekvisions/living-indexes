@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-16T14:14:17.406279+00:00",
- "total_indexed": 5535,
+ "generated_at": "2026-09-17T14:19:36.600579+00:00",
+ "total_indexed": 5537,
  "indexes": [
   {
    "key": "skill",
@@ -29,7 +29,7 @@
    "blurb": "LLM & agent evaluation, benchmark, observability and red-teaming tools.",
    "url": "https://eval.kymatalabs.com",
    "accent": "#7fae2c",
-   "count": 275,
+   "count": 274,
    "top": {
     "name": "langfuse/langfuse",
     "momentum": 87
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Agent Eval"
    ],
-   "generated_at": "2026-09-15T13:53:37.835065+00:00"
+   "generated_at": "2026-09-17T13:48:37.433111+00:00"
   },
   {
    "key": "local",
@@ -49,7 +49,7 @@
    "blurb": "Run LLMs on your own hardware — inference engines, runners, quantization.",
    "url": "https://localllm.kymatalabs.com",
    "accent": "#1f5bff",
-   "count": 241,
+   "count": 240,
    "top": {
     "name": "unslothai/unsloth",
     "momentum": 87
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-09-16T13:47:46.911438+00:00"
+   "generated_at": "2026-09-17T13:49:31.108754+00:00"
   },
   {
    "key": "prompt",
@@ -69,7 +69,7 @@
    "blurb": "Prompt-engineering resources — collections, system prompts, optimizers, guides.",
    "url": "https://prompt.kymatalabs.com",
    "accent": "#ff3b2f",
-   "count": 134,
+   "count": 135,
    "top": {
     "name": "DietrichGebert/ponytail",
     "momentum": 88
@@ -80,7 +80,7 @@
     "System Prompts",
     "Guides & Courses"
    ],
-   "generated_at": "2026-09-16T13:50:00.093948+00:00"
+   "generated_at": "2026-09-17T13:54:11.565254+00:00"
   },
   {
    "key": "rag",
@@ -100,7 +100,7 @@
     "Reranking",
     "RAG Frameworks"
    ],
-   "generated_at": "2026-09-16T14:03:21.040283+00:00"
+   "generated_at": "2026-09-17T14:08:06.333846+00:00"
   },
   {
    "key": "diffusion",
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-09-16T14:08:26.727879+00:00"
+   "generated_at": "2026-09-17T14:14:00.607767+00:00"
   },
   {
    "key": "voice",
@@ -140,7 +140,7 @@
     "Toolkits & Frameworks",
     "Voice Agents & Realtime"
    ],
-   "generated_at": "2026-09-15T14:22:23.992787+00:00"
+   "generated_at": "2026-09-16T14:15:09.921413+00:00"
   },
   {
    "key": "dataset",
@@ -169,7 +169,7 @@
    "blurb": "Make your own model — fine-tuning frameworks, PEFT/LoRA, RLHF/DPO, training data.",
    "url": "https://finetune.kymatalabs.com",
    "accent": "#ff6a00",
-   "count": 186,
+   "count": 188,
    "top": {
     "name": "unslothai/unsloth",
     "momentum": 87
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-09-16T14:10:49.290263+00:00"
+   "generated_at": "2026-09-17T14:16:21.554598+00:00"
   },
   {
    "key": "gateway",
@@ -200,7 +200,7 @@
     "Multi-Provider SDKs",
     "Self-Hosted Platforms"
    ],
-   "generated_at": "2026-09-15T14:55:13.346576+00:00"
+   "generated_at": "2026-09-16T14:52:39.393951+00:00"
   },
   {
    "key": "agent",
@@ -209,7 +209,7 @@
    "blurb": "AI agent frameworks — multi-agent, autonomous agents, orchestration, memory & agent SDKs.",
    "url": "https://agents.kymatalabs.com",
    "accent": "#b07cff",
-   "count": 268,
+   "count": 269,
    "top": {
     "name": "deepseek-ai/deepseek-harness",
     "momentum": 96
@@ -220,7 +220,7 @@
     "Memory & State",
     "Orchestration"
    ],
-   "generated_at": "2026-09-15T15:04:48.377034+00:00"
+   "generated_at": "2026-09-16T15:01:15.494874+00:00"
   },
   {
    "key": "document",
@@ -231,8 +231,8 @@
    "accent": "#4f46e5",
    "count": 218,
    "top": {
-    "name": "opendatalab/MinerU",
-    "momentum": 86
+    "name": "PaddlePaddle/PaddleOCR",
+    "momentum": 87
    },
    "categories": [
     "Document Parsing",
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "VLM & Understanding"
    ],
-   "generated_at": "2026-09-15T15:16:50.935832+00:00"
+   "generated_at": "2026-09-16T15:10:13.605969+00:00"
   },
   {
    "key": "observability",
@@ -280,7 +280,7 @@
     "Subagents",
     "MCP & Tools"
    ],
-   "generated_at": "2026-09-16T13:39:45.637698+00:00"
+   "generated_at": "2026-09-17T13:42:16.719239+00:00"
   },
   {
    "key": "model",
@@ -292,7 +292,7 @@
    "count_key": "model_count",
    "count": 150,
    "top": {
-    "name": "Atria-Dawn-Preview",
+    "name": "occamy-1.0",
     "momentum": null
    },
    "categories": [
@@ -301,7 +301,7 @@
     "Image",
     "Other"
    ],
-   "generated_at": "2026-09-15T14:29:48.979841+00:00"
+   "generated_at": "2026-09-16T14:23:12.788279+00:00"
   },
   {
    "key": "mcp",
@@ -335,7 +335,7 @@
    "count": 14,
    "top": {
     "name": "codex",
-    "momentum": 93
+    "momentum": 94
    },
    "categories": [
     "CLI",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-09-15T14:29:57.165315+00:00"
+   "generated_at": "2026-09-16T14:23:03.852585+00:00"
   }
  ]
 }
