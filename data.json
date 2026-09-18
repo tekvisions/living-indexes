@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-17T14:19:36.600579+00:00",
- "total_indexed": 5537,
+ "generated_at": "2026-09-18T13:39:40.955805+00:00",
+ "total_indexed": 5471,
  "indexes": [
   {
    "key": "skill",
@@ -49,7 +49,7 @@
    "blurb": "Run LLMs on your own hardware — inference engines, runners, quantization.",
    "url": "https://localllm.kymatalabs.com",
    "accent": "#1f5bff",
-   "count": 240,
+   "count": 241,
    "top": {
     "name": "unslothai/unsloth",
     "momentum": 87
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-09-17T13:49:31.108754+00:00"
+   "generated_at": "2026-09-18T13:11:47.796219+00:00"
   },
   {
    "key": "prompt",
@@ -80,7 +80,7 @@
     "System Prompts",
     "Guides & Courses"
    ],
-   "generated_at": "2026-09-17T13:54:11.565254+00:00"
+   "generated_at": "2026-09-18T13:14:03.140036+00:00"
   },
   {
    "key": "rag",
@@ -89,18 +89,18 @@
    "blurb": "Retrieval-augmented-generation — RAG frameworks, vector DBs, embeddings, reranking.",
    "url": "https://rag.kymatalabs.com",
    "accent": "#5b4bff",
-   "count": 224,
+   "count": 225,
    "top": {
     "name": "Shubhamsaboo/awesome-llm-apps",
     "momentum": 87
    },
    "categories": [
-    "Vector Databases",
     "Retrieval & Search",
+    "Vector Databases",
     "Reranking",
     "RAG Frameworks"
    ],
-   "generated_at": "2026-09-17T14:08:06.333846+00:00"
+   "generated_at": "2026-09-18T13:25:22.186486+00:00"
   },
   {
    "key": "diffusion",
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-09-17T14:14:00.607767+00:00"
+   "generated_at": "2026-09-18T13:32:02.305706+00:00"
   },
   {
    "key": "voice",
@@ -140,7 +140,7 @@
     "Toolkits & Frameworks",
     "Voice Agents & Realtime"
    ],
-   "generated_at": "2026-09-16T14:15:09.921413+00:00"
+   "generated_at": "2026-09-17T14:20:54.840281+00:00"
   },
   {
    "key": "dataset",
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-09-15T14:29:12.046922+00:00"
+   "generated_at": "2026-09-17T14:27:42.741005+00:00"
   },
   {
    "key": "finetune",
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-09-17T14:16:21.554598+00:00"
+   "generated_at": "2026-09-18T13:34:24.233953+00:00"
   },
   {
    "key": "gateway",
@@ -189,7 +189,7 @@
    "blurb": "LLM gateways, proxies & routers — the routing layer between apps and model providers.",
    "url": "https://gateway.kymatalabs.com",
    "accent": "#2ee6c6",
-   "count": 209,
+   "count": 210,
    "top": {
     "name": "diegosouzapw/OmniRoute",
     "momentum": 87
@@ -200,7 +200,7 @@
     "Multi-Provider SDKs",
     "Self-Hosted Platforms"
    ],
-   "generated_at": "2026-09-16T14:52:39.393951+00:00"
+   "generated_at": "2026-09-17T14:55:15.089801+00:00"
   },
   {
    "key": "agent",
@@ -220,7 +220,7 @@
     "Memory & State",
     "Orchestration"
    ],
-   "generated_at": "2026-09-16T15:01:15.494874+00:00"
+   "generated_at": "2026-09-17T15:04:57.502573+00:00"
   },
   {
    "key": "document",
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "VLM & Understanding"
    ],
-   "generated_at": "2026-09-16T15:10:13.605969+00:00"
+   "generated_at": "2026-09-17T15:19:24.027506+00:00"
   },
   {
    "key": "observability",
@@ -260,7 +260,7 @@
     "LLMOps Platforms",
     "Tracing & Spans"
    ],
-   "generated_at": "2026-09-15T15:37:00.985782+00:00"
+   "generated_at": "2026-09-17T15:34:50.045427+00:00"
   },
   {
    "key": "stack",
@@ -280,7 +280,7 @@
     "Subagents",
     "MCP & Tools"
    ],
-   "generated_at": "2026-09-17T13:42:16.719239+00:00"
+   "generated_at": "2026-09-18T13:05:04.284265+00:00"
   },
   {
    "key": "model",
@@ -292,7 +292,7 @@
    "count_key": "model_count",
    "count": 150,
    "top": {
-    "name": "occamy-1.0",
+    "name": "Qwen-2.5-1B-RLCD",
     "momentum": null
    },
    "categories": [
@@ -301,7 +301,7 @@
     "Image",
     "Other"
    ],
-   "generated_at": "2026-09-16T14:23:12.788279+00:00"
+   "generated_at": "2026-09-17T14:28:29.569117+00:00"
   },
   {
    "key": "mcp",
@@ -311,9 +311,9 @@
    "url": "https://mcp.kymatalabs.com",
    "accent": "#06b6d4",
    "count_key": "server_count",
-   "count": 2110,
+   "count": 2041,
    "top": {
-    "name": "app.somvia/health",
+    "name": "ai.msza/polish-catholic-sermons",
     "momentum": null
    },
    "categories": [
@@ -322,7 +322,7 @@
     "Data & DB",
     "Dev Tools"
    ],
-   "generated_at": "2026-09-15T14:26:44.252043+00:00"
+   "generated_at": "2026-09-17T14:26:51.605218+00:00"
   },
   {
    "key": "agentvel",
@@ -335,7 +335,7 @@
    "count": 14,
    "top": {
     "name": "codex",
-    "momentum": 94
+    "momentum": 93
    },
    "categories": [
     "CLI",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-09-16T14:23:03.852585+00:00"
+   "generated_at": "2026-09-17T14:28:26.523968+00:00"
   }
  ]
 }
