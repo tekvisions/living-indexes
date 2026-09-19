@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-18T13:39:40.955805+00:00",
- "total_indexed": 5471,
+ "generated_at": "2026-09-19T13:12:56.807697+00:00",
+ "total_indexed": 5459,
  "indexes": [
   {
    "key": "skill",
@@ -29,7 +29,7 @@
    "blurb": "LLM & agent evaluation, benchmark, observability and red-teaming tools.",
    "url": "https://eval.kymatalabs.com",
    "accent": "#7fae2c",
-   "count": 274,
+   "count": 273,
    "top": {
     "name": "langfuse/langfuse",
     "momentum": 87
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Agent Eval"
    ],
-   "generated_at": "2026-09-17T13:48:37.433111+00:00"
+   "generated_at": "2026-09-19T12:42:32.131945+00:00"
   },
   {
    "key": "local",
@@ -49,7 +49,7 @@
    "blurb": "Run LLMs on your own hardware — inference engines, runners, quantization.",
    "url": "https://localllm.kymatalabs.com",
    "accent": "#1f5bff",
-   "count": 241,
+   "count": 240,
    "top": {
     "name": "unslothai/unsloth",
     "momentum": 87
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-09-18T13:11:47.796219+00:00"
+   "generated_at": "2026-09-19T12:43:18.987954+00:00"
   },
   {
    "key": "prompt",
@@ -69,7 +69,7 @@
    "blurb": "Prompt-engineering resources — collections, system prompts, optimizers, guides.",
    "url": "https://prompt.kymatalabs.com",
    "accent": "#ff3b2f",
-   "count": 135,
+   "count": 136,
    "top": {
     "name": "DietrichGebert/ponytail",
     "momentum": 88
@@ -80,7 +80,7 @@
     "System Prompts",
     "Guides & Courses"
    ],
-   "generated_at": "2026-09-18T13:14:03.140036+00:00"
+   "generated_at": "2026-09-19T12:45:16.099735+00:00"
   },
   {
    "key": "rag",
@@ -100,7 +100,7 @@
     "Reranking",
     "RAG Frameworks"
    ],
-   "generated_at": "2026-09-18T13:25:22.186486+00:00"
+   "generated_at": "2026-09-19T12:54:37.429701+00:00"
   },
   {
    "key": "diffusion",
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-09-18T13:32:02.305706+00:00"
+   "generated_at": "2026-09-19T13:01:16.689238+00:00"
   },
   {
    "key": "voice",
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-09-17T14:27:42.741005+00:00"
+   "generated_at": "2026-09-18T13:52:20.598246+00:00"
   },
   {
    "key": "finetune",
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-09-18T13:34:24.233953+00:00"
+   "generated_at": "2026-09-19T13:07:02.387124+00:00"
   },
   {
    "key": "gateway",
@@ -198,9 +198,9 @@
     "Gateways & Proxies",
     "Routers",
     "Multi-Provider SDKs",
-    "Self-Hosted Platforms"
+    "Observability Gateways"
    ],
-   "generated_at": "2026-09-17T14:55:15.089801+00:00"
+   "generated_at": "2026-09-18T14:25:01.410242+00:00"
   },
   {
    "key": "agent",
@@ -209,7 +209,7 @@
    "blurb": "AI agent frameworks — multi-agent, autonomous agents, orchestration, memory & agent SDKs.",
    "url": "https://agents.kymatalabs.com",
    "accent": "#b07cff",
-   "count": 269,
+   "count": 268,
    "top": {
     "name": "deepseek-ai/deepseek-harness",
     "momentum": 96
@@ -220,7 +220,7 @@
     "Memory & State",
     "Orchestration"
    ],
-   "generated_at": "2026-09-17T15:04:57.502573+00:00"
+   "generated_at": "2026-09-18T14:33:24.573633+00:00"
   },
   {
    "key": "document",
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "VLM & Understanding"
    ],
-   "generated_at": "2026-09-17T15:19:24.027506+00:00"
+   "generated_at": "2026-09-18T14:39:28.066523+00:00"
   },
   {
    "key": "observability",
@@ -260,7 +260,7 @@
     "LLMOps Platforms",
     "Tracing & Spans"
    ],
-   "generated_at": "2026-09-17T15:34:50.045427+00:00"
+   "generated_at": "2026-09-18T15:02:45.897751+00:00"
   },
   {
    "key": "stack",
@@ -269,7 +269,7 @@
    "blurb": "The live momentum index for AI-infrastructure repos.",
    "url": "https://stacktracker.kymatalabs.com",
    "accent": "#00d4a0",
-   "count": 279,
+   "count": 280,
    "top": {
     "name": "affaan-m/ECC",
     "momentum": 87
@@ -280,7 +280,7 @@
     "Subagents",
     "MCP & Tools"
    ],
-   "generated_at": "2026-09-18T13:05:04.284265+00:00"
+   "generated_at": "2026-09-19T12:37:59.837776+00:00"
   },
   {
    "key": "model",
@@ -292,7 +292,7 @@
    "count_key": "model_count",
    "count": 150,
    "top": {
-    "name": "Qwen-2.5-1B-RLCD",
+    "name": "Confucius4-R2T2",
     "momentum": null
    },
    "categories": [
@@ -301,7 +301,7 @@
     "Image",
     "Other"
    ],
-   "generated_at": "2026-09-17T14:28:29.569117+00:00"
+   "generated_at": "2026-09-18T13:54:22.724034+00:00"
   },
   {
    "key": "mcp",
@@ -311,9 +311,9 @@
    "url": "https://mcp.kymatalabs.com",
    "accent": "#06b6d4",
    "count_key": "server_count",
-   "count": 2041,
+   "count": 2030,
    "top": {
-    "name": "ai.msza/polish-catholic-sermons",
+    "name": "ai.autonomad/travel",
     "momentum": null
    },
    "categories": [
@@ -322,7 +322,7 @@
     "Data & DB",
     "Dev Tools"
    ],
-   "generated_at": "2026-09-17T14:26:51.605218+00:00"
+   "generated_at": "2026-09-18T13:46:02.237729+00:00"
   },
   {
    "key": "agentvel",
@@ -335,7 +335,7 @@
    "count": 14,
    "top": {
     "name": "codex",
-    "momentum": 93
+    "momentum": 92
    },
    "categories": [
     "CLI",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-09-17T14:28:26.523968+00:00"
+   "generated_at": "2026-09-18T13:53:04.046120+00:00"
   }
  ]
 }
