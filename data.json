@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-19T13:12:56.807697+00:00",
- "total_indexed": 5459,
+ "generated_at": "2026-09-20T13:36:35.544379+00:00",
+ "total_indexed": 5446,
  "indexes": [
   {
    "key": "skill",
@@ -29,7 +29,7 @@
    "blurb": "LLM & agent evaluation, benchmark, observability and red-teaming tools.",
    "url": "https://eval.kymatalabs.com",
    "accent": "#7fae2c",
-   "count": 273,
+   "count": 272,
    "top": {
     "name": "langfuse/langfuse",
     "momentum": 87
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Agent Eval"
    ],
-   "generated_at": "2026-09-19T12:42:32.131945+00:00"
+   "generated_at": "2026-09-20T13:14:21.371951+00:00"
   },
   {
    "key": "local",
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-09-19T12:43:18.987954+00:00"
+   "generated_at": "2026-09-20T13:14:36.204669+00:00"
   },
   {
    "key": "prompt",
@@ -72,7 +72,7 @@
    "count": 136,
    "top": {
     "name": "DietrichGebert/ponytail",
-    "momentum": 88
+    "momentum": 87
    },
    "categories": [
     "Optimization & Tooling",
@@ -80,7 +80,7 @@
     "System Prompts",
     "Guides & Courses"
    ],
-   "generated_at": "2026-09-19T12:45:16.099735+00:00"
+   "generated_at": "2026-09-20T13:17:08.626781+00:00"
   },
   {
    "key": "rag",
@@ -100,7 +100,7 @@
     "Reranking",
     "RAG Frameworks"
    ],
-   "generated_at": "2026-09-19T12:54:37.429701+00:00"
+   "generated_at": "2026-09-20T13:28:20.486768+00:00"
   },
   {
    "key": "diffusion",
@@ -109,7 +109,7 @@
    "blurb": "AI image & video generation — diffusion models, ComfyUI nodes, video gen, editing, training.",
    "url": "https://diffusion.kymatalabs.com",
    "accent": "#c77dff",
-   "count": 260,
+   "count": 262,
    "top": {
     "name": "Comfy-Org/ComfyUI",
     "momentum": 86
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-09-19T13:01:16.689238+00:00"
+   "generated_at": "2026-09-20T13:32:03.859139+00:00"
   },
   {
    "key": "voice",
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-09-18T13:52:20.598246+00:00"
+   "generated_at": "2026-09-19T13:25:13.999583+00:00"
   },
   {
    "key": "finetune",
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-09-19T13:07:02.387124+00:00"
+   "generated_at": "2026-09-20T13:33:58.537653+00:00"
   },
   {
    "key": "gateway",
@@ -200,7 +200,7 @@
     "Multi-Provider SDKs",
     "Observability Gateways"
    ],
-   "generated_at": "2026-09-18T14:25:01.410242+00:00"
+   "generated_at": "2026-09-19T13:53:39.281865+00:00"
   },
   {
    "key": "agent",
@@ -232,7 +232,7 @@
    "count": 218,
    "top": {
     "name": "PaddlePaddle/PaddleOCR",
-    "momentum": 87
+    "momentum": 86
    },
    "categories": [
     "Document Parsing",
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "VLM & Understanding"
    ],
-   "generated_at": "2026-09-18T14:39:28.066523+00:00"
+   "generated_at": "2026-09-19T13:59:39.091633+00:00"
   },
   {
    "key": "observability",
@@ -260,7 +260,7 @@
     "LLMOps Platforms",
     "Tracing & Spans"
    ],
-   "generated_at": "2026-09-18T15:02:45.897751+00:00"
+   "generated_at": "2026-09-19T14:31:25.396618+00:00"
   },
   {
    "key": "stack",
@@ -269,7 +269,7 @@
    "blurb": "The live momentum index for AI-infrastructure repos.",
    "url": "https://stacktracker.kymatalabs.com",
    "accent": "#00d4a0",
-   "count": 280,
+   "count": 281,
    "top": {
     "name": "affaan-m/ECC",
     "momentum": 87
@@ -280,7 +280,7 @@
     "Subagents",
     "MCP & Tools"
    ],
-   "generated_at": "2026-09-19T12:37:59.837776+00:00"
+   "generated_at": "2026-09-20T13:09:50.614674+00:00"
   },
   {
    "key": "model",
@@ -292,7 +292,7 @@
    "count_key": "model_count",
    "count": 150,
    "top": {
-    "name": "Confucius4-R2T2",
+    "name": "laya",
     "momentum": null
    },
    "categories": [
@@ -301,7 +301,7 @@
     "Image",
     "Other"
    ],
-   "generated_at": "2026-09-18T13:54:22.724034+00:00"
+   "generated_at": "2026-09-19T13:30:10.579284+00:00"
   },
   {
    "key": "mcp",
@@ -311,9 +311,9 @@
    "url": "https://mcp.kymatalabs.com",
    "accent": "#06b6d4",
    "count_key": "server_count",
-   "count": 2030,
+   "count": 2015,
    "top": {
-    "name": "ai.autonomad/travel",
+    "name": "ai.signal8/mcp",
     "momentum": null
    },
    "categories": [
@@ -322,7 +322,7 @@
     "Data & DB",
     "Dev Tools"
    ],
-   "generated_at": "2026-09-18T13:46:02.237729+00:00"
+   "generated_at": "2026-09-19T13:20:32.154298+00:00"
   },
   {
    "key": "agentvel",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-09-18T13:53:04.046120+00:00"
+   "generated_at": "2026-09-19T13:27:09.343126+00:00"
   }
  ]
 }
