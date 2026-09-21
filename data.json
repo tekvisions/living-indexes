@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-20T13:36:35.544379+00:00",
- "total_indexed": 5446,
+ "generated_at": "2026-09-21T15:56:11.345154+00:00",
+ "total_indexed": 5435,
  "indexes": [
   {
    "key": "skill",
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Agent Eval"
    ],
-   "generated_at": "2026-09-20T13:14:21.371951+00:00"
+   "generated_at": "2026-09-21T15:21:24.710329+00:00"
   },
   {
    "key": "local",
@@ -49,7 +49,7 @@
    "blurb": "Run LLMs on your own hardware — inference engines, runners, quantization.",
    "url": "https://localllm.kymatalabs.com",
    "accent": "#1f5bff",
-   "count": 240,
+   "count": 238,
    "top": {
     "name": "unslothai/unsloth",
     "momentum": 87
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-09-20T13:14:36.204669+00:00"
+   "generated_at": "2026-09-21T15:22:20.988079+00:00"
   },
   {
    "key": "prompt",
@@ -76,11 +76,11 @@
    },
    "categories": [
     "Optimization & Tooling",
-    "Prompt Packs",
     "System Prompts",
+    "Prompt Packs",
     "Guides & Courses"
    ],
-   "generated_at": "2026-09-20T13:17:08.626781+00:00"
+   "generated_at": "2026-09-21T15:27:06.274406+00:00"
   },
   {
    "key": "rag",
@@ -95,12 +95,12 @@
     "momentum": 87
    },
    "categories": [
-    "Retrieval & Search",
     "Vector Databases",
+    "Retrieval & Search",
     "Reranking",
     "RAG Frameworks"
    ],
-   "generated_at": "2026-09-20T13:28:20.486768+00:00"
+   "generated_at": "2026-09-21T15:41:46.150389+00:00"
   },
   {
    "key": "diffusion",
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-09-20T13:32:03.859139+00:00"
+   "generated_at": "2026-09-21T15:49:29.994323+00:00"
   },
   {
    "key": "voice",
@@ -129,7 +129,7 @@
    "blurb": "Voice & speech AI — text-to-speech, speech recognition, voice cloning, realtime voice agents.",
    "url": "https://voice.kymatalabs.com",
    "accent": "#b6ff2e",
-   "count": 282,
+   "count": 281,
    "top": {
     "name": "harry0703/MoneyPrinterTurbo",
     "momentum": 87
@@ -140,7 +140,7 @@
     "Toolkits & Frameworks",
     "Voice Agents & Realtime"
    ],
-   "generated_at": "2026-09-17T14:20:54.840281+00:00"
+   "generated_at": "2026-09-20T13:37:20.848912+00:00"
   },
   {
    "key": "dataset",
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-09-19T13:25:13.999583+00:00"
+   "generated_at": "2026-09-20T13:42:12.786295+00:00"
   },
   {
    "key": "finetune",
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-09-20T13:33:58.537653+00:00"
+   "generated_at": "2026-09-21T15:52:29.989339+00:00"
   },
   {
    "key": "gateway",
@@ -189,7 +189,7 @@
    "blurb": "LLM gateways, proxies & routers — the routing layer between apps and model providers.",
    "url": "https://gateway.kymatalabs.com",
    "accent": "#2ee6c6",
-   "count": 210,
+   "count": 211,
    "top": {
     "name": "diegosouzapw/OmniRoute",
     "momentum": 87
@@ -200,7 +200,7 @@
     "Multi-Provider SDKs",
     "Observability Gateways"
    ],
-   "generated_at": "2026-09-19T13:53:39.281865+00:00"
+   "generated_at": "2026-09-20T14:09:38.003425+00:00"
   },
   {
    "key": "agent",
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "VLM & Understanding"
    ],
-   "generated_at": "2026-09-19T13:59:39.091633+00:00"
+   "generated_at": "2026-09-20T14:21:52.989942+00:00"
   },
   {
    "key": "observability",
@@ -260,7 +260,7 @@
     "LLMOps Platforms",
     "Tracing & Spans"
    ],
-   "generated_at": "2026-09-19T14:31:25.396618+00:00"
+   "generated_at": "2026-09-20T14:44:54.527139+00:00"
   },
   {
    "key": "stack",
@@ -277,10 +277,10 @@
    "categories": [
     "Collections",
     "Commands & Hooks",
-    "Subagents",
-    "MCP & Tools"
+    "MCP & Tools",
+    "Subagents"
    ],
-   "generated_at": "2026-09-20T13:09:50.614674+00:00"
+   "generated_at": "2026-09-21T15:16:06.536994+00:00"
   },
   {
    "key": "model",
@@ -292,16 +292,16 @@
    "count_key": "model_count",
    "count": 150,
    "top": {
-    "name": "laya",
+    "name": "XGEN-JING",
     "momentum": null
    },
    "categories": [
     "Audio",
     "Embeddings",
     "Image",
-    "Other"
+    "Multimodal"
    ],
-   "generated_at": "2026-09-19T13:30:10.579284+00:00"
+   "generated_at": "2026-09-20T13:44:54.196533+00:00"
   },
   {
    "key": "mcp",
@@ -311,9 +311,9 @@
    "url": "https://mcp.kymatalabs.com",
    "accent": "#06b6d4",
    "count_key": "server_count",
-   "count": 2015,
+   "count": 2006,
    "top": {
-    "name": "ai.signal8/mcp",
+    "name": "app.percher/percher",
     "momentum": null
    },
    "categories": [
@@ -322,7 +322,7 @@
     "Data & DB",
     "Dev Tools"
    ],
-   "generated_at": "2026-09-19T13:20:32.154298+00:00"
+   "generated_at": "2026-09-20T13:39:57.987756+00:00"
   },
   {
    "key": "agentvel",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-09-19T13:27:09.343126+00:00"
+   "generated_at": "2026-09-20T13:43:05.306808+00:00"
   }
  ]
 }
