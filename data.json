@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-21T15:56:11.345154+00:00",
- "total_indexed": 5435,
+ "generated_at": "2026-09-22T14:04:19.039802+00:00",
+ "total_indexed": 5437,
  "indexes": [
   {
    "key": "skill",
@@ -29,7 +29,7 @@
    "blurb": "LLM & agent evaluation, benchmark, observability and red-teaming tools.",
    "url": "https://eval.kymatalabs.com",
    "accent": "#7fae2c",
-   "count": 272,
+   "count": 273,
    "top": {
     "name": "langfuse/langfuse",
     "momentum": 87
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Agent Eval"
    ],
-   "generated_at": "2026-09-21T15:21:24.710329+00:00"
+   "generated_at": "2026-09-22T13:41:38.968165+00:00"
   },
   {
    "key": "local",
@@ -49,7 +49,7 @@
    "blurb": "Run LLMs on your own hardware — inference engines, runners, quantization.",
    "url": "https://localllm.kymatalabs.com",
    "accent": "#1f5bff",
-   "count": 238,
+   "count": 239,
    "top": {
     "name": "unslothai/unsloth",
     "momentum": 87
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-09-21T15:22:20.988079+00:00"
+   "generated_at": "2026-09-22T13:42:23.866087+00:00"
   },
   {
    "key": "prompt",
@@ -76,11 +76,11 @@
    },
    "categories": [
     "Optimization & Tooling",
-    "System Prompts",
     "Prompt Packs",
+    "System Prompts",
     "Guides & Courses"
    ],
-   "generated_at": "2026-09-21T15:27:06.274406+00:00"
+   "generated_at": "2026-09-22T13:45:19.866352+00:00"
   },
   {
    "key": "rag",
@@ -95,12 +95,12 @@
     "momentum": 87
    },
    "categories": [
-    "Vector Databases",
     "Retrieval & Search",
+    "Vector Databases",
     "Reranking",
     "RAG Frameworks"
    ],
-   "generated_at": "2026-09-21T15:41:46.150389+00:00"
+   "generated_at": "2026-09-22T13:55:06.143843+00:00"
   },
   {
    "key": "diffusion",
@@ -140,7 +140,7 @@
     "Toolkits & Frameworks",
     "Voice Agents & Realtime"
    ],
-   "generated_at": "2026-09-20T13:37:20.848912+00:00"
+   "generated_at": "2026-09-21T15:56:49.431562+00:00"
   },
   {
    "key": "dataset",
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-09-20T13:42:12.786295+00:00"
+   "generated_at": "2026-09-21T16:01:13.918879+00:00"
   },
   {
    "key": "finetune",
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-09-21T15:52:29.989339+00:00"
+   "generated_at": "2026-09-22T14:01:15.580379+00:00"
   },
   {
    "key": "gateway",
@@ -189,7 +189,7 @@
    "blurb": "LLM gateways, proxies & routers — the routing layer between apps and model providers.",
    "url": "https://gateway.kymatalabs.com",
    "accent": "#2ee6c6",
-   "count": 211,
+   "count": 209,
    "top": {
     "name": "diegosouzapw/OmniRoute",
     "momentum": 87
@@ -198,9 +198,9 @@
     "Gateways & Proxies",
     "Routers",
     "Multi-Provider SDKs",
-    "Observability Gateways"
+    "Self-Hosted Platforms"
    ],
-   "generated_at": "2026-09-20T14:09:38.003425+00:00"
+   "generated_at": "2026-09-21T16:25:57.048721+00:00"
   },
   {
    "key": "agent",
@@ -212,7 +212,7 @@
    "count": 268,
    "top": {
     "name": "deepseek-ai/deepseek-harness",
-    "momentum": 96
+    "momentum": 95
    },
    "categories": [
     "Agent Frameworks",
@@ -220,7 +220,7 @@
     "Memory & State",
     "Orchestration"
    ],
-   "generated_at": "2026-09-18T14:33:24.573633+00:00"
+   "generated_at": "2026-09-21T16:30:10.266601+00:00"
   },
   {
    "key": "document",
@@ -249,7 +249,7 @@
    "blurb": "LLM & AI observability — tracing, monitoring & cost analytics, online eval, agent observability, ML-drift.",
    "url": "https://observability.kymatalabs.com",
    "accent": "#ffb02e",
-   "count": 158,
+   "count": 159,
    "top": {
     "name": "langfuse/langfuse",
     "momentum": 87
@@ -260,7 +260,7 @@
     "LLMOps Platforms",
     "Tracing & Spans"
    ],
-   "generated_at": "2026-09-20T14:44:54.527139+00:00"
+   "generated_at": "2026-09-21T17:07:15.962883+00:00"
   },
   {
    "key": "stack",
@@ -269,7 +269,7 @@
    "blurb": "The live momentum index for AI-infrastructure repos.",
    "url": "https://stacktracker.kymatalabs.com",
    "accent": "#00d4a0",
-   "count": 281,
+   "count": 282,
    "top": {
     "name": "affaan-m/ECC",
     "momentum": 87
@@ -280,7 +280,7 @@
     "MCP & Tools",
     "Subagents"
    ],
-   "generated_at": "2026-09-21T15:16:06.536994+00:00"
+   "generated_at": "2026-09-22T13:35:20.773653+00:00"
   },
   {
    "key": "model",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-09-20T13:43:05.306808+00:00"
+   "generated_at": "2026-09-21T16:01:50.354415+00:00"
   }
  ]
 }
