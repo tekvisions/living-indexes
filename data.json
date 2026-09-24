@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-23T14:16:28.697769+00:00",
- "total_indexed": 5347,
+ "generated_at": "2026-09-24T14:15:14.596907+00:00",
+ "total_indexed": 5345,
  "indexes": [
   {
    "key": "skill",
@@ -29,7 +29,7 @@
    "blurb": "LLM & agent evaluation, benchmark, observability and red-teaming tools.",
    "url": "https://eval.kymatalabs.com",
    "accent": "#7fae2c",
-   "count": 273,
+   "count": 274,
    "top": {
     "name": "langfuse/langfuse",
     "momentum": 87
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Agent Eval"
    ],
-   "generated_at": "2026-09-23T13:53:05.684882+00:00"
+   "generated_at": "2026-09-24T13:49:50.163839+00:00"
   },
   {
    "key": "local",
@@ -69,18 +69,18 @@
    "blurb": "Prompt-engineering resources — collections, system prompts, optimizers, guides.",
    "url": "https://prompt.kymatalabs.com",
    "accent": "#ff3b2f",
-   "count": 137,
+   "count": 138,
    "top": {
     "name": "DietrichGebert/ponytail",
     "momentum": 86
    },
    "categories": [
     "Optimization & Tooling",
-    "Prompt Packs",
     "System Prompts",
+    "Prompt Packs",
     "Guides & Courses"
    ],
-   "generated_at": "2026-09-23T13:57:05.815098+00:00"
+   "generated_at": "2026-09-24T13:53:26.250835+00:00"
   },
   {
    "key": "rag",
@@ -100,7 +100,7 @@
     "Reranking",
     "RAG Frameworks"
    ],
-   "generated_at": "2026-09-23T14:05:55.885752+00:00"
+   "generated_at": "2026-09-24T14:03:18.153731+00:00"
   },
   {
    "key": "diffusion",
@@ -109,7 +109,7 @@
    "blurb": "AI image & video generation — diffusion models, ComfyUI nodes, video gen, editing, training.",
    "url": "https://diffusion.kymatalabs.com",
    "accent": "#c77dff",
-   "count": 262,
+   "count": 260,
    "top": {
     "name": "Comfy-Org/ComfyUI",
     "momentum": 86
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-09-23T14:10:53.932932+00:00"
+   "generated_at": "2026-09-24T14:08:54.616067+00:00"
   },
   {
    "key": "voice",
@@ -137,10 +137,10 @@
    "categories": [
     "Speech-to-Text",
     "Voice Cloning & Conversion",
-    "Toolkits & Frameworks",
-    "Voice Agents & Realtime"
+    "Voice Agents & Realtime",
+    "Toolkits & Frameworks"
    ],
-   "generated_at": "2026-09-22T14:05:00.932150+00:00"
+   "generated_at": "2026-09-23T14:17:25.550172+00:00"
   },
   {
    "key": "dataset",
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-09-22T14:11:59.434608+00:00"
+   "generated_at": "2026-09-23T14:27:00.606068+00:00"
   },
   {
    "key": "finetune",
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-09-23T14:12:59.515638+00:00"
+   "generated_at": "2026-09-24T14:11:12.019177+00:00"
   },
   {
    "key": "gateway",
@@ -189,7 +189,7 @@
    "blurb": "LLM gateways, proxies & routers — the routing layer between apps and model providers.",
    "url": "https://gateway.kymatalabs.com",
    "accent": "#2ee6c6",
-   "count": 209,
+   "count": 206,
    "top": {
     "name": "diegosouzapw/OmniRoute",
     "momentum": 87
@@ -198,9 +198,9 @@
     "Gateways & Proxies",
     "Routers",
     "Multi-Provider SDKs",
-    "Self-Hosted Platforms"
+    "Observability Gateways"
    ],
-   "generated_at": "2026-09-22T14:44:41.058841+00:00"
+   "generated_at": "2026-09-23T14:56:14.869562+00:00"
   },
   {
    "key": "agent",
@@ -220,7 +220,7 @@
     "Memory & State",
     "Orchestration"
    ],
-   "generated_at": "2026-09-22T15:01:22.268598+00:00"
+   "generated_at": "2026-09-23T15:05:20.253175+00:00"
   },
   {
    "key": "document",
@@ -229,7 +229,7 @@
    "blurb": "Document-AI tooling — OCR, PDF extraction, document parsing, layout, tables & understanding.",
    "url": "https://document.kymatalabs.com",
    "accent": "#4f46e5",
-   "count": 220,
+   "count": 221,
    "top": {
     "name": "PaddlePaddle/PaddleOCR",
     "momentum": 86
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "VLM & Understanding"
    ],
-   "generated_at": "2026-09-22T15:11:01.822174+00:00"
+   "generated_at": "2026-09-23T15:12:01.535996+00:00"
   },
   {
    "key": "observability",
@@ -260,7 +260,7 @@
     "LLMOps Platforms",
     "Tracing & Spans"
    ],
-   "generated_at": "2026-09-22T15:33:16.676861+00:00"
+   "generated_at": "2026-09-23T15:28:51.956096+00:00"
   },
   {
    "key": "stack",
@@ -280,7 +280,7 @@
     "MCP & Tools",
     "Subagents"
    ],
-   "generated_at": "2026-09-23T13:47:11.722828+00:00"
+   "generated_at": "2026-09-24T13:42:27.876313+00:00"
   },
   {
    "key": "model",
@@ -292,7 +292,7 @@
    "count_key": "model_count",
    "count": 150,
    "top": {
-    "name": "Qwen-Image-2.1-GGUF",
+    "name": "MiniMax-H3_Ref2VA-LoRA-CrossView-Warp_v1",
     "momentum": null
    },
    "categories": [
@@ -301,7 +301,7 @@
     "Image",
     "Multimodal"
    ],
-   "generated_at": "2026-09-22T14:12:46.043986+00:00"
+   "generated_at": "2026-09-23T14:28:02.628733+00:00"
   },
   {
    "key": "mcp",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-09-22T14:12:28.371489+00:00"
+   "generated_at": "2026-09-23T14:27:24.462093+00:00"
   }
  ]
 }
