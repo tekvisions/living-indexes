@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-24T14:15:14.596907+00:00",
- "total_indexed": 5345,
+ "generated_at": "2026-09-25T14:38:33.837335+00:00",
+ "total_indexed": 5346,
  "indexes": [
   {
    "key": "skill",
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Agent Eval"
    ],
-   "generated_at": "2026-09-24T13:49:50.163839+00:00"
+   "generated_at": "2026-09-25T14:12:06.825698+00:00"
   },
   {
    "key": "local",
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-09-23T13:53:37.143743+00:00"
+   "generated_at": "2026-09-25T14:13:18.680899+00:00"
   },
   {
    "key": "prompt",
@@ -80,7 +80,7 @@
     "Prompt Packs",
     "Guides & Courses"
    ],
-   "generated_at": "2026-09-24T13:53:26.250835+00:00"
+   "generated_at": "2026-09-25T14:16:56.028249+00:00"
   },
   {
    "key": "rag",
@@ -100,7 +100,7 @@
     "Reranking",
     "RAG Frameworks"
    ],
-   "generated_at": "2026-09-24T14:03:18.153731+00:00"
+   "generated_at": "2026-09-25T14:26:43.632947+00:00"
   },
   {
    "key": "diffusion",
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-09-24T14:08:54.616067+00:00"
+   "generated_at": "2026-09-25T14:32:18.707066+00:00"
   },
   {
    "key": "voice",
@@ -169,7 +169,7 @@
    "blurb": "Make your own model — fine-tuning frameworks, PEFT/LoRA, RLHF/DPO, training data.",
    "url": "https://finetune.kymatalabs.com",
    "accent": "#ff6a00",
-   "count": 188,
+   "count": 189,
    "top": {
     "name": "unslothai/unsloth",
     "momentum": 87
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-09-24T14:11:12.019177+00:00"
+   "generated_at": "2026-09-25T14:35:09.604948+00:00"
   },
   {
    "key": "gateway",
@@ -189,7 +189,7 @@
    "blurb": "LLM gateways, proxies & routers — the routing layer between apps and model providers.",
    "url": "https://gateway.kymatalabs.com",
    "accent": "#2ee6c6",
-   "count": 206,
+   "count": 205,
    "top": {
     "name": "diegosouzapw/OmniRoute",
     "momentum": 87
@@ -200,7 +200,7 @@
     "Multi-Provider SDKs",
     "Observability Gateways"
    ],
-   "generated_at": "2026-09-23T14:56:14.869562+00:00"
+   "generated_at": "2026-09-24T14:57:50.091524+00:00"
   },
   {
    "key": "agent",
@@ -209,18 +209,18 @@
    "blurb": "AI agent frameworks — multi-agent, autonomous agents, orchestration, memory & agent SDKs.",
    "url": "https://agents.kymatalabs.com",
    "accent": "#b07cff",
-   "count": 269,
+   "count": 270,
    "top": {
     "name": "deepseek-ai/deepseek-harness",
-    "momentum": 96
+    "momentum": 95
    },
    "categories": [
     "Agent Frameworks",
     "Multi-Agent",
-    "Memory & State",
-    "Orchestration"
+    "Orchestration",
+    "Memory & State"
    ],
-   "generated_at": "2026-09-23T15:05:20.253175+00:00"
+   "generated_at": "2026-09-24T15:14:02.890663+00:00"
   },
   {
    "key": "document",
@@ -231,7 +231,7 @@
    "accent": "#4f46e5",
    "count": 221,
    "top": {
-    "name": "PaddlePaddle/PaddleOCR",
+    "name": "opendatalab/MinerU",
     "momentum": 86
    },
    "categories": [
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "VLM & Understanding"
    ],
-   "generated_at": "2026-09-23T15:12:01.535996+00:00"
+   "generated_at": "2026-09-24T15:30:37.226193+00:00"
   },
   {
    "key": "observability",
@@ -252,7 +252,7 @@
    "count": 159,
    "top": {
     "name": "langfuse/langfuse",
-    "momentum": 87
+    "momentum": 85
    },
    "categories": [
     "Agent Observability",
@@ -260,7 +260,7 @@
     "LLMOps Platforms",
     "Tracing & Spans"
    ],
-   "generated_at": "2026-09-23T15:28:51.956096+00:00"
+   "generated_at": "2026-09-24T15:51:20.421123+00:00"
   },
   {
    "key": "stack",
@@ -280,7 +280,7 @@
     "MCP & Tools",
     "Subagents"
    ],
-   "generated_at": "2026-09-24T13:42:27.876313+00:00"
+   "generated_at": "2026-09-25T14:04:16.945217+00:00"
   },
   {
    "key": "model",
@@ -292,7 +292,7 @@
    "count_key": "model_count",
    "count": 150,
    "top": {
-    "name": "MiniMax-H3_Ref2VA-LoRA-CrossView-Warp_v1",
+    "name": "Confucius4-T3PO",
     "momentum": null
    },
    "categories": [
@@ -301,7 +301,7 @@
     "Image",
     "Multimodal"
    ],
-   "generated_at": "2026-09-23T14:28:02.628733+00:00"
+   "generated_at": "2026-09-24T14:28:04.688626+00:00"
   },
   {
    "key": "mcp",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-09-23T14:27:24.462093+00:00"
+   "generated_at": "2026-09-24T14:28:37.931723+00:00"
   }
  ]
 }
