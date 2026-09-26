@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-25T14:38:33.837335+00:00",
- "total_indexed": 5346,
+ "generated_at": "2026-09-26T13:46:32.410321+00:00",
+ "total_indexed": 5286,
  "indexes": [
   {
    "key": "skill",
@@ -29,7 +29,7 @@
    "blurb": "LLM & agent evaluation, benchmark, observability and red-teaming tools.",
    "url": "https://eval.kymatalabs.com",
    "accent": "#7fae2c",
-   "count": 274,
+   "count": 275,
    "top": {
     "name": "langfuse/langfuse",
     "momentum": 87
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Agent Eval"
    ],
-   "generated_at": "2026-09-25T14:12:06.825698+00:00"
+   "generated_at": "2026-09-26T13:24:13.628033+00:00"
   },
   {
    "key": "local",
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-09-25T14:13:18.680899+00:00"
+   "generated_at": "2026-09-26T13:24:49.926787+00:00"
   },
   {
    "key": "prompt",
@@ -80,7 +80,7 @@
     "Prompt Packs",
     "Guides & Courses"
    ],
-   "generated_at": "2026-09-25T14:16:56.028249+00:00"
+   "generated_at": "2026-09-26T13:27:53.495263+00:00"
   },
   {
    "key": "rag",
@@ -100,7 +100,7 @@
     "Reranking",
     "RAG Frameworks"
    ],
-   "generated_at": "2026-09-25T14:26:43.632947+00:00"
+   "generated_at": "2026-09-26T13:38:00.052176+00:00"
   },
   {
    "key": "diffusion",
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-09-25T14:32:18.707066+00:00"
+   "generated_at": "2026-09-26T13:42:18.653912+00:00"
   },
   {
    "key": "voice",
@@ -129,7 +129,7 @@
    "blurb": "Voice & speech AI — text-to-speech, speech recognition, voice cloning, realtime voice agents.",
    "url": "https://voice.kymatalabs.com",
    "accent": "#b6ff2e",
-   "count": 281,
+   "count": 283,
    "top": {
     "name": "harry0703/MoneyPrinterTurbo",
     "momentum": 87
@@ -140,7 +140,7 @@
     "Voice Agents & Realtime",
     "Toolkits & Frameworks"
    ],
-   "generated_at": "2026-09-23T14:17:25.550172+00:00"
+   "generated_at": "2026-09-25T14:39:11.152448+00:00"
   },
   {
    "key": "dataset",
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-09-23T14:27:00.606068+00:00"
+   "generated_at": "2026-09-25T14:44:48.765093+00:00"
   },
   {
    "key": "finetune",
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-09-25T14:35:09.604948+00:00"
+   "generated_at": "2026-09-26T13:43:50.633503+00:00"
   },
   {
    "key": "gateway",
@@ -189,7 +189,7 @@
    "blurb": "LLM gateways, proxies & routers — the routing layer between apps and model providers.",
    "url": "https://gateway.kymatalabs.com",
    "accent": "#2ee6c6",
-   "count": 205,
+   "count": 204,
    "top": {
     "name": "diegosouzapw/OmniRoute",
     "momentum": 87
@@ -200,7 +200,7 @@
     "Multi-Provider SDKs",
     "Observability Gateways"
    ],
-   "generated_at": "2026-09-24T14:57:50.091524+00:00"
+   "generated_at": "2026-09-25T15:10:58.677884+00:00"
   },
   {
    "key": "agent",
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "VLM & Understanding"
    ],
-   "generated_at": "2026-09-24T15:30:37.226193+00:00"
+   "generated_at": "2026-09-25T15:34:40.161767+00:00"
   },
   {
    "key": "observability",
@@ -249,7 +249,7 @@
    "blurb": "LLM & AI observability — tracing, monitoring & cost analytics, online eval, agent observability, ML-drift.",
    "url": "https://observability.kymatalabs.com",
    "accent": "#ffb02e",
-   "count": 159,
+   "count": 157,
    "top": {
     "name": "langfuse/langfuse",
     "momentum": 85
@@ -260,7 +260,7 @@
     "LLMOps Platforms",
     "Tracing & Spans"
    ],
-   "generated_at": "2026-09-24T15:51:20.421123+00:00"
+   "generated_at": "2026-09-25T15:51:32.133160+00:00"
   },
   {
    "key": "stack",
@@ -280,7 +280,7 @@
     "MCP & Tools",
     "Subagents"
    ],
-   "generated_at": "2026-09-25T14:04:16.945217+00:00"
+   "generated_at": "2026-09-26T13:18:42.925286+00:00"
   },
   {
    "key": "model",
@@ -292,7 +292,7 @@
    "count_key": "model_count",
    "count": 150,
    "top": {
-    "name": "Confucius4-T3PO",
+    "name": "CLM-v0.1-8B",
     "momentum": null
    },
    "categories": [
@@ -301,7 +301,7 @@
     "Image",
     "Multimodal"
    ],
-   "generated_at": "2026-09-24T14:28:04.688626+00:00"
+   "generated_at": "2026-09-25T14:46:20.857961+00:00"
   },
   {
    "key": "mcp",
@@ -311,9 +311,9 @@
    "url": "https://mcp.kymatalabs.com",
    "accent": "#06b6d4",
    "count_key": "server_count",
-   "count": 1911,
+   "count": 1851,
    "top": {
-    "name": "ai.deepledger/mcp",
+    "name": "ai.clawfetch/mcp",
     "momentum": null
    },
    "categories": [
@@ -322,7 +322,7 @@
     "Data & DB",
     "Dev Tools"
    ],
-   "generated_at": "2026-09-22T14:09:54.917312+00:00"
+   "generated_at": "2026-09-25T14:45:29.721555+00:00"
   },
   {
    "key": "agentvel",
@@ -335,7 +335,7 @@
    "count": 14,
    "top": {
     "name": "codex",
-    "momentum": 93
+    "momentum": 92
    },
    "categories": [
     "CLI",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-09-24T14:28:37.931723+00:00"
+   "generated_at": "2026-09-25T14:45:26.037126+00:00"
   }
  ]
 }
