@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-27T14:44:12.550578+00:00",
- "total_indexed": 5029,
+ "generated_at": "2026-09-28T17:42:36.947603+00:00",
+ "total_indexed": 5320,
  "indexes": [
   {
    "key": "skill",
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Agent Eval"
    ],
-   "generated_at": "2026-09-27T14:19:27.285612+00:00"
+   "generated_at": "2026-09-28T17:03:16.009190+00:00"
   },
   {
    "key": "local",
@@ -49,7 +49,7 @@
    "blurb": "Run LLMs on your own hardware — inference engines, runners, quantization.",
    "url": "https://localllm.kymatalabs.com",
    "accent": "#1f5bff",
-   "count": 240,
+   "count": 238,
    "top": {
     "name": "unslothai/unsloth",
     "momentum": 87
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-09-27T14:20:26.440122+00:00"
+   "generated_at": "2026-09-28T17:04:29.637591+00:00"
   },
   {
    "key": "prompt",
@@ -76,11 +76,11 @@
    },
    "categories": [
     "Optimization & Tooling",
-    "System Prompts",
     "Prompt Packs",
+    "System Prompts",
     "Guides & Courses"
    ],
-   "generated_at": "2026-09-27T14:23:29.207874+00:00"
+   "generated_at": "2026-09-28T17:08:46.065748+00:00"
   },
   {
    "key": "rag",
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-09-27T14:38:54.489073+00:00"
+   "generated_at": "2026-09-28T17:32:38.841196+00:00"
   },
   {
    "key": "voice",
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-09-26T13:54:01.549170+00:00"
+   "generated_at": "2026-09-27T14:50:12.402808+00:00"
   },
   {
    "key": "finetune",
@@ -169,7 +169,7 @@
    "blurb": "Make your own model — fine-tuning frameworks, PEFT/LoRA, RLHF/DPO, training data.",
    "url": "https://finetune.kymatalabs.com",
    "accent": "#ff6a00",
-   "count": 189,
+   "count": 188,
    "top": {
     "name": "unslothai/unsloth",
     "momentum": 87
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-09-27T14:40:35.219263+00:00"
+   "generated_at": "2026-09-28T17:37:31.864875+00:00"
   },
   {
    "key": "gateway",
@@ -200,7 +200,7 @@
     "Multi-Provider SDKs",
     "Observability Gateways"
    ],
-   "generated_at": "2026-09-26T14:23:24.528970+00:00"
+   "generated_at": "2026-09-27T15:07:25.788052+00:00"
   },
   {
    "key": "agent",
@@ -220,7 +220,7 @@
     "Orchestration",
     "Memory & State"
    ],
-   "generated_at": "2026-09-26T14:33:34.196612+00:00"
+   "generated_at": "2026-09-27T15:11:31.519677+00:00"
   },
   {
    "key": "document",
@@ -249,7 +249,7 @@
    "blurb": "LLM & AI observability — tracing, monitoring & cost analytics, online eval, agent observability, ML-drift.",
    "url": "https://observability.kymatalabs.com",
    "accent": "#ffb02e",
-   "count": 157,
+   "count": 158,
    "top": {
     "name": "langfuse/langfuse",
     "momentum": 85
@@ -260,7 +260,7 @@
     "LLMOps Platforms",
     "Tracing & Spans"
    ],
-   "generated_at": "2026-09-26T15:00:39.229482+00:00"
+   "generated_at": "2026-09-27T15:41:38.926715+00:00"
   },
   {
    "key": "stack",
@@ -269,18 +269,18 @@
    "blurb": "The live momentum index for AI-infrastructure repos.",
    "url": "https://stacktracker.kymatalabs.com",
    "accent": "#00d4a0",
-   "count": null,
+   "count": 284,
    "top": {
-    "name": "pydantic-ai",
-    "momentum": 96
+    "name": "affaan-m/ECC",
+    "momentum": 87
    },
    "categories": [
-    "Agents",
-    "Inference",
-    "Vector DB",
-    "LLMOps"
+    "Collections",
+    "Commands & Hooks",
+    "MCP & Tools",
+    "Subagents"
    ],
-   "generated_at": "2026-09-26T13:47:33.735366+00:00"
+   "generated_at": "2026-09-28T16:54:59.529504+00:00"
   },
   {
    "key": "model",
@@ -292,16 +292,16 @@
    "count_key": "model_count",
    "count": 150,
    "top": {
-    "name": "kev-4b",
+    "name": "MiniMax-H3-Character-Swap-LoRA",
     "momentum": null
    },
    "categories": [
     "Audio",
+    "Embeddings",
     "Image",
-    "Multimodal",
-    "Other"
+    "Multimodal"
    ],
-   "generated_at": "2026-09-26T13:54:29.974099+00:00"
+   "generated_at": "2026-09-27T14:50:28.457175+00:00"
   },
   {
    "key": "mcp",
@@ -311,9 +311,9 @@
    "url": "https://mcp.kymatalabs.com",
    "accent": "#06b6d4",
    "count_key": "server_count",
-   "count": 1872,
+   "count": 1881,
    "top": {
-    "name": "app.peil/peil-mcp",
+    "name": "ai.voxell/forge",
     "momentum": null
    },
    "categories": [
@@ -322,7 +322,7 @@
     "Data & DB",
     "Dev Tools"
    ],
-   "generated_at": "2026-09-26T13:50:14.848356+00:00"
+   "generated_at": "2026-09-27T14:50:52.556122+00:00"
   },
   {
    "key": "agentvel",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-09-26T13:54:40.624637+00:00"
+   "generated_at": "2026-09-27T14:51:01.401225+00:00"
   }
  ]
 }
