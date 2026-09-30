@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-29T15:58:33.543362+00:00",
- "total_indexed": 5313,
+ "generated_at": "2026-09-30T15:58:17.160359+00:00",
+ "total_indexed": 5308,
  "indexes": [
   {
    "key": "skill",
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Agent Eval"
    ],
-   "generated_at": "2026-09-29T15:07:52.683202+00:00"
+   "generated_at": "2026-09-30T15:22:47.204793+00:00"
   },
   {
    "key": "local",
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-09-29T15:09:38.943241+00:00"
+   "generated_at": "2026-09-30T15:24:54.912114+00:00"
   },
   {
    "key": "prompt",
@@ -76,11 +76,11 @@
    },
    "categories": [
     "Optimization & Tooling",
-    "System Prompts",
     "Prompt Packs",
+    "System Prompts",
     "Guides & Courses"
    ],
-   "generated_at": "2026-09-29T15:12:18.589152+00:00"
+   "generated_at": "2026-09-30T15:27:21.741579+00:00"
   },
   {
    "key": "rag",
@@ -100,7 +100,7 @@
     "Reranking",
     "RAG Frameworks"
    ],
-   "generated_at": "2026-09-27T14:34:28.878550+00:00"
+   "generated_at": "2026-09-30T15:40:56.443529+00:00"
   },
   {
    "key": "diffusion",
@@ -109,7 +109,7 @@
    "blurb": "AI image & video generation — diffusion models, ComfyUI nodes, video gen, editing, training.",
    "url": "https://diffusion.kymatalabs.com",
    "accent": "#c77dff",
-   "count": 260,
+   "count": 263,
    "top": {
     "name": "Comfy-Org/ComfyUI",
     "momentum": 86
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-09-29T15:37:20.295551+00:00"
+   "generated_at": "2026-09-30T15:47:36.745869+00:00"
   },
   {
    "key": "voice",
@@ -129,7 +129,7 @@
    "blurb": "Voice & speech AI — text-to-speech, speech recognition, voice cloning, realtime voice agents.",
    "url": "https://voice.kymatalabs.com",
    "accent": "#b6ff2e",
-   "count": 283,
+   "count": 284,
    "top": {
     "name": "harry0703/MoneyPrinterTurbo",
     "momentum": 87
@@ -140,7 +140,7 @@
     "Voice Agents & Realtime",
     "Toolkits & Frameworks"
    ],
-   "generated_at": "2026-09-28T17:43:54.110930+00:00"
+   "generated_at": "2026-09-29T15:59:55.889852+00:00"
   },
   {
    "key": "dataset",
@@ -149,7 +149,7 @@
    "blurb": "Data-centric AI tooling — labeling & annotation, synthetic data, curation, augmentation, dataset frameworks.",
    "url": "https://dataset.kymatalabs.com",
    "accent": "#d23a1e",
-   "count": 253,
+   "count": 254,
    "top": {
     "name": "HumanSignal/label-studio",
     "momentum": 87
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-09-28T17:49:12.247897+00:00"
+   "generated_at": "2026-09-29T16:07:36.522568+00:00"
   },
   {
    "key": "finetune",
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-09-29T15:45:58.561229+00:00"
+   "generated_at": "2026-09-30T15:53:39.188279+00:00"
   },
   {
    "key": "gateway",
@@ -189,7 +189,7 @@
    "blurb": "LLM gateways, proxies & routers — the routing layer between apps and model providers.",
    "url": "https://gateway.kymatalabs.com",
    "accent": "#2ee6c6",
-   "count": 209,
+   "count": 210,
    "top": {
     "name": "diegosouzapw/OmniRoute",
     "momentum": 87
@@ -200,7 +200,7 @@
     "Multi-Provider SDKs",
     "Observability Gateways"
    ],
-   "generated_at": "2026-09-28T18:07:09.877555+00:00"
+   "generated_at": "2026-09-29T16:28:36.048635+00:00"
   },
   {
    "key": "agent",
@@ -220,7 +220,7 @@
     "Orchestration",
     "Memory & State"
    ],
-   "generated_at": "2026-09-28T18:11:47.781034+00:00"
+   "generated_at": "2026-09-29T16:33:14.644561+00:00"
   },
   {
    "key": "document",
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "VLM & Understanding"
    ],
-   "generated_at": "2026-09-28T18:16:06.896100+00:00"
+   "generated_at": "2026-09-29T16:38:43.725808+00:00"
   },
   {
    "key": "observability",
@@ -249,7 +249,7 @@
    "blurb": "LLM & AI observability — tracing, monitoring & cost analytics, online eval, agent observability, ML-drift.",
    "url": "https://observability.kymatalabs.com",
    "accent": "#ffb02e",
-   "count": 158,
+   "count": 157,
    "top": {
     "name": "langfuse/langfuse",
     "momentum": 85
@@ -260,7 +260,7 @@
     "LLMOps Platforms",
     "Tracing & Spans"
    ],
-   "generated_at": "2026-09-28T18:38:45.082502+00:00"
+   "generated_at": "2026-09-29T16:55:37.480456+00:00"
   },
   {
    "key": "stack",
@@ -277,10 +277,10 @@
    "categories": [
     "Collections",
     "Commands & Hooks",
-    "MCP & Tools",
-    "Subagents"
+    "Subagents",
+    "MCP & Tools"
    ],
-   "generated_at": "2026-09-29T14:58:29.904930+00:00"
+   "generated_at": "2026-09-30T15:07:34.631680+00:00"
   },
   {
    "key": "model",
@@ -292,7 +292,7 @@
    "count_key": "model_count",
    "count": 150,
    "top": {
-    "name": "OrcaSAQ-2-Cyber-27B-Uncensored-GGUF",
+    "name": "QI_2.1_AnyAngle",
     "momentum": null
    },
    "categories": [
@@ -301,7 +301,7 @@
     "Image",
     "Multimodal"
    ],
-   "generated_at": "2026-09-28T17:49:51.966516+00:00"
+   "generated_at": "2026-09-29T16:09:42.815392+00:00"
   },
   {
    "key": "mcp",
@@ -311,9 +311,9 @@
    "url": "https://mcp.kymatalabs.com",
    "accent": "#06b6d4",
    "count_key": "server_count",
-   "count": 1875,
+   "count": 1865,
    "top": {
-    "name": "ai.ludo/game-assets",
+    "name": "ai.dinglebear/unraid-mcp",
     "momentum": null
    },
    "categories": [
@@ -322,7 +322,7 @@
     "Data & DB",
     "Dev Tools"
    ],
-   "generated_at": "2026-09-28T17:47:51.947512+00:00"
+   "generated_at": "2026-09-29T16:08:08.272838+00:00"
   },
   {
    "key": "agentvel",
@@ -335,7 +335,7 @@
    "count": 14,
    "top": {
     "name": "codex",
-    "momentum": 92
+    "momentum": 93
    },
    "categories": [
     "CLI",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-09-28T17:50:09.390431+00:00"
+   "generated_at": "2026-09-29T16:08:05.699289+00:00"
   }
  ]
 }
