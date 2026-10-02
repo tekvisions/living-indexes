@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-01T16:31:18.174309+00:00",
- "total_indexed": 5310,
+ "generated_at": "2026-10-02T15:52:17.911369+00:00",
+ "total_indexed": 5348,
  "indexes": [
   {
    "key": "skill",
@@ -29,7 +29,7 @@
    "blurb": "LLM & agent evaluation, benchmark, observability and red-teaming tools.",
    "url": "https://eval.kymatalabs.com",
    "accent": "#7fae2c",
-   "count": 275,
+   "count": 276,
    "top": {
     "name": "langfuse/langfuse",
     "momentum": 87
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Agent Eval"
    ],
-   "generated_at": "2026-10-01T15:42:43.255418+00:00"
+   "generated_at": "2026-10-02T15:04:13.487927+00:00"
   },
   {
    "key": "local",
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-10-01T15:45:27.900914+00:00"
+   "generated_at": "2026-10-02T15:06:55.357392+00:00"
   },
   {
    "key": "prompt",
@@ -80,7 +80,7 @@
     "Prompt Packs",
     "Guides & Courses"
    ],
-   "generated_at": "2026-10-01T15:47:56.998098+00:00"
+   "generated_at": "2026-10-02T15:09:45.698580+00:00"
   },
   {
    "key": "rag",
@@ -100,7 +100,7 @@
     "Reranking",
     "RAG Frameworks"
    ],
-   "generated_at": "2026-10-01T16:01:27.097634+00:00"
+   "generated_at": "2026-10-02T15:25:23.419554+00:00"
   },
   {
    "key": "diffusion",
@@ -109,7 +109,7 @@
    "blurb": "AI image & video generation — diffusion models, ComfyUI nodes, video gen, editing, training.",
    "url": "https://diffusion.kymatalabs.com",
    "accent": "#c77dff",
-   "count": 263,
+   "count": 264,
    "top": {
     "name": "Comfy-Org/ComfyUI",
     "momentum": 86
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-10-01T16:14:50.112576+00:00"
+   "generated_at": "2026-10-02T15:38:42.047506+00:00"
   },
   {
    "key": "voice",
@@ -129,7 +129,7 @@
    "blurb": "Voice & speech AI — text-to-speech, speech recognition, voice cloning, realtime voice agents.",
    "url": "https://voice.kymatalabs.com",
    "accent": "#b6ff2e",
-   "count": 284,
+   "count": 283,
    "top": {
     "name": "harry0703/MoneyPrinterTurbo",
     "momentum": 87
@@ -140,7 +140,7 @@
     "Voice Agents & Realtime",
     "Toolkits & Frameworks"
    ],
-   "generated_at": "2026-09-29T15:59:55.889852+00:00"
+   "generated_at": "2026-10-01T16:32:48.956722+00:00"
   },
   {
    "key": "dataset",
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-09-30T16:06:03.141871+00:00"
+   "generated_at": "2026-10-01T16:42:18.439044+00:00"
   },
   {
    "key": "finetune",
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-10-01T16:23:35.199517+00:00"
+   "generated_at": "2026-10-02T15:45:23.449720+00:00"
   },
   {
    "key": "gateway",
@@ -189,7 +189,7 @@
    "blurb": "LLM gateways, proxies & routers — the routing layer between apps and model providers.",
    "url": "https://gateway.kymatalabs.com",
    "accent": "#2ee6c6",
-   "count": 208,
+   "count": 210,
    "top": {
     "name": "diegosouzapw/OmniRoute",
     "momentum": 87
@@ -200,7 +200,7 @@
     "Multi-Provider SDKs",
     "Observability Gateways"
    ],
-   "generated_at": "2026-09-30T16:23:07.057772+00:00"
+   "generated_at": "2026-10-01T17:00:13.338702+00:00"
   },
   {
    "key": "agent",
@@ -209,10 +209,10 @@
    "blurb": "AI agent frameworks — multi-agent, autonomous agents, orchestration, memory & agent SDKs.",
    "url": "https://agents.kymatalabs.com",
    "accent": "#b07cff",
-   "count": 274,
+   "count": 273,
    "top": {
     "name": "deepseek-ai/deepseek-harness",
-    "momentum": 95
+    "momentum": 94
    },
    "categories": [
     "Agent Frameworks",
@@ -220,7 +220,7 @@
     "Orchestration",
     "Memory & State"
    ],
-   "generated_at": "2026-09-30T16:26:44.028245+00:00"
+   "generated_at": "2026-10-01T17:03:51.981525+00:00"
   },
   {
    "key": "document",
@@ -231,8 +231,8 @@
    "accent": "#4f46e5",
    "count": 221,
    "top": {
-    "name": "jev-chat/jev-chat-jarvis",
-    "momentum": 87
+    "name": "opendatalab/MinerU",
+    "momentum": 86
    },
    "categories": [
     "Document Parsing",
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "VLM & Understanding"
    ],
-   "generated_at": "2026-09-30T16:31:05.920363+00:00"
+   "generated_at": "2026-10-01T17:09:00.270735+00:00"
   },
   {
    "key": "observability",
@@ -249,7 +249,7 @@
    "blurb": "LLM & AI observability — tracing, monitoring & cost analytics, online eval, agent observability, ML-drift.",
    "url": "https://observability.kymatalabs.com",
    "accent": "#ffb02e",
-   "count": 157,
+   "count": 158,
    "top": {
     "name": "langfuse/langfuse",
     "momentum": 85
@@ -260,7 +260,7 @@
     "LLMOps Platforms",
     "Tracing & Spans"
    ],
-   "generated_at": "2026-09-30T16:51:54.470876+00:00"
+   "generated_at": "2026-10-01T17:25:24.687438+00:00"
   },
   {
    "key": "stack",
@@ -280,7 +280,7 @@
     "Subagents",
     "MCP & Tools"
    ],
-   "generated_at": "2026-10-01T15:35:22.374820+00:00"
+   "generated_at": "2026-10-02T14:54:02.634574+00:00"
   },
   {
    "key": "model",
@@ -292,16 +292,16 @@
    "count_key": "model_count",
    "count": 150,
    "top": {
-    "name": "QI_2.1_AnyAngle",
+    "name": "Phonon-2",
     "momentum": null
    },
    "categories": [
     "Audio",
-    "Embeddings",
     "Image",
-    "Multimodal"
+    "Other",
+    "Text"
    ],
-   "generated_at": "2026-09-29T16:09:42.815392+00:00"
+   "generated_at": "2026-10-01T16:42:43.301161+00:00"
   },
   {
    "key": "mcp",
@@ -311,9 +311,9 @@
    "url": "https://mcp.kymatalabs.com",
    "accent": "#06b6d4",
    "count_key": "server_count",
-   "count": 1865,
+   "count": 1900,
    "top": {
-    "name": "ai.dinglebear/unraid-mcp",
+    "name": "ai.creditpolicy/creditpolicy",
     "momentum": null
    },
    "categories": [
@@ -322,7 +322,7 @@
     "Data & DB",
     "Dev Tools"
    ],
-   "generated_at": "2026-09-29T16:08:08.272838+00:00"
+   "generated_at": "2026-10-01T16:39:57.874068+00:00"
   },
   {
    "key": "agentvel",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-09-30T16:06:42.710816+00:00"
+   "generated_at": "2026-10-01T16:43:11.769641+00:00"
   }
  ]
 }
