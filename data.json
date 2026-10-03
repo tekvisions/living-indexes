@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-02T15:52:17.911369+00:00",
- "total_indexed": 5348,
+ "generated_at": "2026-10-03T14:20:28.549202+00:00",
+ "total_indexed": 5356,
  "indexes": [
   {
    "key": "skill",
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Agent Eval"
    ],
-   "generated_at": "2026-10-02T15:04:13.487927+00:00"
+   "generated_at": "2026-10-03T13:57:02.555255+00:00"
   },
   {
    "key": "local",
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-10-02T15:06:55.357392+00:00"
+   "generated_at": "2026-10-03T13:58:34.504131+00:00"
   },
   {
    "key": "prompt",
@@ -80,7 +80,7 @@
     "Prompt Packs",
     "Guides & Courses"
    ],
-   "generated_at": "2026-10-02T15:09:45.698580+00:00"
+   "generated_at": "2026-10-03T14:02:58.402664+00:00"
   },
   {
    "key": "rag",
@@ -100,7 +100,7 @@
     "Reranking",
     "RAG Frameworks"
    ],
-   "generated_at": "2026-10-02T15:25:23.419554+00:00"
+   "generated_at": "2026-10-03T14:09:17.587760+00:00"
   },
   {
    "key": "diffusion",
@@ -109,7 +109,7 @@
    "blurb": "AI image & video generation — diffusion models, ComfyUI nodes, video gen, editing, training.",
    "url": "https://diffusion.kymatalabs.com",
    "accent": "#c77dff",
-   "count": 264,
+   "count": 265,
    "top": {
     "name": "Comfy-Org/ComfyUI",
     "momentum": 86
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-10-02T15:38:42.047506+00:00"
+   "generated_at": "2026-10-03T14:14:05.960072+00:00"
   },
   {
    "key": "voice",
@@ -129,7 +129,7 @@
    "blurb": "Voice & speech AI — text-to-speech, speech recognition, voice cloning, realtime voice agents.",
    "url": "https://voice.kymatalabs.com",
    "accent": "#b6ff2e",
-   "count": 283,
+   "count": 284,
    "top": {
     "name": "harry0703/MoneyPrinterTurbo",
     "momentum": 87
@@ -140,7 +140,7 @@
     "Voice Agents & Realtime",
     "Toolkits & Frameworks"
    ],
-   "generated_at": "2026-10-01T16:32:48.956722+00:00"
+   "generated_at": "2026-10-02T15:53:24.046661+00:00"
   },
   {
    "key": "dataset",
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-10-02T15:45:23.449720+00:00"
+   "generated_at": "2026-10-03T14:18:10.320114+00:00"
   },
   {
    "key": "gateway",
@@ -189,7 +189,7 @@
    "blurb": "LLM gateways, proxies & routers — the routing layer between apps and model providers.",
    "url": "https://gateway.kymatalabs.com",
    "accent": "#2ee6c6",
-   "count": 210,
+   "count": 214,
    "top": {
     "name": "diegosouzapw/OmniRoute",
     "momentum": 87
@@ -200,7 +200,7 @@
     "Multi-Provider SDKs",
     "Observability Gateways"
    ],
-   "generated_at": "2026-10-01T17:00:13.338702+00:00"
+   "generated_at": "2026-10-02T16:14:12.788755+00:00"
   },
   {
    "key": "agent",
@@ -209,7 +209,7 @@
    "blurb": "AI agent frameworks — multi-agent, autonomous agents, orchestration, memory & agent SDKs.",
    "url": "https://agents.kymatalabs.com",
    "accent": "#b07cff",
-   "count": 273,
+   "count": 272,
    "top": {
     "name": "deepseek-ai/deepseek-harness",
     "momentum": 94
@@ -220,7 +220,7 @@
     "Orchestration",
     "Memory & State"
    ],
-   "generated_at": "2026-10-01T17:03:51.981525+00:00"
+   "generated_at": "2026-10-02T16:18:06.791268+00:00"
   },
   {
    "key": "document",
@@ -229,7 +229,7 @@
    "blurb": "Document-AI tooling — OCR, PDF extraction, document parsing, layout, tables & understanding.",
    "url": "https://document.kymatalabs.com",
    "accent": "#4f46e5",
-   "count": 221,
+   "count": 222,
    "top": {
     "name": "opendatalab/MinerU",
     "momentum": 86
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "VLM & Understanding"
    ],
-   "generated_at": "2026-10-01T17:09:00.270735+00:00"
+   "generated_at": "2026-10-02T16:22:38.389880+00:00"
   },
   {
    "key": "observability",
@@ -269,7 +269,7 @@
    "blurb": "The live momentum index for AI-infrastructure repos.",
    "url": "https://stacktracker.kymatalabs.com",
    "accent": "#00d4a0",
-   "count": 284,
+   "count": 286,
    "top": {
     "name": "affaan-m/ECC",
     "momentum": 87
@@ -280,7 +280,7 @@
     "Subagents",
     "MCP & Tools"
    ],
-   "generated_at": "2026-10-02T14:54:02.634574+00:00"
+   "generated_at": "2026-10-03T13:36:33.428507+00:00"
   },
   {
    "key": "model",
@@ -292,16 +292,16 @@
    "count_key": "model_count",
    "count": 150,
    "top": {
-    "name": "Phonon-2",
+    "name": "taiga-s1",
     "momentum": null
    },
    "categories": [
     "Audio",
+    "Embeddings",
     "Image",
-    "Other",
-    "Text"
+    "Other"
    ],
-   "generated_at": "2026-10-01T16:42:43.301161+00:00"
+   "generated_at": "2026-10-02T15:58:47.485251+00:00"
   },
   {
    "key": "mcp",
@@ -335,7 +335,7 @@
    "count": 14,
    "top": {
     "name": "codex",
-    "momentum": 93
+    "momentum": 92
    },
    "categories": [
     "CLI",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-10-01T16:43:11.769641+00:00"
+   "generated_at": "2026-10-02T15:59:12.538210+00:00"
   }
  ]
 }
