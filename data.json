@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-05T18:34:01.978262+00:00",
- "total_indexed": 5402,
+ "generated_at": "2026-10-06T16:00:54.116889+00:00",
+ "total_indexed": 5429,
  "indexes": [
   {
    "key": "skill",
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Agent Eval"
    ],
-   "generated_at": "2026-10-05T17:26:58.168187+00:00"
+   "generated_at": "2026-10-06T15:28:58.391667+00:00"
   },
   {
    "key": "local",
@@ -49,7 +49,7 @@
    "blurb": "Run LLMs on your own hardware — inference engines, runners, quantization.",
    "url": "https://localllm.kymatalabs.com",
    "accent": "#1f5bff",
-   "count": 237,
+   "count": 238,
    "top": {
     "name": "unslothai/unsloth",
     "momentum": 87
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-10-05T17:28:26.090897+00:00"
+   "generated_at": "2026-10-06T15:29:42.226468+00:00"
   },
   {
    "key": "prompt",
@@ -69,18 +69,18 @@
    "blurb": "Prompt-engineering resources — collections, system prompts, optimizers, guides.",
    "url": "https://prompt.kymatalabs.com",
    "accent": "#ff3b2f",
-   "count": 138,
+   "count": 139,
    "top": {
-    "name": "f/prompts.chat",
+    "name": "DietrichGebert/ponytail",
     "momentum": 87
    },
    "categories": [
     "Optimization & Tooling",
-    "Prompt Packs",
     "System Prompts",
+    "Prompt Packs",
     "Guides & Courses"
    ],
-   "generated_at": "2026-10-05T17:33:13.755014+00:00"
+   "generated_at": "2026-10-06T15:32:09.304076+00:00"
   },
   {
    "key": "rag",
@@ -100,7 +100,7 @@
     "Reranking",
     "RAG Frameworks"
    ],
-   "generated_at": "2026-10-05T17:58:13.897153+00:00"
+   "generated_at": "2026-10-06T15:42:54.923299+00:00"
   },
   {
    "key": "diffusion",
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-10-05T18:14:19.427902+00:00"
+   "generated_at": "2026-10-06T15:48:41.006796+00:00"
   },
   {
    "key": "voice",
@@ -129,7 +129,7 @@
    "blurb": "Voice & speech AI — text-to-speech, speech recognition, voice cloning, realtime voice agents.",
    "url": "https://voice.kymatalabs.com",
    "accent": "#b6ff2e",
-   "count": 284,
+   "count": 283,
    "top": {
     "name": "harry0703/MoneyPrinterTurbo",
     "momentum": 87
@@ -140,7 +140,7 @@
     "Voice Agents & Realtime",
     "Toolkits & Frameworks"
    ],
-   "generated_at": "2026-10-04T14:52:47.180139+00:00"
+   "generated_at": "2026-10-05T18:35:27.498527+00:00"
   },
   {
    "key": "dataset",
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-10-04T14:59:28.724918+00:00"
+   "generated_at": "2026-10-05T18:50:40.643468+00:00"
   },
   {
    "key": "finetune",
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-10-05T18:22:42.702643+00:00"
+   "generated_at": "2026-10-06T15:54:52.718656+00:00"
   },
   {
    "key": "gateway",
@@ -200,7 +200,7 @@
     "Multi-Provider SDKs",
     "Observability Gateways"
    ],
-   "generated_at": "2026-10-04T15:18:26.271621+00:00"
+   "generated_at": "2026-10-05T19:15:03.790628+00:00"
   },
   {
    "key": "agent",
@@ -209,7 +209,7 @@
    "blurb": "AI agent frameworks — multi-agent, autonomous agents, orchestration, memory & agent SDKs.",
    "url": "https://agents.kymatalabs.com",
    "accent": "#b07cff",
-   "count": 271,
+   "count": 272,
    "top": {
     "name": "deepseek-ai/deepseek-harness",
     "momentum": 94
@@ -220,7 +220,7 @@
     "Orchestration",
     "Memory & State"
    ],
-   "generated_at": "2026-10-04T15:25:19.653383+00:00"
+   "generated_at": "2026-10-05T19:19:32.790658+00:00"
   },
   {
    "key": "document",
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "VLM & Understanding"
    ],
-   "generated_at": "2026-10-04T15:30:42.061880+00:00"
+   "generated_at": "2026-10-05T19:29:15.411757+00:00"
   },
   {
    "key": "observability",
@@ -269,7 +269,7 @@
    "blurb": "The live momentum index for AI-infrastructure repos.",
    "url": "https://stacktracker.kymatalabs.com",
    "accent": "#00d4a0",
-   "count": 282,
+   "count": 286,
    "top": {
     "name": "affaan-m/ECC",
     "momentum": 87
@@ -277,10 +277,10 @@
    "categories": [
     "Collections",
     "Commands & Hooks",
-    "Subagents",
-    "MCP & Tools"
+    "MCP & Tools",
+    "Subagents"
    ],
-   "generated_at": "2026-10-05T17:18:09.917156+00:00"
+   "generated_at": "2026-10-06T15:22:47.333566+00:00"
   },
   {
    "key": "model",
@@ -292,16 +292,16 @@
    "count_key": "model_count",
    "count": 150,
    "top": {
-    "name": "DMAD",
+    "name": "JEV-27B-VL",
     "momentum": null
    },
    "categories": [
-    "3D",
     "Audio",
     "Embeddings",
-    "Image"
+    "Image",
+    "Other"
    ],
-   "generated_at": "2026-10-04T15:00:20.706292+00:00"
+   "generated_at": "2026-10-05T18:52:27.923720+00:00"
   },
   {
    "key": "mcp",
@@ -311,9 +311,9 @@
    "url": "https://mcp.kymatalabs.com",
    "accent": "#06b6d4",
    "count_key": "server_count",
-   "count": 1954,
+   "count": 1975,
    "top": {
-    "name": "ai.router/ai-gateway",
+    "name": "ai.auteng/docs",
     "momentum": null
    },
    "categories": [
@@ -322,7 +322,7 @@
     "Data & DB",
     "Dev Tools"
    ],
-   "generated_at": "2026-10-03T14:29:38.634503+00:00"
+   "generated_at": "2026-10-05T18:47:02.143068+00:00"
   },
   {
    "key": "agentvel",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-10-04T15:00:42.574804+00:00"
+   "generated_at": "2026-10-05T18:51:26.606133+00:00"
   }
  ]
 }
