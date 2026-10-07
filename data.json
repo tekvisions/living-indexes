@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-06T16:00:54.116889+00:00",
- "total_indexed": 5429,
+ "generated_at": "2026-10-07T16:37:53.227015+00:00",
+ "total_indexed": 5432,
  "indexes": [
   {
    "key": "skill",
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-10-06T15:29:42.226468+00:00"
+   "generated_at": "2026-10-07T15:50:39.527820+00:00"
   },
   {
    "key": "prompt",
@@ -76,11 +76,11 @@
    },
    "categories": [
     "Optimization & Tooling",
-    "System Prompts",
     "Prompt Packs",
+    "System Prompts",
     "Guides & Courses"
    ],
-   "generated_at": "2026-10-06T15:32:09.304076+00:00"
+   "generated_at": "2026-10-07T15:53:16.784659+00:00"
   },
   {
    "key": "rag",
@@ -89,7 +89,7 @@
    "blurb": "Retrieval-augmented-generation — RAG frameworks, vector DBs, embeddings, reranking.",
    "url": "https://rag.kymatalabs.com",
    "accent": "#5b4bff",
-   "count": 225,
+   "count": 224,
    "top": {
     "name": "Shubhamsaboo/awesome-llm-apps",
     "momentum": 86
@@ -100,7 +100,7 @@
     "Reranking",
     "RAG Frameworks"
    ],
-   "generated_at": "2026-10-06T15:42:54.923299+00:00"
+   "generated_at": "2026-10-07T16:07:28.166502+00:00"
   },
   {
    "key": "diffusion",
@@ -109,7 +109,7 @@
    "blurb": "AI image & video generation — diffusion models, ComfyUI nodes, video gen, editing, training.",
    "url": "https://diffusion.kymatalabs.com",
    "accent": "#c77dff",
-   "count": 264,
+   "count": 265,
    "top": {
     "name": "Comfy-Org/ComfyUI",
     "momentum": 86
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-10-06T15:48:41.006796+00:00"
+   "generated_at": "2026-10-07T16:17:07.339690+00:00"
   },
   {
    "key": "voice",
@@ -140,7 +140,7 @@
     "Voice Agents & Realtime",
     "Toolkits & Frameworks"
    ],
-   "generated_at": "2026-10-05T18:35:27.498527+00:00"
+   "generated_at": "2026-10-06T16:02:35.932625+00:00"
   },
   {
    "key": "dataset",
@@ -149,7 +149,7 @@
    "blurb": "Data-centric AI tooling — labeling & annotation, synthetic data, curation, augmentation, dataset frameworks.",
    "url": "https://dataset.kymatalabs.com",
    "accent": "#d23a1e",
-   "count": 253,
+   "count": 254,
    "top": {
     "name": "HumanSignal/label-studio",
     "momentum": 87
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-10-05T18:50:40.643468+00:00"
+   "generated_at": "2026-10-06T16:16:39.732434+00:00"
   },
   {
    "key": "finetune",
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-10-06T15:54:52.718656+00:00"
+   "generated_at": "2026-10-07T16:24:44.393114+00:00"
   },
   {
    "key": "gateway",
@@ -189,7 +189,7 @@
    "blurb": "LLM gateways, proxies & routers — the routing layer between apps and model providers.",
    "url": "https://gateway.kymatalabs.com",
    "accent": "#2ee6c6",
-   "count": 216,
+   "count": 217,
    "top": {
     "name": "diegosouzapw/OmniRoute",
     "momentum": 87
@@ -200,7 +200,7 @@
     "Multi-Provider SDKs",
     "Observability Gateways"
    ],
-   "generated_at": "2026-10-05T19:15:03.790628+00:00"
+   "generated_at": "2026-10-06T16:43:11.513850+00:00"
   },
   {
    "key": "agent",
@@ -229,7 +229,7 @@
    "blurb": "Document-AI tooling — OCR, PDF extraction, document parsing, layout, tables & understanding.",
    "url": "https://document.kymatalabs.com",
    "accent": "#4f46e5",
-   "count": 223,
+   "count": 224,
    "top": {
     "name": "opendatalab/MinerU",
     "momentum": 86
@@ -238,9 +238,9 @@
     "Document Parsing",
     "OCR Engines",
     "PDF Extraction",
-    "VLM & Understanding"
+    "Layout & Structure"
    ],
-   "generated_at": "2026-10-05T19:29:15.411757+00:00"
+   "generated_at": "2026-10-06T16:56:22.784830+00:00"
   },
   {
    "key": "observability",
@@ -260,7 +260,7 @@
     "LLMOps Platforms",
     "Tracing & Spans"
    ],
-   "generated_at": "2026-10-04T15:51:49.635904+00:00"
+   "generated_at": "2026-10-06T17:17:42.837906+00:00"
   },
   {
    "key": "stack",
@@ -280,7 +280,7 @@
     "MCP & Tools",
     "Subagents"
    ],
-   "generated_at": "2026-10-06T15:22:47.333566+00:00"
+   "generated_at": "2026-10-07T15:41:52.161346+00:00"
   },
   {
    "key": "model",
@@ -292,16 +292,16 @@
    "count_key": "model_count",
    "count": 150,
    "top": {
-    "name": "JEV-27B-VL",
+    "name": "Qwen3.8-Flash-Next-abliterated-GSQ-RCO-Strata-GGUF",
     "momentum": null
    },
    "categories": [
+    "3D",
     "Audio",
     "Embeddings",
-    "Image",
-    "Other"
+    "Image"
    ],
-   "generated_at": "2026-10-05T18:52:27.923720+00:00"
+   "generated_at": "2026-10-06T16:18:00.813515+00:00"
   },
   {
    "key": "mcp",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-10-05T18:51:26.606133+00:00"
+   "generated_at": "2026-10-06T16:17:59.017721+00:00"
   }
  ]
 }
