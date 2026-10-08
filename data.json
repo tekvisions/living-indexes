@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-07T16:37:53.227015+00:00",
- "total_indexed": 5432,
+ "generated_at": "2026-10-08T16:36:30.105013+00:00",
+ "total_indexed": 5410,
  "indexes": [
   {
    "key": "skill",
@@ -29,7 +29,7 @@
    "blurb": "LLM & agent evaluation, benchmark, observability and red-teaming tools.",
    "url": "https://eval.kymatalabs.com",
    "accent": "#7fae2c",
-   "count": 275,
+   "count": 273,
    "top": {
     "name": "langfuse/langfuse",
     "momentum": 87
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Agent Eval"
    ],
-   "generated_at": "2026-10-06T15:28:58.391667+00:00"
+   "generated_at": "2026-10-08T15:53:09.002904+00:00"
   },
   {
    "key": "local",
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-10-07T15:50:39.527820+00:00"
+   "generated_at": "2026-10-08T15:54:08.554918+00:00"
   },
   {
    "key": "prompt",
@@ -80,7 +80,7 @@
     "System Prompts",
     "Guides & Courses"
    ],
-   "generated_at": "2026-10-07T15:53:16.784659+00:00"
+   "generated_at": "2026-10-08T15:56:27.402846+00:00"
   },
   {
    "key": "rag",
@@ -95,12 +95,12 @@
     "momentum": 86
    },
    "categories": [
-    "Retrieval & Search",
     "Vector Databases",
+    "Retrieval & Search",
     "Reranking",
     "RAG Frameworks"
    ],
-   "generated_at": "2026-10-07T16:07:28.166502+00:00"
+   "generated_at": "2026-10-08T16:09:12.696087+00:00"
   },
   {
    "key": "diffusion",
@@ -109,7 +109,7 @@
    "blurb": "AI image & video generation — diffusion models, ComfyUI nodes, video gen, editing, training.",
    "url": "https://diffusion.kymatalabs.com",
    "accent": "#c77dff",
-   "count": 265,
+   "count": 266,
    "top": {
     "name": "Comfy-Org/ComfyUI",
     "momentum": 86
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-10-07T16:17:07.339690+00:00"
+   "generated_at": "2026-10-08T16:18:54.136269+00:00"
   },
   {
    "key": "voice",
@@ -140,7 +140,7 @@
     "Voice Agents & Realtime",
     "Toolkits & Frameworks"
    ],
-   "generated_at": "2026-10-06T16:02:35.932625+00:00"
+   "generated_at": "2026-10-07T16:40:25.089238+00:00"
   },
   {
    "key": "dataset",
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-10-07T16:24:44.393114+00:00"
+   "generated_at": "2026-10-08T16:26:11.538190+00:00"
   },
   {
    "key": "gateway",
@@ -189,7 +189,7 @@
    "blurb": "LLM gateways, proxies & routers — the routing layer between apps and model providers.",
    "url": "https://gateway.kymatalabs.com",
    "accent": "#2ee6c6",
-   "count": 217,
+   "count": 219,
    "top": {
     "name": "diegosouzapw/OmniRoute",
     "momentum": 87
@@ -200,7 +200,7 @@
     "Multi-Provider SDKs",
     "Observability Gateways"
    ],
-   "generated_at": "2026-10-06T16:43:11.513850+00:00"
+   "generated_at": "2026-10-07T17:24:09.985125+00:00"
   },
   {
    "key": "agent",
@@ -209,10 +209,10 @@
    "blurb": "AI agent frameworks — multi-agent, autonomous agents, orchestration, memory & agent SDKs.",
    "url": "https://agents.kymatalabs.com",
    "accent": "#b07cff",
-   "count": 272,
+   "count": 270,
    "top": {
     "name": "deepseek-ai/deepseek-harness",
-    "momentum": 94
+    "momentum": 93
    },
    "categories": [
     "Agent Frameworks",
@@ -220,7 +220,7 @@
     "Orchestration",
     "Memory & State"
    ],
-   "generated_at": "2026-10-05T19:19:32.790658+00:00"
+   "generated_at": "2026-10-07T17:27:59.729043+00:00"
   },
   {
    "key": "document",
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "Layout & Structure"
    ],
-   "generated_at": "2026-10-06T16:56:22.784830+00:00"
+   "generated_at": "2026-10-07T17:33:04.616360+00:00"
   },
   {
    "key": "observability",
@@ -260,7 +260,7 @@
     "LLMOps Platforms",
     "Tracing & Spans"
    ],
-   "generated_at": "2026-10-06T17:17:42.837906+00:00"
+   "generated_at": "2026-10-07T17:51:43.799987+00:00"
   },
   {
    "key": "stack",
@@ -269,9 +269,9 @@
    "blurb": "The live momentum index for AI-infrastructure repos.",
    "url": "https://stacktracker.kymatalabs.com",
    "accent": "#00d4a0",
-   "count": 286,
+   "count": 285,
    "top": {
-    "name": "affaan-m/ECC",
+    "name": "NousResearch/hermes-agent",
     "momentum": 87
    },
    "categories": [
@@ -280,7 +280,7 @@
     "MCP & Tools",
     "Subagents"
    ],
-   "generated_at": "2026-10-07T15:41:52.161346+00:00"
+   "generated_at": "2026-10-08T15:47:31.048939+00:00"
   },
   {
    "key": "model",
@@ -292,16 +292,16 @@
    "count_key": "model_count",
    "count": 150,
    "top": {
-    "name": "Qwen3.8-Flash-Next-abliterated-GSQ-RCO-Strata-GGUF",
+    "name": "GEV-26B-Decide-NVFP4",
     "momentum": null
    },
    "categories": [
-    "3D",
     "Audio",
     "Embeddings",
-    "Image"
+    "Image",
+    "Other"
    ],
-   "generated_at": "2026-10-06T16:18:00.813515+00:00"
+   "generated_at": "2026-10-07T17:03:10.957611+00:00"
   },
   {
    "key": "mcp",
@@ -311,9 +311,9 @@
    "url": "https://mcp.kymatalabs.com",
    "accent": "#06b6d4",
    "count_key": "server_count",
-   "count": 1975,
+   "count": 1955,
    "top": {
-    "name": "ai.auteng/docs",
+    "name": "ai.gigaverse/gigaverse",
     "momentum": null
    },
    "categories": [
@@ -322,7 +322,7 @@
     "Data & DB",
     "Dev Tools"
    ],
-   "generated_at": "2026-10-05T18:47:02.143068+00:00"
+   "generated_at": "2026-10-07T16:51:52.319397+00:00"
   },
   {
    "key": "agentvel",
