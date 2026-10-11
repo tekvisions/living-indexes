@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-10T15:27:07.254256+00:00",
- "total_indexed": 5398,
+ "generated_at": "2026-10-11T15:47:39.897101+00:00",
+ "total_indexed": 5395,
  "indexes": [
   {
    "key": "skill",
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Agent Eval"
    ],
-   "generated_at": "2026-10-10T14:48:03.581309+00:00"
+   "generated_at": "2026-10-11T15:07:26.614584+00:00"
   },
   {
    "key": "local",
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-10-10T14:50:26.689067+00:00"
+   "generated_at": "2026-10-11T15:09:08.441174+00:00"
   },
   {
    "key": "prompt",
@@ -76,11 +76,11 @@
    },
    "categories": [
     "Optimization & Tooling",
-    "System Prompts",
     "Prompt Packs",
+    "System Prompts",
     "Guides & Courses"
    ],
-   "generated_at": "2026-10-10T14:53:41.806000+00:00"
+   "generated_at": "2026-10-11T15:10:58.703591+00:00"
   },
   {
    "key": "rag",
@@ -100,7 +100,7 @@
     "Reranking",
     "RAG Frameworks"
    ],
-   "generated_at": "2026-10-10T15:04:17.858984+00:00"
+   "generated_at": "2026-10-11T15:21:23.667841+00:00"
   },
   {
    "key": "diffusion",
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-10-10T15:11:17.938084+00:00"
+   "generated_at": "2026-10-11T15:31:32.012322+00:00"
   },
   {
    "key": "voice",
@@ -129,7 +129,7 @@
    "blurb": "Voice & speech AI — text-to-speech, speech recognition, voice cloning, realtime voice agents.",
    "url": "https://voice.kymatalabs.com",
    "accent": "#b6ff2e",
-   "count": 284,
+   "count": 285,
    "top": {
     "name": "harry0703/MoneyPrinterTurbo",
     "momentum": 87
@@ -140,7 +140,7 @@
     "Voice Agents & Realtime",
     "Toolkits & Frameworks"
    ],
-   "generated_at": "2026-10-09T16:21:55.465840+00:00"
+   "generated_at": "2026-10-10T15:28:05.432337+00:00"
   },
   {
    "key": "dataset",
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-10-09T16:36:14.861206+00:00"
+   "generated_at": "2026-10-10T15:34:32.840764+00:00"
   },
   {
    "key": "finetune",
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-10-10T15:20:09.874244+00:00"
+   "generated_at": "2026-10-11T15:36:59.235195+00:00"
   },
   {
    "key": "gateway",
@@ -189,7 +189,7 @@
    "blurb": "LLM gateways, proxies & routers — the routing layer between apps and model providers.",
    "url": "https://gateway.kymatalabs.com",
    "accent": "#2ee6c6",
-   "count": 220,
+   "count": 221,
    "top": {
     "name": "diegosouzapw/OmniRoute",
     "momentum": 87
@@ -198,9 +198,9 @@
     "Gateways & Proxies",
     "Routers",
     "Multi-Provider SDKs",
-    "Observability Gateways"
+    "Self-Hosted Platforms"
    ],
-   "generated_at": "2026-10-08T17:22:12.173782+00:00"
+   "generated_at": "2026-10-10T15:51:08.193892+00:00"
   },
   {
    "key": "agent",
@@ -212,7 +212,7 @@
    "count": 272,
    "top": {
     "name": "deepseek-ai/deepseek-harness",
-    "momentum": 94
+    "momentum": 93
    },
    "categories": [
     "Agent Frameworks",
@@ -220,7 +220,7 @@
     "Orchestration",
     "Memory & State"
    ],
-   "generated_at": "2026-10-09T17:03:05.027333+00:00"
+   "generated_at": "2026-10-10T15:54:11.194556+00:00"
   },
   {
    "key": "document",
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "Layout & Structure"
    ],
-   "generated_at": "2026-10-09T17:11:48.055758+00:00"
+   "generated_at": "2026-10-10T15:57:55.202330+00:00"
   },
   {
    "key": "observability",
@@ -260,7 +260,7 @@
     "LLMOps Platforms",
     "Tracing & Spans"
    ],
-   "generated_at": "2026-10-09T17:28:51.145241+00:00"
+   "generated_at": "2026-10-10T16:16:41.484543+00:00"
   },
   {
    "key": "stack",
@@ -280,7 +280,7 @@
     "MCP & Tools",
     "Subagents"
    ],
-   "generated_at": "2026-10-10T14:36:29.098174+00:00"
+   "generated_at": "2026-10-11T15:01:08.759940+00:00"
   },
   {
    "key": "model",
@@ -292,7 +292,7 @@
    "count_key": "model_count",
    "count": 150,
    "top": {
-    "name": "Underdog-Saluki-27B-1.0",
+    "name": "Qwen3-TTS-12Hz-1.7B-CustomVoice",
     "momentum": null
    },
    "categories": [
@@ -301,7 +301,7 @@
     "Embeddings",
     "Image"
    ],
-   "generated_at": "2026-10-09T16:38:35.986963+00:00"
+   "generated_at": "2026-10-10T15:34:59.318349+00:00"
   },
   {
    "key": "mcp",
@@ -311,9 +311,9 @@
    "url": "https://mcp.kymatalabs.com",
    "accent": "#06b6d4",
    "count_key": "server_count",
-   "count": 1939,
+   "count": 1934,
    "top": {
-    "name": "app.citeme/citeme",
+    "name": "ai.theaggregate/the-aggregate",
     "momentum": null
    },
    "categories": [
@@ -322,7 +322,7 @@
     "Data & DB",
     "Dev Tools"
    ],
-   "generated_at": "2026-10-09T16:30:56.522177+00:00"
+   "generated_at": "2026-10-10T15:35:23.192484+00:00"
   },
   {
    "key": "agentvel",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-10-09T16:38:20.010349+00:00"
+   "generated_at": "2026-10-10T15:35:39.786113+00:00"
   }
  ]
 }
