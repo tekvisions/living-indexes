@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-12T19:07:50.628259+00:00",
- "total_indexed": 5368,
+ "generated_at": "2026-10-13T16:59:57.630093+00:00",
+ "total_indexed": 5369,
  "indexes": [
   {
    "key": "skill",
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Agent Eval"
    ],
-   "generated_at": "2026-10-12T18:14:37.315996+00:00"
+   "generated_at": "2026-10-13T16:29:10.348692+00:00"
   },
   {
    "key": "local",
@@ -49,7 +49,7 @@
    "blurb": "Run LLMs on your own hardware — inference engines, runners, quantization.",
    "url": "https://localllm.kymatalabs.com",
    "accent": "#1f5bff",
-   "count": 238,
+   "count": 239,
    "top": {
     "name": "unslothai/unsloth",
     "momentum": 87
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-10-12T18:16:15.681448+00:00"
+   "generated_at": "2026-10-13T16:29:58.158987+00:00"
   },
   {
    "key": "prompt",
@@ -69,7 +69,7 @@
    "blurb": "Prompt-engineering resources — collections, system prompts, optimizers, guides.",
    "url": "https://prompt.kymatalabs.com",
    "accent": "#ff3b2f",
-   "count": 139,
+   "count": 140,
    "top": {
     "name": "f/prompts.chat",
     "momentum": 87
@@ -80,7 +80,7 @@
     "Prompt Packs",
     "Guides & Courses"
    ],
-   "generated_at": "2026-10-12T18:19:59.741508+00:00"
+   "generated_at": "2026-10-13T16:34:04.208341+00:00"
   },
   {
    "key": "rag",
@@ -91,8 +91,8 @@
    "accent": "#5b4bff",
    "count": 224,
    "top": {
-    "name": "Graphify-Labs/graphify",
-    "momentum": 86
+    "name": "Shubhamsaboo/awesome-llm-apps",
+    "momentum": 87
    },
    "categories": [
     "Retrieval & Search",
@@ -100,7 +100,7 @@
     "Reranking",
     "RAG Frameworks"
    ],
-   "generated_at": "2026-10-12T18:39:32.272572+00:00"
+   "generated_at": "2026-10-13T16:44:36.364656+00:00"
   },
   {
    "key": "diffusion",
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-10-12T18:51:22.060313+00:00"
+   "generated_at": "2026-10-13T16:51:03.973388+00:00"
   },
   {
    "key": "voice",
@@ -129,7 +129,7 @@
    "blurb": "Voice & speech AI — text-to-speech, speech recognition, voice cloning, realtime voice agents.",
    "url": "https://voice.kymatalabs.com",
    "accent": "#b6ff2e",
-   "count": 285,
+   "count": 284,
    "top": {
     "name": "harry0703/MoneyPrinterTurbo",
     "momentum": 87
@@ -140,7 +140,7 @@
     "Voice Agents & Realtime",
     "Toolkits & Frameworks"
    ],
-   "generated_at": "2026-10-11T15:49:07.939274+00:00"
+   "generated_at": "2026-10-12T19:09:34.071124+00:00"
   },
   {
    "key": "dataset",
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-10-11T15:58:21.242317+00:00"
+   "generated_at": "2026-10-12T19:20:20.703267+00:00"
   },
   {
    "key": "finetune",
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-10-12T18:58:53.687147+00:00"
+   "generated_at": "2026-10-13T16:55:13.144071+00:00"
   },
   {
    "key": "gateway",
@@ -200,7 +200,7 @@
     "Multi-Provider SDKs",
     "Self-Hosted Platforms"
    ],
-   "generated_at": "2026-10-11T16:16:48.355465+00:00"
+   "generated_at": "2026-10-12T19:46:24.239245+00:00"
   },
   {
    "key": "agent",
@@ -220,7 +220,7 @@
     "Orchestration",
     "Memory & State"
    ],
-   "generated_at": "2026-10-11T16:21:08.044234+00:00"
+   "generated_at": "2026-10-12T19:52:27.932659+00:00"
   },
   {
    "key": "document",
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "Layout & Structure"
    ],
-   "generated_at": "2026-10-11T16:25:47.609737+00:00"
+   "generated_at": "2026-10-12T20:00:24.956043+00:00"
   },
   {
    "key": "observability",
@@ -260,7 +260,7 @@
     "LLMOps Platforms",
     "Online Evaluation"
    ],
-   "generated_at": "2026-10-11T16:40:53.532565+00:00"
+   "generated_at": "2026-10-12T20:20:34.093294+00:00"
   },
   {
    "key": "stack",
@@ -280,7 +280,7 @@
     "Commands & Hooks",
     "Subagents"
    ],
-   "generated_at": "2026-10-12T18:07:28.717444+00:00"
+   "generated_at": "2026-10-13T16:15:47.123683+00:00"
   },
   {
    "key": "model",
@@ -292,16 +292,16 @@
    "count_key": "model_count",
    "count": 150,
    "top": {
-    "name": "DeepSeek-V4.1-Flash-UNCENSORED-FP8",
+    "name": "Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
     "momentum": null
    },
    "categories": [
-    "3D",
     "Audio",
     "Embeddings",
-    "Image"
+    "Image",
+    "Multimodal"
    ],
-   "generated_at": "2026-10-11T15:59:01.015108+00:00"
+   "generated_at": "2026-10-12T19:24:20.710000+00:00"
   },
   {
    "key": "mcp",
@@ -335,7 +335,7 @@
    "count": 14,
    "top": {
     "name": "OpenHands",
-    "momentum": 94
+    "momentum": 96
    },
    "categories": [
     "CLI",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-10-11T15:58:42.796690+00:00"
+   "generated_at": "2026-10-12T19:21:34.133422+00:00"
   }
  ]
 }
