@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-14T14:33:11.916464+00:00",
- "total_indexed": 5415,
+ "generated_at": "2026-10-15T14:13:04.576046+00:00",
+ "total_indexed": 5391,
  "indexes": [
   {
    "key": "skill",
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Agent Eval"
    ],
-   "generated_at": "2026-10-14T14:04:47.922489+00:00"
+   "generated_at": "2026-10-15T13:43:26.264182+00:00"
   },
   {
    "key": "local",
@@ -49,7 +49,7 @@
    "blurb": "Run LLMs on your own hardware — inference engines, runners, quantization.",
    "url": "https://localllm.kymatalabs.com",
    "accent": "#1f5bff",
-   "count": 239,
+   "count": 238,
    "top": {
     "name": "unslothai/unsloth",
     "momentum": 87
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-10-14T14:05:46.972654+00:00"
+   "generated_at": "2026-10-15T13:43:58.429928+00:00"
   },
   {
    "key": "prompt",
@@ -76,11 +76,11 @@
    },
    "categories": [
     "Optimization & Tooling",
-    "Prompt Packs",
     "System Prompts",
+    "Prompt Packs",
     "Guides & Courses"
    ],
-   "generated_at": "2026-10-14T14:09:10.622882+00:00"
+   "generated_at": "2026-10-15T13:46:47.834655+00:00"
   },
   {
    "key": "rag",
@@ -89,18 +89,18 @@
    "blurb": "Retrieval-augmented-generation — RAG frameworks, vector DBs, embeddings, reranking.",
    "url": "https://rag.kymatalabs.com",
    "accent": "#5b4bff",
-   "count": 224,
+   "count": 223,
    "top": {
     "name": "Shubhamsaboo/awesome-llm-apps",
     "momentum": 87
    },
    "categories": [
-    "Retrieval & Search",
     "Vector Databases",
+    "Retrieval & Search",
     "Reranking",
     "RAG Frameworks"
    ],
-   "generated_at": "2026-10-14T14:21:17.652703+00:00"
+   "generated_at": "2026-10-15T13:59:22.144544+00:00"
   },
   {
    "key": "diffusion",
@@ -109,7 +109,7 @@
    "blurb": "AI image & video generation — diffusion models, ComfyUI nodes, video gen, editing, training.",
    "url": "https://diffusion.kymatalabs.com",
    "accent": "#c77dff",
-   "count": 266,
+   "count": 265,
    "top": {
     "name": "Comfy-Org/ComfyUI",
     "momentum": 86
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-10-14T14:26:32.227231+00:00"
+   "generated_at": "2026-10-15T14:04:28.808936+00:00"
   },
   {
    "key": "voice",
@@ -137,10 +137,10 @@
    "categories": [
     "Speech-to-Text",
     "Voice Cloning & Conversion",
-    "Voice Agents & Realtime",
-    "Toolkits & Frameworks"
+    "Toolkits & Frameworks",
+    "Voice Agents & Realtime"
    ],
-   "generated_at": "2026-10-13T17:01:27.463455+00:00"
+   "generated_at": "2026-10-14T14:34:30.711194+00:00"
   },
   {
    "key": "dataset",
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-10-13T17:08:29.694506+00:00"
+   "generated_at": "2026-10-14T14:40:14.127139+00:00"
   },
   {
    "key": "finetune",
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-10-14T14:29:03.412265+00:00"
+   "generated_at": "2026-10-15T14:08:17.533644+00:00"
   },
   {
    "key": "gateway",
@@ -200,7 +200,7 @@
     "Self-Hosted Platforms",
     "Multi-Provider SDKs"
    ],
-   "generated_at": "2026-10-13T17:32:56.733884+00:00"
+   "generated_at": "2026-10-14T15:02:31.923917+00:00"
   },
   {
    "key": "agent",
@@ -209,7 +209,7 @@
    "blurb": "AI agent frameworks — multi-agent, autonomous agents, orchestration, memory & agent SDKs.",
    "url": "https://agents.kymatalabs.com",
    "accent": "#b07cff",
-   "count": 271,
+   "count": 272,
    "top": {
     "name": "deepseek-ai/deepseek-harness",
     "momentum": 93
@@ -220,7 +220,7 @@
     "Orchestration",
     "Memory & State"
    ],
-   "generated_at": "2026-10-13T17:39:42.101223+00:00"
+   "generated_at": "2026-10-14T15:13:12.469544+00:00"
   },
   {
    "key": "document",
@@ -229,7 +229,7 @@
    "blurb": "Document-AI tooling — OCR, PDF extraction, document parsing, layout, tables & understanding.",
    "url": "https://document.kymatalabs.com",
    "accent": "#4f46e5",
-   "count": 227,
+   "count": 229,
    "top": {
     "name": "storytold/pdfcraft",
     "momentum": 89
@@ -238,9 +238,9 @@
     "Document Parsing",
     "OCR Engines",
     "PDF Extraction",
-    "VLM & Understanding"
+    "Layout & Structure"
    ],
-   "generated_at": "2026-10-13T17:48:22.000827+00:00"
+   "generated_at": "2026-10-14T15:30:19.125436+00:00"
   },
   {
    "key": "observability",
@@ -249,7 +249,7 @@
    "blurb": "LLM & AI observability — tracing, monitoring & cost analytics, online eval, agent observability, ML-drift.",
    "url": "https://observability.kymatalabs.com",
    "accent": "#ffb02e",
-   "count": 158,
+   "count": 157,
    "top": {
     "name": "langfuse/langfuse",
     "momentum": 85
@@ -260,7 +260,7 @@
     "LLMOps Platforms",
     "Tracing & Spans"
    ],
-   "generated_at": "2026-10-13T18:23:24.160826+00:00"
+   "generated_at": "2026-10-14T15:51:39.045678+00:00"
   },
   {
    "key": "stack",
@@ -271,7 +271,7 @@
    "accent": "#00d4a0",
    "count": 283,
    "top": {
-    "name": "affaan-m/ECC",
+    "name": "morluto/rea",
     "momentum": 87
    },
    "categories": [
@@ -280,7 +280,7 @@
     "Commands & Hooks",
     "Subagents"
    ],
-   "generated_at": "2026-10-14T13:56:46.899612+00:00"
+   "generated_at": "2026-10-15T13:36:29.073664+00:00"
   },
   {
    "key": "model",
@@ -292,7 +292,7 @@
    "count_key": "model_count",
    "count": 150,
    "top": {
-    "name": "MiniCPM-V-4.7-35B-A3B",
+    "name": "Minimax-H3-ComfyUI",
     "momentum": null
    },
    "categories": [
@@ -301,7 +301,7 @@
     "Image",
     "Multimodal"
    ],
-   "generated_at": "2026-10-13T17:10:09.051606+00:00"
+   "generated_at": "2026-10-14T14:42:32.818425+00:00"
   },
   {
    "key": "mcp",
@@ -311,9 +311,9 @@
    "url": "https://mcp.kymatalabs.com",
    "accent": "#06b6d4",
    "count_key": "server_count",
-   "count": 1952,
+   "count": 1929,
    "top": {
-    "name": "ai.snowsure/snow",
+    "name": "ai.kavel/kavel-mcp",
     "momentum": null
    },
    "categories": [
@@ -322,7 +322,7 @@
     "Data & DB",
     "Dev Tools"
    ],
-   "generated_at": "2026-10-13T17:10:26.751360+00:00"
+   "generated_at": "2026-10-14T14:39:10.890764+00:00"
   },
   {
    "key": "agentvel",
@@ -334,8 +334,8 @@
    "count_key": "repo_count",
    "count": 14,
    "top": {
-    "name": "OpenHands",
-    "momentum": 99
+    "name": "codex",
+    "momentum": 91
    },
    "categories": [
     "CLI",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-10-13T17:09:36.939921+00:00"
+   "generated_at": "2026-10-14T14:41:18.684160+00:00"
   }
  ]
 }
