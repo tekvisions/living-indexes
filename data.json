@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-15T14:13:04.576046+00:00",
- "total_indexed": 5391,
+ "generated_at": "2026-10-16T14:01:04.772022+00:00",
+ "total_indexed": 5373,
  "indexes": [
   {
    "key": "skill",
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Agent Eval"
    ],
-   "generated_at": "2026-10-15T13:43:26.264182+00:00"
+   "generated_at": "2026-10-16T13:33:24.059542+00:00"
   },
   {
    "key": "local",
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-10-15T13:43:58.429928+00:00"
+   "generated_at": "2026-10-16T13:34:20.379227+00:00"
   },
   {
    "key": "prompt",
@@ -80,7 +80,7 @@
     "Prompt Packs",
     "Guides & Courses"
    ],
-   "generated_at": "2026-10-15T13:46:47.834655+00:00"
+   "generated_at": "2026-10-16T13:36:21.732999+00:00"
   },
   {
    "key": "rag",
@@ -89,18 +89,18 @@
    "blurb": "Retrieval-augmented-generation — RAG frameworks, vector DBs, embeddings, reranking.",
    "url": "https://rag.kymatalabs.com",
    "accent": "#5b4bff",
-   "count": 223,
+   "count": 221,
    "top": {
     "name": "Shubhamsaboo/awesome-llm-apps",
     "momentum": 87
    },
    "categories": [
-    "Vector Databases",
     "Retrieval & Search",
+    "Vector Databases",
     "Reranking",
     "RAG Frameworks"
    ],
-   "generated_at": "2026-10-15T13:59:22.144544+00:00"
+   "generated_at": "2026-10-16T13:45:52.924537+00:00"
   },
   {
    "key": "diffusion",
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-10-15T14:04:28.808936+00:00"
+   "generated_at": "2026-10-16T13:52:41.401274+00:00"
   },
   {
    "key": "voice",
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-10-14T14:40:14.127139+00:00"
+   "generated_at": "2026-10-15T14:25:23.625862+00:00"
   },
   {
    "key": "finetune",
@@ -169,7 +169,7 @@
    "blurb": "Make your own model — fine-tuning frameworks, PEFT/LoRA, RLHF/DPO, training data.",
    "url": "https://finetune.kymatalabs.com",
    "accent": "#ff6a00",
-   "count": 185,
+   "count": 184,
    "top": {
     "name": "unslothai/unsloth",
     "momentum": 87
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-10-15T14:08:17.533644+00:00"
+   "generated_at": "2026-10-16T13:55:42.158285+00:00"
   },
   {
    "key": "gateway",
@@ -209,7 +209,7 @@
    "blurb": "AI agent frameworks — multi-agent, autonomous agents, orchestration, memory & agent SDKs.",
    "url": "https://agents.kymatalabs.com",
    "accent": "#b07cff",
-   "count": 272,
+   "count": 275,
    "top": {
     "name": "deepseek-ai/deepseek-harness",
     "momentum": 93
@@ -220,7 +220,7 @@
     "Orchestration",
     "Memory & State"
    ],
-   "generated_at": "2026-10-14T15:13:12.469544+00:00"
+   "generated_at": "2026-10-15T15:07:04.028278+00:00"
   },
   {
    "key": "document",
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "Layout & Structure"
    ],
-   "generated_at": "2026-10-14T15:30:19.125436+00:00"
+   "generated_at": "2026-10-15T15:20:20.906721+00:00"
   },
   {
    "key": "observability",
@@ -260,7 +260,7 @@
     "LLMOps Platforms",
     "Tracing & Spans"
    ],
-   "generated_at": "2026-10-14T15:51:39.045678+00:00"
+   "generated_at": "2026-10-15T15:38:54.148265+00:00"
   },
   {
    "key": "stack",
@@ -280,7 +280,7 @@
     "Commands & Hooks",
     "Subagents"
    ],
-   "generated_at": "2026-10-15T13:36:29.073664+00:00"
+   "generated_at": "2026-10-16T13:26:59.854575+00:00"
   },
   {
    "key": "model",
@@ -292,16 +292,16 @@
    "count_key": "model_count",
    "count": 150,
    "top": {
-    "name": "Minimax-H3-ComfyUI",
+    "name": "Qwen-Image-2.1-Lightning",
     "momentum": null
    },
    "categories": [
+    "3D",
     "Audio",
     "Embeddings",
-    "Image",
-    "Multimodal"
+    "Image"
    ],
-   "generated_at": "2026-10-14T14:42:32.818425+00:00"
+   "generated_at": "2026-10-15T14:28:00.488577+00:00"
   },
   {
    "key": "mcp",
@@ -311,9 +311,9 @@
    "url": "https://mcp.kymatalabs.com",
    "accent": "#06b6d4",
    "count_key": "server_count",
-   "count": 1929,
+   "count": 1911,
    "top": {
-    "name": "ai.kavel/kavel-mcp",
+    "name": "ai.haymon/dbmcp",
     "momentum": null
    },
    "categories": [
@@ -322,7 +322,7 @@
     "Data & DB",
     "Dev Tools"
    ],
-   "generated_at": "2026-10-14T14:39:10.890764+00:00"
+   "generated_at": "2026-10-15T14:24:13.897753+00:00"
   },
   {
    "key": "agentvel",
@@ -335,7 +335,7 @@
    "count": 14,
    "top": {
     "name": "codex",
-    "momentum": 91
+    "momentum": 90
    },
    "categories": [
     "CLI",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-10-14T14:41:18.684160+00:00"
+   "generated_at": "2026-10-15T14:26:35.488085+00:00"
   }
  ]
 }
