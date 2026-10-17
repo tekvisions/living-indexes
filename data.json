@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-16T14:01:04.772022+00:00",
- "total_indexed": 5373,
+ "generated_at": "2026-10-17T13:01:26.176411+00:00",
+ "total_indexed": 5376,
  "indexes": [
   {
    "key": "skill",
@@ -55,12 +55,12 @@
     "momentum": 87
    },
    "categories": [
-    "On-Device & Mobile",
     "Quantization & Formats",
+    "On-Device & Mobile",
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-10-16T13:34:20.379227+00:00"
+   "generated_at": "2026-10-17T12:30:28.256575+00:00"
   },
   {
    "key": "prompt",
@@ -80,7 +80,7 @@
     "Prompt Packs",
     "Guides & Courses"
    ],
-   "generated_at": "2026-10-16T13:36:21.732999+00:00"
+   "generated_at": "2026-10-17T12:33:09.701597+00:00"
   },
   {
    "key": "rag",
@@ -100,7 +100,7 @@
     "Reranking",
     "RAG Frameworks"
    ],
-   "generated_at": "2026-10-16T13:45:52.924537+00:00"
+   "generated_at": "2026-10-17T12:43:11.523206+00:00"
   },
   {
    "key": "diffusion",
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-10-16T13:52:41.401274+00:00"
+   "generated_at": "2026-10-17T12:52:10.592410+00:00"
   },
   {
    "key": "voice",
@@ -129,7 +129,7 @@
    "blurb": "Voice & speech AI — text-to-speech, speech recognition, voice cloning, realtime voice agents.",
    "url": "https://voice.kymatalabs.com",
    "accent": "#b6ff2e",
-   "count": 284,
+   "count": 285,
    "top": {
     "name": "harry0703/MoneyPrinterTurbo",
     "momentum": 87
@@ -137,10 +137,10 @@
    "categories": [
     "Speech-to-Text",
     "Voice Cloning & Conversion",
-    "Toolkits & Frameworks",
-    "Voice Agents & Realtime"
+    "Voice Agents & Realtime",
+    "Toolkits & Frameworks"
    ],
-   "generated_at": "2026-10-14T14:34:30.711194+00:00"
+   "generated_at": "2026-10-16T14:03:05.293714+00:00"
   },
   {
    "key": "dataset",
@@ -149,7 +149,7 @@
    "blurb": "Data-centric AI tooling — labeling & annotation, synthetic data, curation, augmentation, dataset frameworks.",
    "url": "https://dataset.kymatalabs.com",
    "accent": "#d23a1e",
-   "count": 254,
+   "count": 253,
    "top": {
     "name": "HumanSignal/label-studio",
     "momentum": 87
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-10-15T14:25:23.625862+00:00"
+   "generated_at": "2026-10-16T14:16:41.808297+00:00"
   },
   {
    "key": "finetune",
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-10-16T13:55:42.158285+00:00"
+   "generated_at": "2026-10-17T12:56:37.349600+00:00"
   },
   {
    "key": "gateway",
@@ -189,7 +189,7 @@
    "blurb": "LLM gateways, proxies & routers — the routing layer between apps and model providers.",
    "url": "https://gateway.kymatalabs.com",
    "accent": "#2ee6c6",
-   "count": 220,
+   "count": 221,
    "top": {
     "name": "diegosouzapw/OmniRoute",
     "momentum": 87
@@ -197,10 +197,10 @@
    "categories": [
     "Gateways & Proxies",
     "Routers",
-    "Self-Hosted Platforms",
-    "Multi-Provider SDKs"
+    "Multi-Provider SDKs",
+    "Self-Hosted Platforms"
    ],
-   "generated_at": "2026-10-14T15:02:31.923917+00:00"
+   "generated_at": "2026-10-16T14:46:28.611502+00:00"
   },
   {
    "key": "agent",
@@ -209,10 +209,10 @@
    "blurb": "AI agent frameworks — multi-agent, autonomous agents, orchestration, memory & agent SDKs.",
    "url": "https://agents.kymatalabs.com",
    "accent": "#b07cff",
-   "count": 275,
+   "count": 274,
    "top": {
     "name": "deepseek-ai/deepseek-harness",
-    "momentum": 93
+    "momentum": 92
    },
    "categories": [
     "Agent Frameworks",
@@ -220,7 +220,7 @@
     "Orchestration",
     "Memory & State"
    ],
-   "generated_at": "2026-10-15T15:07:04.028278+00:00"
+   "generated_at": "2026-10-16T14:55:05.204138+00:00"
   },
   {
    "key": "document",
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "Layout & Structure"
    ],
-   "generated_at": "2026-10-15T15:20:20.906721+00:00"
+   "generated_at": "2026-10-16T15:01:05.200949+00:00"
   },
   {
    "key": "observability",
@@ -249,7 +249,7 @@
    "blurb": "LLM & AI observability — tracing, monitoring & cost analytics, online eval, agent observability, ML-drift.",
    "url": "https://observability.kymatalabs.com",
    "accent": "#ffb02e",
-   "count": 157,
+   "count": 156,
    "top": {
     "name": "langfuse/langfuse",
     "momentum": 85
@@ -260,7 +260,7 @@
     "LLMOps Platforms",
     "Tracing & Spans"
    ],
-   "generated_at": "2026-10-15T15:38:54.148265+00:00"
+   "generated_at": "2026-10-16T15:24:40.039828+00:00"
   },
   {
    "key": "stack",
@@ -269,7 +269,7 @@
    "blurb": "The live momentum index for AI-infrastructure repos.",
    "url": "https://stacktracker.kymatalabs.com",
    "accent": "#00d4a0",
-   "count": 283,
+   "count": 284,
    "top": {
     "name": "morluto/rea",
     "momentum": 87
@@ -280,7 +280,7 @@
     "Commands & Hooks",
     "Subagents"
    ],
-   "generated_at": "2026-10-16T13:26:59.854575+00:00"
+   "generated_at": "2026-10-17T12:19:22.443122+00:00"
   },
   {
    "key": "model",
@@ -292,16 +292,16 @@
    "count_key": "model_count",
    "count": 150,
    "top": {
-    "name": "Qwen-Image-2.1-Lightning",
+    "name": "Step-5-Preview",
     "momentum": null
    },
    "categories": [
-    "3D",
     "Audio",
     "Embeddings",
-    "Image"
+    "Image",
+    "Multimodal"
    ],
-   "generated_at": "2026-10-15T14:28:00.488577+00:00"
+   "generated_at": "2026-10-16T14:21:08.183741+00:00"
   },
   {
    "key": "mcp",
@@ -311,9 +311,9 @@
    "url": "https://mcp.kymatalabs.com",
    "accent": "#06b6d4",
    "count_key": "server_count",
-   "count": 1911,
+   "count": 1914,
    "top": {
-    "name": "ai.haymon/dbmcp",
+    "name": "ai.memestack/mcp",
     "momentum": null
    },
    "categories": [
@@ -322,7 +322,7 @@
     "Data & DB",
     "Dev Tools"
    ],
-   "generated_at": "2026-10-15T14:24:13.897753+00:00"
+   "generated_at": "2026-10-16T14:11:56.705812+00:00"
   },
   {
    "key": "agentvel",
@@ -334,8 +334,8 @@
    "count_key": "repo_count",
    "count": 14,
    "top": {
-    "name": "codex",
-    "momentum": 90
+    "name": "OpenHands",
+    "momentum": 92
    },
    "categories": [
     "CLI",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-10-15T14:26:35.488085+00:00"
+   "generated_at": "2026-10-16T14:18:23.048861+00:00"
   }
  ]
 }
