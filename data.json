@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-19T16:31:44.349538+00:00",
- "total_indexed": 5370,
+ "generated_at": "2026-10-20T14:21:59.485124+00:00",
+ "total_indexed": 5374,
  "indexes": [
   {
    "key": "skill",
@@ -29,7 +29,7 @@
    "blurb": "LLM & agent evaluation, benchmark, observability and red-teaming tools.",
    "url": "https://eval.kymatalabs.com",
    "accent": "#7fae2c",
-   "count": 277,
+   "count": 279,
    "top": {
     "name": "langfuse/langfuse",
     "momentum": 87
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Agent Eval"
    ],
-   "generated_at": "2026-10-19T15:53:51.603014+00:00"
+   "generated_at": "2026-10-20T13:52:36.719736+00:00"
   },
   {
    "key": "local",
@@ -49,7 +49,7 @@
    "blurb": "Run LLMs on your own hardware — inference engines, runners, quantization.",
    "url": "https://localllm.kymatalabs.com",
    "accent": "#1f5bff",
-   "count": 237,
+   "count": 238,
    "top": {
     "name": "unslothai/unsloth",
     "momentum": 87
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-10-19T15:54:45.341000+00:00"
+   "generated_at": "2026-10-20T13:53:53.242312+00:00"
   },
   {
    "key": "prompt",
@@ -69,7 +69,7 @@
    "blurb": "Prompt-engineering resources — collections, system prompts, optimizers, guides.",
    "url": "https://prompt.kymatalabs.com",
    "accent": "#ff3b2f",
-   "count": 142,
+   "count": 141,
    "top": {
     "name": "f/prompts.chat",
     "momentum": 87
@@ -80,7 +80,7 @@
     "Prompt Packs",
     "Guides & Courses"
    ],
-   "generated_at": "2026-10-19T15:59:33.188536+00:00"
+   "generated_at": "2026-10-20T13:57:00.304318+00:00"
   },
   {
    "key": "rag",
@@ -89,7 +89,7 @@
    "blurb": "Retrieval-augmented-generation — RAG frameworks, vector DBs, embeddings, reranking.",
    "url": "https://rag.kymatalabs.com",
    "accent": "#5b4bff",
-   "count": 222,
+   "count": 223,
    "top": {
     "name": "Shubhamsaboo/awesome-llm-apps",
     "momentum": 87
@@ -100,7 +100,7 @@
     "Reranking",
     "RAG Frameworks"
    ],
-   "generated_at": "2026-10-19T16:14:03.943455+00:00"
+   "generated_at": "2026-10-20T14:08:04.940931+00:00"
   },
   {
    "key": "diffusion",
@@ -109,7 +109,7 @@
    "blurb": "AI image & video generation — diffusion models, ComfyUI nodes, video gen, editing, training.",
    "url": "https://diffusion.kymatalabs.com",
    "accent": "#c77dff",
-   "count": 265,
+   "count": 266,
    "top": {
     "name": "Comfy-Org/ComfyUI",
     "momentum": 86
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-10-19T16:22:40.392038+00:00"
+   "generated_at": "2026-10-20T14:13:57.373670+00:00"
   },
   {
    "key": "voice",
@@ -140,7 +140,7 @@
     "Voice Agents & Realtime",
     "Toolkits & Frameworks"
    ],
-   "generated_at": "2026-10-18T13:22:34.848888+00:00"
+   "generated_at": "2026-10-19T16:32:43.593555+00:00"
   },
   {
    "key": "dataset",
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-10-18T13:34:57.804647+00:00"
+   "generated_at": "2026-10-19T16:38:43.465085+00:00"
   },
   {
    "key": "finetune",
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-10-19T16:25:47.589098+00:00"
+   "generated_at": "2026-10-20T14:16:38.557317+00:00"
   },
   {
    "key": "gateway",
@@ -197,10 +197,10 @@
    "categories": [
     "Gateways & Proxies",
     "Routers",
-    "Multi-Provider SDKs",
-    "Self-Hosted Platforms"
+    "Self-Hosted Platforms",
+    "Multi-Provider SDKs"
    ],
-   "generated_at": "2026-10-18T13:57:25.279687+00:00"
+   "generated_at": "2026-10-19T16:56:55.851212+00:00"
   },
   {
    "key": "agent",
@@ -212,7 +212,7 @@
    "count": 274,
    "top": {
     "name": "deepseek-ai/deepseek-harness",
-    "momentum": 92
+    "momentum": 91
    },
    "categories": [
     "Agent Frameworks",
@@ -220,7 +220,7 @@
     "Orchestration",
     "Memory & State"
    ],
-   "generated_at": "2026-10-18T14:03:23.212349+00:00"
+   "generated_at": "2026-10-19T17:00:45.698572+00:00"
   },
   {
    "key": "document",
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "Layout & Structure"
    ],
-   "generated_at": "2026-10-18T14:09:58.121914+00:00"
+   "generated_at": "2026-10-19T17:10:27.620219+00:00"
   },
   {
    "key": "observability",
@@ -260,7 +260,7 @@
     "LLMOps Platforms",
     "Tracing & Spans"
    ],
-   "generated_at": "2026-10-18T14:40:45.725605+00:00"
+   "generated_at": "2026-10-19T17:34:39.946023+00:00"
   },
   {
    "key": "stack",
@@ -276,11 +276,11 @@
    },
    "categories": [
     "Collections",
-    "MCP & Tools",
     "Commands & Hooks",
+    "MCP & Tools",
     "Subagents"
    ],
-   "generated_at": "2026-10-19T15:48:09.285802+00:00"
+   "generated_at": "2026-10-20T13:46:09.238694+00:00"
   },
   {
    "key": "model",
@@ -335,7 +335,7 @@
    "count": 14,
    "top": {
     "name": "OpenHands",
-    "momentum": 91
+    "momentum": 95
    },
    "categories": [
     "CLI",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-10-18T13:35:56.856222+00:00"
+   "generated_at": "2026-10-19T16:39:12.218079+00:00"
   }
  ]
 }
