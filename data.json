@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-20T14:21:59.485124+00:00",
- "total_indexed": 5374,
+ "generated_at": "2026-10-21T14:31:41.641516+00:00",
+ "total_indexed": 5376,
  "indexes": [
   {
    "key": "skill",
@@ -29,7 +29,7 @@
    "blurb": "LLM & agent evaluation, benchmark, observability and red-teaming tools.",
    "url": "https://eval.kymatalabs.com",
    "accent": "#7fae2c",
-   "count": 279,
+   "count": 278,
    "top": {
     "name": "langfuse/langfuse",
     "momentum": 87
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Agent Eval"
    ],
-   "generated_at": "2026-10-20T13:52:36.719736+00:00"
+   "generated_at": "2026-10-21T14:09:36.519281+00:00"
   },
   {
    "key": "local",
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-10-20T13:53:53.242312+00:00"
+   "generated_at": "2026-10-21T14:10:33.723109+00:00"
   },
   {
    "key": "prompt",
@@ -80,7 +80,7 @@
     "Prompt Packs",
     "Guides & Courses"
    ],
-   "generated_at": "2026-10-20T13:57:00.304318+00:00"
+   "generated_at": "2026-10-21T14:13:07.270391+00:00"
   },
   {
    "key": "rag",
@@ -92,7 +92,7 @@
    "count": 223,
    "top": {
     "name": "Shubhamsaboo/awesome-llm-apps",
-    "momentum": 87
+    "momentum": 86
    },
    "categories": [
     "Retrieval & Search",
@@ -100,7 +100,7 @@
     "Reranking",
     "RAG Frameworks"
    ],
-   "generated_at": "2026-10-20T14:08:04.940931+00:00"
+   "generated_at": "2026-10-21T14:21:50.211316+00:00"
   },
   {
    "key": "diffusion",
@@ -109,7 +109,7 @@
    "blurb": "AI image & video generation — diffusion models, ComfyUI nodes, video gen, editing, training.",
    "url": "https://diffusion.kymatalabs.com",
    "accent": "#c77dff",
-   "count": 266,
+   "count": 267,
    "top": {
     "name": "Comfy-Org/ComfyUI",
     "momentum": 86
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-10-20T14:13:57.373670+00:00"
+   "generated_at": "2026-10-21T14:25:50.175390+00:00"
   },
   {
    "key": "voice",
@@ -129,7 +129,7 @@
    "blurb": "Voice & speech AI — text-to-speech, speech recognition, voice cloning, realtime voice agents.",
    "url": "https://voice.kymatalabs.com",
    "accent": "#b6ff2e",
-   "count": 284,
+   "count": 286,
    "top": {
     "name": "harry0703/MoneyPrinterTurbo",
     "momentum": 87
@@ -140,7 +140,7 @@
     "Voice Agents & Realtime",
     "Toolkits & Frameworks"
    ],
-   "generated_at": "2026-10-19T16:32:43.593555+00:00"
+   "generated_at": "2026-10-20T14:22:58.129190+00:00"
   },
   {
    "key": "dataset",
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-10-19T16:38:43.465085+00:00"
+   "generated_at": "2026-10-20T14:29:44.692391+00:00"
   },
   {
    "key": "finetune",
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-10-20T14:16:38.557317+00:00"
+   "generated_at": "2026-10-21T14:27:46.143528+00:00"
   },
   {
    "key": "gateway",
@@ -189,7 +189,7 @@
    "blurb": "LLM gateways, proxies & routers — the routing layer between apps and model providers.",
    "url": "https://gateway.kymatalabs.com",
    "accent": "#2ee6c6",
-   "count": 222,
+   "count": 221,
    "top": {
     "name": "diegosouzapw/OmniRoute",
     "momentum": 87
@@ -198,9 +198,9 @@
     "Gateways & Proxies",
     "Routers",
     "Self-Hosted Platforms",
-    "Multi-Provider SDKs"
+    "Observability Gateways"
    ],
-   "generated_at": "2026-10-19T16:56:55.851212+00:00"
+   "generated_at": "2026-10-20T14:59:16.510438+00:00"
   },
   {
    "key": "agent",
@@ -220,7 +220,7 @@
     "Orchestration",
     "Memory & State"
    ],
-   "generated_at": "2026-10-19T17:00:45.698572+00:00"
+   "generated_at": "2026-10-20T15:10:35.022210+00:00"
   },
   {
    "key": "document",
@@ -229,7 +229,7 @@
    "blurb": "Document-AI tooling — OCR, PDF extraction, document parsing, layout, tables & understanding.",
    "url": "https://document.kymatalabs.com",
    "accent": "#4f46e5",
-   "count": 229,
+   "count": 230,
    "top": {
     "name": "storytold/pdfcraft",
     "momentum": 90
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "Layout & Structure"
    ],
-   "generated_at": "2026-10-19T17:10:27.620219+00:00"
+   "generated_at": "2026-10-20T15:22:56.726654+00:00"
   },
   {
    "key": "observability",
@@ -260,7 +260,7 @@
     "LLMOps Platforms",
     "Tracing & Spans"
    ],
-   "generated_at": "2026-10-19T17:34:39.946023+00:00"
+   "generated_at": "2026-10-20T15:41:31.198790+00:00"
   },
   {
    "key": "stack",
@@ -280,7 +280,7 @@
     "MCP & Tools",
     "Subagents"
    ],
-   "generated_at": "2026-10-20T13:46:09.238694+00:00"
+   "generated_at": "2026-10-21T14:01:50.266587+00:00"
   },
   {
    "key": "model",
@@ -335,7 +335,7 @@
    "count": 14,
    "top": {
     "name": "OpenHands",
-    "momentum": 95
+    "momentum": 98
    },
    "categories": [
     "CLI",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-10-19T16:39:12.218079+00:00"
+   "generated_at": "2026-10-20T14:31:07.369219+00:00"
   }
  ]
 }
