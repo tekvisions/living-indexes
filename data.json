@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-21T14:31:41.641516+00:00",
- "total_indexed": 5376,
+ "generated_at": "2026-10-22T14:33:26.956347+00:00",
+ "total_indexed": 5430,
  "indexes": [
   {
    "key": "skill",
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Agent Eval"
    ],
-   "generated_at": "2026-10-21T14:09:36.519281+00:00"
+   "generated_at": "2026-10-22T14:07:43.637623+00:00"
   },
   {
    "key": "local",
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-10-21T14:10:33.723109+00:00"
+   "generated_at": "2026-10-22T14:08:52.901931+00:00"
   },
   {
    "key": "prompt",
@@ -80,7 +80,7 @@
     "Prompt Packs",
     "Guides & Courses"
    ],
-   "generated_at": "2026-10-21T14:13:07.270391+00:00"
+   "generated_at": "2026-10-22T14:12:04.647397+00:00"
   },
   {
    "key": "rag",
@@ -89,10 +89,10 @@
    "blurb": "Retrieval-augmented-generation — RAG frameworks, vector DBs, embeddings, reranking.",
    "url": "https://rag.kymatalabs.com",
    "accent": "#5b4bff",
-   "count": 223,
+   "count": 222,
    "top": {
     "name": "Shubhamsaboo/awesome-llm-apps",
-    "momentum": 86
+    "momentum": 87
    },
    "categories": [
     "Retrieval & Search",
@@ -100,7 +100,7 @@
     "Reranking",
     "RAG Frameworks"
    ],
-   "generated_at": "2026-10-21T14:21:50.211316+00:00"
+   "generated_at": "2026-10-22T14:22:41.909105+00:00"
   },
   {
    "key": "diffusion",
@@ -109,7 +109,7 @@
    "blurb": "AI image & video generation — diffusion models, ComfyUI nodes, video gen, editing, training.",
    "url": "https://diffusion.kymatalabs.com",
    "accent": "#c77dff",
-   "count": 267,
+   "count": 266,
    "top": {
     "name": "Comfy-Org/ComfyUI",
     "momentum": 86
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-10-21T14:25:50.175390+00:00"
+   "generated_at": "2026-10-22T14:27:16.482684+00:00"
   },
   {
    "key": "voice",
@@ -129,7 +129,7 @@
    "blurb": "Voice & speech AI — text-to-speech, speech recognition, voice cloning, realtime voice agents.",
    "url": "https://voice.kymatalabs.com",
    "accent": "#b6ff2e",
-   "count": 286,
+   "count": 287,
    "top": {
     "name": "harry0703/MoneyPrinterTurbo",
     "momentum": 87
@@ -140,7 +140,7 @@
     "Voice Agents & Realtime",
     "Toolkits & Frameworks"
    ],
-   "generated_at": "2026-10-20T14:22:58.129190+00:00"
+   "generated_at": "2026-10-21T14:32:50.359630+00:00"
   },
   {
    "key": "dataset",
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-10-20T14:29:44.692391+00:00"
+   "generated_at": "2026-10-21T14:40:50.279290+00:00"
   },
   {
    "key": "finetune",
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-10-21T14:27:46.143528+00:00"
+   "generated_at": "2026-10-22T14:29:27.558878+00:00"
   },
   {
    "key": "gateway",
@@ -198,9 +198,9 @@
     "Gateways & Proxies",
     "Routers",
     "Self-Hosted Platforms",
-    "Observability Gateways"
+    "Multi-Provider SDKs"
    ],
-   "generated_at": "2026-10-20T14:59:16.510438+00:00"
+   "generated_at": "2026-10-21T15:08:09.080860+00:00"
   },
   {
    "key": "agent",
@@ -209,18 +209,18 @@
    "blurb": "AI agent frameworks — multi-agent, autonomous agents, orchestration, memory & agent SDKs.",
    "url": "https://agents.kymatalabs.com",
    "accent": "#b07cff",
-   "count": 274,
+   "count": 275,
    "top": {
     "name": "deepseek-ai/deepseek-harness",
-    "momentum": 91
+    "momentum": 90
    },
    "categories": [
     "Agent Frameworks",
     "Multi-Agent",
     "Orchestration",
-    "Memory & State"
+    "Autonomous Agents"
    ],
-   "generated_at": "2026-10-20T15:10:35.022210+00:00"
+   "generated_at": "2026-10-21T15:20:56.932936+00:00"
   },
   {
    "key": "document",
@@ -238,9 +238,9 @@
     "Document Parsing",
     "OCR Engines",
     "PDF Extraction",
-    "Layout & Structure"
+    "VLM & Understanding"
    ],
-   "generated_at": "2026-10-20T15:22:56.726654+00:00"
+   "generated_at": "2026-10-21T15:38:42.919895+00:00"
   },
   {
    "key": "observability",
@@ -260,7 +260,7 @@
     "LLMOps Platforms",
     "Tracing & Spans"
    ],
-   "generated_at": "2026-10-20T15:41:31.198790+00:00"
+   "generated_at": "2026-10-21T15:59:52.254656+00:00"
   },
   {
    "key": "stack",
@@ -280,7 +280,7 @@
     "MCP & Tools",
     "Subagents"
    ],
-   "generated_at": "2026-10-21T14:01:50.266587+00:00"
+   "generated_at": "2026-10-22T14:00:12.863307+00:00"
   },
   {
    "key": "model",
@@ -311,9 +311,9 @@
    "url": "https://mcp.kymatalabs.com",
    "accent": "#06b6d4",
    "count_key": "server_count",
-   "count": 1903,
+   "count": 1957,
    "top": {
-    "name": "ai.mapmap/mapmap",
+    "name": "ai.saifs/synthetic-data-random-user",
     "momentum": null
    },
    "categories": [
@@ -322,7 +322,7 @@
     "Data & DB",
     "Dev Tools"
    ],
-   "generated_at": "2026-10-18T13:30:59.512657+00:00"
+   "generated_at": "2026-10-21T14:40:49.895700+00:00"
   },
   {
    "key": "agentvel",
@@ -335,7 +335,7 @@
    "count": 14,
    "top": {
     "name": "OpenHands",
-    "momentum": 98
+    "momentum": 100
    },
    "categories": [
     "CLI",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-10-20T14:31:07.369219+00:00"
+   "generated_at": "2026-10-21T14:42:17.369508+00:00"
   }
  ]
 }
