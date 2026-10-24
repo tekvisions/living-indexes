@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-23T14:17:11.699174+00:00",
- "total_indexed": 5312,
+ "generated_at": "2026-10-24T13:23:22.859337+00:00",
+ "total_indexed": 4663,
  "indexes": [
   {
    "key": "skill",
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Agent Eval"
    ],
-   "generated_at": "2026-10-23T13:51:03.909454+00:00"
+   "generated_at": "2026-10-24T12:56:35.953149+00:00"
   },
   {
    "key": "local",
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-10-23T13:51:51.478312+00:00"
+   "generated_at": "2026-10-24T12:57:26.388060+00:00"
   },
   {
    "key": "prompt",
@@ -69,7 +69,7 @@
    "blurb": "Prompt-engineering resources — collections, system prompts, optimizers, guides.",
    "url": "https://prompt.kymatalabs.com",
    "accent": "#ff3b2f",
-   "count": 141,
+   "count": 140,
    "top": {
     "name": "f/prompts.chat",
     "momentum": 87
@@ -80,7 +80,7 @@
     "Prompt Packs",
     "Guides & Courses"
    ],
-   "generated_at": "2026-10-23T13:55:12.690522+00:00"
+   "generated_at": "2026-10-24T12:59:26.435499+00:00"
   },
   {
    "key": "rag",
@@ -95,12 +95,12 @@
     "momentum": 87
    },
    "categories": [
-    "Retrieval & Search",
     "Vector Databases",
+    "Retrieval & Search",
     "Reranking",
     "RAG Frameworks"
    ],
-   "generated_at": "2026-10-23T14:05:14.828926+00:00"
+   "generated_at": "2026-10-24T13:07:57.355737+00:00"
   },
   {
    "key": "diffusion",
@@ -109,7 +109,7 @@
    "blurb": "AI image & video generation — diffusion models, ComfyUI nodes, video gen, editing, training.",
    "url": "https://diffusion.kymatalabs.com",
    "accent": "#c77dff",
-   "count": 266,
+   "count": 267,
    "top": {
     "name": "Comfy-Org/ComfyUI",
     "momentum": 86
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-10-23T14:10:03.497378+00:00"
+   "generated_at": "2026-10-24T13:13:12.695408+00:00"
   },
   {
    "key": "voice",
@@ -140,7 +140,7 @@
     "Voice Agents & Realtime",
     "Toolkits & Frameworks"
    ],
-   "generated_at": "2026-10-22T14:34:17.692804+00:00"
+   "generated_at": "2026-10-23T14:18:35.192096+00:00"
   },
   {
    "key": "dataset",
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-10-22T14:40:49.245090+00:00"
+   "generated_at": "2026-10-23T14:27:45.587368+00:00"
   },
   {
    "key": "finetune",
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-10-23T14:12:44.898768+00:00"
+   "generated_at": "2026-10-24T13:17:38.934787+00:00"
   },
   {
    "key": "gateway",
@@ -189,7 +189,7 @@
    "blurb": "LLM gateways, proxies & routers — the routing layer between apps and model providers.",
    "url": "https://gateway.kymatalabs.com",
    "accent": "#2ee6c6",
-   "count": 198,
+   "count": 220,
    "top": {
     "name": "cheaper-inference/OmniRoute",
     "momentum": 87
@@ -197,10 +197,10 @@
    "categories": [
     "Gateways & Proxies",
     "Routers",
-    "Observability Gateways",
-    "Self-Hosted Platforms"
+    "Self-Hosted Platforms",
+    "Multi-Provider SDKs"
    ],
-   "generated_at": "2026-10-22T15:08:59.464593+00:00"
+   "generated_at": "2026-10-23T14:57:59.824635+00:00"
   },
   {
    "key": "agent",
@@ -209,7 +209,7 @@
    "blurb": "AI agent frameworks — multi-agent, autonomous agents, orchestration, memory & agent SDKs.",
    "url": "https://agents.kymatalabs.com",
    "accent": "#b07cff",
-   "count": 257,
+   "count": 276,
    "top": {
     "name": "deepseek-ai/deepseek-harness",
     "momentum": 90
@@ -220,7 +220,7 @@
     "Orchestration",
     "Memory & State"
    ],
-   "generated_at": "2026-10-22T15:21:45.508876+00:00"
+   "generated_at": "2026-10-23T15:11:18.086868+00:00"
   },
   {
    "key": "document",
@@ -229,18 +229,18 @@
    "blurb": "Document-AI tooling — OCR, PDF extraction, document parsing, layout, tables & understanding.",
    "url": "https://document.kymatalabs.com",
    "accent": "#4f46e5",
-   "count": 192,
+   "count": 231,
    "top": {
-    "name": "opendatalab/MinerU",
-    "momentum": 86
+    "name": "storytold/pdfcraft",
+    "momentum": 89
    },
    "categories": [
     "Document Parsing",
     "OCR Engines",
     "PDF Extraction",
-    "Layout & Structure"
+    "VLM & Understanding"
    ],
-   "generated_at": "2026-10-22T15:40:31.352648+00:00"
+   "generated_at": "2026-10-23T15:29:10.418743+00:00"
   },
   {
    "key": "observability",
@@ -249,7 +249,7 @@
    "blurb": "LLM & AI observability — tracing, monitoring & cost analytics, online eval, agent observability, ML-drift.",
    "url": "https://observability.kymatalabs.com",
    "accent": "#ffb02e",
-   "count": 127,
+   "count": 157,
    "top": {
     "name": "langfuse/langfuse",
     "momentum": 85
@@ -257,10 +257,10 @@
    "categories": [
     "Agent Observability",
     "Monitoring & Analytics",
-    "Tracing & Spans",
-    "LLMOps Platforms"
+    "LLMOps Platforms",
+    "Tracing & Spans"
    ],
-   "generated_at": "2026-10-22T15:55:35.261082+00:00"
+   "generated_at": "2026-10-23T15:47:15.594957+00:00"
   },
   {
    "key": "stack",
@@ -269,7 +269,7 @@
    "blurb": "The live momentum index for AI-infrastructure repos.",
    "url": "https://stacktracker.kymatalabs.com",
    "accent": "#00d4a0",
-   "count": 284,
+   "count": 283,
    "top": {
     "name": "morluto/rea",
     "momentum": 87
@@ -280,7 +280,7 @@
     "MCP & Tools",
     "Subagents"
    ],
-   "generated_at": "2026-10-23T13:42:50.107401+00:00"
+   "generated_at": "2026-10-24T12:51:28.065235+00:00"
   },
   {
    "key": "model",
@@ -311,9 +311,9 @@
    "url": "https://mcp.kymatalabs.com",
    "accent": "#06b6d4",
    "count_key": "server_count",
-   "count": 1947,
+   "count": 1189,
    "top": {
-    "name": "ai.gency/gency-mcp",
+    "name": "ai.human4ai/collaboration",
     "momentum": null
    },
    "categories": [
@@ -322,7 +322,7 @@
     "Data & DB",
     "Dev Tools"
    ],
-   "generated_at": "2026-10-22T14:37:18.049546+00:00"
+   "generated_at": "2026-10-23T14:32:10.761392+00:00"
   },
   {
    "key": "agentvel",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-10-22T14:42:16.935289+00:00"
+   "generated_at": "2026-10-23T14:28:47.932527+00:00"
   }
  ]
 }
