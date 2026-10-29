@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-29T16:14:28.477078+00:00",
- "total_indexed": 5142,
+ "generated_at": "2026-10-29T23:04:21.601139+00:00",
+ "total_indexed": 5145,
  "indexes": [
   {
    "key": "skill",
@@ -140,7 +140,7 @@
     "Voice Cloning & Conversion",
     "Toolkits & Frameworks"
    ],
-   "generated_at": "2026-10-28T16:09:53.475397+00:00"
+   "generated_at": "2026-10-29T16:16:20.215973+00:00"
   },
   {
    "key": "dataset",
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-10-28T16:16:59.071534+00:00"
+   "generated_at": "2026-10-29T16:24:57.987820+00:00"
   },
   {
    "key": "finetune",
@@ -189,7 +189,7 @@
    "blurb": "LLM gateways, proxies & routers — the routing layer between apps and model providers.",
    "url": "https://gateway.kymatalabs.com",
    "accent": "#2ee6c6",
-   "count": 223,
+   "count": 225,
    "top": {
     "name": "cheaper-inference/OmniRoute",
     "momentum": 87
@@ -200,7 +200,7 @@
     "Self-Hosted Platforms",
     "Observability Gateways"
    ],
-   "generated_at": "2026-10-28T16:34:51.583349+00:00"
+   "generated_at": "2026-10-29T16:52:30.641680+00:00"
   },
   {
    "key": "agent",
@@ -209,7 +209,7 @@
    "blurb": "AI agent frameworks — multi-agent, autonomous agents, orchestration, memory & agent SDKs.",
    "url": "https://agents.kymatalabs.com",
    "accent": "#b07cff",
-   "count": 275,
+   "count": 276,
    "top": {
     "name": "deepseek-ai/deepseek-harness",
     "momentum": 90
@@ -218,9 +218,9 @@
     "Agent Frameworks",
     "Multi-Agent",
     "Orchestration",
-    "Autonomous Agents"
+    "Memory & State"
    ],
-   "generated_at": "2026-10-28T16:42:53.225715+00:00"
+   "generated_at": "2026-10-29T16:59:01.151237+00:00"
   },
   {
    "key": "document",
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "VLM & Understanding"
    ],
-   "generated_at": "2026-10-28T16:50:11.003734+00:00"
+   "generated_at": "2026-10-29T17:05:26.012125+00:00"
   },
   {
    "key": "observability",
@@ -260,7 +260,7 @@
     "LLMOps Platforms",
     "Tracing & Spans"
    ],
-   "generated_at": "2026-10-28T17:13:04.634961+00:00"
+   "generated_at": "2026-10-29T17:28:26.352836+00:00"
   },
   {
    "key": "stack",
@@ -280,7 +280,7 @@
     "Vector DB",
     "LLMOps"
    ],
-   "generated_at": "2026-10-28T16:09:40.382607+00:00"
+   "generated_at": "2026-10-29T16:15:33.422242+00:00"
   },
   {
    "key": "model",
@@ -292,7 +292,7 @@
    "count_key": "model_count",
    "count": 150,
    "top": {
-    "name": "maya2-native",
+    "name": "Open-H3-Regenerate-2K",
     "momentum": null
    },
    "categories": [
@@ -301,7 +301,7 @@
     "Embeddings",
     "Image"
    ],
-   "generated_at": "2026-10-28T16:17:51.490830+00:00"
+   "generated_at": "2026-10-29T16:26:38.668601+00:00"
   },
   {
    "key": "mcp",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-10-28T16:17:38.127704+00:00"
+   "generated_at": "2026-10-29T16:26:11.235843+00:00"
   }
  ]
 }
