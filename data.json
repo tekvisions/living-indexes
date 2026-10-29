@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-28T16:08:32.096598+00:00",
- "total_indexed": 5395,
+ "generated_at": "2026-10-29T16:14:28.477078+00:00",
+ "total_indexed": 5142,
  "indexes": [
   {
    "key": "skill",
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Agent Eval"
    ],
-   "generated_at": "2026-10-28T15:30:16.351554+00:00"
+   "generated_at": "2026-10-29T15:36:54.679372+00:00"
   },
   {
    "key": "local",
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-10-28T15:52:02.256410+00:00"
+   "generated_at": "2026-10-29T15:58:51.956733+00:00"
   },
   {
    "key": "voice",
@@ -129,7 +129,7 @@
    "blurb": "Voice & speech AI — text-to-speech, speech recognition, voice cloning, realtime voice agents.",
    "url": "https://voice.kymatalabs.com",
    "accent": "#b6ff2e",
-   "count": 282,
+   "count": 286,
    "top": {
     "name": "harry0703/MoneyPrinterTurbo",
     "momentum": 87
@@ -140,7 +140,7 @@
     "Voice Cloning & Conversion",
     "Toolkits & Frameworks"
    ],
-   "generated_at": "2026-10-27T15:26:44.145091+00:00"
+   "generated_at": "2026-10-28T16:09:53.475397+00:00"
   },
   {
    "key": "dataset",
@@ -149,7 +149,7 @@
    "blurb": "Data-centric AI tooling — labeling & annotation, synthetic data, curation, augmentation, dataset frameworks.",
    "url": "https://dataset.kymatalabs.com",
    "accent": "#d23a1e",
-   "count": 240,
+   "count": 253,
    "top": {
     "name": "HumanSignal/label-studio",
     "momentum": 87
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-10-27T15:33:13.977071+00:00"
+   "generated_at": "2026-10-28T16:16:59.071534+00:00"
   },
   {
    "key": "finetune",
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-10-28T15:58:33.317095+00:00"
+   "generated_at": "2026-10-29T16:04:48.789460+00:00"
   },
   {
    "key": "gateway",
@@ -189,7 +189,7 @@
    "blurb": "LLM gateways, proxies & routers — the routing layer between apps and model providers.",
    "url": "https://gateway.kymatalabs.com",
    "accent": "#2ee6c6",
-   "count": 228,
+   "count": 223,
    "top": {
     "name": "cheaper-inference/OmniRoute",
     "momentum": 87
@@ -200,7 +200,7 @@
     "Self-Hosted Platforms",
     "Observability Gateways"
    ],
-   "generated_at": "2026-10-27T15:51:02.741228+00:00"
+   "generated_at": "2026-10-28T16:34:51.583349+00:00"
   },
   {
    "key": "agent",
@@ -212,7 +212,7 @@
    "count": 275,
    "top": {
     "name": "deepseek-ai/deepseek-harness",
-    "momentum": 89
+    "momentum": 90
    },
    "categories": [
     "Agent Frameworks",
@@ -220,7 +220,7 @@
     "Orchestration",
     "Autonomous Agents"
    ],
-   "generated_at": "2026-10-27T15:54:55.604593+00:00"
+   "generated_at": "2026-10-28T16:42:53.225715+00:00"
   },
   {
    "key": "document",
@@ -229,7 +229,7 @@
    "blurb": "Document-AI tooling — OCR, PDF extraction, document parsing, layout, tables & understanding.",
    "url": "https://document.kymatalabs.com",
    "accent": "#4f46e5",
-   "count": 233,
+   "count": 234,
    "top": {
     "name": "storytold/pdfcraft",
     "momentum": 89
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "VLM & Understanding"
    ],
-   "generated_at": "2026-10-27T16:01:40.478413+00:00"
+   "generated_at": "2026-10-28T16:50:11.003734+00:00"
   },
   {
    "key": "observability",
@@ -260,7 +260,7 @@
     "LLMOps Platforms",
     "Tracing & Spans"
    ],
-   "generated_at": "2026-10-26T17:27:58.162970+00:00"
+   "generated_at": "2026-10-28T17:13:04.634961+00:00"
   },
   {
    "key": "stack",
@@ -269,18 +269,18 @@
    "blurb": "The live momentum index for AI-infrastructure repos.",
    "url": "https://stacktracker.kymatalabs.com",
    "accent": "#00d4a0",
-   "count": 282,
+   "count": null,
    "top": {
-    "name": "morluto/rea",
-    "momentum": 87
+    "name": "pydantic-ai",
+    "momentum": 100
    },
    "categories": [
-    "Collections",
-    "MCP & Tools",
-    "Commands & Hooks",
-    "Subagents"
+    "Agents",
+    "Inference",
+    "Vector DB",
+    "LLMOps"
    ],
-   "generated_at": "2026-10-28T15:19:51.466402+00:00"
+   "generated_at": "2026-10-28T16:09:40.382607+00:00"
   },
   {
    "key": "model",
@@ -292,7 +292,7 @@
    "count_key": "model_count",
    "count": 150,
    "top": {
-    "name": "DeepSeek-V4.1-Flash-1017-abliterated-GGUF",
+    "name": "maya2-native",
     "momentum": null
    },
    "categories": [
@@ -301,7 +301,7 @@
     "Embeddings",
     "Image"
    ],
-   "generated_at": "2026-10-25T13:58:09.308609+00:00"
+   "generated_at": "2026-10-28T16:17:51.490830+00:00"
   },
   {
    "key": "mcp",
@@ -311,9 +311,9 @@
    "url": "https://mcp.kymatalabs.com",
    "accent": "#06b6d4",
    "count_key": "server_count",
-   "count": 1930,
+   "count": 1946,
    "top": {
-    "name": "ai.marketcore/mcp",
+    "name": "ai.docuwriter/docuwriter",
     "momentum": null
    },
    "categories": [
@@ -322,7 +322,7 @@
     "Data & DB",
     "Dev Tools"
    ],
-   "generated_at": "2026-10-27T15:30:33.651338+00:00"
+   "generated_at": "2026-10-28T16:13:51.732309+00:00"
   },
   {
    "key": "agentvel",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-10-27T15:34:12.362717+00:00"
+   "generated_at": "2026-10-28T16:17:38.127704+00:00"
   }
  ]
 }
