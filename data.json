@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T15:59:50.229326+00:00",
+ "generated_at": "2026-10-30T20:58:41.995446+00:00",
  "total_indexed": 5117,
  "indexes": [
   {
@@ -129,7 +129,7 @@
    "blurb": "Voice & speech AI — text-to-speech, speech recognition, voice cloning, realtime voice agents.",
    "url": "https://voice.kymatalabs.com",
    "accent": "#b6ff2e",
-   "count": 287,
+   "count": 286,
    "top": {
     "name": "harry0703/MoneyPrinterTurbo",
     "momentum": 87
@@ -140,7 +140,7 @@
     "Voice Cloning & Conversion",
     "Toolkits & Frameworks"
    ],
-   "generated_at": "2026-10-30T12:52:19.856795+00:00"
+   "generated_at": "2026-10-30T16:01:34.305443+00:00"
   },
   {
    "key": "dataset",
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-10-30T12:52:09.517920+00:00"
+   "generated_at": "2026-10-30T16:14:45.516964+00:00"
   },
   {
    "key": "finetune",
@@ -189,7 +189,7 @@
    "blurb": "LLM gateways, proxies & routers — the routing layer between apps and model providers.",
    "url": "https://gateway.kymatalabs.com",
    "accent": "#2ee6c6",
-   "count": 226,
+   "count": 227,
    "top": {
     "name": "cheaper-inference/OmniRoute",
     "momentum": 87
@@ -200,7 +200,7 @@
     "Self-Hosted Platforms",
     "Observability Gateways"
    ],
-   "generated_at": "2026-10-30T12:52:06.984743+00:00"
+   "generated_at": "2026-10-30T16:40:41.247989+00:00"
   },
   {
    "key": "agent",
@@ -220,7 +220,7 @@
     "Orchestration",
     "Memory & State"
    ],
-   "generated_at": "2026-10-30T12:52:00.003284+00:00"
+   "generated_at": "2026-10-30T16:44:03.432874+00:00"
   },
   {
    "key": "document",
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "Layout & Structure"
    ],
-   "generated_at": "2026-10-30T12:58:01.726109+00:00"
+   "generated_at": "2026-10-30T16:49:59.640122+00:00"
   },
   {
    "key": "observability",
@@ -260,7 +260,7 @@
     "LLMOps Platforms",
     "Tracing & Spans"
    ],
-   "generated_at": "2026-10-30T12:51:42.297846+00:00"
+   "generated_at": "2026-10-30T17:03:30.878611+00:00"
   },
   {
    "key": "stack",
@@ -272,7 +272,7 @@
    "count": null,
    "top": {
     "name": "pydantic-ai",
-    "momentum": 100
+    "momentum": 99
    },
    "categories": [
     "Agents",
@@ -280,7 +280,7 @@
     "Vector DB",
     "LLMOps"
    ],
-   "generated_at": "2026-10-30T12:53:16.122443+00:00"
+   "generated_at": "2026-10-30T16:01:08.496290+00:00"
   },
   {
    "key": "model",
@@ -301,7 +301,7 @@
     "Embeddings",
     "Image"
    ],
-   "generated_at": "2026-10-30T12:51:43.702849+00:00"
+   "generated_at": "2026-10-30T16:16:48.251985+00:00"
   },
   {
    "key": "mcp",
@@ -322,7 +322,7 @@
     "Data & DB",
     "Dev Tools"
    ],
-   "generated_at": "2026-10-30T12:57:42.064426+00:00"
+   "generated_at": "2026-10-30T16:10:24.587049+00:00"
   },
   {
    "key": "agentvel",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-10-30T12:52:50.464707+00:00"
+   "generated_at": "2026-10-30T16:15:46.369491+00:00"
   }
  ]
 }
