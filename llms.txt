@@ -3,7 +3,7 @@
 > A hub for self-updating indexes of the AI-builder ecosystem. Each index is
 > recomputed daily from live GitHub signals.
 
-Updated: 2026-10-30T22:25:44.015266+00:00  ·  5113 entries across 17 indexes
+Updated: 2026-10-30T22:29:46.124787+00:00  ·  5113 entries across 17 indexes
 
 - [The Skill Index](https://skill.kymatalabs.com) — 283 entries — Claude Code & AI-agent skills — skills, subagents, slash-commands, hooks.
 - [The Eval Index](https://eval.kymatalabs.com) — 280 entries — LLM & agent evaluation, benchmark, observability and red-teaming tools.
