@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-30T20:58:41.995446+00:00",
- "total_indexed": 5117,
+ "generated_at": "2026-10-30T21:34:20.614896+00:00",
+ "total_indexed": 5113,
  "indexes": [
   {
    "key": "skill",
@@ -9,7 +9,7 @@
    "blurb": "Claude Code & AI-agent skills — skills, subagents, slash-commands, hooks.",
    "url": "https://skill.kymatalabs.com",
    "accent": "#b3651f",
-   "count": 282,
+   "count": 283,
    "top": {
     "name": "Gathin23/cleanyourtv",
     "momentum": 89
@@ -20,7 +20,7 @@
     "Commands & Hooks",
     "Subagents"
    ],
-   "generated_at": "2026-10-30T15:11:26.301764+00:00"
+   "generated_at": "2026-10-30T20:59:08.401332+00:00"
   },
   {
    "key": "eval",
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Agent Eval"
    ],
-   "generated_at": "2026-10-30T15:21:53.544152+00:00"
+   "generated_at": "2026-10-30T20:59:04.471517+00:00"
   },
   {
    "key": "local",
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-10-30T15:22:56.369364+00:00"
+   "generated_at": "2026-10-30T20:59:12.157228+00:00"
   },
   {
    "key": "prompt",
@@ -76,11 +76,11 @@
    },
    "categories": [
     "Optimization & Tooling",
-    "Prompt Packs",
     "System Prompts",
+    "Prompt Packs",
     "Guides & Courses"
    ],
-   "generated_at": "2026-10-30T15:25:15.983078+00:00"
+   "generated_at": "2026-10-30T20:59:03.093711+00:00"
   },
   {
    "key": "rag",
@@ -89,7 +89,7 @@
    "blurb": "Retrieval-augmented-generation — RAG frameworks, vector DBs, embeddings, reranking.",
    "url": "https://rag.kymatalabs.com",
    "accent": "#5b4bff",
-   "count": 220,
+   "count": 221,
    "top": {
     "name": "Shubhamsaboo/awesome-llm-apps",
     "momentum": 86
@@ -100,7 +100,7 @@
     "Reranking",
     "RAG Frameworks"
    ],
-   "generated_at": "2026-10-30T15:35:27.270640+00:00"
+   "generated_at": "2026-10-30T20:59:04.031266+00:00"
   },
   {
    "key": "diffusion",
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-10-30T12:52:37.496267+00:00"
+   "generated_at": "2026-10-30T20:59:03.334728+00:00"
   },
   {
    "key": "voice",
@@ -140,7 +140,7 @@
     "Voice Cloning & Conversion",
     "Toolkits & Frameworks"
    ],
-   "generated_at": "2026-10-30T16:01:34.305443+00:00"
+   "generated_at": "2026-10-30T20:59:01.569252+00:00"
   },
   {
    "key": "dataset",
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-10-30T16:14:45.516964+00:00"
+   "generated_at": "2026-10-30T20:58:59.183094+00:00"
   },
   {
    "key": "finetune",
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-10-30T15:52:52.428914+00:00"
+   "generated_at": "2026-10-30T20:58:55.810302+00:00"
   },
   {
    "key": "gateway",
@@ -200,7 +200,7 @@
     "Self-Hosted Platforms",
     "Observability Gateways"
    ],
-   "generated_at": "2026-10-30T16:40:41.247989+00:00"
+   "generated_at": "2026-10-30T20:59:05.737552+00:00"
   },
   {
    "key": "agent",
@@ -220,7 +220,7 @@
     "Orchestration",
     "Memory & State"
    ],
-   "generated_at": "2026-10-30T16:44:03.432874+00:00"
+   "generated_at": "2026-10-30T21:07:56.857343+00:00"
   },
   {
    "key": "document",
@@ -229,7 +229,7 @@
    "blurb": "Document-AI tooling — OCR, PDF extraction, document parsing, layout, tables & understanding.",
    "url": "https://document.kymatalabs.com",
    "accent": "#4f46e5",
-   "count": 235,
+   "count": 234,
    "top": {
     "name": "storytold/pdfcraft",
     "momentum": 89
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "Layout & Structure"
    ],
-   "generated_at": "2026-10-30T16:49:59.640122+00:00"
+   "generated_at": "2026-10-30T20:58:59.755400+00:00"
   },
   {
    "key": "observability",
@@ -260,7 +260,7 @@
     "LLMOps Platforms",
     "Tracing & Spans"
    ],
-   "generated_at": "2026-10-30T17:03:30.878611+00:00"
+   "generated_at": "2026-10-30T20:59:03.350557+00:00"
   },
   {
    "key": "stack",
@@ -280,7 +280,7 @@
     "Vector DB",
     "LLMOps"
    ],
-   "generated_at": "2026-10-30T16:01:08.496290+00:00"
+   "generated_at": "2026-10-30T21:10:43.014322+00:00"
   },
   {
    "key": "model",
@@ -301,7 +301,7 @@
     "Embeddings",
     "Image"
    ],
-   "generated_at": "2026-10-30T16:16:48.251985+00:00"
+   "generated_at": "2026-10-30T21:15:20.430889+00:00"
   },
   {
    "key": "mcp",
@@ -311,7 +311,7 @@
    "url": "https://mcp.kymatalabs.com",
    "accent": "#06b6d4",
    "count_key": "server_count",
-   "count": 1907,
+   "count": 1902,
    "top": {
     "name": "ai.hiapi/mcp",
     "momentum": null
@@ -322,7 +322,7 @@
     "Data & DB",
     "Dev Tools"
    ],
-   "generated_at": "2026-10-30T16:10:24.587049+00:00"
+   "generated_at": "2026-10-30T20:59:00.850888+00:00"
   },
   {
    "key": "agentvel",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-10-30T16:15:46.369491+00:00"
+   "generated_at": "2026-10-30T21:10:10.809341+00:00"
   }
  ]
 }
