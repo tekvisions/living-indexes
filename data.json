@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-30T04:25:51.568465+00:00",
- "total_indexed": 5128,
+ "generated_at": "2026-10-30T12:52:08.803668+00:00",
+ "total_indexed": 5122,
  "indexes": [
   {
    "key": "skill",
@@ -16,11 +16,11 @@
    },
    "categories": [
     "Collections",
-    "Subagents",
+    "MCP & Tools",
     "Commands & Hooks",
-    "MCP & Tools"
+    "Subagents"
    ],
-   "generated_at": "2026-10-29T23:04:44.091426+00:00"
+   "generated_at": "2026-10-30T04:28:07.738095+00:00"
   },
   {
    "key": "eval",
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Agent Eval"
    ],
-   "generated_at": "2026-10-29T23:04:46.777609+00:00"
+   "generated_at": "2026-10-30T04:27:56.275649+00:00"
   },
   {
    "key": "local",
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-10-29T23:04:43.522869+00:00"
+   "generated_at": "2026-10-30T04:28:04.644960+00:00"
   },
   {
    "key": "prompt",
@@ -76,11 +76,11 @@
    },
    "categories": [
     "Optimization & Tooling",
-    "System Prompts",
     "Prompt Packs",
-    "Guides & Courses"
+    "System Prompts",
+    "Image & Multimodal"
    ],
-   "generated_at": "2026-10-29T23:04:38.263042+00:00"
+   "generated_at": "2026-10-30T04:27:55.663522+00:00"
   },
   {
    "key": "rag",
@@ -100,7 +100,7 @@
     "Reranking",
     "RAG Frameworks"
    ],
-   "generated_at": "2026-10-29T23:04:40.023231+00:00"
+   "generated_at": "2026-10-30T04:27:57.428325+00:00"
   },
   {
    "key": "diffusion",
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-10-29T23:04:44.153726+00:00"
+   "generated_at": "2026-10-30T04:27:53.452985+00:00"
   },
   {
    "key": "voice",
@@ -129,7 +129,7 @@
    "blurb": "Voice & speech AI — text-to-speech, speech recognition, voice cloning, realtime voice agents.",
    "url": "https://voice.kymatalabs.com",
    "accent": "#b6ff2e",
-   "count": 286,
+   "count": 287,
    "top": {
     "name": "harry0703/MoneyPrinterTurbo",
     "momentum": 87
@@ -140,7 +140,7 @@
     "Voice Cloning & Conversion",
     "Toolkits & Frameworks"
    ],
-   "generated_at": "2026-10-29T23:04:46.921076+00:00"
+   "generated_at": "2026-10-30T04:26:06.318994+00:00"
   },
   {
    "key": "dataset",
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-10-29T23:04:46.550272+00:00"
+   "generated_at": "2026-10-30T04:26:06.067959+00:00"
   },
   {
    "key": "finetune",
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-10-29T23:04:39.377582+00:00"
+   "generated_at": "2026-10-30T04:26:02.628036+00:00"
   },
   {
    "key": "gateway",
@@ -200,7 +200,7 @@
     "Self-Hosted Platforms",
     "Multi-Provider SDKs"
    ],
-   "generated_at": "2026-10-29T23:04:48.150145+00:00"
+   "generated_at": "2026-10-30T04:26:03.097676+00:00"
   },
   {
    "key": "agent",
@@ -212,7 +212,7 @@
    "count": 277,
    "top": {
     "name": "deepseek-ai/deepseek-harness",
-    "momentum": 89
+    "momentum": 90
    },
    "categories": [
     "Agent Frameworks",
@@ -220,7 +220,7 @@
     "Orchestration",
     "Memory & State"
    ],
-   "generated_at": "2026-10-29T23:04:46.281450+00:00"
+   "generated_at": "2026-10-30T04:26:05.038685+00:00"
   },
   {
    "key": "document",
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "Layout & Structure"
    ],
-   "generated_at": "2026-10-29T23:04:44.574975+00:00"
+   "generated_at": "2026-10-30T04:25:57.341156+00:00"
   },
   {
    "key": "observability",
@@ -260,7 +260,7 @@
     "LLMOps Platforms",
     "Tracing & Spans"
    ],
-   "generated_at": "2026-10-29T23:04:44.626000+00:00"
+   "generated_at": "2026-10-30T04:33:29.152238+00:00"
   },
   {
    "key": "stack",
@@ -280,7 +280,7 @@
     "Vector DB",
     "LLMOps"
    ],
-   "generated_at": "2026-10-29T23:23:15.435747+00:00"
+   "generated_at": "2026-10-30T04:28:56.214714+00:00"
   },
   {
    "key": "model",
@@ -292,7 +292,7 @@
    "count_key": "model_count",
    "count": 150,
    "top": {
-    "name": "Open-H3-Regenerate-2K",
+    "name": "Pika-H3-Flex",
     "momentum": null
    },
    "categories": [
@@ -301,7 +301,7 @@
     "Embeddings",
     "Image"
    ],
-   "generated_at": "2026-10-29T23:04:25.686719+00:00"
+   "generated_at": "2026-10-30T04:33:18.030725+00:00"
   },
   {
    "key": "mcp",
@@ -311,9 +311,9 @@
    "url": "https://mcp.kymatalabs.com",
    "accent": "#06b6d4",
    "count_key": "server_count",
-   "count": 1920,
+   "count": 1913,
    "top": {
-    "name": "ai.get-alfred/alfred",
+    "name": "ai.hiapi/mcp",
     "momentum": null
    },
    "categories": [
@@ -322,7 +322,7 @@
     "Data & DB",
     "Dev Tools"
    ],
-   "generated_at": "2026-10-29T23:04:41.710265+00:00"
+   "generated_at": "2026-10-30T04:27:48.682030+00:00"
   },
   {
    "key": "agentvel",
@@ -335,7 +335,7 @@
    "count": 14,
    "top": {
     "name": "OpenHands",
-    "momentum": 99
+    "momentum": 98
    },
    "categories": [
     "CLI",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-10-29T23:05:15.784695+00:00"
+   "generated_at": "2026-10-30T04:26:39.884945+00:00"
   }
  ]
 }
