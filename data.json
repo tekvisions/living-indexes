@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-30T21:55:32.712482+00:00",
- "total_indexed": 5112,
+ "generated_at": "2026-10-30T22:25:44.015266+00:00",
+ "total_indexed": 5113,
  "indexes": [
   {
    "key": "skill",
@@ -20,7 +20,7 @@
     "Commands & Hooks",
     "Subagents"
    ],
-   "generated_at": "2026-10-30T21:35:24.813462+00:00"
+   "generated_at": "2026-10-30T21:56:29.384662+00:00"
   },
   {
    "key": "eval",
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-10-30T21:35:18.741700+00:00"
+   "generated_at": "2026-10-30T21:56:25.678387+00:00"
   },
   {
    "key": "prompt",
@@ -80,7 +80,7 @@
     "Prompt Packs",
     "Guides & Courses"
    ],
-   "generated_at": "2026-10-30T21:35:09.117195+00:00"
+   "generated_at": "2026-10-30T21:56:17.065660+00:00"
   },
   {
    "key": "rag",
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-10-30T21:34:52.523515+00:00"
+   "generated_at": "2026-10-30T21:56:00.962894+00:00"
   },
   {
    "key": "voice",
@@ -140,7 +140,7 @@
     "Voice Cloning & Conversion",
     "Toolkits & Frameworks"
    ],
-   "generated_at": "2026-10-30T21:34:35.591102+00:00"
+   "generated_at": "2026-10-30T21:55:50.429499+00:00"
   },
   {
    "key": "dataset",
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-10-30T21:34:24.985566+00:00"
+   "generated_at": "2026-10-30T21:55:39.068377+00:00"
   },
   {
    "key": "finetune",
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-10-30T21:34:41.288758+00:00"
+   "generated_at": "2026-10-30T21:55:47.601245+00:00"
   },
   {
    "key": "gateway",
@@ -189,7 +189,7 @@
    "blurb": "LLM gateways, proxies & routers — the routing layer between apps and model providers.",
    "url": "https://gateway.kymatalabs.com",
    "accent": "#2ee6c6",
-   "count": 227,
+   "count": 228,
    "top": {
     "name": "cheaper-inference/OmniRoute",
     "momentum": 87
@@ -200,7 +200,7 @@
     "Self-Hosted Platforms",
     "Observability Gateways"
    ],
-   "generated_at": "2026-10-30T21:34:26.024617+00:00"
+   "generated_at": "2026-10-30T21:55:29.912128+00:00"
   },
   {
    "key": "agent",
@@ -220,7 +220,7 @@
     "Orchestration",
     "Memory & State"
    ],
-   "generated_at": "2026-10-30T21:34:20.597745+00:00"
+   "generated_at": "2026-10-30T21:55:24.753603+00:00"
   },
   {
    "key": "document",
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "Layout & Structure"
    ],
-   "generated_at": "2026-10-30T21:34:12.032695+00:00"
+   "generated_at": "2026-10-30T21:55:21.909587+00:00"
   },
   {
    "key": "observability",
@@ -280,7 +280,7 @@
     "Vector DB",
     "LLMOps"
    ],
-   "generated_at": "2026-10-30T21:35:47.622616+00:00"
+   "generated_at": "2026-10-30T21:57:00.174025+00:00"
   },
   {
    "key": "model",
@@ -301,7 +301,7 @@
     "Embeddings",
     "Image"
    ],
-   "generated_at": "2026-10-30T21:35:13.131251+00:00"
+   "generated_at": "2026-10-30T21:55:05.107971+00:00"
   },
   {
    "key": "mcp",
@@ -322,7 +322,7 @@
     "Data & DB",
     "Dev Tools"
    ],
-   "generated_at": "2026-10-30T21:34:52.684279+00:00"
+   "generated_at": "2026-10-30T21:56:07.870994+00:00"
   },
   {
    "key": "agentvel",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-10-30T21:35:02.334330+00:00"
+   "generated_at": "2026-10-30T21:55:53.646839+00:00"
   }
  ]
 }
