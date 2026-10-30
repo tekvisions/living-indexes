@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-30T21:34:20.614896+00:00",
- "total_indexed": 5113,
+ "generated_at": "2026-10-30T21:55:32.712482+00:00",
+ "total_indexed": 5112,
  "indexes": [
   {
    "key": "skill",
@@ -20,7 +20,7 @@
     "Commands & Hooks",
     "Subagents"
    ],
-   "generated_at": "2026-10-30T20:59:08.401332+00:00"
+   "generated_at": "2026-10-30T21:35:24.813462+00:00"
   },
   {
    "key": "eval",
@@ -29,7 +29,7 @@
    "blurb": "LLM & agent evaluation, benchmark, observability and red-teaming tools.",
    "url": "https://eval.kymatalabs.com",
    "accent": "#7fae2c",
-   "count": 279,
+   "count": 280,
    "top": {
     "name": "ifixai-ai/iFixAi",
     "momentum": 87
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Agent Eval"
    ],
-   "generated_at": "2026-10-30T20:59:04.471517+00:00"
+   "generated_at": "2026-10-30T21:34:57.042268+00:00"
   },
   {
    "key": "local",
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-10-30T20:59:12.157228+00:00"
+   "generated_at": "2026-10-30T21:35:18.741700+00:00"
   },
   {
    "key": "prompt",
@@ -80,7 +80,7 @@
     "Prompt Packs",
     "Guides & Courses"
    ],
-   "generated_at": "2026-10-30T20:59:03.093711+00:00"
+   "generated_at": "2026-10-30T21:35:09.117195+00:00"
   },
   {
    "key": "rag",
@@ -100,7 +100,7 @@
     "Reranking",
     "RAG Frameworks"
    ],
-   "generated_at": "2026-10-30T20:59:04.031266+00:00"
+   "generated_at": "2026-10-30T21:35:10.450696+00:00"
   },
   {
    "key": "diffusion",
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-10-30T20:59:03.334728+00:00"
+   "generated_at": "2026-10-30T21:34:52.523515+00:00"
   },
   {
    "key": "voice",
@@ -140,7 +140,7 @@
     "Voice Cloning & Conversion",
     "Toolkits & Frameworks"
    ],
-   "generated_at": "2026-10-30T20:59:01.569252+00:00"
+   "generated_at": "2026-10-30T21:34:35.591102+00:00"
   },
   {
    "key": "dataset",
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-10-30T20:58:59.183094+00:00"
+   "generated_at": "2026-10-30T21:34:24.985566+00:00"
   },
   {
    "key": "finetune",
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-10-30T20:58:55.810302+00:00"
+   "generated_at": "2026-10-30T21:34:41.288758+00:00"
   },
   {
    "key": "gateway",
@@ -200,7 +200,7 @@
     "Self-Hosted Platforms",
     "Observability Gateways"
    ],
-   "generated_at": "2026-10-30T20:59:05.737552+00:00"
+   "generated_at": "2026-10-30T21:34:26.024617+00:00"
   },
   {
    "key": "agent",
@@ -220,7 +220,7 @@
     "Orchestration",
     "Memory & State"
    ],
-   "generated_at": "2026-10-30T21:07:56.857343+00:00"
+   "generated_at": "2026-10-30T21:34:20.597745+00:00"
   },
   {
    "key": "document",
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "Layout & Structure"
    ],
-   "generated_at": "2026-10-30T20:58:59.755400+00:00"
+   "generated_at": "2026-10-30T21:34:12.032695+00:00"
   },
   {
    "key": "observability",
@@ -260,7 +260,7 @@
     "LLMOps Platforms",
     "Tracing & Spans"
    ],
-   "generated_at": "2026-10-30T20:59:03.350557+00:00"
+   "generated_at": "2026-10-30T21:55:11.569218+00:00"
   },
   {
    "key": "stack",
@@ -280,7 +280,7 @@
     "Vector DB",
     "LLMOps"
    ],
-   "generated_at": "2026-10-30T21:10:43.014322+00:00"
+   "generated_at": "2026-10-30T21:35:47.622616+00:00"
   },
   {
    "key": "model",
@@ -301,7 +301,7 @@
     "Embeddings",
     "Image"
    ],
-   "generated_at": "2026-10-30T21:15:20.430889+00:00"
+   "generated_at": "2026-10-30T21:35:13.131251+00:00"
   },
   {
    "key": "mcp",
@@ -311,9 +311,9 @@
    "url": "https://mcp.kymatalabs.com",
    "accent": "#06b6d4",
    "count_key": "server_count",
-   "count": 1902,
+   "count": 1900,
    "top": {
-    "name": "ai.hiapi/mcp",
+    "name": "ai.duami/intent-exchange",
     "momentum": null
    },
    "categories": [
@@ -322,7 +322,7 @@
     "Data & DB",
     "Dev Tools"
    ],
-   "generated_at": "2026-10-30T20:59:00.850888+00:00"
+   "generated_at": "2026-10-30T21:34:52.684279+00:00"
   },
   {
    "key": "agentvel",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-10-30T21:10:10.809341+00:00"
+   "generated_at": "2026-10-30T21:35:02.334330+00:00"
   }
  ]
 }
