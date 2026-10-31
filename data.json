@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-30T22:29:46.124787+00:00",
- "total_indexed": 5113,
+ "generated_at": "2026-10-31T15:23:29.232091+00:00",
+ "total_indexed": 5112,
  "indexes": [
   {
    "key": "skill",
@@ -9,7 +9,7 @@
    "blurb": "Claude Code & AI-agent skills — skills, subagents, slash-commands, hooks.",
    "url": "https://skill.kymatalabs.com",
    "accent": "#b3651f",
-   "count": 283,
+   "count": 284,
    "top": {
     "name": "Gathin23/cleanyourtv",
     "momentum": 89
@@ -20,7 +20,7 @@
     "Commands & Hooks",
     "Subagents"
    ],
-   "generated_at": "2026-10-30T21:56:29.384662+00:00"
+   "generated_at": "2026-10-31T14:40:07.786812+00:00"
   },
   {
    "key": "eval",
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Agent Eval"
    ],
-   "generated_at": "2026-10-30T21:34:57.042268+00:00"
+   "generated_at": "2026-10-31T14:49:39.575986+00:00"
   },
   {
    "key": "local",
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-10-30T21:56:25.678387+00:00"
+   "generated_at": "2026-10-31T14:51:41.344387+00:00"
   },
   {
    "key": "prompt",
@@ -69,18 +69,18 @@
    "blurb": "Prompt-engineering resources — collections, system prompts, optimizers, guides.",
    "url": "https://prompt.kymatalabs.com",
    "accent": "#ff3b2f",
-   "count": 138,
+   "count": 137,
    "top": {
     "name": "DietrichGebert/ponytail",
     "momentum": 87
    },
    "categories": [
     "Optimization & Tooling",
-    "System Prompts",
     "Prompt Packs",
+    "System Prompts",
     "Guides & Courses"
    ],
-   "generated_at": "2026-10-30T21:56:17.065660+00:00"
+   "generated_at": "2026-10-31T14:53:24.918790+00:00"
   },
   {
    "key": "rag",
@@ -89,10 +89,10 @@
    "blurb": "Retrieval-augmented-generation — RAG frameworks, vector DBs, embeddings, reranking.",
    "url": "https://rag.kymatalabs.com",
    "accent": "#5b4bff",
-   "count": 221,
+   "count": 220,
    "top": {
-    "name": "Shubhamsaboo/awesome-llm-apps",
-    "momentum": 86
+    "name": "Graphify-Labs/graphify",
+    "momentum": 87
    },
    "categories": [
     "Retrieval & Search",
@@ -100,7 +100,7 @@
     "Reranking",
     "RAG Frameworks"
    ],
-   "generated_at": "2026-10-30T21:35:10.450696+00:00"
+   "generated_at": "2026-10-31T15:05:24.863207+00:00"
   },
   {
    "key": "diffusion",
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-10-30T21:56:00.962894+00:00"
+   "generated_at": "2026-10-31T15:13:35.093126+00:00"
   },
   {
    "key": "voice",
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-10-30T21:55:47.601245+00:00"
+   "generated_at": "2026-10-31T15:17:22.278806+00:00"
   },
   {
    "key": "gateway",
@@ -200,7 +200,7 @@
     "Self-Hosted Platforms",
     "Observability Gateways"
    ],
-   "generated_at": "2026-10-30T21:55:29.912128+00:00"
+   "generated_at": "2026-10-30T22:45:47.055591+00:00"
   },
   {
    "key": "agent",
@@ -280,7 +280,7 @@
     "Vector DB",
     "LLMOps"
    ],
-   "generated_at": "2026-10-30T21:57:00.174025+00:00"
+   "generated_at": "2026-10-30T22:40:45.589199+00:00"
   },
   {
    "key": "model",
@@ -301,7 +301,7 @@
     "Embeddings",
     "Image"
    ],
-   "generated_at": "2026-10-30T21:55:05.107971+00:00"
+   "generated_at": "2026-10-30T22:39:08.357159+00:00"
   },
   {
    "key": "mcp",
@@ -322,7 +322,7 @@
     "Data & DB",
     "Dev Tools"
    ],
-   "generated_at": "2026-10-30T21:56:07.870994+00:00"
+   "generated_at": "2026-10-30T22:39:26.867443+00:00"
   },
   {
    "key": "agentvel",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-10-30T21:55:53.646839+00:00"
+   "generated_at": "2026-10-30T22:40:40.803833+00:00"
   }
  ]
 }
