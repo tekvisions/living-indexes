@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-31T15:23:29.232091+00:00",
- "total_indexed": 5112,
+ "generated_at": "2026-11-01T16:06:57.754315+00:00",
+ "total_indexed": 5087,
  "indexes": [
   {
    "key": "skill",
@@ -20,7 +20,7 @@
     "Commands & Hooks",
     "Subagents"
    ],
-   "generated_at": "2026-10-31T14:40:07.786812+00:00"
+   "generated_at": "2026-11-01T15:23:43.415515+00:00"
   },
   {
    "key": "eval",
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Agent Eval"
    ],
-   "generated_at": "2026-10-31T14:49:39.575986+00:00"
+   "generated_at": "2026-11-01T15:29:35.439574+00:00"
   },
   {
    "key": "local",
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-10-31T14:51:41.344387+00:00"
+   "generated_at": "2026-11-01T15:30:19.185597+00:00"
   },
   {
    "key": "prompt",
@@ -71,7 +71,7 @@
    "accent": "#ff3b2f",
    "count": 137,
    "top": {
-    "name": "DietrichGebert/ponytail",
+    "name": "f/prompts.chat",
     "momentum": 87
    },
    "categories": [
@@ -80,7 +80,7 @@
     "System Prompts",
     "Guides & Courses"
    ],
-   "generated_at": "2026-10-31T14:53:24.918790+00:00"
+   "generated_at": "2026-11-01T15:33:08.188706+00:00"
   },
   {
    "key": "rag",
@@ -95,12 +95,12 @@
     "momentum": 87
    },
    "categories": [
-    "Retrieval & Search",
     "Vector Databases",
+    "Retrieval & Search",
     "Reranking",
     "RAG Frameworks"
    ],
-   "generated_at": "2026-10-31T15:05:24.863207+00:00"
+   "generated_at": "2026-11-01T15:48:27.719475+00:00"
   },
   {
    "key": "diffusion",
@@ -109,7 +109,7 @@
    "blurb": "AI image & video generation — diffusion models, ComfyUI nodes, video gen, editing, training.",
    "url": "https://diffusion.kymatalabs.com",
    "accent": "#c77dff",
-   "count": 265,
+   "count": 266,
    "top": {
     "name": "Comfy-Org/ComfyUI",
     "momentum": 86
@@ -120,7 +120,7 @@
     "ComfyUI & Nodes",
     "Editing & Control"
    ],
-   "generated_at": "2026-10-31T15:13:35.093126+00:00"
+   "generated_at": "2026-11-01T15:55:26.522965+00:00"
   },
   {
    "key": "voice",
@@ -129,7 +129,7 @@
    "blurb": "Voice & speech AI — text-to-speech, speech recognition, voice cloning, realtime voice agents.",
    "url": "https://voice.kymatalabs.com",
    "accent": "#b6ff2e",
-   "count": 286,
+   "count": 285,
    "top": {
     "name": "harry0703/MoneyPrinterTurbo",
     "momentum": 87
@@ -140,7 +140,7 @@
     "Voice Cloning & Conversion",
     "Toolkits & Frameworks"
    ],
-   "generated_at": "2026-10-30T21:55:50.429499+00:00"
+   "generated_at": "2026-10-31T15:24:28.925200+00:00"
   },
   {
    "key": "dataset",
@@ -151,8 +151,8 @@
    "accent": "#d23a1e",
    "count": 253,
    "top": {
-    "name": "HumanSignal/label-studio",
-    "momentum": 87
+    "name": "designfuchen/word-atlas",
+    "momentum": 88
    },
    "categories": [
     "Labeling & Annotation",
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-10-30T21:55:39.068377+00:00"
+   "generated_at": "2026-10-31T15:30:13.193375+00:00"
   },
   {
    "key": "finetune",
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-10-31T15:17:22.278806+00:00"
+   "generated_at": "2026-11-01T15:58:37.363852+00:00"
   },
   {
    "key": "gateway",
@@ -200,7 +200,7 @@
     "Self-Hosted Platforms",
     "Observability Gateways"
    ],
-   "generated_at": "2026-10-30T22:45:47.055591+00:00"
+   "generated_at": "2026-10-31T15:42:23.160036+00:00"
   },
   {
    "key": "agent",
@@ -209,10 +209,10 @@
    "blurb": "AI agent frameworks — multi-agent, autonomous agents, orchestration, memory & agent SDKs.",
    "url": "https://agents.kymatalabs.com",
    "accent": "#b07cff",
-   "count": 278,
+   "count": 277,
    "top": {
     "name": "deepseek-ai/deepseek-harness",
-    "momentum": 90
+    "momentum": 91
    },
    "categories": [
     "Agent Frameworks",
@@ -220,7 +220,7 @@
     "Orchestration",
     "Memory & State"
    ],
-   "generated_at": "2026-10-30T21:55:24.753603+00:00"
+   "generated_at": "2026-10-31T15:47:00.092578+00:00"
   },
   {
    "key": "document",
@@ -229,7 +229,7 @@
    "blurb": "Document-AI tooling — OCR, PDF extraction, document parsing, layout, tables & understanding.",
    "url": "https://document.kymatalabs.com",
    "accent": "#4f46e5",
-   "count": 234,
+   "count": 233,
    "top": {
     "name": "storytold/pdfcraft",
     "momentum": 89
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "Layout & Structure"
    ],
-   "generated_at": "2026-10-30T21:55:21.909587+00:00"
+   "generated_at": "2026-10-31T15:53:17.306008+00:00"
   },
   {
    "key": "observability",
@@ -260,7 +260,7 @@
     "LLMOps Platforms",
     "Tracing & Spans"
    ],
-   "generated_at": "2026-10-30T21:55:11.569218+00:00"
+   "generated_at": "2026-10-31T16:11:56.444209+00:00"
   },
   {
    "key": "stack",
@@ -280,7 +280,7 @@
     "Vector DB",
     "LLMOps"
    ],
-   "generated_at": "2026-10-30T22:40:45.589199+00:00"
+   "generated_at": "2026-10-31T15:25:20.667533+00:00"
   },
   {
    "key": "model",
@@ -292,7 +292,7 @@
    "count_key": "model_count",
    "count": 150,
    "top": {
-    "name": "Pika-H3-Flex",
+    "name": "Xiaomi-OCR-0",
     "momentum": null
    },
    "categories": [
@@ -301,7 +301,7 @@
     "Embeddings",
     "Image"
    ],
-   "generated_at": "2026-10-30T22:39:08.357159+00:00"
+   "generated_at": "2026-10-31T15:30:38.560349+00:00"
   },
   {
    "key": "mcp",
@@ -311,9 +311,9 @@
    "url": "https://mcp.kymatalabs.com",
    "accent": "#06b6d4",
    "count_key": "server_count",
-   "count": 1900,
+   "count": 1877,
    "top": {
-    "name": "ai.duami/intent-exchange",
+    "name": "ai.pullpush/pullpush-mcp",
     "momentum": null
    },
    "categories": [
@@ -322,7 +322,7 @@
     "Data & DB",
     "Dev Tools"
    ],
-   "generated_at": "2026-10-30T22:39:26.867443+00:00"
+   "generated_at": "2026-10-31T15:28:39.735483+00:00"
   },
   {
    "key": "agentvel",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-10-30T22:40:40.803833+00:00"
+   "generated_at": "2026-10-31T15:31:04.727766+00:00"
   }
  ]
 }
