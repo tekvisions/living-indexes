@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-01T16:06:57.754315+00:00",
- "total_indexed": 5087,
+ "generated_at": "2026-11-02T19:35:15.070137+00:00",
+ "total_indexed": 5098,
  "indexes": [
   {
    "key": "skill",
@@ -9,7 +9,7 @@
    "blurb": "Claude Code & AI-agent skills — skills, subagents, slash-commands, hooks.",
    "url": "https://skill.kymatalabs.com",
    "accent": "#b3651f",
-   "count": 284,
+   "count": 286,
    "top": {
     "name": "Gathin23/cleanyourtv",
     "momentum": 89
@@ -20,7 +20,7 @@
     "Commands & Hooks",
     "Subagents"
    ],
-   "generated_at": "2026-11-01T15:23:43.415515+00:00"
+   "generated_at": "2026-11-02T18:42:01.277433+00:00"
   },
   {
    "key": "eval",
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Agent Eval"
    ],
-   "generated_at": "2026-11-01T15:29:35.439574+00:00"
+   "generated_at": "2026-11-02T18:52:06.710473+00:00"
   },
   {
    "key": "local",
@@ -49,7 +49,7 @@
    "blurb": "Run LLMs on your own hardware — inference engines, runners, quantization.",
    "url": "https://localllm.kymatalabs.com",
    "accent": "#1f5bff",
-   "count": 241,
+   "count": 240,
    "top": {
     "name": "unslothai/unsloth",
     "momentum": 87
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-11-01T15:30:19.185597+00:00"
+   "generated_at": "2026-11-02T18:53:38.872218+00:00"
   },
   {
    "key": "prompt",
@@ -80,7 +80,7 @@
     "System Prompts",
     "Guides & Courses"
    ],
-   "generated_at": "2026-11-01T15:33:08.188706+00:00"
+   "generated_at": "2026-11-02T18:57:10.855843+00:00"
   },
   {
    "key": "rag",
@@ -95,12 +95,12 @@
     "momentum": 87
    },
    "categories": [
-    "Vector Databases",
     "Retrieval & Search",
+    "Vector Databases",
     "Reranking",
     "RAG Frameworks"
    ],
-   "generated_at": "2026-11-01T15:48:27.719475+00:00"
+   "generated_at": "2026-11-02T19:13:41.451702+00:00"
   },
   {
    "key": "diffusion",
@@ -140,7 +140,7 @@
     "Voice Cloning & Conversion",
     "Toolkits & Frameworks"
    ],
-   "generated_at": "2026-10-31T15:24:28.925200+00:00"
+   "generated_at": "2026-11-01T16:08:26.833625+00:00"
   },
   {
    "key": "dataset",
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-10-31T15:30:13.193375+00:00"
+   "generated_at": "2026-11-01T16:24:08.556522+00:00"
   },
   {
    "key": "finetune",
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-11-01T15:58:37.363852+00:00"
+   "generated_at": "2026-11-02T19:26:39.216988+00:00"
   },
   {
    "key": "gateway",
@@ -189,7 +189,7 @@
    "blurb": "LLM gateways, proxies & routers — the routing layer between apps and model providers.",
    "url": "https://gateway.kymatalabs.com",
    "accent": "#2ee6c6",
-   "count": 228,
+   "count": 229,
    "top": {
     "name": "cheaper-inference/OmniRoute",
     "momentum": 87
@@ -200,7 +200,7 @@
     "Self-Hosted Platforms",
     "Observability Gateways"
    ],
-   "generated_at": "2026-10-31T15:42:23.160036+00:00"
+   "generated_at": "2026-11-01T16:46:21.330520+00:00"
   },
   {
    "key": "agent",
@@ -209,7 +209,7 @@
    "blurb": "AI agent frameworks — multi-agent, autonomous agents, orchestration, memory & agent SDKs.",
    "url": "https://agents.kymatalabs.com",
    "accent": "#b07cff",
-   "count": 277,
+   "count": 278,
    "top": {
     "name": "deepseek-ai/deepseek-harness",
     "momentum": 91
@@ -220,7 +220,7 @@
     "Orchestration",
     "Memory & State"
    ],
-   "generated_at": "2026-10-31T15:47:00.092578+00:00"
+   "generated_at": "2026-11-01T16:50:49.722841+00:00"
   },
   {
    "key": "document",
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "Layout & Structure"
    ],
-   "generated_at": "2026-10-31T15:53:17.306008+00:00"
+   "generated_at": "2026-11-01T16:55:19.111709+00:00"
   },
   {
    "key": "observability",
@@ -260,7 +260,7 @@
     "LLMOps Platforms",
     "Tracing & Spans"
    ],
-   "generated_at": "2026-10-31T16:11:56.444209+00:00"
+   "generated_at": "2026-11-01T17:11:10.523847+00:00"
   },
   {
    "key": "stack",
@@ -272,7 +272,7 @@
    "count": null,
    "top": {
     "name": "pydantic-ai",
-    "momentum": 99
+    "momentum": 98
    },
    "categories": [
     "Agents",
@@ -280,7 +280,7 @@
     "Vector DB",
     "LLMOps"
    ],
-   "generated_at": "2026-10-31T15:25:20.667533+00:00"
+   "generated_at": "2026-11-01T16:07:21.884601+00:00"
   },
   {
    "key": "model",
@@ -292,7 +292,7 @@
    "count_key": "model_count",
    "count": 150,
    "top": {
-    "name": "Xiaomi-OCR-0",
+    "name": "NVIDIA-NemotronLabs-RE-USE",
     "momentum": null
    },
    "categories": [
@@ -301,7 +301,7 @@
     "Embeddings",
     "Image"
    ],
-   "generated_at": "2026-10-31T15:30:38.560349+00:00"
+   "generated_at": "2026-11-01T16:28:20.111142+00:00"
   },
   {
    "key": "mcp",
@@ -311,9 +311,9 @@
    "url": "https://mcp.kymatalabs.com",
    "accent": "#06b6d4",
    "count_key": "server_count",
-   "count": 1877,
+   "count": 1885,
    "top": {
-    "name": "ai.pullpush/pullpush-mcp",
+    "name": "ai.levelfour/levelfour-mcp",
     "momentum": null
    },
    "categories": [
@@ -322,7 +322,7 @@
     "Data & DB",
     "Dev Tools"
    ],
-   "generated_at": "2026-10-31T15:28:39.735483+00:00"
+   "generated_at": "2026-11-01T16:16:15.537433+00:00"
   },
   {
    "key": "agentvel",
@@ -343,7 +343,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-10-31T15:31:04.727766+00:00"
+   "generated_at": "2026-11-01T16:26:10.272762+00:00"
   }
  ]
 }
