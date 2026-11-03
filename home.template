@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Living Indexes — self-updating maps of the AI-builder ecosystem</title>
+<meta name="description" content="A hub for self-updating indexes of the AI-builder ecosystem — skills, eval tools, local-LLM tooling, and prompt resources — with published GitHub, MCP registry and Hugging Face source signals.">
+<link rel="canonical" href="https://indexes.kymatalabs.com/">
+<meta name="robots" content="index,follow">
+<meta name="keywords" content="AI developer tools directory, claude code skills, llm eval tools, local llm tools, prompt engineering, self-updating index, AI ecosystem map">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://indexes.kymatalabs.com/">
+<meta property="og:title" content="The Living Indexes — self-updating maps of the AI-builder ecosystem">
+<meta property="og:description" content="Seventeen task-focused AI directories with dated GitHub, Hugging Face and MCP registry source signals.">
+<meta property="og:image" content="https://indexes.kymatalabs.com/og.png">
+<meta property="og:site_name" content="The Living Indexes">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="The Living Indexes">
+<meta name="twitter:description" content="Self-updating maps of the AI-builder ecosystem, recomputed on successful refresh.">
+<meta name="twitter:image" content="https://indexes.kymatalabs.com/og.png">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/style.css">
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "WebSite", "name": "The Living Indexes", "url": "https://indexes.kymatalabs.com/", "description": "A hub for self-updating indexes of the AI-builder ecosystem, with published GitHub, MCP registry and Hugging Face source signals.", "publisher": {"@type": "Organization", "name": "Kymata Labs LLC", "url": "https://www.kymatalabs.com"}}
+</script>
+
+
+<!-- catalog:schema:start -->
+<!-- catalog:schema:end -->
+<link rel="alternate" type="application/json" href="/data.json" title="Current catalog snapshot">
+<script defer src="/guidance.js"></script>
+</head>
+<body>
+<div class="kstrip"><div class="wrap">
+  <a href="https://www.kymatalabs.com" target="_blank" rel="noopener"><span class="dot"></span>Kymata Labs</a>
+  <span class="sep">/</span>
+  <span style="opacity:.7">The Living Indexes</span>
+
+</div></div>
+
+<header><div class="wrap head-row">
+  <div class="brand"><span class="dot"></span>The Living Indexes</div>
+  <div class="head-actions">
+    <a href="/llms.txt">llms.txt</a>
+    <a href="/ai.txt">ai.txt</a>
+    <a href="https://github.com/tekvisions" target="_blank" rel="noopener">GitHub</a>
+    <button class="theme-btn" id="theme" aria-label="Toggle theme">◐</button>
+  </div>
+</div></header>
+
+<main>
+  <section class="hero"><div class="wrap">
+    <div class="kicker">Published source signals, dated snapshots</div>
+    <h1 class="serif">Living maps of the<br>AI-builder <em>ecosystem</em>.</h1>
+    <p class="lede">Seventeen self-updating indexes covering AI tools and models, with GitHub activity, MCP registry updates and Hugging Face trending scores. Explore each catalog and its published methodology.</p>
+    <div class="hub-actions"><a class="hub-cta" href="#choose-index">Find your index <span aria-hidden="true">↓</span></a><a href="#catalog-guidance">How to use these directories</a></div><p class="hub-snapshot"><span id="total">5098</span> entries across dated index snapshots. Tools can appear in more than one index.</p>
+  </div></section>
+
+<section class="wrap hub-start" id="choose-index"><h2>What are you building?</h2><p>Choose a task, then compare the tools, sources and limitations in its index.</p><nav class="hub-paths" aria-label="Explore indexes by task"><div><h3>Build agents</h3><ul><li><a href="https://agents.kymatalabs.com/">Agent frameworks <span aria-hidden="true">→</span></a></li><li><a href="https://agentvelocity.kymatalabs.com/">Coding agents <span aria-hidden="true">→</span></a></li><li><a href="https://skill.kymatalabs.com/">Skills and workflows <span aria-hidden="true">→</span></a></li></ul></div><div><h3>Connect models</h3><ul><li><a href="https://mcp.kymatalabs.com/">MCP servers <span aria-hidden="true">→</span></a></li><li><a href="https://gateway.kymatalabs.com/">Gateways and routing <span aria-hidden="true">→</span></a></li></ul></div><div><h3>Work with knowledge</h3><ul><li><a href="https://rag.kymatalabs.com/">Retrieval and RAG <span aria-hidden="true">→</span></a></li><li><a href="https://document.kymatalabs.com/">Document processing <span aria-hidden="true">→</span></a></li><li><a href="https://dataset.kymatalabs.com/">Dataset tools <span aria-hidden="true">→</span></a></li></ul></div><div><h3>Run and train models</h3><ul><li><a href="https://localllm.kymatalabs.com/">Local model tools <span aria-hidden="true">→</span></a></li><li><a href="https://finetune.kymatalabs.com/">Fine-tuning <span aria-hidden="true">→</span></a></li><li><a href="https://modelradar.kymatalabs.com/">Model Radar <span aria-hidden="true">→</span></a></li></ul></div><div><h3>Create audio and visuals</h3><ul><li><a href="https://voice.kymatalabs.com/">Voice and speech <span aria-hidden="true">→</span></a></li><li><a href="https://diffusion.kymatalabs.com/">Image and video <span aria-hidden="true">→</span></a></li></ul></div><div><h3>Evaluate and improve</h3><ul><li><a href="https://eval.kymatalabs.com/">Evaluation tools <span aria-hidden="true">→</span></a></li><li><a href="https://observability.kymatalabs.com/">Observability <span aria-hidden="true">→</span></a></li><li><a href="https://prompt.kymatalabs.com/">Prompt resources <span aria-hidden="true">→</span></a></li><li><a href="https://stacktracker.kymatalabs.com/">Infrastructure trends <span aria-hidden="true">→</span></a></li></ul></div></nav></section>
+  <div class="wrap"><div class="grid" id="grid"><!-- catalog:entries:start -->
+<!-- catalog:entries:end --></div><!-- catalog:pagination:start -->
+<!-- catalog:pagination:end --></div>
+
+
+
+<!-- catalog:about:start -->
+<!-- catalog:about:end -->
+</main>
+<aside data-portfolio-ad="after-content" aria-label="Advertisement" hidden></aside>
+
+<footer><div class="wrap">
+  <div class="blurb">A dated catalog of upstream activity signals. Rankings help discovery; they are not independent tests of quality, adoption or suitability. See the methodology and selection guidance.</div>
+  <div class="links">
+    <a href="https://skill.kymatalabs.com" target="_blank" rel="noopener">Skill Index</a>
+    <a href="https://eval.kymatalabs.com" target="_blank" rel="noopener">Eval Index</a>
+    <a href="https://localllm.kymatalabs.com" target="_blank" rel="noopener">Local LLM Index</a>
+    <a href="https://prompt.kymatalabs.com" target="_blank" rel="noopener">Prompt Index</a>
+    <a href="https://rag.kymatalabs.com" target="_blank" rel="noopener">RAG Index</a>
+    <a href="https://diffusion.kymatalabs.com" target="_blank" rel="noopener">Diffusion Index</a>
+    <a href="https://voice.kymatalabs.com" target="_blank" rel="noopener">Voice AI Index</a>
+    <a href="https://dataset.kymatalabs.com" target="_blank" rel="noopener">Dataset Index</a>
+    <a href="https://finetune.kymatalabs.com" target="_blank" rel="noopener">Fine-Tuning Index</a>
+    <a href="https://stacktracker.kymatalabs.com" target="_blank" rel="noopener">StackTracker</a>
+    <a href="https://modelradar.kymatalabs.com" target="_blank" rel="noopener">Model Radar</a>
+    <a href="https://mcp.kymatalabs.com" target="_blank" rel="noopener">MCP Index</a>
+    <a href="https://agentvelocity.kymatalabs.com" target="_blank" rel="noopener">Agent Velocity</a>
+    <a href="https://gateway.kymatalabs.com" target="_blank" rel="noopener">Gateway Index</a>
+    <a href="https://agents.kymatalabs.com" target="_blank" rel="noopener">Agent Index</a>
+    <a href="https://document.kymatalabs.com" target="_blank" rel="noopener">Document Index</a>
+    <a href="https://observability.kymatalabs.com/">Observability Index</a>
+  </div>
+  <div class="updated" id="updated"></div>
+</div><p class="wrap"><a href="/privacy.html">Privacy and advertising</a> · <button type="button" data-ad-privacy hidden>Advertising privacy choices</button></p>
+</footer>
+
+<script src="/app.js"></script>
+<script defer src="/advertising.js" data-host="indexes.kymatalabs.com" data-approved="false" data-consent-ready="false" data-slot="6939405217"></script>
+</body>
+</html>

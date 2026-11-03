@@ -1,0 +1,13 @@
+{
+  "host": "indexes.kymatalabs.com",
+  "capture_at": "2026-11-03T00:35:46.532297+00:00",
+  "captured_sitemap_sha256": "3afe807c08d9b5e8c666d9226a04f1095cea50aa663a958f52be75df3a230028",
+  "captured_inventory_sha256": "1ef637220f175ffc6211f0d79eed42762e19f426f584a689ca6debc0ff88db9a",
+  "captured_public_urls": [
+    "https://indexes.kymatalabs.com/"
+  ],
+  "retained_references": [],
+  "retirements": [],
+  "planned_release_urls": [],
+  "baseline_maintenance": "This captured baseline and proposed additions are explicit release inputs, not a rolling publication log. After each authorized release, refresh the protected baseline from verified published sitemaps before reviewing the next snapshot; keep capture provenance separate."
+}

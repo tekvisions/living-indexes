@@ -4,101 +4,113 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>The Living Indexes — self-updating maps of the AI-builder ecosystem</title>
-<meta name="description" content="A hub for self-updating indexes of the AI-builder ecosystem — skills, eval tools, local-LLM tooling, and prompt resources — each recomputed daily from live GitHub signals.">
+<meta name="description" content="A hub for self-updating indexes of the AI-builder ecosystem — skills, eval tools, local-LLM tooling, and prompt resources — with published GitHub, MCP registry and Hugging Face source signals.">
 <link rel="canonical" href="https://indexes.kymatalabs.com/">
 <meta name="robots" content="index,follow">
 <meta name="keywords" content="AI developer tools directory, claude code skills, llm eval tools, local llm tools, prompt engineering, self-updating index, AI ecosystem map">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://indexes.kymatalabs.com/">
 <meta property="og:title" content="The Living Indexes — self-updating maps of the AI-builder ecosystem">
-<meta property="og:description" content="Thirteen self-updating indexes of the AI-builder ecosystem — skills, evals, local LLM, prompts, RAG, image/video generation, voice & speech, datasets, fine-tuning, infra, models, MCP, agents — recomputed daily from live GitHub signals.">
+<meta property="og:description" content="Seventeen task-focused AI directories with dated GitHub, Hugging Face and MCP registry source signals.">
 <meta property="og:image" content="https://indexes.kymatalabs.com/og.png">
 <meta property="og:site_name" content="The Living Indexes">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="The Living Indexes">
-<meta name="twitter:description" content="Self-updating maps of the AI-builder ecosystem, recomputed daily.">
+<meta name="twitter:description" content="Self-updating maps of the AI-builder ecosystem, recomputed on successful refresh.">
 <meta name="twitter:image" content="https://indexes.kymatalabs.com/og.png">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="/style.css">
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "WebSite", "name": "The Living Indexes", "url": "https://indexes.kymatalabs.com/", "description": "A hub for self-updating indexes of the AI-builder ecosystem, each recomputed daily from live GitHub signals.", "publisher": {"@type": "Organization", "name": "Kymata Labs LLC", "url": "https://www.kymatalabs.com"}}
+{"@context": "https://schema.org", "@type": "WebSite", "name": "The Living Indexes", "url": "https://indexes.kymatalabs.com/", "description": "A hub for self-updating indexes of the AI-builder ecosystem, with published GitHub, MCP registry and Hugging Face source signals.", "publisher": {"@type": "Organization", "name": "Kymata Labs LLC", "url": "https://www.kymatalabs.com"}}
 </script>
-<script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "CollectionPage", "name": "The Living Indexes", "url": "https://indexes.kymatalabs.com/", "description": "A fleet of 17 self-updating indexes of the AI-builder ecosystem, each recomputed daily from live GitHub signals.", "hasPart": {"@type": "ItemList", "numberOfItems": 17, "itemListElement": [{"@type": "ListItem", "position": 1, "url": "https://skill.kymatalabs.com/", "name": "The Skill Index", "description": "A living index of Claude Code & AI-agent skills, ranked daily by GitHub momentum."}, {"@type": "ListItem", "position": 2, "url": "https://eval.kymatalabs.com/", "name": "The Eval Index", "description": "A living index of LLM evaluation & benchmarking tools, ranked daily by GitHub momentum."}, {"@type": "ListItem", "position": 3, "url": "https://localllm.kymatalabs.com/", "name": "The Local LLM Index", "description": "A living index of tools for running LLMs locally, ranked daily by GitHub momentum."}, {"@type": "ListItem", "position": 4, "url": "https://prompt.kymatalabs.com/", "name": "The Prompt Index", "description": "A living index of prompt-engineering resources, ranked daily by GitHub momentum."}, {"@type": "ListItem", "position": 5, "url": "https://rag.kymatalabs.com/", "name": "The RAG Index", "description": "A living index of retrieval-augmented-generation tooling, ranked daily by GitHub momentum."}, {"@type": "ListItem", "position": 6, "url": "https://diffusion.kymatalabs.com/", "name": "The Diffusion Index", "description": "A living index of AI image & video generation, ranked daily by GitHub momentum."}, {"@type": "ListItem", "position": 7, "url": "https://voice.kymatalabs.com/", "name": "The Voice AI Index", "description": "A living index of voice & speech AI, ranked daily by GitHub momentum."}, {"@type": "ListItem", "position": 8, "url": "https://dataset.kymatalabs.com/", "name": "The Dataset Index", "description": "A living index of data-centric AI tooling, ranked daily by GitHub momentum."}, {"@type": "ListItem", "position": 9, "url": "https://finetune.kymatalabs.com/", "name": "The Fine-Tuning Index", "description": "A living index of LLM fine-tuning, ranked daily by GitHub momentum."}, {"@type": "ListItem", "position": 10, "url": "https://stacktracker.kymatalabs.com/", "name": "StackTracker", "description": "A living index of AI-infrastructure momentum, ranked daily by GitHub momentum."}, {"@type": "ListItem", "position": 11, "url": "https://modelradar.kymatalabs.com/", "name": "Model Radar", "description": "A living index of what's surging on Hugging Face, ranked daily by GitHub momentum."}, {"@type": "ListItem", "position": 12, "url": "https://mcp.kymatalabs.com/", "name": "The MCP Index", "description": "A living index of Model Context Protocol servers, ranked daily by GitHub momentum."}, {"@type": "ListItem", "position": 13, "url": "https://agentvelocity.kymatalabs.com/", "name": "Agent Velocity", "description": "A living index of the open-source coding-agent race, ranked daily by GitHub momentum."}, {"@type": "ListItem", "position": 14, "url": "https://gateway.kymatalabs.com/", "name": "The Gateway Index", "description": "A living index of LLM gateways, proxies & routers, ranked daily by GitHub momentum."}, {"@type": "ListItem", "position": 15, "url": "https://agents.kymatalabs.com/", "name": "The Agent Index", "description": "A living index of AI agent frameworks — multi-agent, autonomous, orchestration & memory — ranked daily by GitHub momentum."}, {"@type": "ListItem", "position": 16, "url": "https://document.kymatalabs.com/", "name": "The Document Index", "description": "A living index of document-AI tooling — OCR, PDF extraction, parsing, layout & tables — ranked daily by GitHub momentum."}, {"@type": "ListItem", "position": 17, "url": "https://observability.kymatalabs.com/", "name": "The Observability Index", "description": "A living index of LLM & AI observability tooling — tracing, monitoring, online eval & ML-drift — ranked daily by GitHub momentum."}]}}
-</script>
-<script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What are The Living Indexes?", "acceptedAnswer": {"@type": "Answer", "text": "The Living Indexes are a fleet of 17 self-updating directories of the AI-builder ecosystem — covering Claude Code skills, LLM evaluation, local LLMs, prompts, RAG, image and video generation, voice and speech, datasets, fine-tuning, infrastructure, Hugging Face models, MCP servers, coding agents, LLM gateways, agent frameworks, document AI and LLM observability. Each index ranks hundreds of open-source tools by momentum, recomputed every day from live GitHub signals, and is published by Kymata Labs."}}, {"@type": "Question", "name": "How is momentum scored across the fleet?", "acceptedAnswer": {"@type": "Answer", "text": "Momentum is a 0–100 score that blends log-scaled GitHub stars (55%), push-recency (32%, full credit if pushed today, decaying to zero by about 180 days), and rising-newness (13%, a bonus for young repositories gaining stars fast). A tool that shipped this week can outrank a larger tool that has gone quiet."}}, {"@type": "Question", "name": "How often are the indexes updated?", "acceptedAnswer": {"@type": "Answer", "text": "Every day. Each index recomputes each tool's momentum from live GitHub signals and republishes the site automatically — so every index reflects the ecosystem as it is today."}}, {"@type": "Question", "name": "Who builds and operates The Living Indexes?", "acceptedAnswer": {"@type": "Answer", "text": "The Living Indexes are published by Kymata Labs (kymatalabs.com). Each index is its own self-updating site; this hub aggregates the fleet."}}]}
-</script>
+
+
+<!-- catalog:schema:start -->
+<script type="application/ld+json" id="catalog-schema">{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","@id":"https://indexes.kymatalabs.com/#catalog","url":"https://indexes.kymatalabs.com/","name":"The Living Indexes","dateModified":"2026-11-03","inLanguage":"en","mainEntity":{"@id":"https://indexes.kymatalabs.com/#entries"},"isPartOf":{"@type":"WebSite","url":"https://indexes.kymatalabs.com/","name":"The Living Indexes"}},{"@type":"ItemList","@id":"https://indexes.kymatalabs.com/#entries","name":"The Living Indexes catalog snapshot","numberOfItems":17,"itemListElement":[{"@type":"ListItem","position":1,"url":"https://skill.kymatalabs.com/","name":"The Skill Index"},{"@type":"ListItem","position":2,"url":"https://eval.kymatalabs.com/","name":"The Eval Index"},{"@type":"ListItem","position":3,"url":"https://localllm.kymatalabs.com/","name":"The Local LLM Index"},{"@type":"ListItem","position":4,"url":"https://prompt.kymatalabs.com/","name":"The Prompt Index"},{"@type":"ListItem","position":5,"url":"https://rag.kymatalabs.com/","name":"The RAG Index"},{"@type":"ListItem","position":6,"url":"https://diffusion.kymatalabs.com/","name":"The Diffusion Index"},{"@type":"ListItem","position":7,"url":"https://voice.kymatalabs.com/","name":"The Voice AI Index"},{"@type":"ListItem","position":8,"url":"https://dataset.kymatalabs.com/","name":"The Dataset Index"},{"@type":"ListItem","position":9,"url":"https://finetune.kymatalabs.com/","name":"The Fine-Tuning Index"},{"@type":"ListItem","position":10,"url":"https://gateway.kymatalabs.com/","name":"The Gateway Index"},{"@type":"ListItem","position":11,"url":"https://agents.kymatalabs.com/","name":"The Agent Index"},{"@type":"ListItem","position":12,"url":"https://document.kymatalabs.com/","name":"The Document Index"},{"@type":"ListItem","position":13,"url":"https://observability.kymatalabs.com/","name":"The Observability Index"},{"@type":"ListItem","position":14,"url":"https://stacktracker.kymatalabs.com/","name":"StackTracker"},{"@type":"ListItem","position":15,"url":"https://modelradar.kymatalabs.com/","name":"Model Radar"},{"@type":"ListItem","position":16,"url":"https://mcp.kymatalabs.com/","name":"The MCP Index"},{"@type":"ListItem","position":17,"url":"https://agentvelocity.kymatalabs.com/","name":"Agent Velocity"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What does this catalog cover?","acceptedAnswer":{"@type":"Answer","text":"The Living Indexes contains 17 records in the snapshot dated 2026-11-02T19:35:15.070137+00:00. Coverage is defined by its published data source and collection rules; inclusion is not an endorsement."}},{"@type":"Question","name":"How is the default order determined?","acceptedAnswer":{"@type":"Answer","text":"This hub reads each sibling data.json and links to its own methodology. GitHub-discovery directories, commit-velocity trackers, the official MCP registry directory and Hugging Face Model Radar use different signals. Counts sum catalog records rather than unique products across the fleet; unknown sibling counts are omitted from the sum."}},{"@type":"Question","name":"When was this snapshot collected?","acceptedAnswer":{"@type":"Answer","text":"The recorded snapshot time is 2026-11-02T19:35:15.070137+00:00. The refresh workflow is scheduled daily; this timestamp records the available data rather than guaranteeing a successful refresh every day."}}]}]}</script>
+<!-- catalog:schema:end -->
+<link rel="alternate" type="application/json" href="/data.json" title="Current catalog snapshot">
+<script defer src="/guidance.js"></script>
+<script defer src="/fleet.js"></script>
 </head>
-<body>
+<body><a class="skip-link" href="#main-content">Skip to main content</a>
 <div class="kstrip"><div class="wrap">
   <a href="https://www.kymatalabs.com" target="_blank" rel="noopener"><span class="dot"></span>Kymata Labs</a>
   <span class="sep">/</span>
   <span style="opacity:.7">The Living Indexes</span>
-  <span class="grow"></span>
-  <a href="https://www.kymatalabs.com/live" target="_blank" rel="noopener">Built by tekvisions ↗</a>
+
 </div></div>
 
 <header><div class="wrap head-row">
   <div class="brand"><span class="dot"></span>The Living Indexes</div>
   <div class="head-actions">
-    <a href="/llms.txt">llms.txt</a>
-    <a href="/ai.txt">ai.txt</a>
+    
+    
     <a href="https://github.com/tekvisions" target="_blank" rel="noopener">GitHub</a>
     <button class="theme-btn" id="theme" aria-label="Toggle theme">◐</button>
   </div>
 </div></header>
 
-<main>
+<main id="main-content">
   <section class="hero"><div class="wrap">
-    <div class="kicker">Recomputed daily from live GitHub signals</div>
-    <h1 class="serif">Living maps of what<br>builders <em>actually</em> use.</h1>
-    <p class="lede">Seventeen self-updating indexes of the AI-builder ecosystem. No editors, no vendor decks — every entry ranked by momentum, refreshed every day.</p>
-    <div class="bignum"><div class="n serif" id="total">0</div><div class="l">entries indexed across the fleet</div></div>
+    <div class="kicker">Published source signals, dated snapshots</div>
+    <h1 class="serif">Living maps of the<br>AI-builder <em>ecosystem</em>.</h1>
+    <p class="lede">Seventeen self-updating indexes covering AI tools and models, with GitHub activity, MCP registry updates and Hugging Face trending scores. Explore each catalog and its published methodology.</p>
+    <div class="hub-actions"><a class="hub-cta" href="#choose-index">Find your index <span aria-hidden="true">↓</span></a><a href="#catalog-guidance">How to use these directories</a></div><p class="hub-snapshot"><span id="total">5098</span> entries across dated index snapshots. Tools can appear in more than one index.</p>
   </div></section>
 
-  <div class="wrap"><div class="grid" id="grid"></div></div>
-  <section class="about"><div class="wrap">
-    <h2>The fleet — 17 living indexes</h2>
-    <div class="fleet">
-      <a class="fcard" href="https://skill.kymatalabs.com" target="_blank" rel="noopener"><span class="fn">The Skill Index</span><span class="fd">Claude Code &amp; AI-agent skills</span></a>
-      <a class="fcard" href="https://eval.kymatalabs.com" target="_blank" rel="noopener"><span class="fn">The Eval Index</span><span class="fd">LLM evaluation &amp; benchmarking tools</span></a>
-      <a class="fcard" href="https://localllm.kymatalabs.com" target="_blank" rel="noopener"><span class="fn">The Local LLM Index</span><span class="fd">tools for running LLMs locally</span></a>
-      <a class="fcard" href="https://prompt.kymatalabs.com" target="_blank" rel="noopener"><span class="fn">The Prompt Index</span><span class="fd">prompt-engineering resources</span></a>
-      <a class="fcard" href="https://rag.kymatalabs.com" target="_blank" rel="noopener"><span class="fn">The RAG Index</span><span class="fd">retrieval-augmented-generation tooling</span></a>
-      <a class="fcard" href="https://diffusion.kymatalabs.com" target="_blank" rel="noopener"><span class="fn">The Diffusion Index</span><span class="fd">AI image &amp; video generation</span></a>
-      <a class="fcard" href="https://voice.kymatalabs.com" target="_blank" rel="noopener"><span class="fn">The Voice AI Index</span><span class="fd">voice &amp; speech AI</span></a>
-      <a class="fcard" href="https://dataset.kymatalabs.com" target="_blank" rel="noopener"><span class="fn">The Dataset Index</span><span class="fd">data-centric AI tooling</span></a>
-      <a class="fcard" href="https://finetune.kymatalabs.com" target="_blank" rel="noopener"><span class="fn">The Fine-Tuning Index</span><span class="fd">LLM fine-tuning</span></a>
-      <a class="fcard" href="https://stacktracker.kymatalabs.com" target="_blank" rel="noopener"><span class="fn">StackTracker</span><span class="fd">AI-infrastructure momentum</span></a>
-      <a class="fcard" href="https://modelradar.kymatalabs.com" target="_blank" rel="noopener"><span class="fn">Model Radar</span><span class="fd">what's surging on Hugging Face</span></a>
-      <a class="fcard" href="https://mcp.kymatalabs.com" target="_blank" rel="noopener"><span class="fn">The MCP Index</span><span class="fd">Model Context Protocol servers</span></a>
-      <a class="fcard" href="https://agentvelocity.kymatalabs.com" target="_blank" rel="noopener"><span class="fn">Agent Velocity</span><span class="fd">the open-source coding-agent race</span></a>
-      <a class="fcard" href="https://gateway.kymatalabs.com" target="_blank" rel="noopener"><span class="fn">The Gateway Index</span><span class="fd">LLM gateways, proxies &amp; routers</span></a>
-      <a class="fcard" href="https://agents.kymatalabs.com" target="_blank" rel="noopener"><span class="fn">The Agent Index</span><span class="fd">AI agent frameworks</span></a>
-      <a class="fcard" href="https://document.kymatalabs.com" target="_blank" rel="noopener"><span class="fn">The Document Index</span><span class="fd">document AI, OCR &amp; extraction</span></a>
-      <a class="fcard" href="https://observability.kymatalabs.com" target="_blank" rel="noopener"><span class="fn">The Observability Index</span><span class="fd">LLM &amp; AI observability</span></a>
-    </div>
-  </div></section>
+<section class="wrap hub-start" id="choose-index"><h2>What are you building?</h2><p>Choose a task, then compare the tools, sources and limitations in its index.</p><nav class="hub-paths" aria-label="Explore indexes by task"><div><h3>Build agents</h3><ul><li><a href="https://agents.kymatalabs.com/">Agent frameworks <span aria-hidden="true">→</span></a></li><li><a href="https://agentvelocity.kymatalabs.com/">Coding agents <span aria-hidden="true">→</span></a></li><li><a href="https://skill.kymatalabs.com/">Skills and workflows <span aria-hidden="true">→</span></a></li></ul></div><div><h3>Connect models</h3><ul><li><a href="https://mcp.kymatalabs.com/">MCP servers <span aria-hidden="true">→</span></a></li><li><a href="https://gateway.kymatalabs.com/">Gateways and routing <span aria-hidden="true">→</span></a></li></ul></div><div><h3>Work with knowledge</h3><ul><li><a href="https://rag.kymatalabs.com/">Retrieval and RAG <span aria-hidden="true">→</span></a></li><li><a href="https://document.kymatalabs.com/">Document processing <span aria-hidden="true">→</span></a></li><li><a href="https://dataset.kymatalabs.com/">Dataset tools <span aria-hidden="true">→</span></a></li></ul></div><div><h3>Run and train models</h3><ul><li><a href="https://localllm.kymatalabs.com/">Local model tools <span aria-hidden="true">→</span></a></li><li><a href="https://finetune.kymatalabs.com/">Fine-tuning <span aria-hidden="true">→</span></a></li><li><a href="https://modelradar.kymatalabs.com/">Model Radar <span aria-hidden="true">→</span></a></li></ul></div><div><h3>Create audio and visuals</h3><ul><li><a href="https://voice.kymatalabs.com/">Voice and speech <span aria-hidden="true">→</span></a></li><li><a href="https://diffusion.kymatalabs.com/">Image and video <span aria-hidden="true">→</span></a></li></ul></div><div><h3>Evaluate and improve</h3><ul><li><a href="https://eval.kymatalabs.com/">Evaluation tools <span aria-hidden="true">→</span></a></li><li><a href="https://observability.kymatalabs.com/">Observability <span aria-hidden="true">→</span></a></li><li><a href="https://prompt.kymatalabs.com/">Prompt resources <span aria-hidden="true">→</span></a></li><li><a href="https://stacktracker.kymatalabs.com/">Infrastructure trends <span aria-hidden="true">→</span></a></li></ul></div></nav></section>
+  <div class="wrap"><h2 class="fleet-list-title">Browse the catalog</h2><div class="grid" id="grid"><!-- catalog:entries:start -->
+<p class="catalog-guide-jump"><a href="#catalog-guidance">How to choose: scope, evidence and limitations</a></p><ol class="catalog-snapshot">
+<li value="1"><a href="https://skill.kymatalabs.com/">The Skill Index</a><span class="catalog-category">Skills</span><p>Claude Code &amp; AI-agent skills — skills, subagents, slash-commands, hooks.</p><small>286 entries in sibling snapshot · source snapshot 2026-11-02 · A previously featured entry is now an unranked reference under inclusion review; consult the index.</small></li>
+<li value="2"><a href="https://eval.kymatalabs.com/">The Eval Index</a><span class="catalog-category">Evals</span><p>LLM &amp; agent evaluation, benchmark, observability and red-teaming tools.</p><small>280 entries in sibling snapshot · source snapshot 2026-11-02</small></li>
+<li value="3"><a href="https://localllm.kymatalabs.com/">The Local LLM Index</a><span class="catalog-category">Local</span><p>Run LLMs on your own hardware — inference engines, runners, quantization.</p><small>240 entries in sibling snapshot · source snapshot 2026-11-02</small></li>
+<li value="4"><a href="https://prompt.kymatalabs.com/">The Prompt Index</a><span class="catalog-category">Prompts</span><p>Prompt-engineering resources — collections, system prompts, optimizers, guides.</p><small>137 entries in sibling snapshot · source snapshot 2026-11-02</small></li>
+<li value="5"><a href="https://rag.kymatalabs.com/">The RAG Index</a><span class="catalog-category">RAG</span><p>Retrieval-augmented-generation — RAG frameworks, vector DBs, embeddings, reranking.</p><small>220 entries in sibling snapshot · source snapshot 2026-11-02</small></li>
+<li value="6"><a href="https://diffusion.kymatalabs.com/">The Diffusion Index</a><span class="catalog-category">Image/Video</span><p>AI image &amp; video generation — diffusion models, ComfyUI nodes, video gen, editing, training.</p><small>266 entries in sibling snapshot · source snapshot 2026-11-01</small></li>
+<li value="7"><a href="https://voice.kymatalabs.com/">The Voice AI Index</a><span class="catalog-category">Voice</span><p>Voice &amp; speech AI — text-to-speech, speech recognition, voice cloning, realtime voice agents.</p><small>285 entries in sibling snapshot · source snapshot 2026-11-01 · A previously featured entry is now an unranked reference under inclusion review; consult the index.</small></li>
+<li value="8"><a href="https://dataset.kymatalabs.com/">The Dataset Index</a><span class="catalog-category">Data</span><p>Data-centric AI tooling — labeling &amp; annotation, synthetic data, curation, augmentation, dataset frameworks.</p><small>253 entries in sibling snapshot · source snapshot 2026-11-01 · A previously featured entry is now an unranked reference under inclusion review; consult the index.</small></li>
+<li value="9"><a href="https://finetune.kymatalabs.com/">The Fine-Tuning Index</a><span class="catalog-category">Fine-Tuning</span><p>Make your own model — fine-tuning frameworks, PEFT/LoRA, RLHF/DPO, training data.</p><small>184 entries in sibling snapshot · source snapshot 2026-11-02</small></li>
+<li value="10"><a href="https://gateway.kymatalabs.com/">The Gateway Index</a><span class="catalog-category">Gateways</span><p>LLM gateways, proxies &amp; routers — the routing layer between apps and model providers.</p><small>229 entries in sibling snapshot · source snapshot 2026-11-01</small></li>
+<li value="11"><a href="https://agents.kymatalabs.com/">The Agent Index</a><span class="catalog-category">Agents</span><p>AI agent frameworks — multi-agent, autonomous agents, orchestration, memory &amp; agent SDKs.</p><small>278 entries in sibling snapshot · source snapshot 2026-11-01</small></li>
+<li value="12"><a href="https://document.kymatalabs.com/">The Document Index</a><span class="catalog-category">Documents</span><p>Document-AI tooling — OCR, PDF extraction, document parsing, layout, tables &amp; understanding.</p><small>233 entries in sibling snapshot · source snapshot 2026-11-01</small></li>
+<li value="13"><a href="https://observability.kymatalabs.com/">The Observability Index</a><span class="catalog-category">Observability</span><p>LLM &amp; AI observability — tracing, monitoring &amp; cost analytics, online eval, agent observability, ML-drift.</p><small>158 entries in sibling snapshot · source snapshot 2026-11-01</small></li>
+<li value="14"><a href="https://stacktracker.kymatalabs.com/">StackTracker</a><span class="catalog-category">Infra</span><p>The live momentum index for AI-infrastructure repos.</p><small>Sibling count unavailable · source snapshot 2026-11-01</small></li>
+<li value="15"><a href="https://modelradar.kymatalabs.com/">Model Radar</a><span class="catalog-category">Models</span><p>Hugging Face models with upstream trending, download and like signals.</p><small>150 entries in sibling snapshot · source snapshot 2026-11-01</small></li>
+<li value="16"><a href="https://mcp.kymatalabs.com/">The MCP Index</a><span class="catalog-category">MCP</span><p>Model Context Protocol registry entries, with source coverage and transport details.</p><small>1,885 entries in sibling snapshot · source snapshot 2026-11-01 · Check source coverage on the index; this count is not proof of a complete registry.</small></li>
+<li value="17"><a href="https://agentvelocity.kymatalabs.com/">Agent Velocity</a><span class="catalog-category">Agents</span><p>The open-source coding-agent race, ranked by velocity.</p><small>14 entries in sibling snapshot · source snapshot 2026-11-01</small></li>
+</ol>
+<!-- catalog:entries:end --></div><!-- catalog:pagination:start -->
 
-  <section class="about"><div class="wrap">
-    <h2>About The Living Indexes</h2>
-    <p class="intro">The Living Indexes are a fleet of 17 self-updating directories of the AI-builder ecosystem — from Claude Code skills, evals and local LLMs to RAG, image and video generation, voice, datasets, fine-tuning, MCP servers, coding agents, LLM gateways, agent frameworks, document AI and LLM observability. Each index ranks hundreds of open-source tools by momentum, recomputed daily from live GitHub signals, so the maps reflect what builders are actually adopting right now — not last year. The whole fleet is built and operated end-to-end by <a href="https://www.kymatalabs.com">Kymata Labs</a>' AI agents.</p>
-    <div class="faq">
-      <div class="q"><h3>How is momentum scored?</h3><p>A 0&ndash;100 score blending log-scaled stars (55%), push-recency (32%, decaying to zero by ~180 days) and rising-newness (13%). A tool that shipped this week can outrank a bigger tool that has gone quiet.</p></div>
-      <div class="q"><h3>How often is it updated?</h3><p>Every day. Each index recomputes momentum and redeploys automatically.</p></div>
-      <div class="q"><h3>Who builds it?</h3><p>Kymata Labs publishes the collection. Each index presents regularly updated rankings; this hub brings them together.</p></div>
-      <div class="q"><h3>Machine-readable</h3><p>Every index exposes <a href="/llms.txt">llms.txt</a>, <code>ai.txt</code> and a <code>sitemap.xml</code> for AI and search crawlers.</p></div>
-    </div>
-  </div></section>
+<!-- catalog:pagination:end --></div>
+
+
+
+<!-- catalog:about:start -->
+<section class="catalog-about selection-guide" id="catalog-guidance"><h2>Find the index for the decision you are making</h2>
+<p>Start with your task, then open the relevant catalog and its methodology. The fleet combines different sources and scoring methods; counts can overlap and are not a count of unique products or independently tested recommendations.</p>
+<p class="guide-date">Guide sources reviewed <time datetime="2026-11-03">2026-11-03</time>. Catalog snapshot: <time datetime="2026-11-02T19:35:15.070137+00:00">2026-11-02T19:35:15.070137+00:00</time>. Source review does not mean runtime testing.</p>
+<div class="selection-choices">
+<div><h3>Build an application</h3><p>Explore agent frameworks, prompts, RAG, MCP connectors, document processing and voice components. Follow a project to its own source and verify how it fits the complete workflow.</p>
+</div>
+<div><h3>Run or adapt a model</h3><p>Use Model Radar for model discovery, Local LLM for runtime layers, Fine-Tuning for adaptation tooling and Diffusion for image/video workflows. Verify code and model artifacts separately.</p>
+</div>
+<div><h3>Measure and operate</h3><p>Use Eval for evaluation approaches, Observability for inspecting runs, Gateway for request routing and the shipping trackers for public activity signals. Define success before comparing candidates.</p>
+</div>
+</div><h3>Evidence to check before choosing</h3><ul>
+<li>Choose a component role before comparing popularity or activity scores.</li>
+<li>Check source dates, scope notes, licenses, versions and known limitations.</li>
+<li>Use a representative, permitted task trial to evaluate suitability; no cross-index score is a universal quality ranking.</li>
+</ul>
+<h3>What remains unknown</h3><p>The hub does not independently benchmark all indexed projects, deduplicate all overlapping tools, or verify production suitability and AI citation outcomes.</p>
+<h3>Sources and scope</h3><ul>
+<li><a href="https://github.com/tekvisions/living-indexes/blob/6771b3bc6c3f7eee1cd027d7d735d3c9dcc5f8d9/build_data.py">Published collection and scoring rules</a></li>
+</ul><p>Continue by task: <a href="https://agents.kymatalabs.com/">agents</a> · <a href="https://modelradar.kymatalabs.com/">modelradar</a> · <a href="https://eval.kymatalabs.com/">eval</a>.</p></section><section class="catalog-about" id="catalog-methodology"><h2>About The Living Indexes</h2><p>Snapshot: <time datetime="2026-11-02T19:35:15.070137+00:00">2026-11-02T19:35:15.070137+00:00</time> · 17 catalog records.</p><p>Source: <a href="https://indexes.kymatalabs.com/">Published sibling index snapshots</a>. <a href="https://github.com/tekvisions/living-indexes/blob/main/build_data.py">Collection and scoring source</a> · <a href="/data.json">Current JSON snapshot</a> · <a href="/sitemap.xml">Page inventory</a>.</p><h3>What does this catalog cover?</h3><p>The Living Indexes contains 17 records in the snapshot dated 2026-11-02T19:35:15.070137+00:00. Coverage is defined by its published data source and collection rules; inclusion is not an endorsement.</p><h3>How is the default order determined?</h3><p>This hub reads each sibling data.json and links to its own methodology. GitHub-discovery directories, commit-velocity trackers, the official MCP registry directory and Hugging Face Model Radar use different signals. Counts sum catalog records rather than unique products across the fleet; unknown sibling counts are omitted from the sum.</p><h3>When was this snapshot collected?</h3><p>The recorded snapshot time is 2026-11-02T19:35:15.070137+00:00. The refresh workflow is scheduled daily; this timestamp records the available data rather than guaranteeing a successful refresh every day.</p><p>Browse <a href="https://indexes.kymatalabs.com/">The Living Indexes</a> by topic. Published by <a href="https://www.kymatalabs.com/">Kymata Labs</a>.</p></section>
+<!-- catalog:about:end -->
 </main>
 <aside data-portfolio-ad="after-content" aria-label="Advertisement" hidden></aside>
 
 <footer><div class="wrap">
-  <div class="blurb">Each index is its own self-updating site — a daily refresh recomputes momentum (stars, push-recency, rising-newness) and republishes. Built by tekvisions.</div>
+  <div class="blurb">A dated catalog of upstream activity signals. Rankings help discovery; they are not independent tests of quality, adoption or suitability. See the methodology and selection guidance.</div>
   <div class="links">
     <a href="https://skill.kymatalabs.com" target="_blank" rel="noopener">Skill Index</a>
     <a href="https://eval.kymatalabs.com" target="_blank" rel="noopener">Eval Index</a>
@@ -116,12 +128,13 @@
     <a href="https://gateway.kymatalabs.com" target="_blank" rel="noopener">Gateway Index</a>
     <a href="https://agents.kymatalabs.com" target="_blank" rel="noopener">Agent Index</a>
     <a href="https://document.kymatalabs.com" target="_blank" rel="noopener">Document Index</a>
+    <a href="https://observability.kymatalabs.com/">Observability Index</a>
   </div>
   <div class="updated" id="updated"></div>
 </div><p class="wrap"><a href="/privacy.html">Privacy and advertising</a> · <button type="button" data-ad-privacy hidden>Advertising privacy choices</button></p>
 </footer>
 
-<script src="/app.js"></script>
+<script defer src="/app.js"></script>
 <script defer src="/advertising.js" data-host="indexes.kymatalabs.com" data-approved="false" data-consent-ready="false" data-slot="6939405217"></script>
 </body>
 </html>

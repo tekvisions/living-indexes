@@ -1,0 +1,26 @@
+{
+  "host": "indexes.kymatalabs.com",
+  "root_files": [
+    "061be3a140873a0279322a63c48f10ef.txt",
+    "ads.txt",
+    "advertising.js",
+    "ai.txt",
+    "app.js",
+    "data.json",
+    "favicon.svg",
+    "guidance.js",
+    "index.html",
+    "llms.txt",
+    "og.png",
+    "privacy.html",
+    "robots.txt",
+    "sitemap.xml",
+    "style.css",
+    "fleet.css",
+    "fleet.js",
+    "catalog.json"
+  ],
+  "legacy_source_paths": [],
+  "source_registration_commit": "ff5c74177a3c5905385ddb06b036c740957094d2",
+  "meaning": "Exact prior tracked static paths retained as source-preservation candidates, not a claim every path is currently live/indexed. New outputs require the same-host sitemap or matching entity badge slug. Private evidence/account/patch/log files are never extension-scanned."
+}

@@ -62,12 +62,12 @@ INDEXES = [
     # (so each carries a `count_key`). They predate the `count`/`items` schema.
     {"key": "stack", "name": "StackTracker", "tag": "Infra",
      "blurb": "The live momentum index for AI-infrastructure repos.",
-     "url": "https://stacktracker.kymatalabs.com", "accent": "#00d4a0"},
+     "url": "https://stacktracker.kymatalabs.com", "accent": "#00d4a0", "count_key": "repo_count"},
     {"key": "model", "name": "Model Radar", "tag": "Models",
-     "blurb": "What's surging on Hugging Face right now — models ranked by momentum.",
+     "blurb": "Hugging Face models with upstream trending, download and like signals.",
      "url": "https://modelradar.kymatalabs.com", "accent": "#d946ef", "count_key": "model_count"},
     {"key": "mcp", "name": "The MCP Index", "tag": "MCP",
-     "blurb": "Every Model Context Protocol server, in one living index.",
+     "blurb": "Model Context Protocol registry entries with source coverage and transport details.",
      "url": "https://mcp.kymatalabs.com", "accent": "#06b6d4", "count_key": "server_count"},
     {"key": "agentvel", "name": "Agent Velocity", "tag": "Agents",
      "blurb": "The open-source coding-agent race, ranked by velocity.",
@@ -86,23 +86,8 @@ def fetch_summary(idx: dict) -> dict:
                                      headers={"User-Agent": "living-indexes"})
         with urllib.request.urlopen(req, timeout=20) as r:
             d = json.loads(r.read())
-        out["count"] = d.get(idx.get("count_key", "count"))
-        out["generated_at"] = d.get("generated_at")
-        # categories may be [{name}], [str], or a {name:count} dict — normalize to up-to-4 names
-        cats = d.get("categories")
-        if isinstance(cats, dict):
-            names = list(cats.keys())
-        elif isinstance(cats, list):
-            names = [c.get("name") if isinstance(c, dict) else c for c in cats]
-        else:
-            names = []
-        out["categories"] = [n for n in names if n][:4]
-        # top mover: new schema uses `items`; trackers use `repos`/`trending`/`movers`
-        items = d.get("items") or d.get("repos") or d.get("trending") or d.get("movers") or []
-        if items and isinstance(items[0], dict):
-            it = items[0]
-            out["top"] = {"name": it.get("full_name") or it.get("name") or it.get("repo"),
-                          "momentum": it.get("momentum") or it.get("score")}
+        from summary_policy import summarize
+        out = summarize(d, idx)
     except Exception as e:
         print(f"  {idx['key']} summary failed: {e}", file=sys.stderr)
     return out
@@ -116,7 +101,7 @@ def main() -> int:
     with open(os.path.join(HERE, "data.json"), "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=1)
 
-    # SEO: sitemap + robots + llms.txt (the hub is a single page + the 4 outbound links)
+    # SEO: sitemap + robots + llms.txt (the hub is a single page + the sibling index links)
     now = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     open(os.path.join(HERE, "sitemap.xml"), "w", encoding="utf-8").write(
         '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
@@ -126,7 +111,7 @@ def main() -> int:
         f"User-agent: *\nAllow: /\nSitemap: {SITE_URL}/sitemap.xml\n")
     lines = [f"# {SITE_NAME}", "",
              "> A hub for self-updating indexes of the AI-builder ecosystem. Each index is",
-             "> recomputed daily from live GitHub signals.", "",
+             "> refreshed from its published source signals (GitHub, the MCP registry or Hugging Face).", "",
              f"Updated: {data['generated_at']}  ·  {total} entries across {len(summaries)} indexes", ""]
     for s in summaries:
         lines.append(f"- [{s['name']}]({s['url']}) — {s['count']} entries — {s['blurb']}")

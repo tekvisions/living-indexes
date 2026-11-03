@@ -1,24 +1,42 @@
 # The Living Indexes
 
-> A hub for self-updating indexes of the AI-builder ecosystem. Each index is
-> recomputed daily from live GitHub signals.
+> The Living Indexes: a source-backed catalog published by Kymata Labs.
 
-Updated: 2026-11-02T19:35:15.070137+00:00  ·  5098 entries across 17 indexes
+Snapshot collected: 2026-11-02T19:35:15.070137+00:00
+Current catalog records: 17
 
-- [The Skill Index](https://skill.kymatalabs.com) — 286 entries — Claude Code & AI-agent skills — skills, subagents, slash-commands, hooks.
-- [The Eval Index](https://eval.kymatalabs.com) — 280 entries — LLM & agent evaluation, benchmark, observability and red-teaming tools.
-- [The Local LLM Index](https://localllm.kymatalabs.com) — 240 entries — Run LLMs on your own hardware — inference engines, runners, quantization.
-- [The Prompt Index](https://prompt.kymatalabs.com) — 137 entries — Prompt-engineering resources — collections, system prompts, optimizers, guides.
-- [The RAG Index](https://rag.kymatalabs.com) — 220 entries — Retrieval-augmented-generation — RAG frameworks, vector DBs, embeddings, reranking.
-- [The Diffusion Index](https://diffusion.kymatalabs.com) — 266 entries — AI image & video generation — diffusion models, ComfyUI nodes, video gen, editing, training.
-- [The Voice AI Index](https://voice.kymatalabs.com) — 285 entries — Voice & speech AI — text-to-speech, speech recognition, voice cloning, realtime voice agents.
-- [The Dataset Index](https://dataset.kymatalabs.com) — 253 entries — Data-centric AI tooling — labeling & annotation, synthetic data, curation, augmentation, dataset frameworks.
-- [The Fine-Tuning Index](https://finetune.kymatalabs.com) — 184 entries — Make your own model — fine-tuning frameworks, PEFT/LoRA, RLHF/DPO, training data.
-- [The Gateway Index](https://gateway.kymatalabs.com) — 229 entries — LLM gateways, proxies & routers — the routing layer between apps and model providers.
-- [The Agent Index](https://agents.kymatalabs.com) — 278 entries — AI agent frameworks — multi-agent, autonomous agents, orchestration, memory & agent SDKs.
-- [The Document Index](https://document.kymatalabs.com) — 233 entries — Document-AI tooling — OCR, PDF extraction, document parsing, layout, tables & understanding.
-- [The Observability Index](https://observability.kymatalabs.com) — 158 entries — LLM & AI observability — tracing, monitoring & cost analytics, online eval, agent observability, ML-drift.
-- [StackTracker](https://stacktracker.kymatalabs.com) — None entries — The live momentum index for AI-infrastructure repos.
-- [Model Radar](https://modelradar.kymatalabs.com) — 150 entries — What's surging on Hugging Face right now — models ranked by momentum.
-- [The MCP Index](https://mcp.kymatalabs.com) — 1885 entries — Every Model Context Protocol server, in one living index.
-- [Agent Velocity](https://agentvelocity.kymatalabs.com) — 14 entries — The open-source coding-agent race, ranked by velocity.
+## Sources and interpretation
+
+- [Published sibling index snapshots](https://indexes.kymatalabs.com/)
+- [Collection and scoring source](https://github.com/tekvisions/living-indexes/blob/main/build_data.py)
+
+This hub reads each sibling data.json and links to its own methodology. GitHub-discovery directories, commit-velocity trackers, the official MCP registry directory and Hugging Face Model Radar use different signals. Counts sum catalog records rather than unique products across the fleet; unknown sibling counts are omitted from the sum.
+
+## Readable and structured resources
+
+- [Catalog](https://indexes.kymatalabs.com/)
+- [Selection guide and evidence limits](https://indexes.kymatalabs.com/#catalog-guidance)
+- [Methodology and snapshot date](https://indexes.kymatalabs.com/#catalog-methodology)
+- [Raw dated source snapshot (JSON; older upstream summaries may precede inclusion review)](https://indexes.kymatalabs.com/data.json)
+- [Reviewed dated hub summaries (JSON)](https://indexes.kymatalabs.com/catalog.json)
+- [Sitemap of published pages](https://indexes.kymatalabs.com/sitemap.xml)
+
+## Current catalog sample
+
+- [The Skill Index](https://skill.kymatalabs.com/) — Skills
+- [The Eval Index](https://eval.kymatalabs.com/) — Evals
+- [The Local LLM Index](https://localllm.kymatalabs.com/) — Local
+- [The Prompt Index](https://prompt.kymatalabs.com/) — Prompts
+- [The RAG Index](https://rag.kymatalabs.com/) — RAG
+- [The Diffusion Index](https://diffusion.kymatalabs.com/) — Image/Video
+- [The Voice AI Index](https://voice.kymatalabs.com/) — Voice
+- [The Dataset Index](https://dataset.kymatalabs.com/) — Data
+- [The Fine-Tuning Index](https://finetune.kymatalabs.com/) — Fine-Tuning
+- [The Gateway Index](https://gateway.kymatalabs.com/) — Gateways
+- [The Agent Index](https://agents.kymatalabs.com/) — Agents
+- [The Document Index](https://document.kymatalabs.com/) — Documents
+- [The Observability Index](https://observability.kymatalabs.com/) — Observability
+- [StackTracker](https://stacktracker.kymatalabs.com/) — Infra
+- [Model Radar](https://modelradar.kymatalabs.com/) — Models
+- [The MCP Index](https://mcp.kymatalabs.com/) — MCP
+- [Agent Velocity](https://agentvelocity.kymatalabs.com/) — Agents

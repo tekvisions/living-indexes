@@ -14,15 +14,12 @@
     try { localStorage.setItem("li-theme", cur); } catch (e) {}
   });
 
-  function countUp(el, target) {
-    var dur = 1100, t0 = null;
-    function step(t) { if (!t0) t0 = t; var p = Math.min((t - t0) / dur, 1);
-      el.textContent = Math.round((1 - Math.pow(1 - p, 3)) * target).toLocaleString();
-      if (p < 1) requestAnimationFrame(step); }
-    requestAnimationFrame(step);
-  }
+  function countUp(el, target) { el.textContent=target.toLocaleString(); }
 
   function card(ix) {
+    ix=Object.assign({},ix);
+    if(ix.top&&["gathin23/cleanyourtv","harry0703/moneyprinterturbo","designfuchen/word-atlas"].indexOf(String(ix.top.name).toLowerCase())!==-1){ix.top=null;ix.review_note="A previously featured entry is now an unranked reference under inclusion review; consult the index.";}
+    if(ix.key==="mcp")ix.blurb="Model Context Protocol registry entries; check source coverage on the index.";
     var cats = (ix.categories || []).map(function (c) { return '<span class="cat">' + esc(c) + "</span>"; }).join("");
     var top = ix.top && ix.top.name ? '<div class="top">top: <b>' + esc(ix.top.name) + "</b>" + (ix.top.momentum ? " · " + ix.top.momentum : "") + "</div>" : "";
     return (
@@ -32,13 +29,13 @@
         '<div class="blurb">' + esc(ix.blurb) + "</div>" +
         '<div class="stat-row"><div class="count serif">' + (ix.count == null ? "—" : ix.count.toLocaleString()) +
           '<span class="u">indexed</span></div></div>' +
-        top + '<div class="cats">' + cats + "</div>" +
+        '<p class="summary-date">Source snapshot: ' + esc(ix.generated_at ? ix.generated_at.slice(0,10) : "unknown") + '</p>' + (ix.review_note ? '<p class="summary-note">'+esc(ix.review_note)+'</p>' : '') + (ix.coverage_note ? '<p class="summary-note">'+esc(ix.coverage_note)+'</p>' : '') + top + '<div class="cats">' + cats + "</div>" +
         '<div class="go">Explore the index →</div>' +
       "</a>"
     );
   }
 
-  fetch("/data.json?v=" + Date.now()).then(function (r) { return r.json(); }).then(function (d) {
+  fetch("/catalog.json?v=" + Date.now()).then(function (r) { return r.json(); }).then(function (d) {
     countUp($("#total"), d.total_indexed || 0);
     $("#grid").innerHTML = (d.indexes || []).map(card).join("");
     var cards = document.querySelectorAll(".card");
@@ -46,5 +43,6 @@
       cards.forEach(function (c, i) { setTimeout(function () { c.classList.add("in"); }, i * 90); });
     });
     if (d.generated_at) $("#updated").textContent = "Synced " + new Date(d.generated_at).toUTCString().replace("GMT", "UTC");
-  }).catch(function () { $("#grid").innerHTML = '<div style="color:var(--faint);padding:40px">Could not load the fleet. Refresh to retry.</div>'; });
+  }).then(function(){if(window.dispatchEvent&&window.Event)window.dispatchEvent(new window.Event("catalog:ready"));}).catch(function () {
+    if(window.dispatchEvent&&window.Event)window.dispatchEvent(new window.Event("catalog:error")); $("#updated").textContent = "Live refresh unavailable. Showing the published snapshot below."; });
 })();
