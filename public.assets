@@ -18,7 +18,8 @@
     "style.css",
     "fleet.css",
     "fleet.js",
-    "catalog.json"
+    "catalog.json",
+    "vercel.json"
   ],
   "legacy_source_paths": [],
   "source_registration_commit": "ff5c74177a3c5905385ddb06b036c740957094d2",
