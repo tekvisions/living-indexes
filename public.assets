@@ -19,7 +19,9 @@
     "fleet.css",
     "fleet.js",
     "catalog.json",
-    "vercel.json"
+    "vercel.json",
+    "atlas.css",
+    "atlas.js"
   ],
   "legacy_source_paths": [],
   "source_registration_commit": "ff5c74177a3c5905385ddb06b036c740957094d2",

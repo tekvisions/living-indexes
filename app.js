@@ -37,7 +37,7 @@
 
   fetch("/catalog.json?v=" + Date.now()).then(function (r) { return r.json(); }).then(function (d) {
     countUp($("#total"), d.total_indexed || 0);
-    $("#grid").innerHTML = (d.indexes || []).map(card).join("");
+    if(window.KymataAtlas)window.KymataAtlas.updateHub(d);
     var cards = document.querySelectorAll(".card");
     requestAnimationFrame(function () {
       cards.forEach(function (c, i) { setTimeout(function () { c.classList.add("in"); }, i * 90); });
