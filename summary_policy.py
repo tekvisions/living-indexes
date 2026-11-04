@@ -17,7 +17,10 @@ def curate(summary):
 def summarize(snapshot,index):
     out={**index,'count':None,'top':None,'categories':[],'generated_at':snapshot.get('generated_at')}
     entries=next((snapshot[key] for key in ('items','repos','models','servers') if isinstance(snapshot.get(key),list)),[])
-    entries=[r for r in entries if str(r.get('full_name') or r.get('name') or '').casefold() not in REVIEWED_REFERENCES]
+    eligible=[r for r in entries if str(r.get('full_name') or r.get('name') or '').casefold() not in REVIEWED_REFERENCES]
+    if len(eligible)!=len(entries):
+        out['review_note']='Reviewed reference entries are excluded from this ranking; consult the individual index.'
+    entries=eligible
     out['count']=len(entries)
     categories=snapshot.get('categories') or []
     if isinstance(categories,dict):categories=list(categories)
