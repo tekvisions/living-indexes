@@ -2,7 +2,7 @@
 
 > The Living Indexes: a source-backed catalog published by Kymata Labs.
 
-Snapshot collected: 2026-11-06T16:49:17.371582+00:00
+Snapshot collected: 2026-11-07T15:44:46.336353+00:00
 Current catalog records: 17
 
 ## Sources and interpretation
