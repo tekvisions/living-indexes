@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-07T15:44:46.336353+00:00",
- "total_indexed": 60966,
+ "generated_at": "2026-11-08T16:03:26.895371+00:00",
+ "total_indexed": 60964,
  "indexes": [
   {
    "key": "skill",
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Agent Eval"
    ],
-   "generated_at": "2026-11-06T17:25:02.968708+00:00"
+   "generated_at": "2026-11-07T16:30:58.748522+00:00"
   },
   {
    "key": "local",
@@ -60,7 +60,7 @@
     "Inference Engines",
     "Runners"
    ],
-   "generated_at": "2026-11-06T16:21:04.411201+00:00"
+   "generated_at": "2026-11-07T16:31:06.886937+00:00"
   },
   {
    "key": "prompt",
@@ -69,18 +69,18 @@
    "blurb": "Prompt-engineering resources — collections, system prompts, optimizers, guides.",
    "url": "https://prompt.kymatalabs.com",
    "accent": "#ff3b2f",
-   "count": 136,
+   "count": 137,
    "top": {
     "name": "f/prompts.chat",
     "momentum": 87
    },
    "categories": [
     "Optimization & Tooling",
-    "System Prompts",
     "Prompt Packs",
+    "System Prompts",
     "Guides & Courses"
    ],
-   "generated_at": "2026-11-06T16:27:38.436187+00:00"
+   "generated_at": "2026-11-07T16:44:55.546238+00:00"
   },
   {
    "key": "rag",
@@ -89,9 +89,9 @@
    "blurb": "Retrieval-augmented-generation — RAG frameworks, vector DBs, embeddings, reranking.",
    "url": "https://rag.kymatalabs.com",
    "accent": "#5b4bff",
-   "count": 220,
+   "count": 221,
    "top": {
-    "name": "Shubhamsaboo/awesome-llm-apps",
+    "name": "Graphify-Labs/graphify",
     "momentum": 87
    },
    "categories": [
@@ -100,7 +100,7 @@
     "Reranking",
     "RAG Frameworks"
    ],
-   "generated_at": "2026-11-07T15:27:14.799728+00:00"
+   "generated_at": "2026-11-08T15:48:55.507523+00:00"
   },
   {
    "key": "diffusion",
@@ -129,7 +129,7 @@
    "blurb": "Voice & speech AI — text-to-speech, speech recognition, voice cloning, realtime voice agents.",
    "url": "https://voice.kymatalabs.com",
    "accent": "#b6ff2e",
-   "count": 284,
+   "count": 285,
    "top": {
     "name": "debpalash/VoiceStudio",
     "momentum": 87
@@ -140,7 +140,7 @@
     "Voice Agents & Realtime",
     "Toolkits & Frameworks"
    ],
-   "generated_at": "2026-11-06T17:15:57.447658+00:00"
+   "generated_at": "2026-11-07T15:46:17.026565+00:00"
   },
   {
    "key": "dataset",
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-11-06T16:56:35.486116+00:00"
+   "generated_at": "2026-11-07T15:55:41.029994+00:00"
   },
   {
    "key": "finetune",
@@ -189,7 +189,7 @@
    "blurb": "LLM gateways, proxies & routers — the routing layer between apps and model providers.",
    "url": "https://gateway.kymatalabs.com",
    "accent": "#2ee6c6",
-   "count": 215,
+   "count": 213,
    "top": {
     "name": "cheaper-inference/OmniRoute",
     "momentum": 87
@@ -200,7 +200,7 @@
     "Self-Hosted Platforms",
     "Observability Gateways"
    ],
-   "generated_at": "2026-11-06T18:02:54.817637+00:00"
+   "generated_at": "2026-11-07T19:31:13.695027+00:00"
   },
   {
    "key": "agent",
@@ -209,7 +209,7 @@
    "blurb": "AI agent frameworks — multi-agent, autonomous agents, orchestration, memory & agent SDKs.",
    "url": "https://agents.kymatalabs.com",
    "accent": "#b07cff",
-   "count": 280,
+   "count": 278,
    "top": {
     "name": "deepseek-ai/deepseek-harness",
     "momentum": 90
@@ -220,7 +220,7 @@
     "Orchestration",
     "Autonomous Agents"
    ],
-   "generated_at": "2026-11-06T17:58:47.095897+00:00"
+   "generated_at": "2026-11-07T16:30:43.800238+00:00"
   },
   {
    "key": "document",
@@ -229,10 +229,10 @@
    "blurb": "Document-AI tooling — OCR, PDF extraction, document parsing, layout, tables & understanding.",
    "url": "https://document.kymatalabs.com",
    "accent": "#4f46e5",
-   "count": 233,
+   "count": 232,
    "top": {
     "name": "storytold/pdfcraft",
-    "momentum": 89
+    "momentum": 88
    },
    "categories": [
     "Document Parsing",
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "Layout & Structure"
    ],
-   "generated_at": "2026-11-06T18:13:38.504114+00:00"
+   "generated_at": "2026-11-07T19:21:21.201824+00:00"
   },
   {
    "key": "observability",
@@ -260,7 +260,7 @@
     "LLMOps Platforms",
     "Tracing & Spans"
    ],
-   "generated_at": "2026-11-06T18:06:35.790438+00:00"
+   "generated_at": "2026-11-07T16:55:12.889305+00:00"
   },
   {
    "key": "stack",
@@ -281,7 +281,7 @@
     "Vector DB",
     "LLMOps"
    ],
-   "generated_at": "2026-11-06T16:50:35.248675+00:00"
+   "generated_at": "2026-11-07T15:45:18.967269+00:00"
   },
   {
    "key": "model",
@@ -293,7 +293,7 @@
    "count_key": "model_count",
    "count": 150,
    "top": {
-    "name": "Kimi-K3.1-Pro",
+    "name": "idol",
     "momentum": null
    },
    "categories": [
@@ -302,7 +302,7 @@
     "Embeddings",
     "Image"
    ],
-   "generated_at": "2026-11-06T17:23:58.950295+00:00"
+   "generated_at": "2026-11-07T16:43:57.733984+00:00"
   },
   {
    "key": "mcp",
@@ -345,7 +345,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-11-06T16:57:07.275154+00:00"
+   "generated_at": "2026-11-07T15:56:14.338858+00:00"
   }
  ]
 }
