@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-08T16:03:26.895371+00:00",
- "total_indexed": 60964,
+ "generated_at": "2026-11-09T19:54:17.651363+00:00",
+ "total_indexed": 60965,
  "indexes": [
   {
    "key": "skill",
@@ -40,7 +40,7 @@
     "RAG Eval",
     "Agent Eval"
    ],
-   "generated_at": "2026-11-07T16:30:58.748522+00:00"
+   "generated_at": "2026-11-09T19:13:19.679034+00:00"
   },
   {
    "key": "local",
@@ -89,7 +89,7 @@
    "blurb": "Retrieval-augmented-generation — RAG frameworks, vector DBs, embeddings, reranking.",
    "url": "https://rag.kymatalabs.com",
    "accent": "#5b4bff",
-   "count": 221,
+   "count": 222,
    "top": {
     "name": "Graphify-Labs/graphify",
     "momentum": 87
@@ -100,7 +100,7 @@
     "Reranking",
     "RAG Frameworks"
    ],
-   "generated_at": "2026-11-08T15:48:55.507523+00:00"
+   "generated_at": "2026-11-09T19:31:34.063753+00:00"
   },
   {
    "key": "diffusion",
@@ -136,11 +136,11 @@
    },
    "categories": [
     "Speech-to-Text",
-    "Voice Cloning & Conversion",
     "Voice Agents & Realtime",
+    "Voice Cloning & Conversion",
     "Toolkits & Frameworks"
    ],
-   "generated_at": "2026-11-07T15:46:17.026565+00:00"
+   "generated_at": "2026-11-08T16:05:35.688113+00:00"
   },
   {
    "key": "dataset",
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-11-07T15:55:41.029994+00:00"
+   "generated_at": "2026-11-08T16:20:37.266661+00:00"
   },
   {
    "key": "finetune",
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-11-07T15:38:12.347779+00:00"
+   "generated_at": "2026-11-09T19:45:15.147728+00:00"
   },
   {
    "key": "gateway",
@@ -240,7 +240,7 @@
     "PDF Extraction",
     "Layout & Structure"
    ],
-   "generated_at": "2026-11-07T19:21:21.201824+00:00"
+   "generated_at": "2026-11-08T16:47:44.280718+00:00"
   },
   {
    "key": "observability",
@@ -260,7 +260,7 @@
     "LLMOps Platforms",
     "Tracing & Spans"
    ],
-   "generated_at": "2026-11-07T16:55:12.889305+00:00"
+   "generated_at": "2026-11-08T17:07:58.771009+00:00"
   },
   {
    "key": "stack",
@@ -281,7 +281,7 @@
     "Vector DB",
     "LLMOps"
    ],
-   "generated_at": "2026-11-07T15:45:18.967269+00:00"
+   "generated_at": "2026-11-08T16:04:24.076380+00:00"
   },
   {
    "key": "model",
@@ -337,7 +337,7 @@
    "count": 14,
    "top": {
     "name": "opencode",
-    "momentum": 95
+    "momentum": 96
    },
    "categories": [
     "CLI",
@@ -345,7 +345,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-11-07T15:56:14.338858+00:00"
+   "generated_at": "2026-11-08T16:21:56.049166+00:00"
   }
  ]
 }
