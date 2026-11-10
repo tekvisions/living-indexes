@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-09T19:54:17.651363+00:00",
- "total_indexed": 60965,
+ "generated_at": "2026-11-10T17:07:48.847326+00:00",
+ "total_indexed": 60966,
  "indexes": [
   {
    "key": "skill",
@@ -69,7 +69,7 @@
    "blurb": "Prompt-engineering resources — collections, system prompts, optimizers, guides.",
    "url": "https://prompt.kymatalabs.com",
    "accent": "#ff3b2f",
-   "count": 137,
+   "count": 138,
    "top": {
     "name": "f/prompts.chat",
     "momentum": 87
@@ -80,7 +80,7 @@
     "System Prompts",
     "Guides & Courses"
    ],
-   "generated_at": "2026-11-07T16:44:55.546238+00:00"
+   "generated_at": "2026-11-10T16:39:48.845425+00:00"
   },
   {
    "key": "rag",
@@ -100,7 +100,7 @@
     "Reranking",
     "RAG Frameworks"
    ],
-   "generated_at": "2026-11-09T19:31:34.063753+00:00"
+   "generated_at": "2026-11-10T16:48:38.272445+00:00"
   },
   {
    "key": "diffusion",
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-11-08T16:20:37.266661+00:00"
+   "generated_at": "2026-11-09T20:07:57.513209+00:00"
   },
   {
    "key": "finetune",
@@ -180,7 +180,7 @@
     "Fine-Tuning Tools",
     "Training Frameworks"
    ],
-   "generated_at": "2026-11-09T19:45:15.147728+00:00"
+   "generated_at": "2026-11-10T16:59:44.728714+00:00"
   },
   {
    "key": "gateway",
@@ -260,7 +260,7 @@
     "LLMOps Platforms",
     "Tracing & Spans"
    ],
-   "generated_at": "2026-11-08T17:07:58.771009+00:00"
+   "generated_at": "2026-11-09T21:29:40.780501+00:00"
   },
   {
    "key": "stack",
@@ -273,7 +273,7 @@
    "count": 24,
    "top": {
     "name": "pydantic-ai",
-    "momentum": 96
+    "momentum": 95
    },
    "categories": [
     "Agents",
@@ -281,7 +281,7 @@
     "Vector DB",
     "LLMOps"
    ],
-   "generated_at": "2026-11-08T16:04:24.076380+00:00"
+   "generated_at": "2026-11-09T19:55:37.123268+00:00"
   },
   {
    "key": "model",
@@ -345,7 +345,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-11-08T16:21:56.049166+00:00"
+   "generated_at": "2026-11-09T20:09:18.429654+00:00"
   }
  ]
 }
