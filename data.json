@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T17:07:48.847326+00:00",
+ "generated_at": "2026-11-11T17:15:18.981759+00:00",
  "total_indexed": 60966,
  "indexes": [
   {
@@ -100,7 +100,7 @@
     "Reranking",
     "RAG Frameworks"
    ],
-   "generated_at": "2026-11-10T16:48:38.272445+00:00"
+   "generated_at": "2026-11-11T16:55:00.015746+00:00"
   },
   {
    "key": "diffusion",
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-11-09T20:07:57.513209+00:00"
+   "generated_at": "2026-11-10T17:17:56.445647+00:00"
   },
   {
    "key": "finetune",
@@ -272,8 +272,8 @@
    "count_key": "repo_count",
    "count": 24,
    "top": {
-    "name": "pydantic-ai",
-    "momentum": 95
+    "name": "browser-use",
+    "momentum": 100
    },
    "categories": [
     "Agents",
@@ -281,7 +281,7 @@
     "Vector DB",
     "LLMOps"
    ],
-   "generated_at": "2026-11-09T19:55:37.123268+00:00"
+   "generated_at": "2026-11-10T17:08:52.385224+00:00"
   },
   {
    "key": "model",
@@ -337,7 +337,7 @@
    "count": 14,
    "top": {
     "name": "opencode",
-    "momentum": 96
+    "momentum": 97
    },
    "categories": [
     "CLI",
@@ -345,7 +345,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-11-09T20:09:18.429654+00:00"
+   "generated_at": "2026-11-10T17:18:42.584871+00:00"
   }
  ]
 }
