@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-11T17:15:18.981759+00:00",
- "total_indexed": 60966,
+ "generated_at": "2026-11-12T17:38:39.645737+00:00",
+ "total_indexed": 60967,
  "indexes": [
   {
    "key": "skill",
@@ -89,7 +89,7 @@
    "blurb": "Retrieval-augmented-generation — RAG frameworks, vector DBs, embeddings, reranking.",
    "url": "https://rag.kymatalabs.com",
    "accent": "#5b4bff",
-   "count": 222,
+   "count": 223,
    "top": {
     "name": "Graphify-Labs/graphify",
     "momentum": 87
@@ -100,7 +100,7 @@
     "Reranking",
     "RAG Frameworks"
    ],
-   "generated_at": "2026-11-11T16:55:00.015746+00:00"
+   "generated_at": "2026-11-12T17:23:41.592489+00:00"
   },
   {
    "key": "diffusion",
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-11-10T17:17:56.445647+00:00"
+   "generated_at": "2026-11-11T17:28:04.639394+00:00"
   },
   {
    "key": "finetune",
@@ -281,7 +281,7 @@
     "Vector DB",
     "LLMOps"
    ],
-   "generated_at": "2026-11-10T17:08:52.385224+00:00"
+   "generated_at": "2026-11-11T17:16:27.177437+00:00"
   },
   {
    "key": "model",
@@ -345,7 +345,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-11-10T17:18:42.584871+00:00"
+   "generated_at": "2026-11-11T17:28:53.571992+00:00"
   }
  ]
 }
