@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T17:38:39.645737+00:00",
+ "generated_at": "2026-11-13T17:15:46.246315+00:00",
  "total_indexed": 60967,
  "indexes": [
   {
@@ -100,7 +100,7 @@
     "Reranking",
     "RAG Frameworks"
    ],
-   "generated_at": "2026-11-12T17:23:41.592489+00:00"
+   "generated_at": "2026-11-13T16:57:56.176112+00:00"
   },
   {
    "key": "diffusion",
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-11-11T17:28:04.639394+00:00"
+   "generated_at": "2026-11-12T17:44:54.471839+00:00"
   },
   {
    "key": "finetune",
@@ -281,7 +281,7 @@
     "Vector DB",
     "LLMOps"
    ],
-   "generated_at": "2026-11-11T17:16:27.177437+00:00"
+   "generated_at": "2026-11-12T17:39:56.340676+00:00"
   },
   {
    "key": "model",
@@ -345,7 +345,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-11-11T17:28:53.571992+00:00"
+   "generated_at": "2026-11-12T17:45:34.333241+00:00"
   }
  ]
 }
