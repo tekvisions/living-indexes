@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T19:41:32.059209+00:00",
+ "generated_at": "2026-11-17T18:38:47.413062+00:00",
  "total_indexed": 60967,
  "indexes": [
   {
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-11-15T16:36:33.246853+00:00"
+   "generated_at": "2026-11-16T19:52:20.726714+00:00"
   },
   {
    "key": "finetune",
@@ -281,7 +281,7 @@
     "Vector DB",
     "LLMOps"
    ],
-   "generated_at": "2026-11-15T16:27:24.022236+00:00"
+   "generated_at": "2026-11-16T19:42:08.888602+00:00"
   },
   {
    "key": "model",
@@ -337,7 +337,7 @@
    "count": 14,
    "top": {
     "name": "opencode",
-    "momentum": 96
+    "momentum": 97
    },
    "categories": [
     "CLI",
@@ -345,7 +345,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-11-15T16:38:05.633232+00:00"
+   "generated_at": "2026-11-16T19:53:34.007437+00:00"
   }
  ]
 }
