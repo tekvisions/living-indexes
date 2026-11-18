@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-17T18:38:47.413062+00:00",
- "total_indexed": 60967,
+ "generated_at": "2026-11-18T18:11:02.241271+00:00",
+ "total_indexed": 60968,
  "indexes": [
   {
    "key": "skill",
@@ -149,7 +149,7 @@
    "blurb": "Data-centric AI tooling — labeling & annotation, synthetic data, curation, augmentation, dataset frameworks.",
    "url": "https://dataset.kymatalabs.com",
    "accent": "#d23a1e",
-   "count": 252,
+   "count": 253,
    "top": {
     "name": "HumanSignal/label-studio",
     "momentum": 87
@@ -160,7 +160,7 @@
     "Synthetic Data",
     "Augmentation"
    ],
-   "generated_at": "2026-11-16T19:52:20.726714+00:00"
+   "generated_at": "2026-11-17T18:45:18.408707+00:00"
   },
   {
    "key": "finetune",
@@ -281,7 +281,7 @@
     "Vector DB",
     "LLMOps"
    ],
-   "generated_at": "2026-11-16T19:42:08.888602+00:00"
+   "generated_at": "2026-11-17T18:40:36.292814+00:00"
   },
   {
    "key": "model",
@@ -345,7 +345,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-11-16T19:53:34.007437+00:00"
+   "generated_at": "2026-11-17T18:46:27.321439+00:00"
   }
  ]
 }
