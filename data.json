@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T17:13:45.682301+00:00",
+ "generated_at": "2026-11-23T21:31:26.583539+00:00",
  "total_indexed": 60968,
  "indexes": [
   {
@@ -281,7 +281,7 @@
     "Vector DB",
     "LLMOps"
    ],
-   "generated_at": "2026-11-21T16:51:27.476678+00:00"
+   "generated_at": "2026-11-22T17:14:48.809645+00:00"
   },
   {
    "key": "model",
@@ -337,7 +337,7 @@
    "count": 14,
    "top": {
     "name": "opencode",
-    "momentum": 93
+    "momentum": 92
    },
    "categories": [
     "CLI",
@@ -345,7 +345,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-11-21T16:58:17.133740+00:00"
+   "generated_at": "2026-11-22T17:25:16.372234+00:00"
   }
  ]
 }
