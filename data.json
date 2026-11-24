@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T21:31:26.583539+00:00",
+ "generated_at": "2026-11-24T20:13:23.390282+00:00",
  "total_indexed": 60968,
  "indexes": [
   {
@@ -281,7 +281,7 @@
     "Vector DB",
     "LLMOps"
    ],
-   "generated_at": "2026-11-22T17:14:48.809645+00:00"
+   "generated_at": "2026-11-23T21:32:57.177593+00:00"
   },
   {
    "key": "model",
@@ -336,7 +336,7 @@
    "count_key": "repo_count",
    "count": 14,
    "top": {
-    "name": "opencode",
+    "name": "codex",
     "momentum": 92
    },
    "categories": [
@@ -345,7 +345,7 @@
     "Autonomous",
     "Framework"
    ],
-   "generated_at": "2026-11-22T17:25:16.372234+00:00"
+   "generated_at": "2026-11-23T21:42:33.495475+00:00"
   }
  ]
 }
